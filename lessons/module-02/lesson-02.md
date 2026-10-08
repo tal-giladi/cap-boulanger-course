@@ -183,6 +183,7 @@ The flour with the higher type (or "wholemeal") is visibly darker after wetting 
 
 - The type is ash × 100: T45 (white, viennoiserie) to T150 (wholemeal). Higher type = more bran, darker, more water, less volume, faster fermentation, shorter storage.
 - Farine de tradition française has no additives (only up to 2 % bean, 0.5 % soy, 0.3 % malt flour); gruau is a strong flour for viennoiserie.
+- Baking in Israel? [Flour in Israel](../../references/flour-in-israel.md) matches white, 80 % and 100 % whole wheat flour to the French types.
 - Ash, moisture, Pekar, alveograph, falling number and the baking test each answer a different question; only the baking test shows real behaviour.
 - Rye has no gluten network: its gums hold water and gas, and it needs acidification (levain).
 - Exam-relevant (EP1, S2.1): see [the CAP exam reference](../../references/cap-exam.md).
