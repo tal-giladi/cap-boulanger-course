@@ -215,6 +215,16 @@ practical piece, written as a project brief under `projects/`.
 The Academy cannot grade photos: the learner compares their own result with the rubric. Never claim
 self-assessment or AI image evaluation replaces the official practical exam.
 
+### Practising in Israel (Tal, 2026-10-08)
+
+The learner practises at home in Israel. The exam, the law and the professional content stay French,
+but every home-practice instruction must work with what is sold and how kitchens behave in Israel:
+flour (see `references/flour-in-israel.md`, incl. 80% whole wheat), yeast, butter and dairy fat
+content, chocolate and fillings, water hardness, warm and humid kitchens (dough temperature, proofing
+times, butter for lamination), equipment and oven sizes, and where to buy professional ingredients.
+Israeli rules (Ministry of Health, Standards Institution of Israel) are mentioned only to help the
+learner buy and practise safely, never instead of the French rules the exam tests.
+
 ## 10. Assessment
 
 - Lesson quizzes and module quizzes: multiple choice only (see section 0). Turn every other question

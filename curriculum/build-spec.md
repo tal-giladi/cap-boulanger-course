@@ -112,6 +112,19 @@ lid, baking trays, a rolling pin, a sharp knife or razor lame, a fridge and free
 optional — always give the by-hand method. Home batch sizes: 500 g-1 kg flour for bread, 500 g for
 viennoiserie; show the professional batch next to it.
 
+## Practising in Israel (required from Module 5 on)
+
+The learner lives in Israel. In every lesson whose home practice depends on an ingredient, a product,
+equipment, water or climate, add a `### In Israel` subsection inside `## Practice` (no new `##`
+sections): which Israeli product to buy (Hebrew name + transliteration + English, e.g. *kemach lechem*
+קמח לחם, bread flour), how to adjust the formula (hydration, yeast, water temperature for a 26-32 °C
+summer kitchen, proofing time, butter temperature), and where to find professional items. Flour:
+link `../../references/flour-in-israel.md` instead of repeating it. Keep French law, exam rules and
+professional standards as the subject; Israeli rules (Ministry of Health, Standards Institution of
+Israel) only as home-practice notes. Brand names and availability change: say "checked 2026-10-08",
+give what to look for on the label rather than a single brand, and cite only sources you opened.
+Set `volatility: implementation` when a lesson's Israel notes depend on products or rules.
+
 ## Quizzes
 
 Follow section 5 of the instructions exactly. Lesson quiz: 4-5 questions (3 minimum). Module quiz: 10
