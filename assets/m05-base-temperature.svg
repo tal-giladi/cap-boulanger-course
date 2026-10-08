@@ -1,0 +1,71 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 470" width="900" height="470" role="img" aria-labelledby="t d">
+  <title id="t">The base temperature as a budget: flour, room, friction and water share 3 × the target dough temperature</title>
+  <desc id="d">Three horizontal bars, each 72 degrees long, which is 3 times a 24 degree target. Bar 1, hand mixing as in lesson 01.7: flour 20, room 21, friction factor 2, water 29. Bar 2, spiral mixer in winter: flour 18, room 20, friction factor 15 (about 5 degrees of heating times 3), water 19. Bar 3, the same spiral dough in July: flour 26, room 27, friction factor 15, water only 4 degrees, so the water cooler or ice is needed. The water is always what is left of the budget.</desc>
+  <rect x="0" y="0" width="900" height="470" fill="#ffffff"/>
+  <g font-family="Arial, Helvetica, sans-serif" fill="#222222">
+    <text x="450" y="32" text-anchor="middle" font-size="21" font-weight="bold">Base temperature: a budget of 3 × TPV shared by four inputs</text>
+    <text x="450" y="54" text-anchor="middle" font-size="13" fill="#555555">Target dough 24 °C → base 3 × 24 = 72. Flour, room and friction take their share; the water gets what is left.</text>
+
+    <!-- scale: x = 150 + 10 px per degree; 72 -> 870 -->
+    <!-- Bar 1: hand mixing (01.7) -->
+    <text x="140" y="112" text-anchor="end" font-size="14" font-weight="bold">By hand</text>
+    <text x="140" y="129" text-anchor="end" font-size="12">lesson 01.7</text>
+    <rect x="150" y="90" width="200" height="44" fill="#d9c7a3" stroke="#ffffff" stroke-width="2"/>
+    <rect x="350" y="90" width="210" height="44" fill="#c9d8e6" stroke="#ffffff" stroke-width="2"/>
+    <rect x="560" y="90" width="20" height="44" fill="#e8a04a" stroke="#ffffff" stroke-width="2"/>
+    <rect x="580" y="90" width="290" height="44" fill="#6f9fd0" stroke="#ffffff" stroke-width="2"/>
+    <g font-size="14" text-anchor="middle">
+      <text x="250" y="117">flour 20</text>
+      <text x="455" y="117">room 21</text>
+      <text x="725" y="117" fill="#ffffff" font-weight="bold">water 29 °C</text>
+    </g>
+    <text x="570" y="150" text-anchor="middle" font-size="12">friction 2</text>
+
+    <!-- Bar 2: spiral, winter -->
+    <text x="140" y="212" text-anchor="end" font-size="14" font-weight="bold">Spiral mixer</text>
+    <text x="140" y="229" text-anchor="end" font-size="12">winter</text>
+    <rect x="150" y="190" width="180" height="44" fill="#d9c7a3" stroke="#ffffff" stroke-width="2"/>
+    <rect x="330" y="190" width="200" height="44" fill="#c9d8e6" stroke="#ffffff" stroke-width="2"/>
+    <rect x="530" y="190" width="150" height="44" fill="#e8a04a" stroke="#ffffff" stroke-width="2"/>
+    <rect x="680" y="190" width="190" height="44" fill="#6f9fd0" stroke="#ffffff" stroke-width="2"/>
+    <g font-size="14" text-anchor="middle">
+      <text x="240" y="217">flour 18</text>
+      <text x="430" y="217">room 20</text>
+      <text x="605" y="217">friction 15</text>
+      <text x="775" y="217" fill="#ffffff" font-weight="bold">water 19 °C</text>
+    </g>
+    <text x="605" y="250" text-anchor="middle" font-size="12">about 5 °C of heating × 3</text>
+
+    <!-- Bar 3: spiral, July -->
+    <text x="140" y="312" text-anchor="end" font-size="14" font-weight="bold">Spiral mixer</text>
+    <text x="140" y="329" text-anchor="end" font-size="12">July</text>
+    <rect x="150" y="290" width="260" height="44" fill="#d9c7a3" stroke="#ffffff" stroke-width="2"/>
+    <rect x="410" y="290" width="270" height="44" fill="#c9d8e6" stroke="#ffffff" stroke-width="2"/>
+    <rect x="680" y="290" width="150" height="44" fill="#e8a04a" stroke="#ffffff" stroke-width="2"/>
+    <rect x="830" y="290" width="40" height="44" fill="#2f5f96" stroke="#ffffff" stroke-width="2"/>
+    <g font-size="14" text-anchor="middle">
+      <text x="280" y="317">flour 26</text>
+      <text x="545" y="317">room 27</text>
+      <text x="755" y="317">friction 15</text>
+    </g>
+    <text x="850" y="352" text-anchor="middle" font-size="12" font-weight="bold">water 4 °C</text>
+    <text x="850" y="368" text-anchor="middle" font-size="12">cooler or ice</text>
+
+    <!-- axis -->
+    <line x1="150" y1="390" x2="870" y2="390" stroke="#444444" stroke-width="1.5"/>
+    <g font-size="12" text-anchor="middle">
+      <text x="150" y="408">0</text>
+      <text x="390" y="408">24</text>
+      <text x="630" y="408">48</text>
+      <text x="870" y="408">72 = 3 × 24</text>
+    </g>
+    <g stroke="#444444" stroke-width="1.5">
+      <line x1="150" y1="385" x2="150" y2="395"/>
+      <line x1="390" y1="385" x2="390" y2="395"/>
+      <line x1="630" y1="385" x2="630" y2="395"/>
+      <line x1="870" y1="385" x2="870" y2="395"/>
+    </g>
+    <text x="450" y="440" text-anchor="middle" font-size="13">Water = 3 × TPV − flour − room − friction factor. Add a fourth input (× 4) when a pre-ferment is counted.</text>
+    <text x="450" y="458" text-anchor="middle" font-size="12" fill="#555555">Friction figures are examples: measure your own mixer and method (lesson 05.3).</text>
+  </g>
+</svg>

@@ -1,0 +1,89 @@
+- id: q1
+  question: >-
+    Direct pain courant, TPV 24 °C, no pre-ferment. Flour 20 °C, fournil 22 °C, friction factor
+    of the spiral mixer 15. Which water temperature is correct?
+  options:
+    - >-
+      30 °C, from 72 − 20 − 22 with the friction left out.
+    - >-
+      39 °C, from 96 − 20 − 22 − 15 using four factors.
+    - >-
+      15 °C, from 72 − 20 − 22 − 15.
+    - >-
+      9 °C, from 72 − 20 − 22 − 15 − 6 for hand warmth.
+  correct: 2
+  explanation: >-
+    Base = 3 × 24 = 72, then subtract flour, room and the friction factor: 15 °C. Four factors are
+    used only when a pre-ferment is counted; hand warmth is not added on top of a mixer's friction.
+
+- id: q2
+  question: >-
+    An exam technical sheet reads "TB 56 °C, température du fournil 23 °C, température de la farine
+    21 °C". What water temperature do you write?
+  options:
+    - >-
+      12 °C, from 56 − (23 + 21).
+    - >-
+      28 °C, from 3 × 24 − (23 + 21).
+    - >-
+      0 °C, from 56 − (23 + 21) − 12 for friction.
+    - >-
+      18.7 °C, from 56 ÷ 3.
+  correct: 0
+  explanation: >-
+    A TB given on a sheet already includes the mixer's heating, so water = TB − fournil − flour =
+    12 °C. Subtracting a friction factor again counts it twice.
+
+- id: q3
+  question: >-
+    Your lesson 01.7 estimate was water = 3 × 24 − flour − room − 2. In the base-temperature method,
+    what is the 2?
+  options:
+    - >-
+      The temperature of the yeast, counted as a fourth factor.
+    - >-
+      A safety margin so the water never goes above 40 °C.
+    - >-
+      The number of degrees lost while the dough rests in the tub.
+    - >-
+      A small friction factor for gentle hand kneading.
+  correct: 3
+  explanation: >-
+    The 01.7 estimate is the 3-factor method with TPV 24 °C and a small friction factor for hand
+    kneading. The full method replaces the 2 with your measured friction factor.
+
+- id: q4
+  question: >-
+    A bakery's spiral mixer warms its pain courant by about 6 °C, and the TPV is 24 °C. Which TB
+    should be printed on its sheets for a 3-factor calculation?
+  options:
+    - >-
+      72 °C, because the TB is always 3 × TPV.
+    - >-
+      54 °C, from 3 × (24 − 6).
+    - >-
+      66 °C, from 72 − 6.
+    - >-
+      90 °C, from 3 × (24 + 6).
+  correct: 1
+  explanation: >-
+    The heating of 6 °C appears as a friction factor of 3 × 6 = 18 in a 3-factor budget, so TB =
+    72 − 18 = 54. Subtracting only 6 forgets that friction is counted in budget units.
+
+- id: q5
+  question: >-
+    A winter calculation by hand gives water at 46 °C (kitchen 10 °C, flour 10 °C). What is the
+    right decision?
+  options:
+    - >-
+      Warm the flour or room and keep the water at 40 °C or below.
+    - >-
+      Use the 46 °C water, since the dough will still end at 24 °C.
+    - >-
+      Add more yeast so that the cold dough still ferments on time.
+    - >-
+      Knead for twice as long so friction does the warming.
+  correct: 0
+  explanation: >-
+    Water above about 40 °C damages yeast where it meets it. Raise the other inputs (flour, room),
+    or accept a cooler dough and a longer pointage; over-kneading by hand is not a fix.

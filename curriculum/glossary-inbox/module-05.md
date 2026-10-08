@@ -1,0 +1,17 @@
+- **Beurre de tourage** (*BUR duh too-RAHZH*) — butter for lamination, worked cold but bendable (about 13 °C).
+- **Chaîne du froid** (*SHEN doo FRWAH*) — cold chain: chilled and frozen products kept cold without a break from delivery to use.
+- **DDT (desired dough temperature)** — American name for the target dough temperature (TPV).
+- **Détrempe** (*day-TRAHMP*) — the dough of a laminated product before the butter is folded in; kept cool (about 18-22 °C).
+- **Doseur d'eau** (*doh-ZUR DOH*) — water meter that delivers a set weight of water at a set temperature to the mixer.
+- **Eau de coulage** (*OH duh koo-LAHZH*) — the water weighed into the dough; its temperature is calculated for each batch.
+- **Étuve** (*ay-TOOV*) — proofing cabinet (another name for the chambre de pousse).
+- **Facteur de friction** (*fak-TUR duh freek-SYOHN*) — friction factor: the heat mixing adds, as used in the water calculation (degrees of heating × number of factors).
+- **Four à sole** (*FOOR ah SOLL*) — deck oven: bread baked directly on a hot stone or steel floor.
+- **Glace pilée** (*GLASS pee-LAY*) — crushed ice, added with the mixing water to cool it.
+- **Refroidisseur d'eau** (*ruh-frwah-dee-SUR DOH*) — water cooler that chills mains water for mixing and holds it at a set temperature.
+- **Relevé de températures** (*ruh-luh-VAY duh tahm-pay-rah-TOOR*) — temperature record: each reading with date, time and initials.
+- **Température à cœur** (*tahm-pay-rah-TOOR ah KUR*) — core temperature in the centre of a product; at least about 90 °C for a baked loaf.
+- **Température de base (TB)** (*tahm-pay-rah-TOOR duh BAHZ*) — base temperature: target dough temperature × number of factors; on French sheets usually given with the mixer's friction already taken out (water = TB − fournil − flour).
+- **Température du fournil** (*tahm-pay-rah-TOOR doo foor-NEE*) — room temperature of the bakehouse, read at the bench before each mix.
+- **Thermomètre à sonde** (*tair-mo-MET-ruh ah SOHND*) — probe thermometer for dough, water, flour and the core of the bread.
+- **Thermomètre de four** (*tair-mo-MET-ruh duh FOOR*) — oven thermometer left inside the oven to check its real temperature.

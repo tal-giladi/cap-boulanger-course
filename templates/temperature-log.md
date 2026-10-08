@@ -11,7 +11,7 @@ Dough temperature controls fermentation speed. This log records the base-tempera
 | Flour temperature | |
 | Room (fournil) temperature | |
 | Pre-ferment temperature (if counted) | |
-| Friction (mixer heating) | |
+| Friction factor (mixing heat × number of factors) | |
 | **Water temperature = base − (flour + room + pre-ferment) − friction** | |
 
 If the water must be colder than your tap water, replace part of it with ice (lesson 05.3).

@@ -1,0 +1,180 @@
+- id: q1
+  question: >-
+    Fiche technique, pain de tradition: "TPV 23 °C, pétrissage lent, TB 60 °C". This morning's
+    readings: fournil 21 °C, farine 19 °C. Which water temperature do you write on the sheet?
+  options:
+    - >-
+      29 °C, from 3 × 23 − (21 + 19).
+    - >-
+      20 °C, from 60 − (21 + 19).
+    - >-
+      41 °C, from 60 − 19, the flour only.
+    - >-
+      8 °C, from 60 − (21 + 19) − 12 for friction.
+  correct: 1
+  explanation: >-
+    A TB on the sheet already includes the mixer's heating, so water = TB − fournil − flour = 20 °C.
+    Recalculating from the TPV ignores friction; subtracting friction again counts it twice.
+
+- id: q2
+  question: >-
+    Production order: PC-02 on 7,200 g of T55, water 64 % (4,608 g). The calculated water is 12 °C,
+    the tap gives 24 °C and the water cooler is being repaired. How do you make up the water?
+  options:
+    - >-
+      532 g of ice plus the full 4,608 g of tap water.
+    - >-
+      2,304 g of ice plus 2,304 g of tap water, half and half.
+    - >-
+      691 g of ice (15 % of the water) plus 3,917 g of tap water.
+    - >-
+      532 g of ice plus 4,076 g of tap water.
+  correct: 3
+  explanation: >-
+    Ice = 4,608 × (24 − 12) ÷ (24 + 80) ≈ 532 g. The ice is part of the water, so tap water =
+    4,608 − 532 = 4,076 g. Adding the ice on top makes the dough too wet and too cold.
+
+- id: q3
+  question: >-
+    Temperature log, Tuesday, PC-02: "eau 12 °C (nouvelle cuve d'eau froide), pâte 21 °C, pointage
+    45 min comme la fiche". Bake-off note: baguettes small, pale, tight crumb, burst on the side.
+    Which diagnosis and prevention fit?
+  options:
+    - >-
+      Cold, under-fermented dough; recalculate the water, adapt times.
+    - >-
+      Over-fermented dough; shorten pointage and lower the water further next time.
+    - >-
+      Too much salt; reduce it to 1.5 % so the yeast can work at 21 °C.
+    - >-
+      Oven too hot; lower it by 20 °C and keep the same water.
+  correct: 0
+  explanation: >-
+    3 °C under target is about 1.23 times slower, so the sheet's times left the dough young: small,
+    pale, tight, burst. Recalculate the water when the supply changes and adapt times to the reading.
+
+- id: q4
+  question: >-
+    Record for a campagne dough with levain: flour 18 °C, fournil 20 °C, levain 25 °C, water
+    15 °C, dough at the end of mixing 23.5 °C. What is the friction factor for this product?
+  options:
+    - >-
+      17.5, from 3 × 23.5 − (18 + 20 + 15), leaving the levain out.
+    - >-
+      4, the dough temperature minus the average input temperature.
+    - >-
+      16, from 4 × 23.5 − (18 + 20 + 25 + 15).
+    - >-
+      −7.5, from 3 × 23.5 − (18 + 20 + 25 + 15).
+  correct: 2
+  explanation: >-
+    With a pre-ferment counted, multiply by 4 and subtract all four inputs: 94 − 78 = 16. Use the
+    same 4-factor convention whenever you calculate this product's water.
+
+- id: q5
+  question: >-
+    Exam-style brioche sheet: "TB 48 °C, température du fournil 24 °C, température de la farine
+    25 °C". The calculated water is −1 °C. What is the sound decision?
+  options:
+    - >-
+      Use −1 °C water from the freezer, since the formula requires it.
+    - >-
+      Ignore the TB and use water at 24 °C, the usual dough target.
+    - >-
+      Use the coldest water or ice possible and plan to chill the flour next time.
+    - >-
+      Mix longer in second speed so the dough reaches its target faster.
+  correct: 2
+  explanation: >-
+    Liquid water cannot go below about 0 °C, so the calculation shows the inputs are too warm. Use
+    the coldest water possible, adapt fermentation, and lower the flour temperature next time.
+
+- id: q6
+  question: >-
+    Cold-room record (relevé de températures): Friday 17:00, 3 °C; Saturday 17:00, 4 °C; Monday
+    5:00, 9 °C. The room holds fresh yeast, pâte fermentée and butter. What do you do?
+  options:
+    - >-
+      Record and report the break, and have the products checked before use.
+    - >-
+      Reset the thermostat and use the products, since 9 °C is still cool.
+    - >-
+      Throw everything away without telling anyone to avoid any risk.
+    - >-
+      Wait until the next reading to see whether it comes back to 4 °C.
+  correct: 0
+  explanation: >-
+    The record shows a cold-chain break (above 0-4 °C). Report it as a non-conformity and let the
+    head baker decide on the products after checking them; acting silently loses the evidence.
+
+- id: q7
+  question: >-
+    Bake-off note: "Baguettes pâles, grignes peu ouvertes, cuisson 22 min respectée". The oven
+    display read 250 °C at loading; a hanging oven thermometer read 228 °C. What is the cause?
+  options:
+    - >-
+      Over-proofed baguettes, since pale crusts always mean over-proofing.
+    - >-
+      Too much steam, which cooled the baguettes' surface.
+    - >-
+      Dough too warm at mixing, so the crust could not colour.
+    - >-
+      The oven was about 22 °C below its display at loading.
+  correct: 3
+  explanation: >-
+    Pale crust and weak oven spring with the right time point to a cool oven; the oven thermometer
+    shows it. Load only when the checked temperature is reached and report the display error.
+
+- id: q8
+  question: >-
+    Croissant production sheet: "détrempe 18-22 °C, beurre de tourage environ 13 °C". Today the
+    détrempe came out at 27 °C and the butter block is at 20 °C. What will most likely happen?
+  options:
+    - >-
+      The butter breaks into hard pieces and tears the dough during the turns.
+    - >-
+      The butter smears into the dough, layers are lost and the croissants leak.
+    - >-
+      Nothing visible, since the layers form in the oven whatever the temperature.
+    - >-
+      The croissants will be paler because warm butter blocks browning.
+  correct: 1
+  explanation: >-
+    Laminated dough needs a cool détrempe and butter cold but bendable. Warm, soft butter smears
+    into a warm, fermenting dough, so the separate layers disappear and butter leaks in the oven.
+
+- id: q9
+  question: >-
+    You switch PC-02 to an overnight pointage retardé and lower the TPV from 24 °C to 21 °C. Flour
+    20 °C, fournil 22 °C, friction factor 15 (direct dough, 3 factors). Which water is correct?
+  options:
+    - >-
+      6 °C, from 3 × 21 − 20 − 22 − 15.
+    - >-
+      15 °C, from 3 × 24 − 20 − 22 − 15.
+    - >-
+      21 °C, the same as the new target.
+    - >-
+      12 °C, from 3 × 24 − 20 − 22 − 18.
+  correct: 0
+  explanation: >-
+    The base follows the target: 3 × 21 = 63, minus flour, fournil and friction gives 6 °C. Keeping
+    the old TPV in the calculation gives a dough too warm for the cold room.
+
+- id: q10
+  question: >-
+    The proofing cabinet fails at 4:45. The shaped baguettes, planned for 1 h 15 at 25 °C, must now
+    proof in the fournil at 21 °C. With the 7 % rule, what do you plan?
+  options:
+    - >-
+      1 h 15 as planned, since the poke test is the same at any temperature.
+    - >-
+      About 55 minutes, because cooler pieces proof faster.
+    - >-
+      About 1 h 40, and poke-test from about 1 h 25.
+    - >-
+      About 5 hours, because each degree doubles the proof time.
+  correct: 2
+  explanation: >-
+    4 °C cooler is about 1.07⁴ ≈ 1.31 times slower: 75 × 1.31 ≈ 98 minutes. Plan the oven
+    accordingly, report the fault, and let the poke test decide.

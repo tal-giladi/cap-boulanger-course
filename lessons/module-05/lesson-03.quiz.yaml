@@ -1,0 +1,90 @@
+- id: q1
+  question: >-
+    Batch record, PC-02 with pâte fermentée: flour 20 °C, fournil 22 °C, pâte fermentée 6 °C,
+    water 20 °C, dough at the end of mixing 25 °C. What is the friction factor for this product,
+    counted with 4 factors?
+  options:
+    - >-
+      7, from 3 × 25 − (20 + 22 + 6 + 20) with three factors.
+    - >-
+      1, the dough temperature minus the target of 24 °C.
+    - >-
+      5, the dough temperature minus the warmest input.
+    - >-
+      32, from 4 × 25 − (20 + 22 + 6 + 20).
+  correct: 3
+  explanation: >-
+    With a pre-ferment counted, multiply the dough temperature by 4 and subtract all four inputs:
+    100 − 68 = 32. A 3-factor calculation here mixes conventions.
+
+- id: q2
+  question: >-
+    You need 2,000 g of mixing water at 10 °C. The tap gives 25 °C water and the water cooler is
+    out of order. How do you make up the water?
+  options:
+    - >-
+      300 g of ice plus 2,000 g of tap water.
+    - >-
+      286 g of ice plus 1,714 g of tap water.
+    - >-
+      375 g of ice plus 1,625 g of tap water.
+    - >-
+      150 g of ice plus 1,850 g of tap water.
+  correct: 1
+  explanation: >-
+    Ice = 2,000 × (25 − 10) ÷ (25 + 80) ≈ 286 g, and the ice is part of the 2,000 g, so tap water is
+    1,714 g. Adding the ice on top of the full water weight is a common slip.
+
+- id: q3
+  question: >-
+    The same pain courant dough always ends 3 °C warmer on the spiral than by hand, from the same
+    water. Which explanation fits?
+  options:
+    - >-
+      The spiral's longer, faster mixing adds more friction heat than hand kneading.
+    - >-
+      Hand kneading cools the dough because hands are colder than 24 °C.
+    - >-
+      The spiral adds more air, and air is always warmer than water.
+    - >-
+      The yeast is more active in a spiral bowl, which warms the dough.
+  correct: 0
+  explanation: >-
+    Friction heating grows with mixing time and speed: hand kneading adds about 1-3 °C, a spiral in
+    improved or intensive mixing several degrees to 10 °C or more.
+
+- id: q4
+  question: >-
+    July: TPV 24 °C, flour 29 °C, fournil 31 °C, friction factor 15, no pre-ferment. The calculation
+    gives −3 °C water. What is the best plan?
+  options:
+    - >-
+      Use all ice instead of water, since ice is colder than 0 °C.
+    - >-
+      Double the second-speed time so the dough develops faster.
+    - >-
+      Coldest water and a shorter pointage today; chill the flour next time.
+    - >-
+      Ignore the calculation, since summer doughs end at 24 °C anyway.
+  correct: 2
+  explanation: >-
+    Water, even as ice, cannot bring the mix much below 0 °C. Lower another input (cold flour, a
+    cooler room) and adapt fermentation to the warmer dough; more mixing would add heat.
+
+- id: q5
+  question: >-
+    Why must a friction factor be measured separately for "PC-02, improved mixing, 5.4 kg" and
+    "tradition, slow mixing, 3 kg" on the same spiral mixer?
+  options:
+    - >-
+      Because the law fixes a different friction factor for each bread type.
+    - >-
+      Because mixing time, speed, consistency and batch size all change the heating.
+    - >-
+      Because tradition flour has no friction, since it contains no additives.
+    - >-
+      Because only the larger batch is ever measured with a thermometer.
+  correct: 1
+  explanation: >-
+    Heating depends on how long and how fast the dough is mixed, how firm it is and how full the
+    bowl is, so each product, method and batch size gets its own friction factor.

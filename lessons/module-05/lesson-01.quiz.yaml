@@ -1,0 +1,89 @@
+- id: q1
+  question: >-
+    Before the first mix you read: flour 26 °C, fournil 27 °C, tap water 22 °C, proofing cabinet
+    display 25 °C. Which of these temperatures can you set freely for this batch?
+  options:
+    - >-
+      The flour temperature, by moving the sacks nearer the mixer.
+    - >-
+      The water temperature, by mixing cooler water or ice into it.
+    - >-
+      The fournil temperature, by opening the door for a few minutes.
+    - >-
+      None of them: dough temperature depends only on mixing time.
+  correct: 1
+  explanation: >-
+    Flour and room are read, not chosen, at mixing time. Water is the input you adjust each batch
+    so that the dough reaches its target temperature.
+
+- id: q2
+  question: >-
+    A probe thermometer in a glass of water on the cold-room shelf reads 7 °C at opening. The room
+    holds the fresh yeast and the pâte fermentée for the morning batch. What do you do first?
+  options:
+    - >-
+      Nothing, because 7 °C is still far below fermentation temperature.
+    - >-
+      Use the pâte fermentée quickly so it does not warm any further.
+    - >-
+      Turn the cold room down and say nothing if it is back at 4 °C later.
+    - >-
+      Record and report it; have the yeast and pâte fermentée checked before use.
+  correct: 3
+  explanation: >-
+    The cold room should be at 0-4 °C. A reading above it is a cold-chain break to record and
+    report (C4.4); yeast and pre-ferment may have changed overnight and must be checked first.
+
+- id: q3
+  question: >-
+    Your oven signals "preheated" at 230 °C after 12 minutes. The oven thermometer on the middle
+    shelf reads 205 °C at that moment and 230 °C only at 25 minutes. What does this mean for your
+    bakes?
+  options:
+    - >-
+      Load when the oven thermometer reaches the target, about 25 minutes after switching on.
+    - >-
+      Load at the signal and bake 5 minutes less, since the oven is still heating up.
+    - >-
+      Set the dial 25 °C lower so the signal and the thermometer agree.
+    - >-
+      Ignore the thermometer; bakery times are written for the dial temperature.
+  correct: 0
+  explanation: >-
+    The preheat signal and dial are often inaccurate. Loading into a cooler oven gives poor oven
+    spring and a pale crust, so wait for the independent oven thermometer.
+
+- id: q4
+  question: >-
+    Which reading method gives a flour temperature you can use in a water calculation?
+  options:
+    - >-
+      An infrared thermometer pointed at the outside of the sack.
+    - >-
+      The fournil air temperature, since flour always matches the room.
+    - >-
+      A probe pushed at least 5 cm into the middle of the flour.
+    - >-
+      The temperature written on the delivery note when the flour arrived.
+  correct: 2
+  explanation: >-
+    Flour can be warmer or colder than the room, and its surface differs from its centre. A probe
+    inside the flour reads what actually goes into the dough.
+
+- id: q5
+  question: >-
+    A croissant batch: the butter for lamination is at 22 °C and soft. What is most likely to
+    happen if lamination starts now?
+  options:
+    - >-
+      The butter breaks into hard pieces and the layers tear.
+    - >-
+      The butter melts into the détrempe and the layers are lost.
+    - >-
+      Nothing changes, because butter temperature only matters in the oven.
+    - >-
+      The dough ferments too slowly because warm butter blocks the yeast.
+  correct: 1
+  explanation: >-
+    Butter for lamination is worked cold but bendable, about 13 °C. Too warm, it smears into the
+    dough and the separate layers that make the flakes disappear; too cold, it breaks.

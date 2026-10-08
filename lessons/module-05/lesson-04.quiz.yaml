@@ -1,0 +1,88 @@
+- id: q1
+  question: >-
+    Sheet: "TPV 24 °C, pointage 45 min". Your log shows the dough at 27 °C at the end of mixing.
+    Using the course's rule of thumb, what do you plan?
+  options:
+    - >-
+      45 minutes as written, then divide whatever the dough looks like.
+    - >-
+      About 60 minutes, because a warm dough needs longer to relax.
+    - >-
+      About 37 minutes in a cooler place, then divide when the dough shows the signs.
+    - >-
+      About 15 minutes, because each degree halves the fermentation time.
+  correct: 2
+  explanation: >-
+    3 °C warm is about 1.07³ ≈ 1.23 times faster: 45 ÷ 1.23 ≈ 37 minutes. Cool the tub and let
+    volume and feel confirm before dividing.
+
+- id: q2
+  question: >-
+    A dough left the mixer exactly on target, yet the shaped baguettes are over-proofed 20 minutes
+    before the planned time. The cabinet display read 25 °C all along. What do you check first?
+  options:
+    - >-
+      The real cabinet temperature, with a probe in a glass of water inside it.
+    - >-
+      The salt weight, because missing salt is the only cause of fast proofing.
+    - >-
+      The flour temperature, because it decides the speed of the apprêt.
+    - >-
+      The oven temperature, because a hot oven makes pieces proof faster.
+  correct: 0
+  explanation: >-
+    Small shaped pieces follow the temperature of the place they proof in, so a cabinet running
+    warmer than its display is the first suspect when the dough itself was on target.
+
+- id: q3
+  question: >-
+    End of bake: the baguettes are well coloured but a probe in the centre of a test baguette reads
+    82 °C. What does this mean?
+  options:
+    - >-
+      The bread is done: colour is the reliable sign of baking.
+    - >-
+      The probe is wrong, because a coloured crust always means a baked centre.
+    - >-
+      The bread is over-baked and should come out at once.
+    - >-
+      The crumb is not fully set; bake a few minutes more and probe again.
+  correct: 3
+  explanation: >-
+    A baked loaf reaches at least about 90 °C in the centre. Colour can come from an oven that is
+    too hot for the size; the core reading shows whether the crumb has set.
+
+- id: q4
+  question: >-
+    A croissant production in a 29 °C summer room: the trainee proofs the shaped croissants at
+    30 °C "to save time". What is the likely result?
+  options:
+    - >-
+      Taller croissants, because warm proofing always improves the layers.
+    - >-
+      Butter softens and leaks in the oven, giving flatter, greasy croissants.
+    - >-
+      No change, since butter temperature only matters during lamination.
+    - >-
+      Pale croissants, because warm proofing stops the Maillard reaction.
+  correct: 1
+  explanation: >-
+    Laminated dough is proofed below about 27 °C. Warmer, the butter layers soften and melt out,
+    so the layers fuse and the croissants spread and leak.
+
+- id: q5
+  question: >-
+    Why does the sheet give a temperature for the apprêt cabinet and not only the TPV at mixing?
+  options:
+    - >-
+      Because the TPV is only used to calculate the salt.
+    - >-
+      Because the cabinet temperature is a legal requirement for bread labels.
+    - >-
+      Because the cabinet must always be colder than the dough to stop fermentation.
+    - >-
+      Because small shaped pieces quickly take on the temperature of where they proof.
+  correct: 3
+  explanation: >-
+    A big tub of dough keeps its mixing temperature for a long time, but divided and shaped pieces
+    follow the room or cabinet air, so the apprêt place sets their speed.

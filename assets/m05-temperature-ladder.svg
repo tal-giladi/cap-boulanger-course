@@ -1,0 +1,66 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 560" width="900" height="560" role="img" aria-labelledby="t d">
+  <title id="t">The bakery temperature ladder: the temperatures a boulanger measures, from freezer to oven</title>
+  <desc id="d">A vertical ladder, not to scale, from the coldest at the bottom to the hottest at the top. Minus 18 degrees: freezer. 0 to 4 degrees: cold room for fresh yeast and pâte fermentée; 2 to 6 degrees for pointage retardé. About 13 degrees: butter at lamination. 18 to 22 degrees: croissant détrempe after mixing. Fournil air: measured at every batch. 22 to 26 degrees: dough at the end of mixing, depending on the product. 24 to 28 degrees and 75 to 85 percent humidity: apprêt. About 35 degrees: fastest gas from yeast but poorer flavour. 40 degrees: the maximum for water poured on yeast. 46 to 50 degrees: yeast dies in the dough early in baking. At least 90 degrees: core of a baked loaf. 230 to 250 degrees: oven.</desc>
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#b03a3a"/>
+      <stop offset="0.45" stop-color="#e8a04a"/>
+      <stop offset="0.7" stop-color="#f2e3b0"/>
+      <stop offset="1" stop-color="#3a6fb0"/>
+    </linearGradient>
+  </defs>
+  <rect x="0" y="0" width="900" height="560" fill="#ffffff"/>
+  <g font-family="Arial, Helvetica, sans-serif" fill="#222222">
+    <text x="450" y="32" text-anchor="middle" font-size="21" font-weight="bold">The bakery temperature ladder (not to scale)</text>
+    <text x="450" y="54" text-anchor="middle" font-size="13" fill="#555555">Each rung is a temperature you measure or control; your fiche technique gives the exact figure</text>
+
+    <rect x="300" y="72" width="26" height="448" rx="13" fill="url(#g)" stroke="#444444" stroke-width="1.5"/>
+
+    <g stroke="#444444" stroke-width="1.5">
+      <line x1="290" y1="90" x2="336" y2="90"/>
+      <line x1="290" y1="127" x2="336" y2="127"/>
+      <line x1="290" y1="164" x2="336" y2="164"/>
+      <line x1="290" y1="201" x2="336" y2="201"/>
+      <line x1="290" y1="238" x2="336" y2="238"/>
+      <line x1="290" y1="275" x2="336" y2="275"/>
+      <line x1="290" y1="312" x2="336" y2="312"/>
+      <line x1="290" y1="349" x2="336" y2="349"/>
+      <line x1="290" y1="386" x2="336" y2="386"/>
+      <line x1="290" y1="423" x2="336" y2="423"/>
+      <line x1="290" y1="460" x2="336" y2="460"/>
+      <line x1="290" y1="497" x2="336" y2="497"/>
+    </g>
+
+    <g font-size="14" font-weight="bold" text-anchor="end">
+      <text x="282" y="95">230-250 °C</text>
+      <text x="282" y="132">at least 90 °C</text>
+      <text x="282" y="169">46-50 °C</text>
+      <text x="282" y="206">40 °C maximum</text>
+      <text x="282" y="243">about 35 °C</text>
+      <text x="282" y="280">24-28 °C · 75-85 % HR</text>
+      <text x="282" y="317">22-26 °C</text>
+      <text x="282" y="354">measure it</text>
+      <text x="282" y="391">18-22 °C</text>
+      <text x="282" y="428">about 13 °C</text>
+      <text x="282" y="465">0-4 °C (2-6 °C)</text>
+      <text x="282" y="502">-18 °C</text>
+    </g>
+
+    <g font-size="14" text-anchor="start">
+      <text x="348" y="95">Oven: 250 °C deck (PC-02); home oven checked with an oven thermometer</text>
+      <text x="348" y="132">Core of a baked loaf (température à cœur), read with a probe</text>
+      <text x="348" y="169">Yeast dies in the dough, early in baking</text>
+      <text x="348" y="206">Water poured on yeast: never hotter</text>
+      <text x="348" y="243">Yeast makes gas fastest, but flavour and dough control suffer</text>
+      <text x="348" y="280">Apprêt in the chambre de pousse (PC-02: 25 °C, 75-80 % HR)</text>
+      <text x="348" y="317">Dough at the end of mixing (TPV): 23-25 °C for pain courant</text>
+      <text x="348" y="354">Fournil air and flour: not set by you, but they change the water</text>
+      <text x="348" y="391">Croissant détrempe after mixing (kept cool for lamination)</text>
+      <text x="348" y="428">Butter at lamination (beurre de tourage): cold but bendable</text>
+      <text x="348" y="465">Cold room: fresh yeast, pâte fermentée; pointage retardé 2-6 °C</text>
+      <text x="348" y="502">Freezer: frozen doughs and products</text>
+    </g>
+
+    <text x="450" y="545" text-anchor="middle" font-size="12" fill="#555555">Sources: formulas and lessons 02.6, 04.4, 04.6 of this course; King Arthur Baking (core and butter temperatures). Ranges, not fixed values.</text>
+  </g>
+</svg>
