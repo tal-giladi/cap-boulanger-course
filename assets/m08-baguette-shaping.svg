@@ -1,0 +1,72 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 560" width="900" height="560" role="img" aria-labelledby="t d">
+  <title id="t">Shaping a baguette in six steps</title>
+  <desc id="d">Six panels seen from above. 1: the relaxed cylinder is flattened gently into a rectangle, top side down. 2: the far third is folded to the middle and sealed with the fingertips. 3: the piece is folded again over the thumb to the near edge and the seam sealed with the heel of the hand, making a tight cylinder. 4: seam down, both hands roll from the centre outwards, moving apart, to lengthen the piece evenly. 5: the ends are rolled with more pressure into points. 6: the finished baguette, even thickness, seam straight underneath: about 38 cm for a 270 g home baguette, about 55 cm for a 350 g bakery baguette.</desc>
+  <rect x="0" y="0" width="900" height="560" fill="#ffffff"/>
+  <g font-family="Arial, Helvetica, sans-serif" fill="#222222">
+    <text x="450" y="32" text-anchor="middle" font-size="21" font-weight="bold">Shaping a baguette: fold, seal, roll, taper</text>
+    <text x="450" y="54" text-anchor="middle" font-size="13" fill="#555555">Seen from above. Tension comes from the folds and the seal, length from rolling outwards from the centre.</text>
+
+    <!-- panel frames -->
+    <g fill="#f7f3ea" stroke="#d9c7a3" stroke-width="1.5">
+      <rect x="20" y="75" width="275" height="200" rx="10"/>
+      <rect x="312" y="75" width="275" height="200" rx="10"/>
+      <rect x="605" y="75" width="275" height="200" rx="10"/>
+      <rect x="20" y="295" width="275" height="200" rx="10"/>
+      <rect x="312" y="295" width="275" height="200" rx="10"/>
+      <rect x="605" y="295" width="275" height="200" rx="10"/>
+    </g>
+
+    <!-- 1 flatten -->
+    <text x="35" y="100" font-size="15" font-weight="bold">1 · Flatten</text>
+    <rect x="70" y="135" width="175" height="80" rx="14" fill="#e3cf9f" stroke="#a8874a" stroke-width="2"/>
+    <circle cx="110" cy="160" r="4" fill="#c9a96a"/><circle cx="150" cy="185" r="5" fill="#c9a96a"/><circle cx="200" cy="165" r="4" fill="#c9a96a"/>
+    <text x="157" y="240" text-anchor="middle" font-size="12">top side down, press out</text>
+    <text x="157" y="256" text-anchor="middle" font-size="12">big bubbles only, gently</text>
+
+    <!-- 2 fold far third -->
+    <text x="327" y="100" font-size="15" font-weight="bold">2 · Fold the far third</text>
+    <rect x="362" y="160" width="175" height="55" rx="12" fill="#e3cf9f" stroke="#a8874a" stroke-width="2"/>
+    <rect x="362" y="160" width="175" height="27" rx="10" fill="#d4b97c" stroke="#a8874a" stroke-width="2"/>
+    <path d="M 450 128 Q 470 140 450 155" fill="none" stroke="#c0392b" stroke-width="2.5"/>
+    <polygon points="444,152 456,152 450,162" fill="#c0392b"/>
+    <text x="450" y="240" text-anchor="middle" font-size="12">far edge to the middle,</text>
+    <text x="450" y="256" text-anchor="middle" font-size="12">seal with fingertips</text>
+
+    <!-- 3 fold and seal -->
+    <text x="620" y="100" font-size="15" font-weight="bold">3 · Fold and seal</text>
+    <rect x="655" y="170" width="175" height="34" rx="17" fill="#d4b97c" stroke="#a8874a" stroke-width="2"/>
+    <line x1="665" y1="200" x2="820" y2="200" stroke="#7a5a26" stroke-width="2" stroke-dasharray="6 4"/>
+    <text x="742" y="150" text-anchor="middle" font-size="12" fill="#7a5a26">seam sealed with the heel of the hand</text>
+    <text x="742" y="240" text-anchor="middle" font-size="12">fold over the thumb to the</text>
+    <text x="742" y="256" text-anchor="middle" font-size="12">near edge: a tight cylinder</text>
+
+    <!-- 4 roll outwards -->
+    <text x="35" y="320" font-size="15" font-weight="bold">4 · Roll outwards</text>
+    <rect x="50" y="385" width="215" height="26" rx="13" fill="#d4b97c" stroke="#a8874a" stroke-width="2"/>
+    <ellipse cx="135" cy="370" rx="22" ry="12" fill="#f0c9a8" stroke="#b07a55" stroke-width="1.5"/>
+    <ellipse cx="180" cy="370" rx="22" ry="12" fill="#f0c9a8" stroke="#b07a55" stroke-width="1.5"/>
+    <line x1="112" y1="350" x2="72" y2="350" stroke="#c0392b" stroke-width="2.5"/><polygon points="72,344 72,356 62,350" fill="#c0392b"/>
+    <line x1="203" y1="350" x2="243" y2="350" stroke="#c0392b" stroke-width="2.5"/><polygon points="243,344 243,356 253,350" fill="#c0392b"/>
+    <text x="157" y="440" text-anchor="middle" font-size="12">seam down, hands start in the</text>
+    <text x="157" y="456" text-anchor="middle" font-size="12">centre and move apart; 2-3 passes</text>
+
+    <!-- 5 taper -->
+    <text x="327" y="320" font-size="15" font-weight="bold">5 · Taper the ends</text>
+    <path d="M 335 398 Q 360 386 390 386 L 510 386 Q 540 386 565 398 Q 540 410 510 410 L 390 410 Q 360 410 335 398 Z" fill="#d4b97c" stroke="#a8874a" stroke-width="2"/>
+    <text x="345" y="375" font-size="12" fill="#c0392b">more pressure</text>
+    <text x="490" y="375" font-size="12" fill="#c0392b">at the tips</text>
+    <text x="450" y="440" text-anchor="middle" font-size="12">points (pointes) about 1 cm,</text>
+    <text x="450" y="456" text-anchor="middle" font-size="12">no flour inside the seam</text>
+
+    <!-- 6 finished -->
+    <text x="620" y="320" font-size="15" font-weight="bold">6 · Check</text>
+    <path d="M 625 390 Q 640 380 660 380 L 820 380 Q 840 380 860 390 Q 840 400 820 400 L 660 400 Q 640 400 625 390 Z" fill="#d4b97c" stroke="#a8874a" stroke-width="2"/>
+    <line x1="625" y1="420" x2="860" y2="420" stroke="#555555" stroke-width="1.5"/>
+    <line x1="625" y1="414" x2="625" y2="426" stroke="#555555" stroke-width="1.5"/>
+    <line x1="860" y1="414" x2="860" y2="426" stroke="#555555" stroke-width="1.5"/>
+    <text x="742" y="440" text-anchor="middle" font-size="12">home 270 g: about 38 cm</text>
+    <text x="742" y="456" text-anchor="middle" font-size="12">bakery 350 g: about 55 cm</text>
+    <text x="742" y="472" text-anchor="middle" font-size="12">even thickness, seam straight below</text>
+  </g>
+  <text x="450" y="530" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#555555">Then onto the floured couche, seam up, or onto baking paper seam down, with a fold of cloth between pieces.</text>
+</svg>

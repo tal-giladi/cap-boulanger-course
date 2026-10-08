@@ -116,7 +116,7 @@ You cost a home batch and one of your own baguettes, then solve six costing exer
 
 ### Ingredients
 
-You cost one PD-01 batch on 500 g of flour, divided into 3 home baguettes of 270 g (lesson 08.3 will shape them):
+You cost one PD-01 batch on 500 g of flour, divided into 3 home baguettes of 270 g ([lesson 08.3](../module-08/lesson-03.md) will shape them):
 
 | Ingredient | Weight | Baker's % |
 |---|---|---|

@@ -26,8 +26,8 @@ Goal: build "CAP Boulanger Preparation" per `curriculum/plan.md`, following
 - [x] Module 4 — Fermentation
 - [x] Module 5 — Temperature Management
 - [x] Module 6 — Baker's Mathematics
-- [ ] Module 7 — The Production Process
-- [ ] Module 8 — Pain Courant
+- [x] Module 7 — The Production Process
+- [x] Module 8 — Pain Courant
 - [ ] Module 9 — Pain de Tradition Française
 - [ ] Module 10 — Other Breads
 - [ ] Module 11 — Viennoiserie: The Croissant
@@ -47,7 +47,7 @@ Goal: build "CAP Boulanger Preparation" per `curriculum/plan.md`, following
 
 ## Agents now
 
-- PAUSED after modules 5 and 6 (2026-10-08). Next: modules 7 and 8.
+- PAUSED after modules 7 and 8 (2026-10-08). Next: modules 9 and 10.
 
 ## Decisions and open questions
 
@@ -70,3 +70,5 @@ Goal: build "CAP Boulanger Preparation" per `curriculum/plan.md`, following
 - Module 5 water-temperature convention (binding from module 6 on): base = target × factors (3, or 4 with pre-ferment); water = base − flour − room (− pre-ferment) − friction factor; friction factor = mixing heat × factors; a printed TB already excludes friction; ice = water × (tap − wanted) ÷ (tap + 80), counted inside the water weight. Water-temperature simulation should follow it and link 05.2/05.3.
 - Final QA: module 5 troubleshooting rows and sources (see curriculum/matrix/module-05.md); optional pointer from 01.7 to 05.3.
 - Module 6: order sheets PO-01 (baguettes on poolish) and CA-01 (campagne on liquid levain) in projects/m06-calculation-workbook.md — reuse in modules 8–10. VAT source BOFiP BOI-TVA-LIQ-30-10-10. Baking-loss 20 % still unsourced (planning estimate). Final QA: module 6 troubleshooting rows and sources (see matrix); 06.5 mentions 08.3 in plain text.
+- Module 8 decisions: home pâte fermentée = mini PC-02 dough (50 g flour) made the evening before, then keep back 75 g (500 g batch) / 150 g (1 kg) at end of pointage; 270 g home baguette hits the 1.4 g salt limit at ~23 % baking loss; four-factor hand friction factor = 8; home steam = preheated metal tray lowest shelf, 100–150 mL hot water at loading, vent at ~10 min, fan off first 10 min. Final QA: module 8 troubleshooting rows, ASBE "Baking" source, quality-rubric crumb line for pain courant (see matrix).
+- Module 7: Module 9 must cover freezing rules for pain de tradition (07.5 leaves them out). Final QA: module 7 sources (King Arthur ×9, FAO AGRIS Aguirre 2011, INRS), troubleshooting rows (pain ferré, croûte terne, fused cuts, fridge staling, façonneuse tearing), oven temperature source (INBP/ANMF).

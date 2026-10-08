@@ -1,0 +1,90 @@
+- id: q1
+  question: >-
+    PC-02 at 2:30: TPV 24 °C, flour 20 °C, fournil 22 °C, pâte fermentée from the cold room 7 °C,
+    friction factor 26 (measured with four factors). What water temperature do you set?
+  options:
+    - >-
+      4 °C, using 3 × 24 and the same friction factor
+    - >-
+      28 °C, leaving out the pâte fermentée
+    - >-
+      21 °C, using 4 × 24 and all four inputs
+    - >-
+      30 °C, using 4 × 24 without the friction factor
+  correct: 2
+  explanation: >-
+    With a pre-ferment the base is 4 × TPV = 96: 96 − 20 − 22 − 7 − 26 = 21 °C. Mixing a
+    four-factor friction factor into a three-factor base, or forgetting an input, gives the wrong water.
+
+- id: q2
+  question: >-
+    A customer asks why the bakery's ordinary baguette can be made with flour containing ascorbic
+    acid when the tradition next to it cannot. What is the correct answer?
+  options:
+    - >-
+      Pain courant has no protected name, so bread additives are allowed; tradition has none.
+    - >-
+      Ascorbic acid is allowed in both breads but must be printed on the tradition's label.
+    - >-
+      Tradition is made on levain, and ascorbic acid would kill the wild yeasts in it.
+    - >-
+      Pain courant is sold by weight, so the law on ingredients does not apply to it.
+  correct: 0
+  explanation: >-
+    The 1993 decree protects "pain de tradition française": no additives, never frozen. Bread outside
+    that name is pain courant and may use additives allowed for bread, such as E300.
+
+- id: q3
+  question: >-
+    The sheet says "pâte fermentée en fin de frasage". A trainee puts the cold 810 g piece in at the
+    start, in one lump. What do you expect to see?
+  options:
+    - >-
+      A slower dough, because the pâte fermentée's salt stops the new yeast from working.
+    - >-
+      No difference at all, because the pâte fermentée is the same dough as the batch.
+    - >-
+      A wetter dough, because the pâte fermentée adds extra water to the formula.
+    - >-
+      Uneven blending and possible streaks, since a developed dough in one cold lump mixes in badly.
+  correct: 3
+  explanation: >-
+    Pâte fermentée is already a developed, salted dough: it is cut into pieces and added at the end of
+    frasage so it blends evenly. It does not change the hydration, which stays 64 %.
+
+- id: q4
+  question: >-
+    At the end of frasage the PC-02 dough is firm and tears when you pinch it. What is the right
+    correction?
+  options:
+    - >-
+      Add 3 % of dry flour so the dough holds together better during kneading.
+    - >-
+      Add a little water by bassinage during kneading and write the amount on the sheet.
+    - >-
+      Extend the second speed by 5 minutes so the gluten softens the dough.
+    - >-
+      Add 1 % more yeast so the gas makes the dough lighter and softer.
+  correct: 1
+  explanation: >-
+    A pâte bâtarde should be supple; a firm dough gets bassinage, usually 2-3 % at most, recorded for
+    the next batch. Extra flour makes it firmer, more mixing heats it, and yeast does not change
+    consistency.
+
+- id: q5
+  question: >-
+    The mixed PC-02 dough reads 26.5 °C instead of 24 °C. The sheet says pointage 45 minutes. What
+    do you plan?
+  options:
+    - >-
+      Keep 45 minutes, because the pâte fermentée sets the speed, not the temperature.
+    - >-
+      Extend pointage to about 53 minutes to let the gluten relax in the warm dough.
+    - >-
+      Plan about 38 minutes and judge by the dough, and tell the chef now.
+    - >-
+      Put the dough in the freezer for 10 minutes and keep the 45-minute pointage.
+  correct: 2
+  explanation: >-
+    About 7 % faster per °C: 1.07^2.5 ≈ 1.18, so 45 ÷ 1.18 ≈ 38 minutes. Use it to plan, decide by the
+    dough's signs, and warn the chef early because the apprêt shortens too.

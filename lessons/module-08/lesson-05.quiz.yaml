@@ -1,0 +1,86 @@
+- id: q1
+  question: >-
+    Control at 6:55: five cooled PC-02 baguettes (pâton 350 g) weigh 282, 279, 285, 276 and 280 g.
+    What is the baking loss and the salt per 100 g of bread?
+  options:
+    - >-
+      Loss 19.9 %, salt 1.34 g per 100 g: conforms
+    - >-
+      Loss 19.9 %, salt 1.80 g per 100 g: over the limit
+    - >-
+      Loss 24.8 %, salt 1.43 g per 100 g: over the limit
+    - >-
+      Loss 16.6 %, salt 1.29 g per 100 g: conforms
+  correct: 0
+  explanation: >-
+    Average 280.4 g; loss (350 − 280.4) ÷ 350 = 19.9 %. Salt 350 × 1.076 % = 3.77 g ÷ 280.4 g = 1.34 g
+    per 100 g. 1.8 is the salt as % of flour, not of bread.
+
+- id: q2
+  question: >-
+    You want to judge the crumb of your home baguettes. When do you cut one?
+  options:
+    - >-
+      Straight from the oven, when the crumb aroma is strongest
+    - >-
+      After 10 minutes, once the crust can be handled safely
+    - >-
+      After at least 1 hour of cooling on a rack
+    - >-
+      The next morning, when staling shows the real texture
+  correct: 2
+  explanation: >-
+    The crumb finishes setting while the bread cools. Cut warm, it looks gummy even when well baked;
+    the next day you judge staling, not the bake.
+
+- id: q3
+  question: >-
+    Bake record: "dough 24 °C, pointage 45 min, apprêt 1 h 15, poke test OK, steam OK. Two baguettes
+    from the front left corner dark with burnt bottoms; the other ten normal." Which diagnosis fits?
+  options:
+    - >-
+      Over-fermentation, because sugars caramelise faster in an older dough.
+    - >-
+      Too much salt in those two pieces, which darkens the crust.
+    - >-
+      Too much steam on that side of the oven, which burns the bottom.
+    - >-
+      A hot spot in the oven corner: report the equipment fault.
+  correct: 3
+  explanation: >-
+    Same dough and same times, only one position affected: the cause is where they baked. It is an
+    equipment malfunction to report, with a workaround until it is fixed.
+
+- id: q4
+  question: >-
+    Which description matches a well-made pain courant baguette on pâte fermentée?
+  options:
+    - >-
+      Very white, cottony crumb with tiny regular holes and a soft, pale crust
+    - >-
+      Creamy, moist crumb with medium irregular holes, thin crisp golden crust, open grignes
+    - >-
+      Very open crumb with large holes and a thick, dark crust with no shine
+    - >-
+      Dense, close crumb, deep brown crust and cuts that stayed flat in the oven
+  correct: 1
+  explanation: >-
+    Pain courant aims for a creamy crumb with medium irregular holes, a thin crisp golden crust and
+    open grignes. Cottony white crumb points to over-mixing; dense crumb and flat cuts to fermentation faults.
+
+- id: q5
+  question: >-
+    Which non-conformity note would a manager find most useful?
+  options:
+    - >-
+      "The baguettes were bad again today because the oven is old and the trainee was slow."
+    - >-
+      "Some baguettes had problems this morning. Please look at the oven when you have time."
+    - >-
+      "14/11 6:55, upper deck: 2 of 12 baguettes front left dark, bottoms burnt; set aside; check sole."
+    - >-
+      "Oven broken. I could not bake the order properly and the shop will be short this morning."
+  correct: 2
+  explanation: >-
+    A useful report gives facts and numbers, where and when, the action taken and a suggestion. Blame,
+    vague wording or unsupported conclusions do not help the manager decide.

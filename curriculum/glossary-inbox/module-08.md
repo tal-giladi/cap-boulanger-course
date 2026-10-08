@@ -1,0 +1,22 @@
+- **Allongement** (*ah-lohnzh-MAHN*) — lengthening: rolling a shaped cylinder out to its final baguette length.
+- **Appoint** (*ah-PWAN*) — small add-on piece of dough used to bring a pâton up to weight at dividing; at most one per pâton.
+- **Baguette** (*bah-GET*) — long, thin loaf; in pain courant usually a 250-350 g pâton shaped to about 55-65 cm in a bakery.
+- **Clé** (*KLAY*) — the seam where a shaped piece is sealed; it goes underneath in the oven.
+- **Contrôle qualité** (*kohn-TROHL kah-lee-TAY*) — quality check of finished products: count, weight, look, crumb and taste.
+- **Croûte / mie** (*KROOT / MEE*) — crust / crumb.
+- **Croûte terne** (*kroot TAIRN*) — dull crust without shine, usually from too little steam or a skinned dough.
+- **Enfournement / défournement** (*ahn-foor-nuh-MAHN / day-foor-nuh-MAHN*) — loading the oven / taking the bread out.
+- **Façonnage** (*fah-soh-NAHZH*) — shaping: giving the pâton its final form.
+- **Façonneuse** (*fah-soh-NUHZ*) — moulder: machine that rolls and lengthens baguette pieces.
+- **Grignage / scarification** (*green-YAHZH / skah-ree-fee-kah-SYOHN*) — scoring: cutting the skin of the dough with a lame just before baking.
+- **Grigne** (*GREEN-yuh*) — the opened score on a baked bread, with its raised edge.
+- **Lame** (*LAHM*) — razor blade on a handle used for scoring.
+- **Oreille** (*oh-RAY*) — the "ear": the crisp flap of crust lifted along a score.
+- **Ouras** (*oo-RAH*) — oven vents (dampers) opened near the end of baking to let the steam out so the crust dries.
+- **Pain courant (français)** (*pan koo-RAHN*) — everyday French wheat bread not sold under a protected name such as tradition; additives allowed; at most 1.4 g of salt per 100 g of bread since October 2023.
+- **Pain ferré** (*pan feh-RAY*) — bread with a burnt, hard bottom, from a sole or tray that is too hot.
+- **Pain plat** (*pan PLAH*) — flat bread: spread with low volume, usually over-fermented, slack or weakly shaped.
+- **Planchette (à baguettes)** (*plahn-SHET*) — narrow transfer board used to roll a baguette out of the couche onto the loader.
+- **Pointes** (*PWANT*) — the tapered ends of a baguette.
+- **Tapis d'enfournement (enfourneur)** (*tah-PEE dahn-foor-nuh-MAHN*) — oven loader: a cloth belt on a frame that sets a whole row of bread on the deck.
+- **Tension / serrage** (*tahn-SYOHN / seh-RAHZH*) — the tightness of the outer skin given by shaping.

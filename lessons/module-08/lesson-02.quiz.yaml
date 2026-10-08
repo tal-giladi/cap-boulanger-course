@@ -1,0 +1,87 @@
+- id: q1
+  question: >-
+    PC-02 leaves the mixer at 26 °C on a July morning. The sheet says pointage 45 minutes at 24 °C.
+    When do you start checking the dough?
+  options:
+    - >-
+      At 45 minutes, because the sheet's time already allows for the season.
+    - >-
+      At about 39 minutes, then decide by the dough's signs.
+    - >-
+      At about 52 minutes, because warm dough needs longer to relax.
+    - >-
+      At about 30 minutes, because each degree halves the time.
+  correct: 1
+  explanation: >-
+    About 7 % faster per °C: 45 ÷ 1.07² ≈ 39 minutes. The rule tells you when to start looking; the
+    volume, dome, suppleness and smell decide.
+
+- id: q2
+  question: >-
+    Batch record: dough 9,760 g after tipping, order 9,600 g (24 baguettes and 20 rolls). Sunday's
+    sheet needs 950 g of pâte fermentée. The trainee wants to cut the 950 g now. What do you say?
+  options:
+    - >-
+      Fine, because the pâte fermentée is the most important part of tomorrow's batch.
+    - >-
+      Fine, and make the baguettes 30 g lighter so the order still has 24 pieces.
+    - >-
+      Take only the spare 160 g now and plan the rest from the next batch on the sheet.
+    - >-
+      Take none, because pâte fermentée must come from a dough that has not been divided.
+  correct: 2
+  explanation: >-
+    Only 9,760 − 9,600 = 160 g is spare. Taking 950 g leaves the order about 790 g short, and lighter
+    baguettes would be under the weight sold. The rest comes from another batch, written down.
+
+- id: q3
+  question: >-
+    At the end of pointage, which description shows a pain courant dough ready to divide?
+  options:
+    - >-
+      Tight and dense, the dent springs back at once, volume barely changed from the start.
+    - >-
+      Collapsed in the centre, sticky, with a sharp alcoholic smell and large bubbles.
+    - >-
+      Doubled and more, very soft, the dent stays without filling, surface flat.
+    - >-
+      About 1.5 times the start, domed and supple, the dent fills back slowly, pleasant smell.
+  correct: 3
+  explanation: >-
+    A ready pointage shows moderate rise, a dome, suppleness and a slowly filling dent. A dent that
+    springs back at once is under-fermented; collapse, flatness and a dent that stays are over-fermented.
+
+- id: q4
+  question: >-
+    A trainee rounds the 350 g baguette pieces into tight balls and shapes them after 5 minutes.
+    The baguettes tear and shrink back. What do you change?
+  options:
+    - >-
+      Pre-shape loose cylinders and give a 15-30 minute détente until a piece stretches easily.
+    - >-
+      Add more flour on the bench so the tight pieces slide and stretch without tearing.
+    - >-
+      Divide at 380 g so there is enough dough to stretch to the full length.
+    - >-
+      Give the dough a longer pointage so the gluten is weaker at shaping.
+  correct: 0
+  explanation: >-
+    Tight balls and a short rest leave the gluten elastic. A loose cylinder matches the final shape,
+    and the détente relaxes the gluten so the piece lengthens without tearing.
+
+- id: q5
+  question: >-
+    Five pâtons from the divider (target 350 g ± 5 g): 351, 343, 356, 349, 350 g. What do you do?
+  options:
+    - >-
+      Accept all five, because the average of 349.8 g is on target.
+    - >-
+      Correct the 343 g and 356 g pieces with one appoint or one cut each.
+    - >-
+      Re-divide all five by hand, because a divider cannot be trusted.
+    - >-
+      Correct only the 343 g piece, because heavy pieces never cause a problem.
+  correct: 1
+  explanation: >-
+    Tolerance is 345-355 g: 343 g and 356 g are outside. The average says the setting is right; the
+    spread is corrected piece by piece. Heavy pieces give bread away and change the bake.

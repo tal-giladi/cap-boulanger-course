@@ -1,0 +1,182 @@
+- id: q1
+  question: >-
+    Production order: 20 baguettes PC-02 at 350 g. The batch must also give tomorrow's 600 g of
+    pâte fermentée. Sheet: PC-02 total 182.3 %, process losses 2 %, flour rounded up to the next
+    100 g. How much flour do you weigh?
+  options:
+    - >-
+      4,000 g, from 7,000 g of dough plus 2 %
+    - >-
+      4,300 g, from 7,600 g of dough plus 2 %
+    - >-
+      4,200 g, from 7,600 g plus 2 %, rounded down
+    - >-
+      4,700 g, from 7,600 g plus 2 % over 167.3 %
+  correct: 1
+  explanation: >-
+    Requirement 7,000 + 600 = 7,600 g; × 1.02 = 7,752 g; ÷ 1.823 = 4,252 g, rounded up to 4,300 g.
+    Forgetting tomorrow's pâte fermentée leaves the order short; rounding down or dividing by 1.673
+    (leaving out today's pâte fermentée) are the usual slips.
+
+- id: q2
+  question: >-
+    Temperature log, January, 2:40: TPV 24 °C, flour 18 °C, fournil 19 °C, pâte fermentée from the
+    cold room 5 °C. The sheet gives a friction factor of 26, measured with four factors. Which water
+    temperature is correct?
+  options:
+    - >-
+      9 °C
+    - >-
+      33 °C
+    - >-
+      4 °C
+    - >-
+      28 °C
+  correct: 3
+  explanation: >-
+    4 × 24 = 96; 96 − 18 − 19 − 5 − 26 = 28 °C. 9 °C uses three factors and leaves out the pâte
+    fermentée; 33 °C forgets the pâte fermentée; 4 °C puts a four-factor calculation on a 3 × 24 base.
+
+- id: q3
+  question: >-
+    The PC-02 dough reads 21.5 °C at the end of mixing; the sheet says pointage 45 minutes at 24 °C.
+    The chef asks when the dough will be ready to divide. What do you answer?
+  options:
+    - >-
+      About 53 minutes: I will start checking at about 50 and divide when the signs are there.
+    - >-
+      45 minutes as on the sheet, because the pâte fermentée makes up for the cold dough.
+    - >-
+      About 37 minutes, because a cold dough has more strength and is ready sooner.
+    - >-
+      About 90 minutes, because each degree below the target doubles the pointage.
+  correct: 0
+  explanation: >-
+    About 7 % slower per °C: 45 × 1.07^2.5 ≈ 53 minutes. The rule plans when to look; the volume,
+    dome, suppleness and dent decide.
+
+- id: q4
+  question: >-
+    Five pieces from one divider load, tolerance 350 g ± 5 g: 346, 352, 361, 349 and 354 g. What do
+    you do?
+  options:
+    - >-
+      Reset the divider to 345 g, because the average is above 350 g.
+    - >-
+      Accept the load, because four pieces out of five are within tolerance.
+    - >-
+      Cut the 361 g piece back to weight and keep checking the next loads.
+    - >-
+      Return the load to the tub and divide the whole batch again by hand.
+  correct: 2
+  explanation: >-
+    Only 361 g is outside 345-355 g. One piece is corrected; the setting is right (average 352.4 g).
+    Changing the divider or re-dividing everything is not justified by one piece.
+
+- id: q5
+  question: >-
+    A learner's oven tray measures 44 cm across. The pâtons are 270 g. Which shaping length is right?
+  options:
+    - >-
+      About 55 cm, the bakery length, baked curved on the tray
+    - >-
+      About 39-40 cm, the tray width minus 4-5 cm
+    - >-
+      About 44 cm, so the baguette uses the whole tray
+    - >-
+      About 25 cm, so the three baguettes bake faster
+  correct: 1
+  explanation: >-
+    Shape to the tray width minus 4-5 cm so the ends do not touch the walls. At 270 g that keeps a
+    thickness close to a 350 g, 55 cm bakery baguette, so the bake is similar.
+
+- id: q6
+  question: >-
+    Bake log: "Apprêt 1 h 10, poke test: fills back slowly. Scored with a knife held upright, cuts
+    about 1.5 cm deep. Steam at loading. Result: cuts open as wide flat grooves, no ear, loaves
+    spread." What is the most likely cause?
+  options:
+    - >-
+      The scoring: an upright, deep cut leaves no flap to form an ear.
+    - >-
+      Under-proofing: the poke test should have stayed without filling back.
+    - >-
+      Too much steam, which kept the cuts too soft to form an ear.
+    - >-
+      Too short a bake, because the ear only forms in the last minutes.
+  correct: 0
+  explanation: >-
+    Proof and steam were right. An ear needs the blade held low (30-45°) and a shallow cut (5-6 mm);
+    upright and deep, the cut opens flat and the baguette splays.
+
+- id: q7
+  question: >-
+    You poke-test four baguettes after apprêt. Which reading tells you to load them now?
+  options:
+    - >-
+      The dent springs back at once and leaves no mark.
+    - >-
+      The dent stays and the baguette sinks a little around it.
+    - >-
+      The baguette has tripled in volume and feels very soft and fragile.
+    - >-
+      The dent fills back slowly, not fully; the piece is puffy.
+  correct: 3
+  explanation: >-
+    A slow, incomplete spring-back means slightly short of full proof, which is what baguettes need for
+    oven spring and open grignes. Instant spring-back is under-proofed; a dent that stays or a tripled,
+    fragile piece is over-proofed.
+
+- id: q8
+  question: >-
+    Home batch control: three PC-02 baguettes from 270 g pâtons weigh 202 g each after cooling. Salt
+    is 1.076 % of the dough. What is the salt per 100 g of bread?
+  options:
+    - >-
+      1.08 g: conforms
+    - >-
+      1.35 g: conforms
+    - >-
+      1.44 g: over the 1.4 g limit
+    - >-
+      1.80 g: over the 1.4 g limit
+  correct: 2
+  explanation: >-
+    270 × 1.076 % = 2.91 g of salt in 202 g = 1.44 g per 100 g: the 25 % loss concentrates it. 1.08 is
+    the salt in the dough, 1.35 assumes the 20 % planning loss, and 1.8 is the % of flour.
+
+- id: q9
+  question: >-
+    Bake log: "Dough 27.5 °C after mixing. Pointage 45 min and apprêt 1 h 15, both by the clock.
+    Baguettes flat, pale, cuts flat, sour smell." Which stage started the problem?
+  options:
+    - >-
+      Mixing: a warm dough over-fermented on unchanged times.
+    - >-
+      Shaping: too little tension let the baguettes spread.
+    - >-
+      Baking: the oven was too cool, so the crust stayed pale and flat.
+    - >-
+      Dividing: the pieces were too light to hold their shape.
+  correct: 0
+  explanation: >-
+    3.5 °C over target is about 27 % faster fermentation. Kept to the clock, the dough over-fermented:
+    flat, pale (sugars used up), sour, cuts that do not open. The fix starts with the water temperature.
+
+- id: q10
+  question: >-
+    At 5:30 the proofing cabinet displays 25 °C, but your probe in a glass of water inside reads 29 °C.
+    The baguettes are proofing fast. Which action and report fit best?
+  options:
+    - >-
+      Say nothing, bake as planned at 6:00 and mention it if customers complain.
+    - >-
+      Set the display to 21 °C so the average works out and finish the shift.
+    - >-
+      Poke-test now and bake when ready; report the facts, readings and action.
+    - >-
+      Stop the batch and throw the baguettes away, since the cabinet is unsafe.
+  correct: 2
+  explanation: >-
+    About 4 °C hotter means roughly a third faster: bake on the poke test, not the clock. Then report
+    the malfunction with the readings, so it is repaired; guessing a setting or hiding it repeats the fault.

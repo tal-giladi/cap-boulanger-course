@@ -58,3 +58,19 @@
   - [38 · Pre-ferment and Levain Calculations](/lessons/module-06/lesson-04.md)
   - [39 · Cost of a Product](/lessons/module-06/lesson-05.md)
   - [Module 6 quiz](/assessments/module-06-quiz.md)
+- **Module 7 — The Production Process**
+  - [40 · The 18 Stages from Order to Clean Bench](/lessons/module-07/lesson-01.md)
+  - [41 · From Order to Mixing](/lessons/module-07/lesson-02.md)
+  - [42 · From Bulk to Shaping](/lessons/module-07/lesson-03.md)
+  - [43 · Scoring, Steam and Loading the Oven](/lessons/module-07/lesson-04.md)
+  - [44 · Baking, Cooling, Staling and Storage](/lessons/module-07/lesson-05.md)
+  - [Module 7 quiz](/assessments/module-07-quiz.md)
+
+- Part 2 — Bread Production
+- **Module 8 — Pain Courant**
+  - [45 · Pain Courant: Formula and Mixing](/lessons/module-08/lesson-01.md)
+  - [46 · Fermentation and Dividing](/lessons/module-08/lesson-02.md)
+  - [47 · Shaping Baguettes](/lessons/module-08/lesson-03.md)
+  - [48 · Scoring and Baking Baguettes](/lessons/module-08/lesson-04.md)
+  - [49 · Evaluating Your Pain Courant](/lessons/module-08/lesson-05.md)
+  - [Module 8 quiz](/assessments/module-08-quiz.md)

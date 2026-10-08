@@ -1,0 +1,87 @@
+- id: q1
+  question: >-
+    Your home oven tray is 41 cm wide and your pâtons weigh 270 g. To what length do you shape the
+    baguettes?
+  options:
+    - >-
+      About 55 cm, the bakery length, curved to fit on the tray
+    - >-
+      About 25 cm, so they bake like short bâtards
+    - >-
+      Exactly 41 cm, the full width of the tray
+    - >-
+      About 36-37 cm, the tray width minus 4-5 cm
+  correct: 3
+  explanation: >-
+    Shape to the tray width minus 4-5 cm so the ends do not touch the oven walls. At 270 g that gives
+    a thickness close to a 350 g bakery baguette of 55 cm, so the bake is similar.
+
+- id: q2
+  question: >-
+    Several baguettes open along the seam during apprêt. Which shaping fault is the most likely?
+  options:
+    - >-
+      The seam was not sealed along its length, or flour was trapped in it.
+    - >-
+      The baguettes were rolled out in three passes instead of one.
+    - >-
+      The pieces were shaped in the order they were divided.
+    - >-
+      The bench was used with almost no flour during rolling out.
+  correct: 0
+  explanation: >-
+    The seam must be sealed with the heel of the hand along its whole length, with no flour inside.
+    Several passes, division order and a nearly flour-free bench are all correct practice.
+
+- id: q3
+  question: >-
+    A trainee's baguettes keep tearing at the second rolling pass. The détente was 25 minutes and the
+    flour is a strong white flour. What do you advise?
+  options:
+    - >-
+      Add flour to the bench so the dough slides and cannot stick and tear.
+    - >-
+      Roll out in one firm pass so the gluten has no time to tighten.
+    - >-
+      Fold more lightly, give 5-10 more minutes of rest, and roll out in gentle passes.
+    - >-
+      Fold more tightly and seal harder so the skin is strong enough to stretch.
+  correct: 2
+  explanation: >-
+    Strong flour needs lighter tension and more rest. One forced pass or tighter folds tear it more,
+    and flour on the bench stops the dough from gripping, so it will not lengthen.
+
+- id: q4
+  question: >-
+    Why does a baker place baguettes seam up in the couche?
+  options:
+    - >-
+      So the seam dries out and cannot be seen on the finished bread.
+    - >-
+      Because they are turned over onto the transfer board and go into the oven seam down.
+    - >-
+      Because the seam proofs faster when it faces the air of the cabinet.
+    - >-
+      So that the scores can be cut along the seam, where the dough is thinnest.
+  correct: 1
+  explanation: >-
+    The planchette rolls the baguette out of the couche and turns it over, so it is seam down on the
+    loader. On baking paper at home, where it is not turned, shape seam down.
+
+- id: q5
+  question: >-
+    Bake log: "Baguettes flat and wide after apprêt, round crumb, seams closed, no tears." Dough
+    temperature and apprêt time were on target. What is the most likely shaping cause?
+  options:
+    - >-
+      Too much tension, which squeezed the gas out of the pieces.
+    - >-
+      The pieces were shaped in the wrong order, so they proofed unevenly.
+    - >-
+      The pâtons were 270 g instead of 350 g, so they had less dough.
+    - >-
+      Too little tension and no support between pieces during apprêt.
+  correct: 3
+  explanation: >-
+    With fermentation on target, flat and wide pieces point to slack shaping and nothing holding
+    their sides: tighter folds and seal, and couche folds or rolled towels between pieces.

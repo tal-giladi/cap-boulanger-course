@@ -1,0 +1,86 @@
+- id: q1
+  question: >-
+    Bake log: "Baguettes from the cabinet at 1 h 40 instead of 1 h 15. Scored normally, steam OK.
+    Cuts flat, no ear, slightly spread." What is the most likely cause?
+  options:
+    - >-
+      Under-proofing, because the gas had not yet filled the dough
+    - >-
+      Over-proofing, leaving no oven spring to open the cuts
+    - >-
+      Too much steam, which glued the cuts closed
+    - >-
+      Too few cuts for the length of the baguette
+  correct: 1
+  explanation: >-
+    Twenty-five minutes over and flat, spread cuts point to over-proofing: the dough has no push left.
+    Under-proofed baguettes tear at the side instead.
+
+- id: q2
+  question: >-
+    A trainee scores with the lame held upright and cuts 1.5 cm deep. What will the grignes look like?
+  options:
+    - >-
+      Deep, open cuts with a tall, crisp ear on every baguette
+    - >-
+      Cuts that seal up again because they are too shallow
+    - >-
+      Wide, flat grooves with no ear, and a splayed loaf
+    - >-
+      Side tears, because deep cuts stop the oven spring
+  correct: 2
+  explanation: >-
+    An ear needs a thin flap of skin: blade low (30-45°) and about 5-6 mm deep. Upright and deep, the
+    cut opens as a flat groove and the baguette splays.
+
+- id: q3
+  question: >-
+    Why is steam put into the oven at loading?
+  options:
+    - >-
+      It keeps the skin supple so the dough expands and the cuts open, and gives a thin shiny crust.
+    - >-
+      It cools the oven by about 20 °C so the baguettes do not burn in the first minutes.
+    - >-
+      It makes the crust thicker and harder so the baguette keeps longer in the shop.
+    - >-
+      It kills the yeast at the surface so the crust browns more quickly.
+  correct: 0
+  explanation: >-
+    Condensed steam keeps the surface soft during oven spring and gelatinises the surface starch.
+    Without it the crust sets early: dull, thick crust and poorly opened scores.
+
+- id: q4
+  question: >-
+    Home bake: core reading in the thickest part is 86 °C after 20 minutes; the crust is light golden.
+    What do you do?
+  options:
+    - >-
+      Take them out: above 80 °C the starch has fully set and the bread is done.
+    - >-
+      Take them out and let the heat of cooling finish the bake on the rack.
+    - >-
+      Add steam again for 5 minutes so the crust colours more evenly.
+    - >-
+      Bake on until the crust is deep golden and the core is at least 93 °C.
+  correct: 3
+  explanation: >-
+    A baguette is done at a core of at least 93 °C (usually 96-98 °C) with a deep golden crust. At
+    86 °C the crumb near the centre is still gummy, and a pale crust softens quickly.
+
+- id: q5
+  question: >-
+    Which scoring pattern suits a 38 cm home baguette?
+  options:
+    - >-
+      Five short cuts across the loaf, evenly spaced from end to end
+    - >-
+      Three cuts of about 13 cm along the midline, overlapping by a third
+    - >-
+      One cut along the whole length, 2 cm deep, to give maximum opening
+    - >-
+      Three cuts at right angles to the length, each through the middle
+  correct: 1
+  explanation: >-
+    Cuts nearly parallel to the length, close to the midline and overlapping by about a third guide
+    expansion along the baguette. Cuts across the loaf do not, and a single deep cut splays it.

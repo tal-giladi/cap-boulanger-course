@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 520" width="900" height="520" role="img" aria-labelledby="t d">
+  <title id="t">Scoring a baguette: cuts along the midline, overlapping by a third, blade held low</title>
+  <desc id="d">Top: a 55 cm bakery baguette with five cuts and a 38 cm home baguette with three cuts. Each cut runs almost parallel to the length, close to the centre line, and overlaps the next by about one third of its length. A wrong example shows short cuts across the loaf, like a barber's pole, which do not open. Bottom: a cross-section. The blade is held low, about 30 to 45 degrees from the surface, and cuts about 5 millimetres deep, under a thin flap of skin. In the oven the flap lifts into an ear (the grigne) as the loaf expands.</desc>
+  <rect x="0" y="0" width="900" height="520" fill="#ffffff"/>
+  <g font-family="Arial, Helvetica, sans-serif" fill="#222222">
+    <text x="450" y="32" text-anchor="middle" font-size="21" font-weight="bold">Scoring (grignage): where to cut and how to hold the lame</text>
+
+    <!-- bakery baguette 5 cuts -->
+    <text x="30" y="78" font-size="14" font-weight="bold">Bakery, 350 g, about 55 cm: 5 cuts</text>
+    <path d="M 40 112 Q 60 96 90 96 L 790 96 Q 820 96 840 112 Q 820 128 790 128 L 90 128 Q 60 128 40 112 Z" fill="#e3cf9f" stroke="#a8874a" stroke-width="2"/>
+    <line x1="110" y1="116" x2="265" y2="108" stroke="#7a3b10" stroke-width="3"/>
+    <line x1="215" y1="116" x2="370" y2="108" stroke="#7a3b10" stroke-width="3"/>
+    <line x1="320" y1="116" x2="475" y2="108" stroke="#7a3b10" stroke-width="3"/>
+    <line x1="425" y1="116" x2="580" y2="108" stroke="#7a3b10" stroke-width="3"/>
+    <line x1="530" y1="116" x2="685" y2="108" stroke="#7a3b10" stroke-width="3"/>
+    <text x="242" y="150" text-anchor="middle" font-size="12" fill="#c0392b">overlap about 1/3</text>
+    <line x1="215" y1="138" x2="265" y2="138" stroke="#c0392b" stroke-width="2"/>
+
+    <!-- home baguette 3 cuts -->
+    <text x="30" y="190" font-size="14" font-weight="bold">Home, 270 g, about 38 cm: 3 cuts</text>
+    <path d="M 40 222 Q 58 207 85 207 L 545 207 Q 572 207 590 222 Q 572 237 545 237 L 85 237 Q 58 237 40 222 Z" fill="#e3cf9f" stroke="#a8874a" stroke-width="2"/>
+    <line x1="95" y1="226" x2="265" y2="218" stroke="#7a3b10" stroke-width="3"/>
+    <line x1="210" y1="226" x2="380" y2="218" stroke="#7a3b10" stroke-width="3"/>
+    <line x1="325" y1="226" x2="495" y2="218" stroke="#7a3b10" stroke-width="3"/>
+    <text x="315" y="262" text-anchor="middle" font-size="12">cuts nearly parallel to the length, close to the centre line</text>
+
+    <!-- wrong -->
+    <text x="640" y="190" font-size="14" font-weight="bold" fill="#c0392b">Wrong: across the loaf</text>
+    <path d="M 630 222 Q 645 210 665 210 L 845 210 Q 865 210 880 222 Q 865 234 845 234 L 665 234 Q 645 234 630 222 Z" fill="#e3cf9f" stroke="#a8874a" stroke-width="2"/>
+    <line x1="675" y1="232" x2="700" y2="212" stroke="#7a3b10" stroke-width="3"/>
+    <line x1="720" y1="232" x2="745" y2="212" stroke="#7a3b10" stroke-width="3"/>
+    <line x1="765" y1="232" x2="790" y2="212" stroke="#7a3b10" stroke-width="3"/>
+    <line x1="810" y1="232" x2="835" y2="212" stroke="#7a3b10" stroke-width="3"/>
+    <text x="755" y="262" text-anchor="middle" font-size="12">short, no overlap: the loaf</text>
+    <text x="755" y="278" text-anchor="middle" font-size="12">does not open along its length</text>
+
+    <!-- cross sections -->
+    <line x1="30" y1="300" x2="870" y2="300" stroke="#dddddd" stroke-width="1.5"/>
+    <text x="230" y="330" text-anchor="middle" font-size="15" font-weight="bold">Right: blade low, about 5 mm deep</text>
+    <path d="M 100 470 L 100 420 Q 100 370 160 360 L 300 360 Q 360 370 360 420 L 360 470 Z" fill="#e3cf9f" stroke="#a8874a" stroke-width="2"/>
+    <path d="M 175 362 L 245 378" stroke="#7a3b10" stroke-width="3"/>
+    <rect x="235" y="338" width="90" height="10" fill="#b0b8c0" stroke="#555555" stroke-width="1" transform="rotate(13 235 343)"/>
+    <text x="330" y="335" font-size="12">lame 30-45° to the surface</text>
+    <text x="230" y="495" text-anchor="middle" font-size="12">a thin flap of skin over the cut</text>
+
+    <text x="680" y="330" text-anchor="middle" font-size="15" font-weight="bold">In the oven: the flap lifts into an ear</text>
+    <path d="M 550 470 L 550 410 Q 550 360 610 345 L 680 340 Q 700 300 740 312 L 700 345 L 750 345 Q 810 360 810 410 L 810 470 Z" fill="#c99a52" stroke="#8a5a20" stroke-width="2"/>
+    <text x="760" y="300" font-size="12" fill="#8a5a20">oreille (ear)</text>
+    <text x="680" y="495" text-anchor="middle" font-size="12">open grigne: pale cut edge, crisp raised ear</text>
+  </g>
+</svg>
