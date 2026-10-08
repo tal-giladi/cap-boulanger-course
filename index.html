@@ -12,7 +12,8 @@
     window.$docsify = {
       name: "CAP Boulanger Preparation",
       repo: "tal-giladi/cap-boulanger-course",
-      loadSidebar: true,
+      loadSidebar: "_site_sidebar.md",
+      alias: { ".*/_site_sidebar.md": "/_site_sidebar.md" },
       subMaxLevel: 2,
       auto2top: true,
       relativePath: true,
