@@ -1,0 +1,88 @@
+- id: q1
+  question: >-
+    The price board says "Baguette 1,30 € TTC". What is the price before VAT (HT)?
+  options:
+    - >-
+      €1.232, dividing by 1.055
+    - >-
+      €1.229, taking 5.5 % off
+    - >-
+      €1.083, dividing by 1.20
+    - >-
+      €1.182, dividing by 1.10
+  correct: 0
+  explanation: >-
+    Bread sold to take away is at 5.5 %: HT = 1.30 ÷ 1.055 = €1.232. Taking 5.5 % off the TTC price
+    is a common slip; 20 % and 10 % are the wrong rates for bread.
+
+- id: q2
+  question: >-
+    The PC-02 batch cost €5.44 in materials. It made 9,844 g of dough, of which 9,600 g became 24
+    baguettes of 350 g and 20 rolls of 60 g. Material cost of one baguette?
+  options:
+    - >-
+      €0.193
+    - >-
+      €0.227
+    - >-
+      €0.198
+    - >-
+      €0.353
+  correct: 2
+  explanation: >-
+    Losses are paid by the pieces sold: 5.44 ÷ 9,600 × 350 = €0.198. Dividing by the 9,844 g made
+    hides the losses; dividing by 24 forgets the rolls; dividing by the flour weight is a unit slip.
+
+- id: q3
+  question: >-
+    At lunchtime the shop sells the same baguette plain (€1.30) and as a ham-and-butter sandwich
+    ready to eat (€5.50). Which VAT rates apply?
+  options:
+    - >-
+      5.5 % on both, because both are bakery products made in the fournil.
+    - >-
+      5.5 % on the plain baguette and 10 % on the sandwich sold to eat now.
+    - >-
+      10 % on both, because the shop sells them over the same counter.
+    - >-
+      20 % on the sandwich, because it contains meat and butter.
+  correct: 1
+  explanation: >-
+    Bread kept to eat later is food at 5.5 %. Food prepared for immediate consumption and sold to
+    take away is at 10 %, like food served on the premises.
+
+- id: q4
+  question: >-
+    Costing sheet for one baguette: materials €0.20, labour €0.34, energy €0.06, overheads €0.31.
+    Price €1.30 TTC, VAT 5.5 %. What margin does the bakery make per baguette?
+  options:
+    - >-
+      €0.39
+    - >-
+      €0.27
+    - >-
+      €0.17
+    - >-
+      €0.32
+  correct: 3
+  explanation: >-
+    Full cost = 0.20 + 0.34 + 0.06 + 0.31 = €0.91; HT = 1.30 ÷ 1.055 = €1.23; margin = €0.32.
+    €0.39 counts the VAT as income; €0.27 and €0.17 use 10 % and 20 % VAT.
+
+- id: q5
+  question: >-
+    A new roll costs €0.198 in materials. The bakery sets prices with a multiplier of 6 on
+    materials, and the roll is sold as bread to take away. Which prices go on the board?
+  options:
+    - >-
+      HT €1.25, TTC €1.19
+    - >-
+      HT €1.19, TTC €1.43
+    - >-
+      HT €1.19, TTC €1.25
+    - >-
+      HT €1.19, TTC €1.31
+  correct: 2
+  explanation: >-
+    HT = 0.198 × 6 = €1.19; TTC = 1.19 × 1.055 = €1.25. 20 % VAT gives €1.43 and 10 % gives €1.31,
+    both wrong for bread; TTC is never below HT.

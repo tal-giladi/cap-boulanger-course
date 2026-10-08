@@ -1,0 +1,90 @@
+- id: q1
+  question: >-
+    Technical sheet PD-01 (flour 100, water 65, salt 1.8, fresh yeast 1.5) must be made on 4.5 kg
+    of flour this afternoon. How much salt do you weigh?
+  options:
+    - >-
+      81 g
+    - >-
+      136 g
+    - >-
+      8.1 g
+    - >-
+      90 g
+  correct: 0
+  explanation: >-
+    4,500 × 1.8 ÷ 100 = 81 g. 136 g is 1.8 % of the whole dough (7,573.5 g), 8.1 g is a decimal
+    slip and 90 g uses 2 % instead of the sheet's 1.8 %.
+
+- id: q2
+  question: >-
+    The PC-02 sheet's base column makes 1,823 g of dough from 1 kg of flour (flour 100, water 64,
+    salt 1.8, yeast 1.5, pâte fermentée 15). You need 12,761 g of dough, with no allowance. How
+    much flour?
+  options:
+    - >-
+      7,628 g
+    - >-
+      12,761 g
+    - >-
+      7,000 g
+    - >-
+      23,263 g
+  correct: 2
+  explanation: >-
+    Factor = 12,761 ÷ 1,823 = 7, so 7 × 1,000 g = 7,000 g of flour. 7,628 g leaves the pâte
+    fermentée out of the total (167.3 %); 23,263 g multiplies by 1.823 instead of dividing.
+
+- id: q3
+  question: >-
+    Saturday's order needs PC-02 on 15 kg of flour (27,345 g of dough). The spiral mixer's plate
+    says 25 kg of dough maximum. What do you do?
+  options:
+    - >-
+      Mix it in one batch but shorten the second speed so the motor does not overheat.
+    - >-
+      Make two equal batches of 7.5 kg of flour, each calculated from the percentages.
+    - >-
+      Make one batch of 13.7 kg of flour and add the remaining 1.3 kg to the second speed.
+    - >-
+      Reduce the water to 55 % so the 15 kg dough is lighter and fits the bowl.
+  correct: 1
+  explanation: >-
+    Over capacity the mixer cannot develop the dough and can trip. Split into equal batches,
+    each from the sheet's percentages: 2 × 7.5 kg of flour, 13,672.5 g of dough each.
+
+- id: q4
+  question: >-
+    The 4.5 kg PD-01 batch needs 67.5 g of fresh yeast, but only instant dry yeast is in stock.
+    Which weight do you use?
+  options:
+    - >-
+      67.5 g, because the yeast percentage on the sheet does not change.
+    - >-
+      202.5 g, three times the fresh weight to make up for the drying.
+    - >-
+      6.8 g, one tenth of the fresh weight because dry yeast is concentrated.
+    - >-
+      22.5 g, about one third of the fresh weight.
+  correct: 3
+  explanation: >-
+    Instant dry yeast is about one third of the fresh weight: 67.5 ÷ 3 = 22.5 g. Using the same
+    weight triples the yeast; multiplying by three makes it nine times too strong.
+
+- id: q5
+  question: >-
+    A supplier's leaflet gives "farine 10 kg, eau 65 %, sel 2 %, levure 1 %" for baguettes sold
+    as pain courant. Using a 20 % baking loss, what do you tell the chef before scaling it?
+  options:
+    - >-
+      The salt is fine: 2 % of flour is below the 2.2 % technical maximum.
+    - >-
+      The yeast is too low: 1 % cannot raise a pain courant dough at all.
+    - >-
+      The salt gives about 1.49 g per 100 g of bread: lower it to about 1.8 %.
+    - >-
+      The salt must be 2 % of the dough weight, so it should be 336 g.
+  correct: 2
+  explanation: >-
+    Bread ≈ 168 × 0.80 ≈ 134 g per 100 g of flour; 2 ÷ 134 × 100 ≈ 1.49 g per 100 g, above the
+    1.4 g limit for pain courant. At 1.8 % it is about 1.34 g.

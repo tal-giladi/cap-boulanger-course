@@ -1,0 +1,182 @@
+- id: q1
+  question: >-
+    Commande de production: 36 baguettes at 350 g and 30 rolls at 60 g, one dough, fiche PC-02
+    (flour 100, water 64, salt 1.8, fresh yeast 1.5, pâte fermentée 15). "Pertes: 2 %. Arrondir
+    la farine à la centaine de grammes supérieure." How much flour goes on the sheet?
+  options:
+    - >-
+      7,900 g
+    - >-
+      8,800 g
+    - >-
+      8,100 g
+    - >-
+      14,700 g
+  correct: 2
+  explanation: >-
+    Dough 12,600 + 1,800 = 14,400 g; with 2 % 14,688 g; flour 14,688 × 100 ÷ 182.3 = 8,057 g, rounded
+    up to 8,100 g. 7,900 g forgets the losses; 8,800 g leaves the pâte fermentée out of the total.
+
+- id: q2
+  question: >-
+    The PD-01 sheet (flour 100, water 65, salt 1.8, fresh yeast 1.5) has a base 1 kg column. Monday's
+    batch is 4.5 kg of flour. Which requisition line is correct?
+  options:
+    - >-
+      Water 2,925 g; salt 81 g; fresh yeast 67.5 g.
+    - >-
+      Water 2,925 g; salt 136 g; fresh yeast 114 g.
+    - >-
+      Water 4,923 g; salt 81 g; fresh yeast 67.5 g.
+    - >-
+      Water 2,925 g; salt 8.1 g; fresh yeast 6.8 g.
+  correct: 0
+  explanation: >-
+    Every weight is flour × %: 4,500 × 0.65, × 0.018 and × 0.015. 136 g, 114 g and 4,923 g are
+    percentages of the 7,573.5 g dough; 8.1 g and 6.8 g are decimal slips.
+
+- id: q3
+  question: >-
+    Friday's stock sheet: "Levure fraîche: 140 g restants, livraison lundi." Saturday's PD-01
+    dough uses 1.5 % fresh yeast. What is the largest batch you can mix, flour to the nearest
+    100 g in the safe direction?
+  options:
+    - >-
+      9,400 g of flour
+    - >-
+      14,000 g of flour
+    - >-
+      2,100 g of flour
+    - >-
+      9,300 g of flour
+  correct: 3
+  explanation: >-
+    Max flour = 140 ÷ 1.5 × 100 = 9,333 g. A stock limit is rounded down: 9,300 g uses 139.5 g of
+    yeast. 9,400 g would need 141 g; 14,000 g uses 1 % instead of 1.5 %.
+
+- id: q4
+  question: >-
+    Fiche technique "Baguette sur poolish": total flour 6,000 g, overall water 68 %, 40 % of the
+    flour in a poolish at 100 % hydration. Which water weight goes in the final dough?
+  options:
+    - >-
+      4,080 g
+    - >-
+      1,680 g
+    - >-
+      2,448 g
+    - >-
+      2,400 g
+  correct: 1
+  explanation: >-
+    Total water 6,000 × 0.68 = 4,080 g, of which 2,400 g is in the poolish: 4,080 − 2,400 = 1,680 g.
+    2,448 g is 68 % of the 3,600 g in the mixer, ignoring the poolish water.
+
+- id: q5
+  question: >-
+    Fiche "Pain au levain": final mixing with 7,500 g of flour and 2,000 g of levain dur
+    (60 % hydration, so 1,250 g of flour inside). "Levure: si besoin." The bread is sold as pain au
+    levain. Maximum fresh yeast?
+  options:
+    - >-
+      17.5 g
+    - >-
+      75 g
+    - >-
+      15 g
+    - >-
+      150 g
+  correct: 2
+  explanation: >-
+    Décret 93-1074 art. 4: at most 0.2 % of the flour used at final mixing: 7,500 × 0.002 = 15 g.
+    17.5 g wrongly adds the levain's flour; 75 g and 150 g are 1 % and 2 %.
+
+- id: q6
+  question: >-
+    Technical sheet "Pain de campagne": flour T65 2,000 g, water 1,320 g (66 %), salt 36 g, levain
+    liquide (100 %) 600 g. A colleague says the dough is at 66 %. What is the true hydration?
+  options:
+    - >-
+      70.4 %
+    - >-
+      66.0 %
+    - >-
+      81.0 %
+    - >-
+      57.4 %
+  correct: 0
+  explanation: >-
+    The levain holds 300 g of flour and 300 g of water: 1,620 ÷ 2,300 = 70.4 %. 81 % adds the
+    levain's water but not its flour; 57.4 % adds its flour but not its water.
+
+- id: q7
+  question: >-
+    Bake log: "20 baguettes, pâton 350 g. Pesée totale après ressuage 1 h: 5,560 g." What is the
+    baking loss?
+  options:
+    - >-
+      25.9 %
+    - >-
+      79.4 %
+    - >-
+      2.1 %
+    - >-
+      20.6 %
+  correct: 3
+  explanation: >-
+    Average baked weight 5,560 ÷ 20 = 278 g; loss (350 − 278) ÷ 350 × 100 = 20.6 %. 25.9 % divides
+    by the baked weight; 79.4 % is the yield.
+
+- id: q8
+  question: >-
+    A hotel orders boules "poids cuit 500 g". Your bake log shows this shape loses 15 %. The
+    bakery rounds pâtons up to the next 5 g. What pâton do you divide?
+  options:
+    - >-
+      575 g
+    - >-
+      590 g
+    - >-
+      425 g
+    - >-
+      515 g
+  correct: 1
+  explanation: >-
+    Pâton = 500 ÷ 0.85 = 588 g, rounded up to 590 g. 575 g (500 × 1.15) would come out at about
+    489 g, under the weight the hotel ordered.
+
+- id: q9
+  question: >-
+    Costing sheet: "Pain de campagne 600 g: coût de revient 2,95 €. Prix affiché 4,20 € TTC." Bread
+    is sold to take away. What margin does the bakery make per loaf?
+  options:
+    - >-
+      €1.03
+    - >-
+      €1.25
+    - >-
+      €0.87
+    - >-
+      €0.55
+  correct: 0
+  explanation: >-
+    HT = 4.20 ÷ 1.055 = €3.98; margin = 3.98 − 2.95 = €1.03. €1.25 treats the VAT as income;
+    €0.87 and €0.55 use the 10 % and 20 % rates instead of 5.5 %.
+
+- id: q10
+  question: >-
+    Quality note: "Petits pains PD-01 (sel 1.8 %), pâton 60 g, cuisson prolongée, poids cuit
+    45 g." Is the salt still within the 1.4 g per 100 g of bread limit for pain courant?
+  options:
+    - >-
+      Yes: salt at 1.8 % of flour always stays under the limit.
+    - >-
+      Yes: about 1.07 g per 100 g, since salt is 1.07 % of the dough.
+    - >-
+      No: about 1.43 g per 100 g; shorten the bake or lower the salt.
+    - >-
+      No: 1.8 g per 100 g, the same as the sheet's percentage.
+  correct: 2
+  explanation: >-
+    Salt in the pâton = 60 × 1.8 ÷ 168.3 = 0.64 g; in 45 g of bread that is 1.43 g per 100 g. The
+    25 % loss concentrated the salt: check small pieces with their real loss.

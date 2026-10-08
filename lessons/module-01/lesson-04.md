@@ -86,7 +86,7 @@ You do not need laboratory weights. The European Central Bank publishes the mass
 
 ### Checking the thermometer
 
-Dough temperature is one of the most important numbers in this course (module 5). A probe thermometer is checked in **iced water**: a glass packed with ice, topped with cold water, stirred. Push the probe at least 5 cm into the slush without touching the glass, wait until the reading is steady: it should read 0 °C. Texas A&M AgriLife Extension accepts ±2 °F, about ±1 °C. Some thermometers can be reset; if yours cannot, write its offset on it (for example "+1 °C") and subtract it from every reading. The boiling-water check (100 °C) only works at sea level: water boils at a lower temperature at altitude.
+Dough temperature is one of the most important numbers in this course ([module 5](../module-05/lesson-02.md)). A probe thermometer is checked in **iced water**: a glass packed with ice, topped with cold water, stirred. Push the probe at least 5 cm into the slush without touching the glass, wait until the reading is steady: it should read 0 °C. Texas A&M AgriLife Extension accepts ±2 °F, about ±1 °C. Some thermometers can be reset; if yours cannot, write its offset on it (for example "+1 °C") and subtract it from every reading. The boiling-water check (100 °C) only works at sea level: water boils at a lower temperature at altitude.
 
 ```mermaid
 flowchart LR

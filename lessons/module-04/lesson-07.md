@@ -105,7 +105,7 @@ Tuesday, PC-02 batch (lesson [01.6](../module-01/lesson-06.md)). The shop compla
 2. **Evidence.** The dough was 3.5 °C above the TPV of 24 °C, but the times were the sheet's times. Yeast, salt and pâte fermentée were as usual.
 3. **Size of the error.** About 7 % faster per °C: 1.07^3.5 ≈ 1.27, so the dough fermented about a quarter faster. Over pointage and apprêt (2 h in total), that is roughly the equivalent of 30 extra minutes of fermentation at 24 °C.
 4. **Probable cause.** The water temperature was not lowered for the hot day, and the times were not adapted to the warm dough; the poke test was skipped.
-5. **What should have happened.** Pointage checked from about 35 minutes; apprêt checked from about 55 minutes with the poke test; better still, colder water (Module 5 shows how to calculate it).
+5. **What should have happened.** Pointage checked from about 35 minutes; apprêt checked from about 55 minutes with the poke test; better still, colder water ([Module 5](../module-05/lesson-02.md) shows how to calculate it).
 6. **The report.** Using the [non-conformity report](../../templates/non-conformity-report.md):
    - *Facts:* 24 baguettes, batch of 14/07, flat, pale, coarse crumb under the crust, sour; dough at 27.5 °C instead of 24 °C; times not adapted; no poke test recorded.
    - *Immediate action:* baguettes sold at a reduced price or kept back, as the manager decides; manager informed at 7:10.

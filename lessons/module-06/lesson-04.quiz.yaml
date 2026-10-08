@@ -1,0 +1,89 @@
+- id: q1
+  question: >-
+    Overall formula for baguettes on poolish: 10 kg of flour, water 66 %, with 30 % of the flour in
+    a poolish at 100 % hydration. How much water goes into the final dough?
+  options:
+    - >-
+      6,600 g
+    - >-
+      4,620 g
+    - >-
+      3,600 g
+    - >-
+      3,000 g
+  correct: 2
+  explanation: >-
+    Total water 6,600 g minus the 3,000 g already in the poolish = 3,600 g. 4,620 g is 66 % of the
+    7,000 g in the mixer, which ignores the poolish water; 3,000 g is the poolish water itself.
+
+- id: q2
+  question: >-
+    PC-02 batch: 5,400 g of flour, 3,456 g of water and 810 g of pâte fermentée taken from
+    yesterday's PC-02 dough. What is the dough's true overall hydration?
+  options:
+    - >-
+      64.0 %, because the pâte fermentée has the same ratios as the dough.
+    - >-
+      79.0 %, because the pâte fermentée is added to the water side.
+    - >-
+      69.7 %, because the pâte fermentée's water is added to the water.
+    - >-
+      55.6 %, because the pâte fermentée is added to the flour side.
+  correct: 0
+  explanation: >-
+    The 810 g contain about 484 g of flour and 310 g of water: 3,766 ÷ 5,884 = 64.0 %. Counting only
+    its water (69.7 %) or treating it as all water or all flour gives a wrong figure.
+
+- id: q3
+  question: >-
+    A sheet reads: flour 1,000 g, water 680 g, salt 18 g, levain liquide (100 %) 200 g. What is
+    the dough's true hydration?
+  options:
+    - >-
+      68.0 %
+    - >-
+      88.0 %
+    - >-
+      78.0 %
+    - >-
+      70.9 %
+  correct: 3
+  explanation: >-
+    The levain holds 100 g of flour and 100 g of water: 780 ÷ 1,100 = 70.9 %. 68 % ignores the
+    levain; 78 % adds its water but not its flour; 88 % counts all of it as water.
+
+- id: q4
+  question: >-
+    You need 1,000 g of ripe firm levain (60 % hydration) and use a 25 % seed of mature levain on
+    the new flour. What do you weigh?
+  options:
+    - >-
+      625 g flour, 375 g water and 156 g seed.
+    - >-
+      541 g flour, 324 g water and 135 g seed.
+    - >-
+      500 g flour, 300 g water and 200 g seed.
+    - >-
+      588 g flour, 353 g water and 59 g seed.
+  correct: 1
+  explanation: >-
+    F = 1,000 ÷ (1 + 0.6 + 0.25) = 541 g; water 0.6 × 541 = 324 g; seed 0.25 × 541 = 135 g; total
+    1,000 g. 625/375/156 forgets the seed in the total and makes 1,156 g.
+
+- id: q5
+  question: >-
+    Fiche "pain au levain": 5,000 g of flour in the final mixing plus 1,500 g of liquid levain
+    (100 %). The bread will be sold as "pain au levain". Maximum fresh yeast at final mixing?
+  options:
+    - >-
+      11.5 g
+    - >-
+      50 g
+    - >-
+      1 g
+    - >-
+      10 g
+  correct: 3
+  explanation: >-
+    Décret 93-1074 art. 4: at most 0.2 % of the flour used at that stage, 5,000 × 0.002 = 10 g.
+    11.5 g wrongly adds the 750 g of flour inside the levain; 50 g is 1 %.

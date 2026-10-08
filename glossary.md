@@ -14,13 +14,17 @@ French bakery terms with a simple pronunciation and their English meaning, plus 
 - **Apprentissage / CFA** (*ah-prahn-tee-SAHZH / say-eff-AH*) — apprenticeship: paid work in a bakery combined with classes in a training centre (centre de formation d'apprentis).
 - **Apprêt** (*ah-PRAY*) — final proof: the rest after shaping during which the shaped dough rises before baking.
 - **Armoire de pousse contrôlée** (*ar-MWAHR duh pooss kohn-tro-LAY*) — programmable retarder-proofer cabinet that cools, blocks, warms and proofs shaped pieces.
+- **Arrondi supérieur / inférieur** (*ah-rohn-DEE sü-pay-RYUHR / an-fay-RYUHR*) — rounded up / rounded down: up for an order, down for a stock or capacity limit.
 - **Autolyse** (*oh-toh-LEEZ*) — rest of flour and water only (20–60 minutes) after a brief mix and before kneading; gluten forms without work and the dough becomes more extensible (Calvel, 1974).
 - **Auxiliaire technologique** (*ok-see-LYAIR tek-no-lo-ZHEEK*) — processing aid: acts during manufacture, inactive in the finished product (e.g. fungal amylase).
 - **Bac à pâte** (*bak ah PAHT*) — dough tub used for pointage.
 - **Baking loss** — weight lost by a piece of dough during baking and cooling, as a percentage of its dough weight.
 - **Balance / bascule** (*bah-LAHNSS / bahs-KÜL*) — scale / platform scale for heavy loads such as sacks and bowls.
 - **Banneton** (*bahn-TOHN*) — proofing basket (cane, wicker or lined) for boules and levain breads.
+- **Base 1 kg (de farine)** (*bahz uhn kee-LO*) — the column of a technical sheet giving each weight for 1 kg of flour.
 - **Bassinage** (*bah-see-NAHZH*) — adding water at the end of mixing to soften a dough.
+- **Besoin en pâte** (*buh-ZWAN ahn PAHT*) — dough requirement: pieces × piece weight for an order.
+- **Beurre de tourage** (*BUR duh too-RAHZH*) — butter for lamination, worked cold but bendable (about 13 °C).
 - **Blanchiment de la mie** (*blahn-shee-MAHN duh lah MEE*) — whitening of the crumb caused by over-oxidation during mixing; goes with a loss of aroma.
 - **Blé dur / blé tendre** (*blay DOOR / blay TAHN-druh*) — durum wheat (semolina, pasta) / soft wheat (bread flour).
 - **Bon d'économat** (*bohn day-koh-noh-MAH*) — requisition: the list of raw materials taken from the store for a production.
@@ -30,33 +34,53 @@ French bakery terms with a simple pronunciation and their English meaning, plus 
 - **Calot / charlotte** (*kah-LOH / shar-LOT*) — baker's cap / disposable hair net; must cover all the hair.
 - **Candidat individuel (candidat libre)** (*kahn-dee-DAH an-dee-vee-dü-EL*) — someone who registers for the CAP exam alone, without a school or training centre.
 - **CAP** (*say-ah-PAY*) — Certificat d'aptitude professionnelle, the French national vocational diploma at level 3.
+- **Capacité du pétrin** (*ka-pa-see-TAY dü pay-TRAN*) — mixer capacity: the maximum (and minimum) dough load the bowl can work.
 - **Caroténoïdes** (*ka-ro-tay-no-EED*) — yellow-cream flour pigments linked to bread aroma; destroyed by over-oxidation.
+- **Chaîne du froid** (*SHEN doo FRWAH*) — cold chain: chilled and frozen products kept cold without a break from delivery to use.
 - **Chambre de pousse** (*shahm-bruh duh POOSS*) — proofing cabinet: a warm, humid cabinet used for the apprêt.
 - **Chambre froide positive** (*SHAHM-bruh FRWAHD po-zee-TEEV*) — cold room above 0 °C (about 0-4 °C).
 - **Chaussures de sécurité** (*shoh-SÜR duh say-kü-ree-TAY*) — safety shoes with a non-slip sole and toe protection.
+- **Chiffre d'affaires** (*SHEE-fruh dah-FAIR*) — turnover: quantity sold × price before VAT.
+- **Chute** (*SHÜT*) — scrap: a small piece of dough left after dividing.
 - **Cloques** (*KLOK*) — small blisters on the crust, typical of long cold fermentation.
+- **Coefficient** (*ko-ay-fee-SYAHN*) — scaling factor: new quantity ÷ base quantity.
+- **Coefficient multiplicateur** (*ko-ay-fee-SYAHN mül-tee-plee-kah-TUHR*) — pricing multiplier: price before VAT ÷ material cost.
 - **Commande** (*koh-MAHND*) — order: the products, quantities, weights and deadline for a production.
 - **Consistance** (*kohn-sees-TAHNSS*) — consistency: how firm or soft a dough feels; mostly decided by the water.
 - **Contamination croisée** (*kohn-tah-mee-nah-SYOHN krwah-ZAY*) — cross-contamination: microbes or allergens carried from one product, surface or person to another.
 - **Contre-frasage** (*KOHN-truh frah-ZAHZH*) — adding flour at the end of mixing to firm up a dough that is too soft.
 - **Couche** (*KOOSH*) — heavy linen cloth folded into pleats to hold baguettes during apprêt.
 - **Coupe-pâte (corne)** (*koop-PAHT (korn)*) — dough scraper / plastic bowl scraper.
+- **Coût d'achat** (*koo dah-SHAH*) — purchase cost: price paid for an ingredient plus delivery and other buying costs.
+- **Coût de production** (*koo duh pro-dük-SYOHN*) — production cost: materials + labour + energy and other production costs.
+- **Coût de revient** (*koo duh ruh-VYAN*) — full cost: production cost + overheads.
+- **Coût matières** (*koo mah-TYAIR*) — raw-material cost of a batch or a piece.
 - **Croûtage** (*kroo-TAHZH*) — skin forming on dough left uncovered.
 - **DDM** (*day-day-EM*) — date de durabilité minimale: best-before date (quality).
+- **DDT (desired dough temperature)** — American name for the target dough temperature (TPV).
 - **Détente** (*day-TAHNT*) — bench rest between dividing/pre-shaping and final shaping, which lets the gluten relax.
+- **Détrempe** (*day-TRAHMP*) — the dough of a laminated product before the butter is folded in; kept cool (about 18-22 °C).
 - **Diviseuse (hydraulique)** (*dee-vee-ZUHZ (ee-droh-LEEK)*) — (hydraulic) divider: cuts one load of dough into 10-20 equal pieces by volume.
 - **Division** (*dee-vee-ZYOHN*) — dividing the dough into pieces of set weight.
 - **DLC** (*day-el-SAY*) — date limite de consommation: use-by date (safety).
 - **Document unique (DUERP)** (*doh-kü-MAHN ü-NEEK*) — the employer's written assessment of occupational risks and the measures against them.
 - **Dorure** (*do-ROOR*) — egg wash brushed on before baking.
+- **Doseur d'eau** (*doh-ZUR DOH*) — water meter that delivers a set weight of water at a set temperature to the mixer.
+- **Eau de coulage** (*OH duh koo-LAHZH*) — the water weighed into the dough; its temperature is calculated for each batch.
 - **Eau de réserve** (*oh duh ray-ZAIRV*) — part of the water held back at the start of mixing and added later by bassinage if the dough needs it.
+- **Échantillon** (*ay-shahn-tee-YOHN*) — sample: the pieces weighed to check a batch.
 - **Échauffement** (*ay-shohf-MAHN*) — temperature rise of the dough during mixing, from friction.
 - **Élasticité / extensibilité** (*ay-las-tee-see-TAY / ex-tahn-see-bee-lee-TAY*) — elasticity (dough springs back) / extensibility (dough stretches without tearing).
+- **Ensemencement** (*ahn-suh-mahns-MAHN*) — seed: the mature levain added to start a new build, as a % of the new flour.
 - **EPI (équipement de protection individuelle)** (*uh-pay-EE*) — personal protective equipment, such as oven gloves and safety shoes.
 - **Épreuve** (*ay-PRUHV*) — a test of the exam; EP1 and EP2 are the two professional tests of the CAP Boulanger.
 - **Étirage / soufflage** (*ay-tee-RAHZH / soo-FLAHZH*) — stretching / the mixing phase in which the dough traps air and becomes smooth and elastic.
+- **Étuve** (*ay-TOOV*) — proofing cabinet (another name for the chambre de pousse).
+- **Facteur de friction** (*fak-TUR duh freek-SYOHN*) — friction factor: the heat mixing adds, as used in the water calculation (degrees of heating × number of factors).
 - **Farine de gruau** (*fah-REEN duh grew-OH*) — strong, high-protein white flour (usually T45) for viennoiserie and rich doughs.
 - **Farine de tradition française** (*fah-REEN duh trah-dee-SYOHN frahn-SEZ*) — wheat flour with no additives, made for pain de tradition française (usually T65).
+- **Farine mise en œuvre** (*fah-REEN meez ahn UH-vruh*) — flour actually used in a batch or at a given stage.
+- **Farine pré-fermentée** (*fah-REEN pray-fair-mahn-TAY*) — prefermented flour: the share of the total flour inside the pre-ferment.
 - **Fermentation alcoolique** (*fair-mahn-tah-SYOHN al-ko-LEEK*) — alcoholic fermentation by yeast: sugar → carbon dioxide + ethanol + aromas.
 - **Fermentation différée** (*fair-mahn-tah-SYOHN dee-fay-RAY*) — deferred fermentation: slowed or paused by cold to move it in time.
 - **Fermentation lactique** (*fair-mahn-tah-SYOHN lak-TEEK*) — lactic fermentation by bacteria: sugar → lactic acid (and acetic acid for some species).
@@ -64,13 +88,18 @@ French bakery terms with a simple pronunciation and their English meaning, plus 
 - **Fiche technique** (*feesh tek-NEEK*) — technical sheet: the bakery's formula, process and targets for one product.
 - **Filière blé-farine-pain** (*fee-LYAIR blay far-EEN pan*) — the wheat-flour-bread chain: farmer, grain storer, miller, baker.
 - **Force boulangère (W)** (*FORSS boo-lahn-ZHAIR*) — flour strength measured with the alveograph.
+- **Formule globale** (*for-MÜL glo-BAHL*) — overall formula: every ingredient as a % of all the flour, pre-ferment flour included.
+- **Four à sole** (*FOOR ah SOLL*) — deck oven: bread baked directly on a hot stone or steel floor.
 - **Fournil** (*foor-NEEL*) — the bakehouse, the production room of a bakery.
+- **Frais généraux** (*fray zhay-nay-ROH*) — overheads: rent, sales staff, packaging, insurance, administration.
 - **Frasage** (*frah-ZAHZH*) — first phase of mixing, at slow speed, in which flour and water come together into a rough dough.
 - **Gaz carbonique (CO₂)** (*gahz kar-bo-NEEK*) — carbon dioxide, the gas that raises the dough.
 - **Germe** (*ZHAIRM*) — germ of the wheat grain (about 2.5–3 %): fat, enzymes, vitamins.
+- **Glace pilée** (*GLASS pee-LAY*) — crushed ice, added with the mixing water to cool it.
 - **Gliadines / gluténines** (*glee-ah-DEEN / gloo-tay-NEEN*) — the two wheat protein families that form gluten: gliadins give extensibility, glutenins elasticity.
 - **GMS (grande et moyenne surface)** (*zhay-em-ESS*) — supermarkets and hypermarkets, many of which have an in-store bakery.
 - **Hydratation** (*ee-dra-tah-SYOHN*) — water as a percentage of the flour weight.
+- **Hydratation totale** (*ee-drah-tah-SYOHN to-TAHL*) — true overall hydration: all water ÷ all flour, pre-ferment included.
 - **Hygrométrie (HR)** (*ee-gro-may-TREE*) — relative humidity of the air, e.g. 75-85 % in a proofing cabinet.
 - **Indice de chute (Hagberg)** (*an-DEESS duh SHOOT*) — falling number: a measure of the flour's amylase activity (bread flour above 220 s).
 - **Laboratoire (labo)** (*lah-boh-rah-TWAHR*) — the production rooms of a food business.
@@ -80,13 +109,17 @@ French bakery terms with a simple pronunciation and their English meaning, plus 
 - **Levain dur / levain liquide** (*luh-VAN DOOR / luh-VAN lee-KEED*) — firm sourdough (about 50-60 % water) / liquid sourdough (about 100-125 % water).
 - **Levure désactivée** (*luh-VOOR day-zak-tee-VAY*) — deactivated yeast: a dough relaxer.
 - **Levure pressée** (*luh-VOOR preh-SAY*) — fresh pressed (compressed) baker's yeast, about 68 % water, stored at 0–4 °C.
+- **Levure sèche instantanée** (*luh-VÜR sesh an-stahn-tah-NAY*) — instant dry yeast: about one third of the fresh yeast weight.
 - **Lipoxygénase** (*lee-pok-see-zhay-NAHZ*) — flour enzyme that uses oxygen and bleaches the pigments; also brought by bean and soy flour.
+- **Lot / fournée** (*LO / foor-NAY*) — batch of dough / one oven load.
 - **Marche en avant** (*marsh ahn ah-VAHN*) — forward flow: organising rooms or operations so that dirty and clean products and operations never cross, in space or in time.
+- **Marge** (*MARZH*) — margin: selling price before VAT − full cost.
 - **Maturation** (*mah-tew-rah-SYOHN*) — the slow change in dough strength and flavour during fermentation.
 - **Méthode directe (non différé)** (*may-TOD dee-REKT*) — direct method: all ingredients mixed at once, fermented the same day.
 - **Meunier / minoterie** (*muh-NYAY / mee-noh-TREE*) — miller / flour mill.
 - **Mise en place** (*meez ahn PLASS*) — everything cleaned, weighed and set out before production starts.
 - **Mouture** (*moo-TOOR*) — milling: turning grain into flour.
+- **Moyenne / écart** (*mwah-YEN / ay-KAR*) — average / spread between the lightest and heaviest piece of a sample.
 - **Non-conformité** (*nohn kohn-for-mee-TAY*) — non-conformity: a product, delivery or result that does not match what was specified; it must be reported.
 - **Nutri-Score** — voluntary A-to-E front-of-pack nutrition logo; new calculation official in France since the arrêté of 14 March 2025.
 - **Organigramme** (*or-gah-nee-GRAHM*) — work schedule placing every stage of every product on one timeline.
@@ -98,12 +131,14 @@ French bakery terms with a simple pronunciation and their English meaning, plus 
 - **Pâte croûtée** (*paht kroo-TAY*) — dough with a dry skin from being left uncovered.
 - **Pâte ferme / bâtarde / douce** (*paht FAIRM / bah-TARD / DOOSS*) — firm / medium / soft dough.
 - **Pâte fermentée** (*paht fair-mahn-TAY*) — fermented dough kept from an earlier batch and added to a new one.
+- **Pâte finale (pétrissage final)** (*paht fee-NAHL*) — final dough: what goes into the mixer on production day, pre-ferment included.
 - **Pâte forte / pâte faible** (*paht FORT / paht FEB-luh*) — strong dough (resists, springs back, may tear) / weak dough (stretches easily, spreads).
 - **Pâte jeune / pâte vieille** (*paht ZHUHN / paht vee-YAY*) — young (under-fermented) dough / old (over-fermented) dough.
 - **Pâte qui relâche** (*paht kee ruh-LAHSH*) — dough that slackens and spreads after shaping.
 - **Pâte surpétrie / sous-pétrie** (*paht sewr-pay-TREE / soo-pay-TREE*) — over-mixed / under-mixed dough.
 - **Pâton** (*pah-TOHN*) — a divided piece of dough before shaping.
 - **Pekar (test de)** (*peh-KAR*) — comparing flours' colour and bran specks wet on a board.
+- **Perte au four / à la cuisson** (*pairt oh FOOR / ah lah kwee-SOHN*) — baking loss: water driven off in the oven and while cooling; about 20 % for baguettes as a planning figure.
 - **Pertes** (*pairt*) — losses: dough left in the bowl or on tools and trimmings from dividing; usually allowed for at 2-3%.
 - **Peser / pesée** (*puh-ZAY*) — to weigh / a weighing, and the weighing stage of production.
 - **Pétrin à axe oblique** (*pay-TRAN ah AX oh-BLEEK*) — oblique-axis (fork) mixer: gentle, traditional, slower to develop the dough.
@@ -114,6 +149,7 @@ French bakery terms with a simple pronunciation and their English meaning, plus 
 - **Piqûres** (*pee-KOOR*) — specks: small bran particles visible in flour.
 - **Plaque perforée / filet à baguettes** (*plahk pair-fo-RAY / fee-LAY ah bah-GET*) — perforated tray / channelled baguette tray for proofing and baking.
 - **Plonge** (*plonzh*) — washing-up area for bowls, trays and tools.
+- **Poids cuit** (*pwah KWEE*) — baked weight, after cooling.
 - **Pointage** (*pwan-TAHZH*) — bulk fermentation: the first rise of the whole dough before dividing.
 - **Pointage retardé (au froid)** (*pwan-TAHZH ruh-tar-DAY (oh FRWAH)*) — retarded bulk fermentation: the bulk dough rests in the cold, often overnight.
 - **Poolish** (*poo-LEESH*) — liquid pre-ferment: equal weights of flour and water with a little yeast and no salt.
@@ -124,14 +160,21 @@ French bakery terms with a simple pronunciation and their English meaning, plus 
 - **Pré-fermentation** (*pray-fair-mahn-tah-SYOHN*) — part of the flour and water fermented in advance (pâte fermentée, poolish, levain).
 - **Préfaçonnage** (*pray-fah-so-NAHZH*) — pre-shaping: giving divided pieces a first loose ball or cylinder shape.
 - **Prise de force** (*preez duh FORSS*) — the dough gaining strength (tenacity) during pointage.
+- **Prix de vente HT / TTC** (*pree duh vahnt ash-TAY / tay-tay-SAY*) — selling price before VAT (hors taxes) / with VAT (toutes taxes comprises).
 - **Protéases** (*pro-tay-AHZ*) — flour enzymes that cut proteins and relax the gluten, notably during an autolyse.
 - **Rabat** (*rah-BAH*) — fold during pointage: the dough is stretched and folded over itself to give it strength.
 - **Rafraîchi** (*rah-freh-SHEE*) — refreshment (feeding) of a levain with fresh flour and water.
 - **Réchauffage / remontée** (*ray-sho-FAHZH / ruh-mohn-TAY*) — gradual warm-up phase after blocking in a controlled-proof cycle.
 - **Référentiel** (*ray-fay-rahn-SYEL*) — the official framework that lists the competencies and knowledge a diploma assesses.
+- **Refroidisseur d'eau** (*ruh-frwah-dee-SUR DOH*) — water cooler that chills mains water for mixing and holds it at a set temperature.
 - **Relative error** — the possible error of a measurement divided by the target amount, as a percentage; it decides which scale an ingredient needs.
+- **Relevé de températures** (*ruh-luh-VAY duh tahm-pay-rah-TOOR*) — temperature record: each reading with date, time and initials.
+- **Rendement** (*rahnd-MAHN*) — yield: bread out ÷ dough in, or bread per 100 kg of flour.
 - **Réseau glutineux** (*ray-ZOH glew-tee-NUH*) — the gluten network: the continuous web of linked proteins that holds gas.
 - **Ressuage** (*ruh-sü-AHZH*) — cooling of bread after baking, when steam and heat leave the loaf.
+- **Reste de pâte** (*rest duh PAHT*) — dough left over after dividing.
+- **Rupture (de stock)** (*rüp-TÜR*) — running out of an ingredient.
+- **Sac de farine** (*sak duh fah-REEN*) — flour sack; 25 kg is the usual size in French bakeries.
 - **Salage différé** (*sah-LAHZH dee-fay-RAY*) — delayed salting: salt added late in mixing; shortens mixing but increases oxidation.
 - **Salt agreement (accord sel)** — 3 March 2022 agreement between the state and the bakery sector: 1.4 g salt per 100 g of pain courant since October 2023, 1.1 g for pain de mie since October 2025.
 - **Son / enveloppes** (*SOHN / ahn-VLOP*) — bran: the outer layers of the grain (about 13–17 %).
@@ -140,17 +183,23 @@ French bakery terms with a simple pronunciation and their English meaning, plus 
 - **Taux d'extraction** (*toh dex-trak-SYOHN*) — extraction rate: kg of flour obtained from 100 kg of grain.
 - **Taux d'hydratation** (*toh dee-drah-tah-SYOHN*) — hydration rate: water weight ÷ flour weight × 100.
 - **Taux de cendres** (*toh duh SAHNDR*) — ash content: minerals left after burning flour; the French type number is ash % × 100.
+- **Température à cœur** (*tahm-pay-rah-TOOR ah KUR*) — core temperature in the centre of a product; at least about 90 °C for a baked loaf.
+- **Température de base (TB)** (*tahm-pay-rah-TOOR duh BAHZ*) — base temperature: target dough temperature × number of factors; on French sheets usually given with the mixer's friction already taken out (water = TB − fournil − flour).
 - **Température de pâte** (*tahm-pay-rah-TOOR duh PAHT*) — dough temperature measured at the end of mixing; usually 23–25 °C for pain courant.
+- **Température du fournil** (*tahm-pay-rah-TOOR doo foor-NEE*) — room temperature of the bakehouse, read at the bench before each mix.
 - **Ténacité** (*tay-na-see-TAY*) — tenacity: a dough's resistance to stretching.
 - **Tenue professionnelle** (*tuh-NÜ proh-fess-yoh-NEL*) — work clothing, kept clean and worn only at work.
 - **Terminal de cuisson** (*tair-mee-NAL duh kwee-SOHN*) — bake-off point that bakes dough made elsewhere; it may not call itself a boulangerie.
 - **Test de la fenêtre (du voile)** (*test duh lah fuh-NAY-truh*) — windowpane test: stretching a piece of dough into a thin film to judge gluten development.
 - **Test du doigt** (*test dü DWAH*) — poke test: a floured finger pressed into the dough shows whether it is ready to bake.
+- **Thermomètre à sonde** (*tair-mo-MET-ruh ah SOHND*) — probe thermometer for dough, water, flour and the core of the bread.
+- **Thermomètre de four** (*tair-mo-MET-ruh duh FOOR*) — oven thermometer left inside the oven to check its real temperature.
 - **Tolérance** (*to-lay-RAHNSS*) — how long a dough stays usable before it over-ferments.
 - **Tolérance de poids** (*to-lay-RAHNSS duh PWAH*) — allowed weight difference for a divided piece, e.g. ±5 g on 350 g.
 - **Tourier** (*too-RYAY*) — baker who specialises in laminated doughs such as croissant dough.
 - **TPV (température de pâte visée)** (*tay-pay-VAY*) — target dough temperature written on the technical sheet.
 - **Trempage** (*trahm-PAHZH*) — soaker: seeds or grains soaked in water before going into the dough.
+- **TVA (taxe sur la valeur ajoutée)** (*tay-vay-AH*) — VAT: 5.5 % on bread sold to take away, 10 % on food prepared for immediate consumption.
 - **Type (T45 … T150)** (*teep*) — French flour type: ash content × 100 on dry matter; T45 white to T150 wholemeal.
 - **Viennoiserie** (*vyen-wahz-REE*) — yeast-raised sweet or enriched products such as croissants, pains au chocolat and brioche.
 - **Vitesse (1re / 2e)** (*vee-TESS*) — mixer speed: first (slow) for frasage, second (fast) for development.

@@ -73,7 +73,7 @@ flowchart LR
   P --> D[Signs in the dough<br/>decide the end]
 ```
 
-**Temperature is the strongest lever.** In the usual range (about 18-30 °C), yeast activity roughly doubles for every 10 °C, so each degree changes the speed by roughly 7 %. Treat this as a rule of thumb for planning, not a law: your dough has the final say. That is why the dough temperature is measured at the end of every mix and written down, and why a sheet that says "pointage 45 min" also says "TPV 24 °C". How to hit the target temperature is Module 5.
+**Temperature is the strongest lever.** In the usual range (about 18-30 °C), yeast activity roughly doubles for every 10 °C, so each degree changes the speed by roughly 7 %. Treat this as a rule of thumb for planning, not a law: your dough has the final say. That is why the dough temperature is measured at the end of every mix and written down, and why a sheet that says "pointage 45 min" also says "TPV 24 °C". How to hit the target temperature is [Module 5](../module-05/lesson-02.md).
 
 ### Signs that pointage is complete
 
@@ -91,7 +91,7 @@ You mix the PC-02 batch from lesson [01.6](../module-01/lesson-06.md) (5,400 g f
 2. The faster dough also runs fast in détente and apprêt: put the tub somewhere cooler (about 22-23 °C) if you can, and warn the oven: the batch will be ready earlier.
 3. **21 °C: 3 °C below target.** Speed ≈ 1 ÷ (1.07 × 1.07 × 1.07) ≈ 0.82. Time ≈ 45 ÷ 0.82 ≈ 55 min. Put the tub somewhere warm (25-26 °C) to help it.
 4. In both cases, the decision to divide is taken on the signs: volume, dome, feel, finger dent. The calculated time only tells you when to start looking.
-5. Write the actual dough temperature, the actual pointage time and what you did on the production sheet. Correct the water temperature for the next batch (Module 5 shows the calculation).
+5. Write the actual dough temperature, the actual pointage time and what you did on the production sheet. Correct the water temperature for the next batch ([Module 5](../module-05/lesson-02.md) shows the calculation).
 
 ## Practice
 

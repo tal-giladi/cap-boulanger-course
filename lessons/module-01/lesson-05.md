@@ -136,7 +136,7 @@ Scale it to 1.5 kg of total flour.
 
 **B.** Flour 100, water 68.0, salt 2.0, instant yeast 0.8 (total 170.8). Hydration 68%. Dough needed: 12 × 300 = 3,600 g; with losses 3,600 × 1.02 = 3,672 g. Flour: 3,672 × 100 ÷ 170.8 = 2,149.9 g, round up to 2,150 g. Water 1,462 g, salt 43 g, instant yeast 17.2 g. Total 3,672.2 g, enough for 12 loaves with 2% to lose.
 
-**C.** Total flour is 425 + 75 = 500 g. T65 85.0, rye 15.0, water 70.0, salt 1.8, levain 25.0 (total 196.8). Hydration on the sheet 70% (the levain adds a little more water; module 6). For 1,500 g flour: T65 1,275 g, rye 225 g, water 1,050 g, salt 27 g, levain 375 g. Total 2,952 g.
+**C.** Total flour is 425 + 75 = 500 g. T65 85.0, rye 15.0, water 70.0, salt 1.8, levain 25.0 (total 196.8). Hydration on the sheet 70% (the levain adds a little more water; [module 6](../module-06/lesson-04.md)). For 1,500 g flour: T65 1,275 g, rye 225 g, water 1,050 g, salt 27 g, levain 375 g. Total 2,952 g.
 
 If you got water 38.6% for recipe A, you divided by the total dough (325 ÷ 841.5) instead of by the flour.
 

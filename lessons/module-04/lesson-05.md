@@ -28,7 +28,7 @@ A pre-ferment is part of the flour and water fermented in advance, then added to
 
 ## Why it matters
 
-Most bread sold in French bakeries is not made by the plain direct method: pain courant is often made on pâte fermentée, many baguettes on poolish, campagne and many traditions on levain. Each choice changes the dough on the bench, the schedule of the day and the bread the customer tastes. The référentiel asks you to choose a fermentation method for a given product (S3.3), and the exam's technical sheets assume you know what each pre-ferment does. The calculations of pre-ferment formulas come in lesson 06.4; here you learn what they do and when to use them.
+Most bread sold in French bakeries is not made by the plain direct method: pain courant is often made on pâte fermentée, many baguettes on poolish, campagne and many traditions on levain. Each choice changes the dough on the bench, the schedule of the day and the bread the customer tastes. The référentiel asks you to choose a fermentation method for a given product (S3.3), and the exam's technical sheets assume you know what each pre-ferment does. The calculations of pre-ferment formulas come in [lesson 06.4](../module-06/lesson-04.md); here you learn what they do and when to use them.
 
 ## Key terms
 
@@ -99,7 +99,7 @@ Friday afternoon. Tomorrow's order: 30 baguettes de tradition, 12 pains de campa
 5. **Where does it come from?** Today's batch (lesson 04.3) had only 244 g of surplus. You need about 950 − 244 ≈ 710 g more dough. PC-02 makes 182.3 g of dough per 100 g of flour, so 710 × 100 ÷ 182.3 ≈ 390 g more flour: raise today's batch from 5,400 g to **5,800 g** of flour (all other ingredients from the sheet's percentages).
 6. **Store it right.** At the end of pointage, take 950 g, put it in a lidded, oiled tub labelled "pâte fermentée PC-02, date and time", and put it in the cold room at about 4 °C. Tomorrow it goes in at the end of frasage, as the sheet says.
 
-The full calculation of pre-ferment formulas, including the flour and water inside a poolish or levain, is in lesson 06.4.
+The full calculation of pre-ferment formulas, including the flour and water inside a poolish or levain, is in [lesson 06.4](../module-06/lesson-04.md).
 
 ## Practice
 

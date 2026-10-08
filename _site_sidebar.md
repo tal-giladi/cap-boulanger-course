@@ -45,3 +45,16 @@
   - [29 · Controlled and Retarded Fermentation](/lessons/module-04/lesson-06.md)
   - [30 · Judging Fermentation by the Dough](/lessons/module-04/lesson-07.md)
   - [Module 4 quiz](/assessments/module-04-quiz.md)
+- **Module 5 — Temperature Management**
+  - [31 · Temperatures That Matter in a Bakery](/lessons/module-05/lesson-01.md)
+  - [32 · The Base Temperature Method](/lessons/module-05/lesson-02.md)
+  - [33 · Friction, Pre-ferments and Ice](/lessons/module-05/lesson-03.md)
+  - [34 · Temperature Through the Whole Process](/lessons/module-05/lesson-04.md)
+  - [Module 5 quiz](/assessments/module-05-quiz.md)
+- **Module 6 — Baker's Mathematics**
+  - [35 · Scaling a Formula](/lessons/module-06/lesson-01.md)
+  - [36 · From Dough Weight Back to Ingredients](/lessons/module-06/lesson-02.md)
+  - [37 · Dividing, Losses and Yield](/lessons/module-06/lesson-03.md)
+  - [38 · Pre-ferment and Levain Calculations](/lessons/module-06/lesson-04.md)
+  - [39 · Cost of a Product](/lessons/module-06/lesson-05.md)
+  - [Module 6 quiz](/assessments/module-06-quiz.md)

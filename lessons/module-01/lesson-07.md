@@ -62,7 +62,7 @@ The dough temperature after mixing depends on the flour, the room, the water and
 
 $$\text{water temperature} \approx 3 \times 24 - \text{flour temp} - \text{room temp} - 2$$
 
-The 3 × 24 is the target dough temperature (24 °C) times the three temperatures you add up (flour, room, water). The 2 °C is a small allowance for the warmth of your hands and of kneading. Example: flour 20 °C, room 21 °C → water ≈ 72 − 20 − 21 − 2 = 29 °C. Module 5 makes this method precise; today, use the estimate, measure the result and write both in your log.
+The 3 × 24 is the target dough temperature (24 °C) times the three temperatures you add up (flour, room, water). The 2 °C is a small allowance for the warmth of your hands and of kneading. Example: flour 20 °C, room 21 °C → water ≈ 72 − 20 − 21 − 2 = 29 °C. [Module 5](../module-05/lesson-02.md) makes this method precise; today, use the estimate, measure the result and write both in your log.
 
 ### Your timeline
 

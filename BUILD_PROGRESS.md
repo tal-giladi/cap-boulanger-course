@@ -24,8 +24,8 @@ Goal: build "CAP Boulanger Preparation" per `curriculum/plan.md`, following
 - [x] Module 2 — Ingredients
 - [x] Module 3 — Dough Science
 - [x] Module 4 — Fermentation
-- [ ] Module 5 — Temperature Management
-- [ ] Module 6 — Baker's Mathematics
+- [x] Module 5 — Temperature Management
+- [x] Module 6 — Baker's Mathematics
 - [ ] Module 7 — The Production Process
 - [ ] Module 8 — Pain Courant
 - [ ] Module 9 — Pain de Tradition Française
@@ -47,7 +47,7 @@ Goal: build "CAP Boulanger Preparation" per `curriculum/plan.md`, following
 
 ## Agents now
 
-- PAUSED after modules 3 and 4 (2026-10-08). Next: modules 5 and 6.
+- PAUSED after modules 5 and 6 (2026-10-08). Next: modules 7 and 8.
 
 ## Decisions and open questions
 
@@ -67,3 +67,6 @@ Goal: build "CAP Boulanger Preparation" per `curriculum/plan.md`, following
 - Module 5 should use module 4's planning rule: fermentation ~7 % faster/slower per °C of dough temperature.
 - Final QA: add module 4 troubleshooting rows (forgotten salt; over-ripe pre-ferment; over-proofed retarded dough) and its sources; turn module 4 plain-text references (Module 5, 06.4, Module 7, 09.1, Module 11, 14, 17) into links. Consider merging glossary "Croûtage" and "Pâte croûtée".
 - Israel adaptation (Tal, 2026-10-08): every module from 5 on adds `### In Israel` home-practice notes (build-spec "Practising in Israel"). New reference `references/flour-in-israel.md`. Final QA: retrofit `### In Israel` notes into modules 1–4 practice sections where ingredients/climate matter.
+- Module 5 water-temperature convention (binding from module 6 on): base = target × factors (3, or 4 with pre-ferment); water = base − flour − room (− pre-ferment) − friction factor; friction factor = mixing heat × factors; a printed TB already excludes friction; ice = water × (tap − wanted) ÷ (tap + 80), counted inside the water weight. Water-temperature simulation should follow it and link 05.2/05.3.
+- Final QA: module 5 troubleshooting rows and sources (see curriculum/matrix/module-05.md); optional pointer from 01.7 to 05.3.
+- Module 6: order sheets PO-01 (baguettes on poolish) and CA-01 (campagne on liquid levain) in projects/m06-calculation-workbook.md — reuse in modules 8–10. VAT source BOFiP BOI-TVA-LIQ-30-10-10. Baking-loss 20 % still unsourced (planning estimate). Final QA: module 6 troubleshooting rows and sources (see matrix); 06.5 mentions 08.3 in plain text.

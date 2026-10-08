@@ -155,7 +155,7 @@ Dough B reached the windowpane several minutes sooner, stretched further without
 | Symptom | Likely cause | Fix now | Prevent next time |
 |---|---|---|---|
 | Autolysed dough slack and sticky after mixing | Flour too extensible or high amylase; autolyse too long | Fold during pointage; shape a little tighter | Shorten the autolyse to 15–20 min or skip it with this flour |
-| Autolysed dough too cold at the end | Less kneading means less friction heat | Ferment somewhere warmer, longer | Use slightly warmer water (Module 5 makes this exact) |
+| Autolysed dough too cold at the end | Less kneading means less friction heat | Ferment somewhere warmer, longer | Use slightly warmer water ([Module 5](../module-05/lesson-02.md) makes this exact) |
 | Dry skin on the dough after the rest | Bowl not covered | Knead the skin in; it may leave hard specks | Always cover the autolyse |
 | Yeast lumps in the finished dough | Fresh yeast added to a firm, developed autolyse without breaking it up | Knead longer, squeezing the dough | Crumble yeast finely or dissolve it in a little of the reserve water |
 | Dough too firm at end of frasage | Flour absorbs more than expected | Add the eau de réserve slowly | Keep 1–3 % of water in reserve with a new flour |

@@ -1,0 +1,54 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 470" width="900" height="470" role="img" aria-labelledby="t d" font-family="Arial, Helvetica, sans-serif">
+  <title id="t">From raw materials to the price on the board: one baguette</title>
+  <desc id="d">Stacked bar for one PC-02 baguette with the example figures of lesson 06.5. Raw materials 0.20 euro, labour 0.34, energy 0.06: together the production cost, 0.60 euro. Plus overheads 0.31 gives the full cost (coût de revient), 0.91 euro. Plus the margin 0.32 gives the selling price before VAT, 1.23 euro. Plus VAT at 5.5 percent, 0.07, gives the price paid by the customer, 1.30 euro. Formulas: price before VAT equals price with VAT divided by 1.055; margin equals price before VAT minus full cost; multiplier coefficient equals price before VAT divided by raw material cost.</desc>
+  <rect x="0" y="0" width="900" height="470" fill="#ffffff"/>
+  <text x="450" y="32" text-anchor="middle" font-size="20" font-weight="bold" fill="#111827">From raw materials to the price on the board: one baguette (example figures)</text>
+
+  <!-- scale: 1 euro = 500 px, bar from x=120 -->
+  <g font-size="13" text-anchor="middle">
+    <rect x="120" y="80" width="100" height="60" fill="#e8c27a" stroke="#7a5a12"/>
+    <text x="170" y="106" fill="#111827" font-weight="bold">Materials</text>
+    <text x="170" y="124" fill="#111827">0.20</text>
+
+    <rect x="220" y="80" width="170" height="60" fill="#93c5fd" stroke="#1f4e79"/>
+    <text x="305" y="106" fill="#111827" font-weight="bold">Labour</text>
+    <text x="305" y="124" fill="#111827">0.34</text>
+
+    <rect x="390" y="80" width="30" height="60" fill="#fca5a5" stroke="#991b1b"/>
+    <text x="405" y="70" fill="#111827">Energy 0.06</text>
+
+    <rect x="420" y="80" width="155" height="60" fill="#d1d5db" stroke="#374151"/>
+    <text x="497" y="106" fill="#111827" font-weight="bold">Overheads</text>
+    <text x="497" y="124" fill="#111827">0.31</text>
+
+    <rect x="575" y="80" width="160" height="60" fill="#86efac" stroke="#166534"/>
+    <text x="655" y="106" fill="#111827" font-weight="bold">Margin</text>
+    <text x="655" y="124" fill="#111827">0.32</text>
+
+    <rect x="735" y="80" width="35" height="60" fill="#c4b5fd" stroke="#5b21b6"/>
+    <text x="752" y="70" fill="#111827">VAT 0.07</text>
+  </g>
+
+  <!-- cost levels -->
+  <g stroke="#111827" stroke-width="1.5" fill="none">
+    <path d="M120 160 L120 170 L420 170 L420 160"/>
+    <path d="M120 200 L120 210 L575 210 L575 200"/>
+    <path d="M120 240 L120 250 L735 250 L735 240"/>
+    <path d="M120 280 L120 290 L770 290 L770 280"/>
+  </g>
+  <g font-size="14" fill="#111827">
+    <text x="430" y="175">coût de production (production cost) €0.60</text>
+    <text x="585" y="215">coût de revient (full cost) €0.91</text>
+    <text x="580" y="270">prix de vente HT (before VAT) €1.23</text>
+    <text x="440" y="312">prix de vente TTC (customer price) €1.30</text>
+  </g>
+
+  <!-- formula box -->
+  <rect x="60" y="340" width="780" height="110" rx="8" fill="#f3f4f6" stroke="#6b7280"/>
+  <g font-size="14" fill="#111827">
+    <text x="80" y="366" font-weight="bold">Formulas (bread sold to take away: VAT 5.5 %)</text>
+    <text x="80" y="390">HT = TTC ÷ 1.055      TVA = TTC − HT      TTC = HT × 1.055</text>
+    <text x="80" y="414">margin = HT − coût de revient      margin % of HT = margin ÷ HT × 100</text>
+    <text x="80" y="438">multiplier coefficient = HT ÷ material cost (here 1.23 ÷ 0.20 ≈ 6.2)</text>
+  </g>
+</svg>

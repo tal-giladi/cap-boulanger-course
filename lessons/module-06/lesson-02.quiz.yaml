@@ -1,0 +1,90 @@
+- id: q1
+  question: >-
+    Order: 20 bâtards at 400 g and 30 rolls at 70 g, all PD-01 (total 168.3 %), with 2 % for
+    losses. How much flour do you need before rounding?
+  options:
+    - >-
+      6,001 g
+    - >-
+      17,338 g
+    - >-
+      10,302 g
+    - >-
+      6,121 g
+  correct: 3
+  explanation: >-
+    Dough 8,000 + 2,100 = 10,100 g; with 2 % 10,302 g; flour = 10,302 × 100 ÷ 168.3 = 6,121 g.
+    6,001 g forgets the losses, 10,302 g is the dough and 17,338 g multiplies instead of dividing.
+
+- id: q2
+  question: >-
+    PC-02 (flour 100, water 64, salt 1.8, yeast 1.5, pâte fermentée 15) must give 12,240 g of
+    dough including losses. The cold room holds only 900 g of pâte fermentée. Which plan covers
+    the order? Flour is rounded up to the next 100 g.
+  options:
+    - >-
+      6,800 g of flour with the 900 g of pâte fermentée, about 13.2 %.
+    - >-
+      6,000 g of flour, because 900 g is exactly 15 % of 6,000 g.
+    - >-
+      6,800 g of flour with 1,020 g of pâte fermentée at the sheet's 15 %.
+    - >-
+      7,400 g of flour, replacing the missing pâte fermentée with flour.
+  correct: 0
+  explanation: >-
+    Take the fixed 900 g out: (12,240 − 900) × 100 ÷ 167.3 = 6,778 g, rounded up to 6,800 g. 6,000 g
+    makes only about 10.9 kg of dough, and the tub does not hold 1,020 g.
+
+- id: q3
+  question: >-
+    A colleague left a bowl labelled "PC-02 eau 4,160 g" before going on break. How much flour
+    belongs with that water?
+  options:
+    - >-
+      6,400 g
+    - >-
+      6,500 g
+    - >-
+      2,662 g
+    - >-
+      10,660 g
+  correct: 1
+  explanation: >-
+    Flour = water ÷ % × 100 = 4,160 ÷ 64 × 100 = 6,500 g. 6,400 g uses PD-01's 65 %, 2,662 g takes
+    64 % of the water, and 10,660 g is flour plus water.
+
+- id: q4
+  question: >-
+    Your largest dough tub holds 20 kg. What is the largest PD-01 batch (total 168.3 %) you can
+    put in it, flour rounded to the nearest 100 g in the safe direction?
+  options:
+    - >-
+      11,900 g of flour
+    - >-
+      20,000 g of flour
+    - >-
+      11,800 g of flour
+    - >-
+      33,660 g of flour
+  correct: 2
+  explanation: >-
+    20,000 × 100 ÷ 168.3 = 11,884 g. A limit is rounded down: 11,800 g makes 19,859 g of dough.
+    11,900 g would make 20,028 g, over the tub.
+
+- id: q5
+  question: >-
+    A tub of 9,000 g of PD-01 dough is ready. How many 60 g rolls do you plan, keeping 2 % for
+    losses?
+  options:
+    - >-
+      147 rolls
+    - >-
+      150 rolls
+    - >-
+      153 rolls
+    - >-
+      89 rolls
+  correct: 0
+  explanation: >-
+    Usable dough 9,000 ÷ 1.02 = 8,824 g; 8,824 ÷ 60 = 147.1, rounded down to 147. 150 ignores the
+    losses, 153 adds them instead of keeping them back, 89 treats the dough as flour.

@@ -1,0 +1,32 @@
+- **Arrondi supérieur / inférieur** (*ah-rohn-DEE sü-pay-RYUHR / an-fay-RYUHR*) — rounded up / rounded down: up for an order, down for a stock or capacity limit.
+- **Base 1 kg (de farine)** (*bahz uhn kee-LO*) — the column of a technical sheet giving each weight for 1 kg of flour.
+- **Besoin en pâte** (*buh-ZWAN ahn PAHT*) — dough requirement: pieces × piece weight for an order.
+- **Capacité du pétrin** (*ka-pa-see-TAY dü pay-TRAN*) — mixer capacity: the maximum (and minimum) dough load the bowl can work.
+- **Chiffre d'affaires** (*SHEE-fruh dah-FAIR*) — turnover: quantity sold × price before VAT.
+- **Chute** (*SHÜT*) — scrap: a small piece of dough left after dividing.
+- **Coefficient** (*ko-ay-fee-SYAHN*) — scaling factor: new quantity ÷ base quantity.
+- **Coefficient multiplicateur** (*ko-ay-fee-SYAHN mül-tee-plee-kah-TUHR*) — pricing multiplier: price before VAT ÷ material cost.
+- **Coût d'achat** (*koo dah-SHAH*) — purchase cost: price paid for an ingredient plus delivery and other buying costs.
+- **Coût de production** (*koo duh pro-dük-SYOHN*) — production cost: materials + labour + energy and other production costs.
+- **Coût de revient** (*koo duh ruh-VYAN*) — full cost: production cost + overheads.
+- **Coût matières** (*koo mah-TYAIR*) — raw-material cost of a batch or a piece.
+- **Échantillon** (*ay-shahn-tee-YOHN*) — sample: the pieces weighed to check a batch.
+- **Ensemencement** (*ahn-suh-mahns-MAHN*) — seed: the mature levain added to start a new build, as a % of the new flour.
+- **Farine mise en œuvre** (*fah-REEN meez ahn UH-vruh*) — flour actually used in a batch or at a given stage.
+- **Farine pré-fermentée** (*fah-REEN pray-fair-mahn-TAY*) — prefermented flour: the share of the total flour inside the pre-ferment.
+- **Formule globale** (*for-MÜL glo-BAHL*) — overall formula: every ingredient as a % of all the flour, pre-ferment flour included.
+- **Frais généraux** (*fray zhay-nay-ROH*) — overheads: rent, sales staff, packaging, insurance, administration.
+- **Hydratation totale** (*ee-drah-tah-SYOHN to-TAHL*) — true overall hydration: all water ÷ all flour, pre-ferment included.
+- **Levure sèche instantanée** (*luh-VÜR sesh an-stahn-tah-NAY*) — instant dry yeast: about one third of the fresh yeast weight.
+- **Lot / fournée** (*LO / foor-NAY*) — batch of dough / one oven load.
+- **Marge** (*MARZH*) — margin: selling price before VAT − full cost.
+- **Moyenne / écart** (*mwah-YEN / ay-KAR*) — average / spread between the lightest and heaviest piece of a sample.
+- **Pâte finale (pétrissage final)** (*paht fee-NAHL*) — final dough: what goes into the mixer on production day, pre-ferment included.
+- **Perte au four / à la cuisson** (*pairt oh FOOR / ah lah kwee-SOHN*) — baking loss: water driven off in the oven and while cooling; about 20 % for baguettes as a planning figure.
+- **Poids cuit** (*pwah KWEE*) — baked weight, after cooling.
+- **Prix de vente HT / TTC** (*pree duh vahnt ash-TAY / tay-tay-SAY*) — selling price before VAT (hors taxes) / with VAT (toutes taxes comprises).
+- **Rendement** (*rahnd-MAHN*) — yield: bread out ÷ dough in, or bread per 100 kg of flour.
+- **Reste de pâte** (*rest duh PAHT*) — dough left over after dividing.
+- **Rupture (de stock)** (*rüp-TÜR*) — running out of an ingredient.
+- **Sac de farine** (*sak duh fah-REEN*) — flour sack; 25 kg is the usual size in French bakeries.
+- **TVA (taxe sur la valeur ajoutée)** (*tay-vay-AH*) — VAT: 5.5 % on bread sold to take away, 10 % on food prepared for immediate consumption.

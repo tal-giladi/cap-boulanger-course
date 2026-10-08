@@ -118,7 +118,7 @@ You make the PD-01 dough from lesson [01.6](../module-01/lesson-06.md) by hand, 
 
 ### Steps
 
-1. Measure flour and room temperature; calculate the water temperature with the hand-mix estimate from lesson [01.7](../module-01/lesson-07.md) for a 24 °C dough (Module 5 teaches the full base-temperature method).
+1. Measure flour and room temperature; calculate the water temperature with the hand-mix estimate from lesson [01.7](../module-01/lesson-07.md) for a 24 °C dough ([Module 5](../module-05/lesson-02.md) teaches the full base-temperature method).
 2. Dissolve the yeast in the water, add the flour and salt, and mix with the scraper for 4 minutes until no dry flour is left (frasage).
 3. **Sample 1 (end of frasage):** take a walnut-size piece, do the windowpane test, note what happens and photograph it. Put the piece back.
 4. Knead on an unfloured worktop (slap, stretch, fold, quarter turn) for 5 minutes. **Sample 2:** test, record, put back.

@@ -1,0 +1,89 @@
+- id: q1
+  question: >-
+    A restaurant orders boules of 500 g baked weight. Your bake log shows that this shape loses
+    15 % in baking and cooling. What pâton do you divide, before rounding?
+  options:
+    - >-
+      575 g
+    - >-
+      588 g
+    - >-
+      425 g
+    - >-
+      515 g
+  correct: 1
+  explanation: >-
+    The loss is a share of the pâton, so pâton = 500 ÷ (1 − 0.15) = 588 g. 575 g adds 15 % of the
+    baked weight and gives a 489 g loaf; 425 g subtracts the loss instead of adding it.
+
+- id: q2
+  question: >-
+    Bake log: "Baguettes, pâton 350 g. Pesée après ressuage 1 h: moyenne 273 g." What is the
+    baking loss?
+  options:
+    - >-
+      28.2 %
+    - >-
+      78 %
+    - >-
+      7.7 %
+    - >-
+      22 %
+  correct: 3
+  explanation: >-
+    Loss = (350 − 273) ÷ 350 × 100 = 22 %. Dividing by the baked weight gives 28.2 %; 78 % is the
+    yield, not the loss.
+
+- id: q3
+  question: >-
+    Quality check of ten cooled baguettes, target 250 g ± 5 g: average 250.2 g, but three pieces
+    weigh 243, 244 and 257 g. What is the most likely cause?
+  options:
+    - >-
+      Uneven dividing: the average is right but the pieces are spread too wide.
+    - >-
+      Oven too hot: all the baguettes lost too much water in the bake.
+    - >-
+      Pâton weight set too low on the production sheet for this shape.
+    - >-
+      Too much salt in the formula, holding water back in some pieces.
+  correct: 0
+  explanation: >-
+    An average on target means the pâton setting and the bake are right. Pieces on both sides of
+    the tolerance point to the dividing (lesson 04.3), not to the oven.
+
+- id: q4
+  question: >-
+    From the same PC-02 dough, baguettes lose about 20 % and 60 g rolls about 23 %. Why do the
+    rolls lose a larger share?
+  options:
+    - >-
+      Rolls contain more salt per gram, which draws out more water in the oven.
+    - >-
+      Rolls are divided from the end of the batch, when the dough has dried out.
+    - >-
+      A small piece has more crust per gram, and the crust dries out completely.
+    - >-
+      Rolls ferment faster, so their yeast burns off more of the dough weight.
+  correct: 2
+  explanation: >-
+    Most baking loss is water leaving through the crust. The smaller the piece, the more surface
+    and crust it has per gram, so the larger the share it loses.
+
+- id: q5
+  question: >-
+    PD-01 baguettes (salt 1.8 % of flour, dough total 168.3 %) are divided at 350 g. Your measured
+    baking loss is 24 %. Salt per 100 g of bread?
+  options:
+    - >-
+      About 1.07 g: under the 1.4 g limit with a good margin.
+    - >-
+      About 1.41 g: just over the 1.4 g limit for pain courant.
+    - >-
+      Exactly 1.80 g: the same as the salt percentage on the sheet.
+    - >-
+      About 1.34 g: under the limit, as with the planning loss.
+  correct: 1
+  explanation: >-
+    Salt in the pâton = 350 × 1.8 ÷ 168.3 = 3.74 g; bread = 350 × 0.76 = 266 g; 3.74 ÷ 266 × 100 =
+    1.41 g. With the planning 20 % it would be 1.34 g: measured losses matter.

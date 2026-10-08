@@ -78,7 +78,7 @@ The dough leaves the mixer warmer than the ingredients went in, because the work
 - **batch size and mixer type**: a small batch in a big bowl heats differently from a full bowl; an oblique-axis mixer heats less than a spiral;
 - **room and bowl temperature**.
 
-As orders of magnitude for a bread dough: hand kneading adds about 1–3 °C, slow mixing a few degrees, improved mixing more, and intensive mixing can add 10 °C or more. These figures vary with every mixer: Module 5 shows how to measure your own mixer's heating and calculate the water temperature from it (the base-temperature method). Until then, the hand-mix estimate of lesson [01.7](../module-01/lesson-07.md) is enough at home.
+As orders of magnitude for a bread dough: hand kneading adds about 1–3 °C, slow mixing a few degrees, improved mixing more, and intensive mixing can add 10 °C or more. These figures vary with every mixer: [Module 5](../module-05/lesson-02.md) shows how to measure your own mixer's heating and calculate the water temperature from it (the base-temperature method). Until then, the hand-mix estimate of lesson [01.7](../module-01/lesson-07.md) is enough at home.
 
 ### Why the dough temperature matters
 
@@ -186,7 +186,7 @@ Dough B doubled noticeably sooner, was stickier and slacker at dividing, and its
 | Very white, cottony, bland crumb | Over-oxidation: long second speed, delayed salt, bean/soy flour | — | Shorter or slower mixing; salt in during frasage; autolyse |
 | Dough sticky and slack at the divider, very warm | Over-mixed and/or dough too warm | Divide quickly; firm shaping; cooler, shorter proof | Stop on the windowpane; correct the water temperature |
 | Batch ready long before the oven is free | Dough temperature above target | Move dough somewhere cooler; shorten pointage | Measure the dough every batch; colder water |
-| Dough tight and slow, small dense loaves | Dough temperature below target | Ferment longer, somewhere warmer | Warmer water next batch (Module 5 method) |
+| Dough tight and slow, small dense loaves | Dough temperature below target | Ferment longer, somewhere warmer | Warmer water next batch ([Module 5](../module-05/lesson-02.md) method) |
 | Very tight dough that tears at shaping, in pain courant | Too much ascorbic acid or over-strengthened flour plus intensive mixing | Longer détente before shaping | Check the flour's additives; less intensive mixing |
 
 ## Review
