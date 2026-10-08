@@ -100,7 +100,7 @@ flowchart LR
   R -. cardboard, packaging .-> D[Waste]
 ```
 
-Every product you make follows this order. Module 7 breaks it into the full set of production stages.
+Every product you make follows this order. [Module 7](../module-07/lesson-01.md) breaks it into the full set of production stages.
 
 ## Worked example
 

@@ -1,0 +1,85 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 520" width="960" height="520" font-family="Helvetica, Arial, sans-serif">
+  <title>The 18 production stages in five phases</title>
+  <desc>Five columns from left to right. Organise: 1 order, 2 technical sheet and calculations, 3 organigramme, 4 requisition and checks, 5 mise en place. Dough: 6 weighing and water temperature, 7 mixing, 8 pointage. Shape and proof: 9 dividing, 10 pre-shaping, 11 détente, 12 shaping, 13 apprêt. Bake: 14 scoring, 15 loading with steam, 16 baking and unloading. Finish: 17 cooling, control and storage, 18 cleaning the station. Paper stages come before the first gram is weighed; fermentation runs without a break from the end of mixing to the oven.</desc>
+  <rect x="0" y="0" width="960" height="520" fill="#ffffff"/>
+  <defs>
+    <marker id="arr" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="8" markerHeight="8" orient="auto">
+      <path d="M0,0 L10,5 L0,10 z" fill="#555555"/>
+    </marker>
+  </defs>
+  <g font-size="15" font-weight="bold" fill="#222222" text-anchor="middle">
+    <text x="92" y="32">1 · Organise</text>
+    <text x="282" y="32">2 · Dough</text>
+    <text x="472" y="32">3 · Shape and proof</text>
+    <text x="662" y="32">4 · Bake</text>
+    <text x="852" y="32">5 · Finish</text>
+  </g>
+  <g stroke="#555555" stroke-width="2" fill="none" marker-end="url(#arr)">
+    <line x1="180" y1="27" x2="212" y2="27"/>
+    <line x1="370" y1="27" x2="390" y2="27"/>
+    <line x1="560" y1="27" x2="590" y2="27"/>
+    <line x1="750" y1="27" x2="778" y2="27"/>
+  </g>
+  <g font-size="13" fill="#1a1a1a">
+    <!-- Organise -->
+    <g fill="#e8eef8" stroke="#4a6fa5" stroke-width="1.5">
+      <rect x="10" y="50" width="165" height="56" rx="6"/>
+      <rect x="10" y="116" width="165" height="56" rx="6"/>
+      <rect x="10" y="182" width="165" height="56" rx="6"/>
+      <rect x="10" y="248" width="165" height="56" rx="6"/>
+      <rect x="10" y="314" width="165" height="56" rx="6"/>
+    </g>
+    <text x="20" y="73" font-weight="bold">1 Commande</text><text x="20" y="93">read the order</text>
+    <text x="20" y="139" font-weight="bold">2 Fiche technique</text><text x="20" y="159">formula, calculations</text>
+    <text x="20" y="205" font-weight="bold">3 Organigramme</text><text x="20" y="225">timeline, equipment</text>
+    <text x="20" y="271" font-weight="bold">4 Bon d'économat</text><text x="20" y="291">take and check stock</text>
+    <text x="20" y="337" font-weight="bold">5 Mise en place</text><text x="20" y="357">hygiene, station, tools</text>
+    <!-- Dough -->
+    <g fill="#fbeedd" stroke="#c07a2c" stroke-width="1.5">
+      <rect x="200" y="50" width="165" height="56" rx="6"/>
+      <rect x="200" y="116" width="165" height="56" rx="6"/>
+      <rect x="200" y="182" width="165" height="56" rx="6"/>
+    </g>
+    <text x="210" y="73" font-weight="bold">6 Pesée</text><text x="210" y="93">weigh; water T° (TB)</text>
+    <text x="210" y="139" font-weight="bold">7 Pétrissage</text><text x="210" y="159">frasage, kneading, T°</text>
+    <text x="210" y="205" font-weight="bold">8 Pointage</text><text x="210" y="225">bulk fermentation</text>
+    <!-- Shape and proof -->
+    <g fill="#f4ecd2" stroke="#a88a2a" stroke-width="1.5">
+      <rect x="390" y="50" width="165" height="56" rx="6"/>
+      <rect x="390" y="116" width="165" height="56" rx="6"/>
+      <rect x="390" y="182" width="165" height="56" rx="6"/>
+      <rect x="390" y="248" width="165" height="56" rx="6"/>
+      <rect x="390" y="314" width="165" height="56" rx="6"/>
+    </g>
+    <text x="400" y="73" font-weight="bold">9 Division</text><text x="400" y="93">pieces by weight</text>
+    <text x="400" y="139" font-weight="bold">10 Boulage</text><text x="400" y="159">pre-shape</text>
+    <text x="400" y="205" font-weight="bold">11 Détente</text><text x="400" y="225">bench rest, covered</text>
+    <text x="400" y="271" font-weight="bold">12 Façonnage</text><text x="400" y="291">final shape, tension</text>
+    <text x="400" y="337" font-weight="bold">13 Apprêt</text><text x="400" y="357">final proof</text>
+    <!-- Bake -->
+    <g fill="#f8e1dc" stroke="#b5483a" stroke-width="1.5">
+      <rect x="580" y="50" width="165" height="56" rx="6"/>
+      <rect x="580" y="116" width="165" height="56" rx="6"/>
+      <rect x="580" y="182" width="165" height="56" rx="6"/>
+    </g>
+    <text x="590" y="73" font-weight="bold">14 Grignage</text><text x="590" y="93">scoring</text>
+    <text x="590" y="139" font-weight="bold">15 Enfournement</text><text x="590" y="159">loading + buée</text>
+    <text x="590" y="205" font-weight="bold">16 Cuisson</text><text x="590" y="225">bake, défournement</text>
+    <!-- Finish -->
+    <g fill="#e2f0e4" stroke="#3f8a4f" stroke-width="1.5">
+      <rect x="770" y="50" width="180" height="56" rx="6"/>
+      <rect x="770" y="116" width="180" height="56" rx="6"/>
+    </g>
+    <text x="780" y="73" font-weight="bold">17 Ressuage, contrôle</text><text x="780" y="93">cool, weigh, store</text>
+    <text x="780" y="139" font-weight="bold">18 Nettoyage</text><text x="780" y="159">clean and tidy station</text>
+  </g>
+  <!-- fermentation bar -->
+  <rect x="200" y="400" width="545" height="26" rx="4" fill="#fff5c2" stroke="#a88a2a" stroke-width="1.5"/>
+  <text x="472" y="418" font-size="13" text-anchor="middle" fill="#1a1a1a">Fermentation runs without a pause: end of mixing (7) → first minutes in the oven (16)</text>
+  <rect x="10" y="400" width="165" height="26" rx="4" fill="#e8eef8" stroke="#4a6fa5" stroke-width="1.5"/>
+  <text x="92" y="418" font-size="13" text-anchor="middle" fill="#1a1a1a">On paper, no dough yet</text>
+  <rect x="770" y="400" width="180" height="26" rx="4" fill="#e2f0e4" stroke="#3f8a4f" stroke-width="1.5"/>
+  <text x="860" y="418" font-size="13" text-anchor="middle" fill="#1a1a1a">After the oven: most sensitive</text>
+  <text x="480" y="470" font-size="13" text-anchor="middle" fill="#444444">Cleaning (18) also happens in the gaps: during pointage, détente and apprêt.</text>
+  <text x="480" y="492" font-size="13" text-anchor="middle" fill="#444444">Each stage has an output and a check: if a check fails, you act before the next stage.</text>
+</svg>

@@ -1,0 +1,89 @@
+- id: q1
+  question: >-
+    A customer keeps her baguettes in the fridge "so they stay fresh" and complains they are hard
+    and crumbly the next morning. What do you explain?
+  options:
+    - >-
+      The fridge dries the crust, so wrap the baguette in a damp cloth before chilling it.
+    - >-
+      Starch retrogrades fastest at fridge temperature; freeze what she will not eat the same day.
+    - >-
+      The fridge is right, but the baguette must be chilled while still warm from the oven.
+    - >-
+      Baguettes contain no fat, so they go hard anywhere; only pain de mie can be stored.
+  correct: 1
+  explanation: >-
+    Crumb firming is starch retrogradation, which is fastest around 4 °C. Freezing at −18 °C
+    nearly stops it; a few minutes in a hot oven refreshes the thawed bread.
+
+- id: q2
+  question: >-
+    Bake plan: baguettes, 1 kg campagne loaves on levain, and pains de mie in tins, in one deck
+    oven. Which temperatures fit the products?
+  options:
+    - >-
+      All three at 250 °C, adjusting only the time for each product.
+    - >-
+      Pain de mie hottest, because the tin shields it from the heat.
+    - >-
+      Campagne at 250 °C, baguettes at 220 °C, so the large loaf colours.
+    - >-
+      Baguettes about 250 °C, campagne about 220-230 °C, pain de mie about 200 °C.
+  correct: 3
+  explanation: >-
+    Bigger, denser or richer products bake cooler and longer so the centre cooks before the crust
+    burns; small lean baguettes bake hot and fast so they colour before drying out.
+
+- id: q3
+  question: >-
+    Bake log: "Boules out at 7:00, sliced at 7:10 for the restaurant: crumb sticky, knife gummy.
+    Core at 7:00: 97 °C." What went wrong?
+  options:
+    - >-
+      Cut before ressuage: the crumb had not yet set.
+    - >-
+      They were under-baked: 97 °C is too low for a lean loaf.
+    - >-
+      The dough was over-fermented, which always makes a sticky crumb.
+    - >-
+      The oven had too much steam, which makes the crumb wet inside.
+  correct: 0
+  explanation: >-
+    97 °C shows the bake was complete. A large loaf needs 1-2 hours on a rack: steam leaves and the
+    crumb sets as it cools. Cut warm, it is gummy.
+
+- id: q4
+  question: >-
+    The second load of baguettes from the top deck has black, hard bases while the crust on top is
+    normal. Which defect is it, and what caused it?
+  options:
+    - >-
+      Pain cintré: the loaves were under-proofed and burst at the base.
+    - >-
+      Croûte terne: too little steam dulled the crust and burned the base.
+    - >-
+      Pain ferré: the sole was too hot for that load.
+    - >-
+      Pain cloqué: condensation under the loaves blistered and burned.
+  correct: 2
+  explanation: >-
+    A burnt, hard base with a normal top is pain ferré: the sole was too hot (for example after the
+    previous load or an empty steam cycle). Check the sole and lower the bottom heat.
+
+- id: q5
+  question: >-
+    A bakery making mostly viennoiserie on 60 × 40 cm trays, with little floor space, chooses its
+    oven. Which choice matches the advantages usually given for oven types?
+  options:
+    - >-
+      A wood-fired oven, because it heats up quickly and is easy to use.
+    - >-
+      A deck oven, because it changes temperature faster than any other.
+    - >-
+      A rack oven, because bread baked on nets looks more artisanal.
+    - >-
+      A convection oven: quick to heat, easy, small footprint, suited to viennoiserie.
+  correct: 3
+  explanation: >-
+    The convection (ventilé) oven heats quickly, is easy to use, takes little space and suits
+    trays of viennoiserie; its drawbacks are the 60 × 40 tray limit and drier bread crusts.

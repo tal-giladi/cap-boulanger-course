@@ -66,7 +66,7 @@ A dough with lots of glutenin relative to gliadin is strong and elastic: it resi
 
 Starch is about 70 % of flour, stored as tiny granules (2–40 µm). In the cold dough most granules sit intact between the gluten films and absorb a little water. A few percent are **damaged** by the mill (about 6 % of the starch is a usual target): damaged granules absorb much more water and are attacked by enzymes, which feeds the yeast.
 
-In the oven, from about 55–60 °C upward, starch granules swell with water and burst into a gel: **gelatinisation** (*formation d'empois*). Around 70–80 °C the gluten proteins **coagulate** (set). Together they turn the soft foam into a firm crumb. During cooling and storage the starch slowly recrystallises and pushes water out: that is **staling** (rassissement), lesson 07.5.
+In the oven, from about 55–60 °C upward, starch granules swell with water and burst into a gel: **gelatinisation** (*formation d'empois*). Around 70–80 °C the gluten proteins **coagulate** (set). Together they turn the soft foam into a firm crumb. During cooling and storage the starch slowly recrystallises and pushes water out: that is **staling** (rassissement), [lesson 07.5](../module-07/lesson-05.md).
 
 ### Enzymes: amylases and the falling number
 

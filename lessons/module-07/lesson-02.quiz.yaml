@@ -1,0 +1,89 @@
+- id: q1
+  question: >-
+    Final dough on poolish, TPV 24 °C. Readings: flour 21 °C, fournil 23 °C, poolish 20 °C. The
+    mixer heats this dough by about 5 °C. Which water temperature is right?
+  options:
+    - >-
+      27 °C, from 96 − 21 − 23 − 20 − 5.
+    - >-
+      12 °C, from 96 − 21 − 23 − 20 − 20.
+    - >-
+      13 °C, from 72 − 21 − 23 − 15.
+    - >-
+      32 °C, from 96 − 21 − 23 − 20.
+  correct: 1
+  explanation: >-
+    With a pre-ferment there are 4 factors: base 96 and friction factor 5 × 4 = 20, so the water
+    is 12 °C. 27 °C uses the heating, not the friction factor; 13 °C ignores the poolish.
+
+- id: q2
+  question: >-
+    You need 1,938 g of water at 12 °C. The tap gives 19 °C and the water cooler 4 °C. How do you
+    make it up?
+  options:
+    - >-
+      969 g of cooler water and 969 g of tap water, half and half.
+    - >-
+      1,034 g of cooler water and 904 g of tap water.
+    - >-
+      1,938 g of tap water with ice added until it reads 12 °C.
+    - >-
+      904 g of cooler water and 1,034 g of tap water.
+  correct: 3
+  explanation: >-
+    Cold share = 1,938 × (19 − 12) ÷ (19 − 4) ≈ 904 g; the rest, 1,034 g, comes from the tap.
+    Half and half gives 11.5 °C; ice added on top of the full weight makes the dough too wet.
+
+- id: q3
+  question: >-
+    At the requisition the fresh yeast block for today's batch is one day past its use-by date and
+    smells slightly sour. Mixing is in 40 minutes. What do you do?
+  options:
+    - >-
+      Do not use it; report it and take another block or convert to dry yeast.
+    - >-
+      Use it with 20 % more weight to make up for the weaker yeast.
+    - >-
+      Use it as planned, since fresh yeast keeps working well after its date.
+    - >-
+      Dissolve it in warm water at 45 °C to wake it up before mixing.
+  correct: 0
+  explanation: >-
+    The requisition is where ingredient problems are caught and reported, while there is still
+    time to replace them. Guessing a larger dose makes the fermentation unpredictable.
+
+- id: q4
+  question: >-
+    An apprentice weighs salt and yeast into the same small bowl "to save washing up" and leaves it
+    for 20 minutes while the water is prepared. What two problems does this create?
+  options:
+    - >-
+      The salt dissolves into the yeast and becomes too fine to weigh again.
+    - >-
+      The yeast heats the salt and changes how strongly it seasons the dough.
+    - >-
+      The salt draws water from the yeast cells, and a doubled or missed salt is easier.
+    - >-
+      Nothing, because salt and yeast are mixed in the dough a few minutes later.
+  correct: 2
+  explanation: >-
+    Direct contact with salt weakens fresh yeast, and two piles in one bowl are how salt gets added
+    twice or forgotten. Separate containers and a ticked list prevent both.
+
+- id: q5
+  question: >-
+    End of mixing, PD-01: consistency right, window test passed, dough at 26.2 °C against a TPV of
+    24 °C. The sheet says pointage 1 h 15. What is the right decision?
+  options:
+    - >-
+      Keep the sheet's 1 h 15; the window test shows the dough is fine.
+    - >-
+      Plan about 1 h, check the dough from 50 min, and correct the water next time.
+    - >-
+      Add 10 % more yeast so the dough is ready at the planned time.
+    - >-
+      Remix the dough with ice for 3 minutes to bring it down to 24 °C.
+  correct: 1
+  explanation: >-
+    About 2 °C warm is roughly 1.15 times faster: 75 ÷ 1.15 ≈ 65 min, so check from about 50 min
+    and let the dough decide. Then find why it was warm (reading or friction factor).

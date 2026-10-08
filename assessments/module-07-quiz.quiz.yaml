@@ -1,0 +1,184 @@
+- id: q1
+  question: >-
+    Organigramme draft for 24 baguettes due in the shop at 7:00: "Mixing ends 3:00, pointage 45
+    min, dividing and détente 40 min, shaping 25 min, apprêt 1 h 15, bake 22 min, ressuage 30 min.
+    Oven (60 min to heat) switched on at 6:00." Which correction makes the plan work?
+  options:
+    - >-
+      Shorten the apprêt to 45 minutes so the bread waits less for the oven.
+    - >-
+      Keep the oven at 6:00 and skip the ressuage to reach the shop on time.
+    - >-
+      Switch the oven on at about 5:05, so it is hot when apprêt ends at 6:05.
+    - >-
+      Switch the oven on at 6:05, when the poke test says the bread is ready.
+  correct: 2
+  explanation: >-
+    Apprêt ends at 3:00 + 45 + 40 + 25 + 75 min = 6:05, so the oven must go on at about 5:05.
+    Baked 6:05-6:27 and cooled 30 minutes, the baguettes are ready at 6:57. Preheating is planned
+    back from the end of apprêt.
+
+- id: q2
+  question: >-
+    Fiche technique PC-02 (with pâte fermentée), TPV 24 °C, mixer heating about 5 °C. Readings:
+    fournil 22 °C, flour 20 °C, pâte fermentée from the cold room 6 °C. Which water temperature
+    do you write?
+  options:
+    - >-
+      28 °C, from 96 − 20 − 22 − 6 − 20.
+    - >-
+      15 °C, from 72 − 20 − 22 − 15.
+    - >-
+      43 °C, from 96 − 20 − 22 − 6 − 5.
+    - >-
+      34 °C, from 96 − 20 − 22 − 20.
+  correct: 0
+  explanation: >-
+    With a pre-ferment, 4 factors: base 96, friction factor 5 × 4 = 20, and the pâte fermentée's
+    6 °C is subtracted. 15 °C ignores the cold pre-ferment; 43 °C counts friction as 5.
+
+- id: q3
+  question: >-
+    Friday 16:00, your requisition for Saturday reads: "T55 8,1 kg, lot 2611; sel 146 g; levure
+    fraîche 122 g, bloc DLC 20/11; pâte fermentée 1 215 g, bac du jeudi." Saturday is 21/11. What
+    do you do before leaving?
+  options:
+    - >-
+      Nothing: the yeast will be used within a day of its date, which is normal.
+    - >-
+      Increase the yeast to 150 g tomorrow to make up for the older block.
+    - >-
+      Replace the pâte fermentée with yeast, since Thursday's tub is too old to keep.
+    - >-
+      Report the expired yeast now and get a new block or convert to dry yeast.
+  correct: 3
+  explanation: >-
+    The requisition is where dates are checked, while there is time to replace an ingredient. A
+    block past its use-by date is not used, and guessing a bigger dose is not a correction.
+
+- id: q4
+  question: >-
+    Temperature log: "pâte 22 °C, pointage 45 min comme la fiche". Shaping note: "pâtons mous,
+    s'étalent sur la couche, ne tiennent pas la tension". Which diagnosis and correction fit best?
+  options:
+    - >-
+      Excès de force from a long pointage; give a longer détente next time.
+    - >-
+      Manque de force: a cold dough fermented too short; judge by the dough.
+    - >-
+      Pâte croûtée from dry air; cover the pieces during the détente.
+    - >-
+      Pâte trop ferme from too little water; add bassinage next time.
+  correct: 1
+  explanation: >-
+    2 °C under target is about 15 % slower, so 45 minutes left the dough young and weak: slack,
+    spreading pieces. Extend pointage by the signs and correct the water next batch.
+
+- id: q5
+  question: >-
+    Bake-off note: "Baguettes du 2e enfournement: la lame accroche, les pâtons s'affaissent au
+    grignage, pains plats, grignes à peine marquées." The first load was fine. What happened?
+  options:
+    - >-
+      The second load was under-proofed, so the cuts could not open.
+    - >-
+      The second load waited too long and was over-proofed when it was scored.
+    - >-
+      The blade was too sharp and cut too deep into the second load.
+    - >-
+      The steam for the second load was too dry and flattened the loaves.
+  correct: 1
+  explanation: >-
+    A dragging blade and pieces that collapse when cut are signs of over-proofing: the second load
+    kept proofing while it waited. Proof it cooler or shape it later; cut shallower if it happens.
+
+- id: q6
+  question: >-
+    Home bake log, same dough: "A, no steam: 7 cm high, cut torn. B, metal tray + 120 mL hot
+    water, fan off 10 min: 9 cm, cut open, ear, shiny. C, cover 15 min: 9 cm, shiny." Which
+    conclusion is right?
+  options:
+    - >-
+      Steam makes no real difference; the height gap comes from the order of loading.
+    - >-
+      A glass dish would give more steam than B and should be tried next.
+    - >-
+      Spraying the oven walls would be simpler and give the same result as B.
+    - >-
+      In this oven the tray method works as well as the cover, and both beat no steam.
+  correct: 3
+  explanation: >-
+    B and C both gave volume, an open cut and shine, so the oven keeps tray steam (an electric
+    oven, not a venting gas one). Glass dishes can shatter; water on hot walls or glass is a hazard.
+
+- id: q7
+  question: >-
+    Oven plan, two decks, 6:00: 12 baguettes due at 7:00 are ready; 20 rolls due at 7:45 are ready;
+    one deck is free now, the other at 6:10. Each deck takes one loader. How do you load?
+  options:
+    - >-
+      Baguettes now, scored on the loader just before; rolls at 6:10 on the second deck.
+    - >-
+      Rolls now because they bake faster; baguettes at 6:10 on the second deck.
+    - >-
+      Half baguettes and half rolls on each loader so both are ready at the same time.
+    - >-
+      Score everything now, then load the baguettes at 6:00 and the rolls at 6:10.
+  correct: 0
+  explanation: >-
+    Earliest deadline first, one product per load, and scoring last thing before loading. Mixed
+    loads bake unevenly, and cuts made 10 minutes early dry and close.
+
+- id: q8
+  question: >-
+    Défournement record, campagne CA-01: pâton 590 g, ordered at 500 g baked. Two boules weigh
+    503 g and 505 g after 1 hour of cooling; core 97 °C; colour deep brown. What do you conclude?
+  options:
+    - >-
+      Under-baked: a 15 % loss means water is still trapped in the crumb.
+    - >-
+      Short weight: they should be weighed straight out of the oven instead.
+    - >-
+      Conforming: about 14.6 % loss, core and colour right, weight above 500 g.
+    - >-
+      Over-baked: any loss above 10 % means the crust is too thick.
+  correct: 2
+  explanation: >-
+    (590 − 504) ÷ 590 ≈ 14.6 %, close to the measured 15 % used to set the pâton; the core shows a
+    full bake. Bread is weighed after cooling, because it keeps losing water during ressuage.
+
+- id: q9
+  question: >-
+    A restaurant collects 10 campagne boules tomorrow at 11:00. They come out of the oven at 16:00
+    today. Which conditioning keeps them best?
+  options:
+    - >-
+      Bag them in plastic at 16:15 so they keep all their moisture overnight.
+    - >-
+      Keep them in the cold room overnight to slow staling and mould.
+    - >-
+      Leave them on the oven's warm deck overnight so the crust stays crisp.
+    - >-
+      Cool them on racks, then paper bags, dated, in the dry store overnight.
+  correct: 3
+  explanation: >-
+    Ressuage first, then paper so the crust stays crisp; a levain campagne keeps well overnight.
+    Plastic bagged warm softens the crust and invites mould; the cold room stales the crumb fastest.
+
+- id: q10
+  question: >-
+    Quality check on a load of bâtards: "éclatés sur le côté le long de la soudure, grigne fermée,
+    volume réduit". The apprêt was 50 minutes instead of the usual 1 h 15. Which diagnosis fits?
+  options:
+    - >-
+      Pain cintré: under-proofed, the loaf burst where the skin was weakest.
+    - >-
+      Pain ferré: the sole was too hot and split the base.
+    - >-
+      Pain cloqué: too much humidity in the cabinet blistered the side.
+    - >-
+      Pain plat: the dough was too weak and spread before it could rise.
+  correct: 0
+  explanation: >-
+    An under-proofed piece still has a lot of oven spring; with the cut too small for it, it bursts
+    along its weakest line (pain cintré). Give the full apprêt, judged by the poke test.

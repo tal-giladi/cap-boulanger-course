@@ -1,0 +1,89 @@
+- id: q1
+  question: >-
+    An apprentice's stage list for pain courant reads: weighing, mixing, pointage, dividing,
+    shaping, détente, apprêt, scoring, baking, cooling. What is wrong with the order?
+  options:
+    - >-
+      Scoring must come before the apprêt so the cuts open during proofing.
+    - >-
+      Pointage must come after dividing so each piece ferments on its own.
+    - >-
+      Détente must come between pre-shaping and shaping, not after it.
+    - >-
+      Cooling must come before unloading so the crust does not crack.
+  correct: 2
+  explanation: >-
+    The détente relaxes the gluten stressed by dividing and pre-shaping, so the piece can be
+    shaped without tearing. After shaping it has no purpose: the next rest is the apprêt.
+
+- id: q2
+  question: >-
+    At 4:20 the dough is shaped and in the cabinet for a 1 h 15 apprêt. The oven takes 60 minutes
+    to reach 250 °C. Nobody has switched it on yet. What should the stage list have said?
+  options:
+    - >-
+      Oven on at about 4:35, planned back from the end of apprêt at 5:35.
+    - >-
+      Oven on when the poke test first says the bread is nearly ready.
+    - >-
+      Oven on at 4:20, the moment shaping ends, whatever the apprêt length.
+    - >-
+      Oven on at the start of the shift so it is always ready in time.
+  correct: 0
+  explanation: >-
+    Preheating is planned backwards from the moment the dough will be ready: apprêt ends at
+    5:35, minus 60 minutes of heating. Waiting for the poke test leaves the bread over-proofing.
+
+- id: q3
+  question: >-
+    During dividing, the baker realises the couches for the baguettes are still in the laundry
+    and spends 12 minutes finding clean ones. Which stage failed, and what did it cost?
+  options:
+    - >-
+      The requisition: couches must be listed with the raw materials taken from store.
+    - >-
+      The détente: the pieces should have rested longer to make up for the lost time.
+    - >-
+      Cleaning: couches are washed at the end of the shift, so none were left.
+    - >-
+      Mise en place: fermentation kept running, so the first pieces got ahead.
+  correct: 3
+  explanation: >-
+    Mise en place exists so that nothing is searched for once the dough is alive. The dough did
+    not wait for the couches: 12 extra minutes of fermentation went into the pieces.
+
+- id: q4
+  question: >-
+    A baker says: "Ressuage is just waiting, so I bag the rolls 5 minutes out of the oven to get
+    the delivery out sooner." What do you answer?
+  options:
+    - >-
+      Fine, if the bags are paper, because paper lets all the steam through.
+    - >-
+      It is a stage: steam is still leaving the bread, and bagged warm it softens and moulds.
+    - >-
+      Fine for rolls, because small products have no steam left after 5 minutes.
+    - >-
+      It is a stage only for loaves over 500 g; rolls can be bagged straight away.
+  correct: 1
+  explanation: >-
+    During ressuage steam and heat leave the bread and the crumb sets. Bagging warm bread traps
+    the steam: condensation, soft crust and earlier mould. Rolls need a shorter ressuage, not none.
+
+- id: q5
+  question: >-
+    Pointage is running 15 minutes ahead of the sheet because the dough came out at 26 °C, and the
+    oven will not be ready for another 30 minutes. Which action actually slows the dough?
+  options:
+    - >-
+      Leaving the tub on the bench and dividing later, when the oven is ready.
+    - >-
+      Degassing the dough firmly so it has to start rising again from zero.
+    - >-
+      Moving the tub to a cooler place, then dividing by the dough's signs.
+    - >-
+      Adding a little salt on top of the dough to stop the yeast working.
+  correct: 2
+  explanation: >-
+    Fermentation runs from the end of mixing to the oven and only temperature changes its speed
+    (about 7 % per °C). Waiting on the bench lets it run on; degassing does not stop the yeast.

@@ -1,0 +1,54 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 500" width="900" height="500" font-family="Helvetica, Arial, sans-serif">
+  <title>What happens in the oven: crust and core temperatures</title>
+  <desc>Illustrative curves for a baguette in a 250 °C deck oven over about 22 minutes. The surface temperature rises to about 100 °C within the first few minutes, stays near it while steam keeps it wet, then climbs above 150 °C as the crust dries and colours. The core rises more slowly: oven spring until the yeast dies at about 46-50 °C, starch gelatinisation from about 55-60 °C, gluten setting around 70-80 °C, ethanol leaving around 78 °C, and the core levelling off just under 100 °C because water is still evaporating. Steam is useful only while the surface is below 100 °C; the dampers are opened near the end.</desc>
+  <rect x="0" y="0" width="900" height="500" fill="#ffffff"/>
+  <!-- plot area: x 80..820 (0..22 min), y 430..60 (0..250 °C) ; y = 430 - T*1.48 ; x = 80 + t*33.6 -->
+  <g stroke="#cccccc" stroke-width="1">
+    <line x1="80" y1="430" x2="820" y2="430"/>
+    <line x1="80" y1="60" x2="80" y2="430"/>
+    <line x1="80" y1="282" x2="820" y2="282" stroke-dasharray="4 4"/>
+    <line x1="80" y1="208" x2="820" y2="208" stroke-dasharray="4 4"/>
+    <line x1="80" y1="134" x2="820" y2="134" stroke-dasharray="4 4"/>
+    <line x1="80" y1="60" x2="820" y2="60" stroke-dasharray="4 4"/>
+  </g>
+  <g font-size="12" fill="#444444" text-anchor="end">
+    <text x="72" y="434">0 °C</text>
+    <text x="72" y="286">100</text>
+    <text x="72" y="212">150</text>
+    <text x="72" y="138">200</text>
+    <text x="72" y="64">250</text>
+  </g>
+  <g font-size="12" fill="#444444" text-anchor="middle">
+    <text x="80" y="450">0</text>
+    <text x="248" y="450">5</text>
+    <text x="416" y="450">10</text>
+    <text x="584" y="450">15</text>
+    <text x="752" y="450">20 min</text>
+  </g>
+  <text x="450" y="476" font-size="13" text-anchor="middle" fill="#222222">Time in the oven (illustrative, baguette at 250 °C)</text>
+  <!-- steam zone -->
+  <rect x="80" y="60" width="118" height="370" fill="#dfeaf7" opacity="0.6"/>
+  <text x="139" y="80" font-size="12" text-anchor="middle" fill="#2a62a8">steam acts</text>
+  <text x="139" y="95" font-size="12" text-anchor="middle" fill="#2a62a8">(surface &lt; 100 °C)</text>
+  <!-- damper -->
+  <line x1="652" y1="60" x2="652" y2="430" stroke="#2a62a8" stroke-width="1.5" stroke-dasharray="6 4"/>
+  <text x="658" y="80" font-size="12" fill="#2a62a8">ouras opened</text>
+  <!-- surface curve -->
+  <path d="M80,393 C100,330 120,296 150,286 L215,283 C280,262 360,230 450,205 C560,180 680,160 820,150" fill="none" stroke="#b5483a" stroke-width="3.5"/>
+  <text x="700" y="145" font-size="13" font-weight="bold" fill="#b5483a">surface / crust</text>
+  <!-- core curve -->
+  <path d="M80,393 C140,385 200,370 260,350 C320,330 360,315 410,300 C460,290 520,287 600,286 L820,285" fill="none" stroke="#a8742a" stroke-width="3.5"/>
+  <text x="700" y="305" font-size="13" font-weight="bold" fill="#a8742a">core (centre)</text>
+  <!-- annotations on core -->
+  <g font-size="12" fill="#222222">
+    <circle cx="245" cy="355" r="5" fill="#a8742a"/>
+    <text x="210" y="380">yeast dies 46-50 °C: oven spring ends</text>
+    <circle cx="285" cy="341" r="5" fill="#a8742a"/>
+    <text x="312" y="362">starch gelatinises from 55-60 °C</text>
+    <circle cx="355" cy="319" r="5" fill="#a8742a"/>
+    <text x="392" y="330">gluten sets 70-80 °C; ethanol leaves about 78 °C</text>
+    <text x="470" y="275">core stays just under 100 °C (water still evaporating)</text>
+    <text x="230" y="150">crust dries above 100 °C, then colours</text>
+    <text x="230" y="165">(Maillard and caramelisation, roughly from 150 °C)</text>
+  </g>
+</svg>

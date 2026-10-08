@@ -1,0 +1,89 @@
+- id: q1
+  question: >-
+    Baguettes from the façonneuse come out 47 cm long instead of 55 cm, with torn patches, and
+    shrink back on the couche. The stage list shows pointage ran 25 minutes longer than the sheet.
+    Which diagnosis fits?
+  options:
+    - >-
+      Manque de force: the dough was too weak to hold the length.
+    - >-
+      Pâte trop douce: too much water made the surface tear.
+    - >-
+      Pâte croûtée: a dry skin formed during the extra pointage time.
+    - >-
+      Excès de force: the long pointage made the dough too elastic.
+  correct: 3
+  explanation: >-
+    Springing back and tearing when lengthened are the signs of too much strength, and the extra
+    pointage built it. A weak or soft dough spreads and sticks; it does not shrink back.
+
+- id: q2
+  question: >-
+    In the same situation, which action corrects the batch now?
+  options:
+    - >-
+      Add flour to the remaining pieces so they are firmer in the rollers.
+    - >-
+      Give the remaining pieces about 10 more minutes of détente and soften the settings.
+    - >-
+      Reshape the torn baguettes into balls at once and run them through again.
+    - >-
+      Increase the pressure plate so the machine forces the pieces to 55 cm.
+  correct: 1
+  explanation: >-
+    A strong dough needs more rest before it can be lengthened, and gentler settings stretch it
+    less in one pass. Reshaping at once or more pressure tightens it further.
+
+- id: q3
+  question: >-
+    A baker shaping bâtards keeps a thick layer of flour on the bench "so nothing sticks". The
+    bâtards come out loose and spread on the couche. Why?
+  options:
+    - >-
+      The piece slides instead of gripping, so no surface tension builds.
+    - >-
+      The flour absorbs water from the dough and makes it too firm to hold.
+    - >-
+      Flour on the bench cools the dough and stops it fermenting.
+    - >-
+      The extra flour seals the seam so tightly that the gas escapes.
+  correct: 0
+  explanation: >-
+    Tension is built by the dough gripping the bench as you drag or roll it. On a floury bench it
+    slides, the skin never tightens, and the piece spreads.
+
+- id: q4
+  question: >-
+    A small bakery is choosing between hand shaping and a façonneuse for 300 baguettes a day.
+    Which statement about the moulder is accurate?
+  options:
+    - >-
+      It shapes any dough without adjustment and gives a more artisanal look.
+    - >-
+      It keeps more gas in the dough than hand shaping, so the crumb is more open.
+    - >-
+      It gives speed and regular lengths but degasses more and needs adjusted settings.
+    - >-
+      It removes the need for a détente, because the rollers relax the gluten.
+  correct: 2
+  explanation: >-
+    Moulders save time and wrist strain and give regular pieces, but they degas more than hands,
+    can tear a strong dough and need settings matched to each dough and its détente.
+
+- id: q5
+  question: >-
+    Pieces left uncovered during a 25-minute détente have a dry, cracked skin. The baker shapes
+    them as they are. What will the finished baguettes most likely show?
+  options:
+    - >-
+      Cracks and a dull, uneven crust where the dry skin could not stretch.
+    - >-
+      A shinier crust, because the dry skin caramelises faster.
+    - >-
+      Larger volume, because the skin traps more gas in the oven.
+    - >-
+      No visible difference once the apprêt has rehydrated the skin.
+  correct: 0
+  explanation: >-
+    A skinned dough (pâte croûtée) has a dry layer that cannot stretch with the loaf: it cracks
+    and colours unevenly. Cover the pieces at every rest.

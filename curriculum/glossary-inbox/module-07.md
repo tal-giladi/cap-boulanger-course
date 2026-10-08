@@ -1,0 +1,35 @@
+- **Balancelle** (*bah-lahn-SELL*) — intermediate prover: swinging pockets that carry divided pieces through their détente.
+- **Clé / soudure** (*KLAY / soo-DÜR*) — the seam: the join closed at the end of shaping; it goes up on the couche and down in the oven.
+- **Conservation** (*kohn-sair-vah-SYOHN*) — keeping and storing the products: paper, plastic, freezer; never the fridge for bread.
+- **Contrôle de fin de pétrissage** (*kohn-TROLL duh fan duh pay-tree-SAHZH*) — end-of-mixing check: consistency, development (window test) and dough temperature.
+- **Coup de lame** (*koo duh LAHM*) — one cut with the blade; a 55 cm baguette has 5 to 7.
+- **Croûte terne** (*KROOT TAIRN*) — dull crust: no steam, skinned dough, over-fermented dough or an oven too cool.
+- **Cuisson** (*kwee-SOHN*) — baking.
+- **Défournement** (*day-foorn-MAHN*) — unloading the baked bread; checked by colour, sound, weight and core temperature.
+- **Enfournement** (*ahn-foorn-MAHN*) — loading the oven, with steam for lean bread.
+- **Étapes de la panification** (*ay-TAHP duh lah pah-nee-fee-kah-SYOHN*) — the stages of bread-making; this course counts 18, from the order to the clean bench.
+- **Excès de force / manque de force** (*ek-SEH duh FORSS / mahnk duh FORSS*) — dough too strong (elastic, tears, shrinks back) / too weak (slack, spreads).
+- **Façonnage** (*fah-so-NAHZH*) — shaping: giving each piece its final form with surface tension and a closed seam.
+- **Façonneuse** (*fah-so-NUHZ*) — moulder: rollers flatten the piece, a belt and pressure plate roll it to length.
+- **Fiche de fabrication** (*feesh duh fah-bree-kah-SYOHN*) — process sheet: every stage of one product with its time, target and check.
+- **Four à bois** (*FOOR ah BWAH*) — wood-fired oven: heat from a wood fire stored in the masonry.
+- **Four à chariot** (*FOOR ah shah-RYOH*) — rack oven: a whole rack of trays is rolled in and turns in hot air.
+- **Four ventilé** (*FOOR vahn-tee-LAY*) — convection oven: a fan blows hot air over 60 × 40 cm trays; suited to viennoiserie.
+- **Grignage / scarification** (*gree-NYAHZH / skah-ree-fee-kah-SYOHN*) — scoring the proofed dough with a blade so it opens where the baker chooses.
+- **Grigne** (*GREEN-yuh*) — the ear: the raised, browned flap along a cut.
+- **Lame** (*LAHM*) — the baker's scoring blade, curved or straight, on a handle.
+- **Mise en tension** (*meez ahn tahn-SYOHN*) — building surface tension: a taut skin over the shaped piece.
+- **Nettoyage du poste** (*neh-twah-YAHZH dü POST*) — cleaning the workstation; done in the gaps and at the end.
+- **Numéro de lot** (*nü-may-RO duh LO*) — batch number on a sack or pack, written down for traceability.
+- **Ouras** (*oo-RAH*) — oven dampers, opened near the end of baking to let the steam out so the crust dries.
+- **Pain chante (le)** (*luh pan SHAHNT*) — "the bread sings": the crackle of the crust cracking as it cools.
+- **Pain ferré** (*pan feh-RAY*) — bread with a burnt, hard base from a sole that is too hot.
+- **Pain plat** (*pan PLAH*) — flat, spread bread: over-proofed, weak or loosely shaped dough, or an oven too cool.
+- **Peseuse volumétrique** (*puh-ZUHZ vo-lü-may-TREEK*) — volumetric divider: cuts pieces continuously by volume.
+- **Planchette (de transfert)** (*plahn-SHET*) — transfer board for moving a baguette from the couche to the loader.
+- **Poste de travail** (*POST duh trah-VIGH*) — workstation: the bench, scale and tools one person uses.
+- **Programmation de la température** (*pro-grah-mah-SYOHN*) — setting the oven temperature for each product: bigger, denser or richer products bake cooler and longer.
+- **Rassissement** (*rah-sees-MAHN*) — staling: the crumb firms (starch retrogradation) and the crust softens (water moves out to it).
+- **Repose-pâtons** (*ruh-POHZ pah-TOHN*) — resting cabinet or rack for pieces during the détente.
+- **Rétrogradation de l'amidon** (*ray-tro-grah-dah-SYOHN*) — starch retrogradation: gelatinised starch recrystallises and firms the crumb; fastest around 4 °C.
+- **Tapis d'enfournement / enfourneur** (*tah-PEE dahn-foorn-MAHN / ahn-foor-NUHR*) — oven loader: a belt on a frame that lays a row of pieces on the deck at once.

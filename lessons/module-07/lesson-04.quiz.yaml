@@ -1,0 +1,89 @@
+- id: q1
+  question: >-
+    A deck oven's steam injector failed this morning and the baguettes went in dry. Which result
+    do you expect, and why?
+  options:
+    - >-
+      Smaller loaves with dull crusts and torn cuts: the surface set before the loaf finished rising.
+    - >-
+      Larger loaves with thinner crusts: dry heat lets the dough expand faster.
+    - >-
+      Paler loaves only: steam affects the colour of the crust but not the volume.
+    - >-
+      No visible change: steam only matters for levain breads with long fermentation.
+  correct: 0
+  explanation: >-
+    Condensing steam heats the surface while keeping it wet and stretchy, so oven spring lasts
+    longer. Without it the crust sets early: less volume, dull crust, cuts that tear or burst.
+
+- id: q2
+  question: >-
+    Baguettes come out with cuts that opened symmetrically but flat, with no raised ear. The
+    apprêt and steam were right. What should change in the scoring?
+  options:
+    - >-
+      Cut deeper, about 2 cm, so the flap has more dough to lift.
+    - >-
+      Make the cuts across the baguette instead of along its length.
+    - >-
+      Hold the blade flat, at about 30°, about 5 mm under the skin.
+    - >-
+      Score the baguettes on the couche 10 minutes before loading so the cuts set.
+  correct: 2
+  explanation: >-
+    An upright blade opens both sides evenly; a blade held flat lifts a thin flap that rises and
+    browns into the ear. Very deep cuts make the loaf collapse; early cuts dry and close.
+
+- id: q3
+  question: >-
+    Two loaders are ready: 12 baguettes due in the shop at 7:00 and 20 rolls due at 7:30. One deck
+    is free now, the other in 10 minutes. How do you organise the loading?
+  options:
+    - >-
+      Rolls first, because they bake faster and free the deck sooner.
+    - >-
+      Baguettes and rolls mixed on each loader so both products are ready together.
+    - >-
+      Score both loaders now and load each as soon as a deck is free.
+    - >-
+      Baguettes first, then rolls; score each load just before loading.
+  correct: 3
+  explanation: >-
+    Load by deadline, one product per load so it bakes evenly, and score on the loader last thing
+    before loading. Cuts made 10 minutes early dry and close; mixed loads cannot bake right.
+
+- id: q4
+  question: >-
+    A home baker wants steam and plans to pour a glass of cold water into the Pyrex dish already on
+    the oven floor at 240 °C. What do you advise?
+  options:
+    - >-
+      Fine, but use boiling water instead of cold water to reduce the shock.
+    - >-
+      Never: hot glass can shatter. Use a preheated metal tray and stand back.
+    - >-
+      Fine, if the dish is placed on the top shelf away from the heating element.
+    - >-
+      Spray the water onto the oven door instead, which gives the same steam safely.
+  correct: 1
+  explanation: >-
+    Water on hot glass or ceramic can shatter it. Steam goes into a preheated metal tray, poured
+    with the arm extended and face away; spraying the door glass can crack it too.
+
+- id: q5
+  question: >-
+    Bake log: "Gas oven, metal tray + 150 g boiling water: bâtards no better than the dry ones.
+    Cover (roasting pan, 15 min): taller, shiny, open cut." What explains this?
+  options:
+    - >-
+      The water was not hot enough; boiling water is too cool to make steam at 240 °C.
+    - >-
+      The roasting pan made the oven hotter, which is what caused the extra volume.
+    - >-
+      The gas oven vents the steam from the tray, while the cover traps the loaf's own steam.
+    - >-
+      Gas ovens produce their own steam, so extra water only makes the crust thicker.
+  correct: 2
+  explanation: >-
+    Gas ovens are designed to vent, so tray steam escapes before it acts. A cover keeps the
+    moisture the loaf gives off around it during oven spring.

@@ -84,7 +84,7 @@ Flour contains only about 1-2 % simple sugars. Over a fermentation of several ho
 | Pointage (bulk) | builds strength and flavour in the whole mass | 04.2 |
 | Division and détente | fermentation continues while the pieces relax | 04.3 |
 | Apprêt (final proof) | fills the shaped piece with gas to the right volume for the oven | 04.4 |
-| First minutes in the oven | gas expands with heat, CO₂ comes out of solution, ethanol evaporates: the loaf rises (oven spring) until the yeast dies at about 46-50 °C in the dough | Module 7 |
+| First minutes in the oven | gas expands with heat, CO₂ comes out of solution, ethanol evaporates: the loaf rises (oven spring) until the yeast dies at about 46-50 °C in the dough | [Module 7](../module-07/lesson-05.md) |
 
 Fermentation therefore does not stop when you shape the bread: the clock runs from the end of mixing until the oven. The three factors the référentiel asks you to link are **temperature** (warmer = faster), **time** (longer = more gas, more acid, more flavour) and **the fermenting agent** (how much yeast, which pre-ferment, levain or not). Change one and the other two must move: less yeast needs more time or more warmth.
 
