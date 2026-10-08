@@ -1,0 +1,87 @@
+- id: q1
+  question: >-
+    Technical sheet for pain courant on pâte fermentée: "Frasage 4 min 1re vitesse". When does the
+    pâte fermentée go into the mixer?
+  options:
+    - >-
+      In the bowl first, before the water, so it softens.
+    - >-
+      At the end of mixing, with the bassinage water.
+    - >-
+      Cut into pieces, towards the end of frasage.
+    - >-
+      Dissolved in the water with the yeast at the start.
+  correct: 2
+  explanation: >-
+    Pâte fermentée is already a developed, salted dough: it only needs blending in. Added in pieces
+    at the end of frasage, it spreads evenly before the dough is developed.
+
+- id: q2
+  question: >-
+    A colleague mixes the pain courant with 12 minutes in second speed instead of the usual 6, and
+    keeps the 45-minute pointage. What do you expect at dividing and in the bread?
+  options:
+    - >-
+      A tight, under-fermented dough and a dense, creamy crumb.
+    - >-
+      A warm, over-fermented, sticky dough and a white, bland bread.
+    - >-
+      No change, because pointage depends only on the yeast quantity.
+    - >-
+      A stronger dough and more aroma, because mixing builds flavour.
+  correct: 1
+  explanation: >-
+    Intensive mixing heats and fully develops the dough, so it ferments faster and needs a
+    shorter pointage; heavy oxidation gives a white, bland crumb that stales quickly.
+
+- id: q3
+  question: >-
+    Which description matches slow mixing (pétrissage à vitesse lente)?
+  options:
+    - >-
+      First speed only; little oxidation; long pointage with folds; most aroma.
+    - >-
+      Short frasage then long second speed; very white crumb; short pointage.
+    - >-
+      Frasage then a few minutes in second speed; the usual compromise.
+    - >-
+      Any mixing done on an oblique-axis mixer, whatever the speed or time.
+  correct: 0
+  explanation: >-
+    Slow mixing stays in first speed, oxidises little and leaves the dough under-developed, so it
+    needs a long pointage with folds; it gives a creamy, aromatic crumb.
+
+- id: q4
+  question: >-
+    Why is the water put in the bowl before the flour?
+  options:
+    - >-
+      Because yeast must always be dissolved in all the water first.
+    - >-
+      Because salt would burn the yeast if flour went in first.
+    - >-
+      Because the water temperature is only correct once it touches the steel.
+    - >-
+      Because it raises less flour dust and nothing sticks to the bottom.
+  correct: 3
+  explanation: >-
+    Flour poured gently onto water raises less dust (flour dust causes occupational asthma) and
+    no dry flour stays stuck under the dough.
+
+- id: q5
+  question: >-
+    You change a tradition dough from improved mixing to slow mixing with a long pointage. What
+    else should change on the technical sheet?
+  options:
+    - >-
+      Nothing: the method changes only the mixer time.
+    - >-
+      Less yeast and a longer pointage with folds.
+    - >-
+      More yeast so that the dough develops faster in the mixer.
+    - >-
+      A higher dough temperature to make up for less mixing.
+  correct: 1
+  explanation: >-
+    Slow mixing leaves the dough under-developed; time and folds develop it. A longer pointage
+    needs less yeast so that the dough does not over-ferment.

@@ -1,0 +1,187 @@
+- id: q1
+  question: >-
+    Fiche technique, tradition baguettes: "Farine T65 10 kg; hydratation 70 %; autolyse 30 min;
+    garder 2 % d'eau (sur farine) en réserve pour le bassinage." How much water goes into the
+    autolyse?
+  options:
+    - >-
+      7,000 g, because the reserve is only added if the dough needs it.
+    - >-
+      6,860 g, keeping back 2 % of the water weight.
+    - >-
+      6,800 g, keeping back 200 g, which is 2 % of the flour.
+    - >-
+      6,600 g, keeping back 2 % twice, once for each speed.
+  correct: 2
+  explanation: >-
+    Total water = 10,000 x 70 / 100 = 7,000 g. The reserve is 2 % of the flour = 200 g, so 6,800 g
+    goes into the autolyse. 6,860 g takes 2 % of the water instead of the flour.
+
+- id: q2
+  question: >-
+    Temperature log, pain courant, target 24 C, pointage 45 min. Batch 1: 23.8 C. Batch 2: 27.6 C
+    (note: "minuterie 2e vitesse en panne"). The oven is booked for batch 2 in 1 h 30. What do you
+    do with batch 2?
+  options:
+    - >-
+      Check it from about 25 min, ferment it cooler, divide when ready and report the fault.
+    - >-
+      Keep the 45 min pointage and lengthen the apprêt to reach the oven slot.
+    - >-
+      Mix it 5 more minutes in first speed so that the gluten recovers its strength.
+    - >-
+      Add 10 % cold water by bassinage to bring the dough back to 24 C.
+  correct: 0
+  explanation: >-
+    A dough 3.6 C over target ferments much faster and has little tolerance: shorten and cool the
+    fermentation, judge the dough, and report the timer fault. Cold bassinage would change the
+    formula and slacken a developed dough.
+
+- id: q3
+  question: >-
+    Sales staff pass on three complaints in one week: "baguette très blanche, sans goût, rassie le
+    lendemain". The sheet says improved mixing, 6 min in second speed, but you see the new
+    trainee mixing 12 min in second speed and adding the salt at the end. Which diagnosis fits?
+  options:
+    - >-
+      Under-fermentation, because the trainee uses too little yeast.
+    - >-
+      Too much water, because a soft dough always gives a white crumb.
+    - >-
+      Under-mixing, because adding salt late stops the gluten forming.
+    - >-
+      Over-oxidation from long second speed and delayed salt, then fast staling.
+  correct: 3
+  explanation: >-
+    Long second speed and late salt let lipoxygenase bleach the pigments: white, bland crumb.
+    Intensive mixing with a short fermentation also gives bread that stales quickly.
+
+- id: q4
+  question: >-
+    Order: "Pain à l'ancienne, tradition T65, 75 %, pointage 3 h avec 3 rabats, mie crème très
+    aromatique." Which mixing line do you write on the sheet?
+  options:
+    - >-
+      Intensive mixing: frasage 4 min, then 12 min in second speed.
+    - >-
+      Autolyse 30 min, then slow or very short improved mixing.
+    - >-
+      Improved mixing with ascorbic acid to hold the long pointage.
+    - >-
+      No mixing at all: the three folds replace the mixer completely.
+  correct: 1
+  explanation: >-
+    A long pointage with folds builds the strength, so the dough can leave the mixer
+    under-developed; gentle mixing and an autolyse keep the creamy crumb and aroma. Tradition may
+    not contain ascorbic acid.
+
+- id: q5
+  question: >-
+    Bon de production: 8 kg of flour, water 65 % (5,200 g). The water meter delivered 5,600 g.
+    How much flour do you add by contre-frasage to return to 65 %?
+  options:
+    - >-
+      About 400 g, the same weight as the extra water.
+    - >-
+      About 260 g, which is 65 % of the extra 400 g of water.
+    - >-
+      About 615 g, because 5,600 / 0.65 = 8,615 g of flour.
+    - >-
+      About 8,615 g, the new flour weight for the formula.
+  correct: 2
+  explanation: >-
+    Flour needed = water / hydration = 5,600 / 0.65 = 8,615 g; add 615 g. Then recalculate salt
+    and yeast on 8,615 g and plan the extra dough.
+
+- id: q6
+  question: >-
+    Sheet for a levain bread: "pétrissage lent, pointage 3 h, 3 rabats". A trainee kneads by hand
+    for 20 minutes to get a perfect windowpane before the pointage. What do you tell them?
+  options:
+    - >-
+      Good: every dough must pass the full windowpane before the pointage.
+    - >-
+      They can stop earlier: time and the three folds keep building the network.
+    - >-
+      They must knead longer, because long pointages destroy the gluten.
+    - >-
+      They over-mixed it and must start again with a new dough.
+  correct: 1
+  explanation: >-
+    How developed a dough must be at the end of mixing depends on what follows. A long pointage
+    with folds develops the gluten; by hand, 20 minutes is tiring but will not reach letdown.
+
+- id: q7
+  question: >-
+    Mixer check sheet: at 6 min in second speed the dough is smooth and passes the windowpane.
+    The mixer is left running; at 14 min the dough is shiny, sticky, slack, flows when stretched
+    and reads 29 C. What has happened?
+  options:
+    - >-
+      Under-mixing: the gluten network has not formed yet.
+    - >-
+      Too much yeast: the gas is making the dough sticky.
+    - >-
+      A consistency error: the water was mis-weighed.
+    - >-
+      Over-mixing: the network broke and let water out.
+  correct: 3
+  explanation: >-
+    The dough was at its optimum at 6 minutes. Extra work broke the network: it releases water,
+    gets sticky and slack, and keeps warming. It cannot be undone; use it fast and report it.
+
+- id: q8
+  question: >-
+    Delivery note: new flour batch, "humidité 13.2 %" (usual 15 %). Your pain courant at 64 % is
+    firm and tears at the end of frasage. What do you do?
+  options:
+    - >-
+      Bassinage in small amounts, record the final hydration and the batch.
+    - >-
+      Contre-frasage, because a dough that tears needs more flour.
+    - >-
+      Mix longer in second speed so the dough softens on its own.
+    - >-
+      Leave it firm and extend the apprêt to give more volume.
+  correct: 0
+  explanation: >-
+    A drier flour absorbs more water. Add water gradually by bassinage, write the real hydration
+    and the batch on the sheet, and start the next batch with more water.
+
+- id: q9
+  question: >-
+    Your pain courant flour label lists "farine de fève, acide ascorbique (E300)". The owner wants
+    a creamier, more aromatic crumb without changing flour. Which change helps most?
+  options:
+    - >-
+      Add the salt at the end of mixing so it does not disturb the gluten.
+    - >-
+      Shorter second speed, salt during frasage, and a short autolyse.
+    - >-
+      Longer intensive mixing so the ascorbic acid reacts completely.
+    - >-
+      Add soy flour, which balances the effect of the bean flour.
+  correct: 1
+  explanation: >-
+    Bean flour brings lipoxygenase and mixing brings oxygen: less intense mixing, salt early and
+    an autolyse all limit bleaching. Late salt, longer mixing or soy flour whiten the crumb more.
+
+- id: q10
+  question: >-
+    Miller's certificate for a new tradition flour: "W 280, P/L 1.1". The dough is medium in
+    consistency but springs back and tears at shaping. Which correction do you propose to the
+    head baker?
+  options:
+    - >-
+      Contre-frasage, so the dough is firmer and holds the shape better.
+    - >-
+      Intensive mixing, to strengthen the network until it stops tearing.
+    - >-
+      A 30-minute autolyse and a longer détente before shaping.
+    - >-
+      Add ascorbic acid to balance the elasticity of the flour.
+  correct: 2
+  explanation: >-
+    A high P/L flour is tenacious: the dough is too strong, not too soft. An autolyse adds
+    extensibility and a longer rest relaxes it; ascorbic acid is forbidden in tradition and
+    would tighten it further.

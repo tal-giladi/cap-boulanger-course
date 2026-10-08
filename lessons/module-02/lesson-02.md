@@ -174,7 +174,7 @@ The flour with the higher type (or "wholemeal") is visibly darker after wetting 
 | Symptom | Likely cause | Fix now | Prevent next time |
 |---|---|---|---|
 | Tradition loaf refused at a check: the flour list shows E300 | Ordinary flour with ascorbic acid used | Sell it as pain courant, not tradition | Separate and label tradition flour in the store; check the bag before weighing |
-| Dough far too stiff after switching to a higher type | Same water as the white-flour formula | Add water gradually during mixing (bassinage, lesson 03.5) | Adjust hydration when the flour type changes |
+| Dough far too stiff after switching to a higher type | Same water as the white-flour formula | Add water gradually during mixing (bassinage, [lesson 03.5](../module-03/lesson-05.md)) | Adjust hydration when the flour type changes |
 | Croissant dough tears and lacks volume | Weak T55 used instead of gruau | Give longer rests between turns | Use the flour the formula asks for |
 | Rye dough sticky and gummy crumb | No acidification, too much enzyme activity | Bake longer at slightly lower temperature | Use levain; follow the rye formula's water |
 | Pekar strips run into each other | Surface not smooth, board shaken | Repeat with fresh flour | Press flat in one stroke; dip slowly |

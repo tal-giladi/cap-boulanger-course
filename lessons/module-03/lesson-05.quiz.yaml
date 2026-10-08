@@ -1,0 +1,88 @@
+- id: q1
+  question: >-
+    Production sheet: 6,000 g flour, water 65 %. The water meter delivered 4,200 g instead of
+    3,900 g. How much flour must you add to bring the dough back to 65 %?
+  options:
+    - >-
+      About 462 g, because 4,200 / 0.65 = 6,462 g of flour.
+    - >-
+      300 g, the same weight as the extra water.
+    - >-
+      About 195 g, which is 65 % of the 300 g of extra water.
+    - >-
+      About 4,038 g, because flour must be 65 % of the dough.
+  correct: 0
+  explanation: >-
+    Flour needed = water / hydration = 4,200 / 0.65 = 6,462 g, so add about 462 g. Adding only
+    300 g leaves the dough at about 66.7 %, still too soft.
+
+- id: q2
+  question: >-
+    After that contre-frasage, the flour is 6,462 g. Salt is 1.8 % and 108 g is already in.
+    What do you do about the salt?
+  options:
+    - >-
+      Nothing, because salt is a percentage of the dough, not the flour.
+    - >-
+      Add about 54 g, so the salt matches the extra water.
+    - >-
+      Add about 8 g, because 1.8 % of 6,462 g is about 116 g.
+    - >-
+      Add about 116 g, the full quantity for the new flour weight.
+  correct: 2
+  explanation: >-
+    Salt is calculated on the flour: 6,462 x 1.8 / 100 = 116 g. With 108 g already in, add about
+    8 g, as early as possible so it dissolves.
+
+- id: q3
+  question: >-
+    A dough springs back when rolled, shrinks after shaping and tears at scoring. Its consistency
+    is medium. What is the problem and the first correction?
+  options:
+    - >-
+      Too soft: contre-frasage with flour at the end of mixing.
+    - >-
+      Too weak: give it two more folds during the pointage.
+    - >-
+      Too firm: bassinage with extra water after shaping.
+    - >-
+      Too strong: a longer détente before shaping.
+  correct: 3
+  explanation: >-
+    Springing back, shrinking and tearing are signs of a strong, elastic dough, not a water
+    problem. Rest relaxes the network; next time consider an autolyse or a less tenacious flour.
+
+- id: q4
+  question: >-
+    Which description of bassinage is correct?
+  options:
+    - >-
+      Flour added in first speed to firm up a dough that is too soft.
+    - >-
+      Water added gradually in the second half of mixing to soften a firm dough.
+    - >-
+      Water sprayed on the dough during pointage to stop a skin forming.
+    - >-
+      All the water poured in at once at the end of mixing to cool the dough.
+  correct: 1
+  explanation: >-
+    Bassinage adds water in small amounts while the mixer turns, waiting for each to be absorbed.
+    Adding flour is contre-frasage.
+
+- id: q5
+  question: >-
+    You made a large contre-frasage on batch 3. What should your report to the head baker
+    contain?
+  options:
+    - >-
+      Only that batch 3 had a problem, so that nobody is blamed.
+    - >-
+      Nothing, as long as the bread comes out of the oven correctly.
+    - >-
+      The facts, the correction with quantities, the consequence and the cause.
+    - >-
+      Only the new hydration, so the sheet can be updated tomorrow.
+  correct: 2
+  explanation: >-
+    A useful report (C4.4) gives what happened, what you did with numbers, what it changes (dough
+    weight, extra pieces) and the likely cause (e.g. water meter), so it can be fixed.

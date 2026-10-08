@@ -1,0 +1,89 @@
+- id: q1
+  question: >-
+    A customer says your baguettes have become "white as cotton and tasteless". The flour has not
+    changed, but a new employee now mixes 11 minutes in second speed and adds the salt at the end.
+    What is the most likely cause?
+  options:
+    - >-
+      Too little yeast, because white crumb means under-fermentation.
+    - >-
+      Not enough water, because a firm dough always gives a white crumb.
+    - >-
+      Too much pâte fermentée, which bleaches the crumb with its acidity.
+    - >-
+      Over-oxidation from long second speed and delayed salt destroying pigments.
+  correct: 3
+  explanation: >-
+    Long intensive mixing works in oxygen; lipoxygenase bleaches the carotenoid pigments and
+    aroma is lost. Salt slows that bleaching, so adding it late makes it worse.
+
+- id: q2
+  question: >-
+    Production sheet: target dough temperature 24 C. At the end of mixing the probe reads 26.5 C.
+    What do you do?
+  options:
+    - >-
+      Mix 3 more minutes in second speed so the gluten resists the heat.
+    - >-
+      Shorten and cool the pointage; use colder water next batch.
+    - >-
+      Lengthen the pointage, because a warm dough needs more time to relax.
+    - >-
+      Add 5 % more yeast so fermentation finishes before the dough weakens.
+  correct: 1
+  explanation: >-
+    A warmer dough ferments faster and has less tolerance. Shorten and cool the fermentation now,
+    judge the dough rather than the clock, and correct the water next time.
+
+- id: q3
+  question: >-
+    Why does ascorbic acid in a pain courant flour need the dough to be mixed with air?
+  options:
+    - >-
+      Because air dissolves the ascorbic acid powder, which is insoluble in water.
+    - >-
+      Because air cools the dough and ascorbic acid only works below 20 C.
+    - >-
+      Because oxygen turns it into its active form, which then strengthens the gluten.
+    - >-
+      Because ascorbic acid feeds the yeast only when oxygen is present.
+  correct: 2
+  explanation: >-
+    Ascorbic acid is converted to dehydroascorbic acid by oxygen worked in during mixing; that
+    form strengthens the gluten network. Without air it does little.
+
+- id: q4
+  question: >-
+    A dough comes out of the mixer at 21 C instead of 24 C, and it has already reached the
+    windowpane. Which correction is right?
+  options:
+    - >-
+      Ferment it longer somewhere warmer, and use warmer water next batch.
+    - >-
+      Mix 8 more minutes in second speed to warm it to 24 C.
+    - >-
+      Add hot water to the dough as bassinage until it reaches 24 C.
+    - >-
+      Divide and shape at once, then bake it immediately.
+  correct: 0
+  explanation: >-
+    Extra second speed would warm it but over-develop and oxidise it, and hot bassinage changes
+    the hydration. Give the cold dough more time in a warmer place and correct the water next time.
+
+- id: q5
+  question: >-
+    Which dough would you expect to heat most during the same mixing time on the same
+    spiral mixer?
+  options:
+    - >-
+      A soft tradition dough at 72 % in first speed only.
+    - >-
+      A soft ciabatta-type dough at 75 % in second speed.
+    - >-
+      A medium pain courant at 64 % in first speed only.
+    - >-
+      A firm pain de mie dough at 58 % in second speed.
+  correct: 3
+  explanation: >-
+    Friction heating is highest when the dough resists most (firm) and the hook moves fastest
+    (second speed). Soft doughs and first speed heat least.

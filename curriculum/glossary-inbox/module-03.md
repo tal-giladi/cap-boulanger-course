@@ -1,0 +1,26 @@
+- **Alvéole** (*al-vay-OLL*) — gas cell in the dough and later in the crumb; the cells are created by air trapped during mixing.
+- **Autolyse** (*oh-toh-LEEZ*) — rest of flour and water only (20–60 minutes) after a brief mix and before kneading; gluten forms without work and the dough becomes more extensible (Calvel, 1974).
+- **Blanchiment de la mie** (*blahn-shee-MAHN duh lah MEE*) — whitening of the crumb caused by over-oxidation during mixing; goes with a loss of aroma.
+- **Caroténoïdes** (*ka-ro-tay-no-EED*) — yellow-cream flour pigments linked to bread aroma; destroyed by over-oxidation.
+- **Consistance** (*kohn-sees-TAHNSS*) — consistency: how firm or soft a dough feels; mostly decided by the water.
+- **Eau de réserve** (*oh duh ray-ZAIRV*) — part of the water held back at the start of mixing and added later by bassinage if the dough needs it.
+- **Échauffement** (*ay-shohf-MAHN*) — temperature rise of the dough during mixing, from friction.
+- **Lipoxygénase** (*lee-pok-see-zhay-NAHZ*) — flour enzyme that uses oxygen and bleaches the pigments; also brought by bean and soy flour.
+- **Non-conformité** (*nohn kohn-for-mee-TAY*) — non-conformity: a product, delivery or result that does not match what was specified; it must be reported.
+- **Oxydation** (*ok-see-dah-SYOHN*) — reactions with the oxygen worked into the dough during mixing: strengthens gluten, activates ascorbic acid, bleaches the crumb.
+- **Pâte ferme / bâtarde / douce** (*paht FAIRM / bah-TARD / DOOSS*) — firm / medium / soft dough.
+- **Pâte croûtée** (*paht kroo-TAY*) — dough with a dry skin from being left uncovered.
+- **Pâte forte / pâte faible** (*paht FORT / paht FEB-luh*) — strong dough (resists, springs back, may tear) / weak dough (stretches easily, spreads).
+- **Pâte qui relâche** (*paht kee ruh-LAHSH*) — dough that slackens and spreads after shaping.
+- **Pâte surpétrie / sous-pétrie** (*paht sewr-pay-TREE / soo-pay-TREE*) — over-mixed / under-mixed dough.
+- **Pétrin à axe oblique** (*pay-TRAN ah AX oh-BLEEK*) — oblique-axis (fork) mixer: gentle, traditional, slower to develop the dough.
+- **Pétrin à spirale** (*pay-TRAN ah spee-RAHL*) — spiral mixer: a spiral hook turns while the bowl turns; the usual bread mixer, with first and second speeds.
+- **Pétrissage à vitesse lente (PVL) / amélioré / intensifié** (*vee-TESS LAHNT / ah-may-lyo-RAY / an-tahn-see-FYAY*) — slow (first speed only) / improved (short second speed) / intensive (long second speed) mixing.
+- **Protéases** (*pro-tay-AHZ*) — flour enzymes that cut proteins and relax the gluten, notably during an autolyse.
+- **Réseau glutineux** (*ray-ZOH glew-tee-NUH*) — the gluten network: the continuous web of linked proteins that holds gas.
+- **Salage différé** (*sah-LAHZH dee-fay-RAY*) — delayed salting: salt added late in mixing; shortens mixing but increases oxidation.
+- **Température de pâte** (*tahm-pay-rah-TOOR duh PAHT*) — dough temperature measured at the end of mixing; usually 23–25 °C for pain courant.
+- **Ténacité** (*tay-na-see-TAY*) — tenacity: a dough's resistance to stretching.
+- **Test de la fenêtre (du voile)** (*test duh lah fuh-NAY-truh*) — windowpane test: stretching a piece of dough into a thin film to judge gluten development.
+- **Tolérance** (*to-lay-RAHNSS*) — how long a dough stays usable before it over-ferments.
+- **Vitesse (1re / 2e)** (*vee-TESS*) — mixer speed: first (slow) for frasage, second (fast) for development.

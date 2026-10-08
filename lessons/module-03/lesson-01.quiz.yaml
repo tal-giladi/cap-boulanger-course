@@ -1,0 +1,88 @@
+- id: q1
+  question: >-
+    A trainee says yeast makes the bubbles in bread, so mixing only needs to combine the
+    ingredients. Which correction is right?
+  options:
+    - >-
+      Yeast makes the bubbles, but only after the salt has dissolved completely.
+    - >-
+      Yeast makes the bubbles; mixing only matters for the dough temperature.
+    - >-
+      Yeast gas fills air cells trapped during mixing; it creates no new cells.
+    - >-
+      Yeast gas escapes from the dough; the bubbles come from steam in the oven.
+  correct: 2
+  explanation: >-
+    CO2 dissolves in the dough water and diffuses into the air cells made during mixing. The
+    number of cells trapped in the mixer sets the number of cells the crumb can have.
+
+- id: q2
+  question: >-
+    You stop the spiral mixer and stretch a piece of dough. It becomes a thin film you can see
+    light through, and a hole tears with smooth round edges. What stage is the dough at?
+  options:
+    - >-
+      Developed: the network is continuous and holds gas well.
+    - >-
+      Under-developed: a hole means the network is still broken.
+    - >-
+      Over-mixed: a film that thin shows the gluten has broken down.
+    - >-
+      End of frasage: the flour has only just been hydrated.
+  correct: 0
+  explanation: >-
+    A thin translucent film with a round-edged tear is the sign of a developed network. Under-mixed
+    dough tears at once with ragged edges; over-mixed dough is sticky and slack and flows.
+
+- id: q3
+  question: >-
+    Two doughs use the same formula. Dough A ferments 1 hour; dough B ferments 4 hours with three
+    folds. How should their mixing differ?
+  options:
+    - >-
+      Both must reach the full windowpane, since development cannot change after mixing.
+    - >-
+      Dough A can be mixed less because a short pointage keeps the network intact.
+    - >-
+      Dough B must be mixed more, because long fermentation weakens all gluten.
+    - >-
+      Dough B can leave the mixer less developed; time and folds keep building it.
+  correct: 3
+  explanation: >-
+    The network keeps strengthening during fermentation and with folds. A short pointage needs a
+    nearly fully developed dough; a long one with folds can be mixed less.
+
+- id: q4
+  question: >-
+    On a mixer, a dough that looked smooth and elastic becomes warm, sticky and slack again a few
+    minutes later. What happened?
+  options:
+    - >-
+      The dough was under-mixed and is only now starting to develop.
+    - >-
+      Over-mixed: extra work broke bonds and the network let water out.
+    - >-
+      The salt was forgotten, so the gluten network could not form.
+    - >-
+      The yeast became active and its gas made the dough sticky.
+  correct: 1
+  explanation: >-
+    Past the optimum, extra mechanical work breaks bonds in the network (letdown); the dough
+    releases water, gets sticky and slack, and keeps warming. It cannot be undone.
+
+- id: q5
+  question: >-
+    By hand, your 65 % dough is still sticky after 4 minutes of kneading. What should you do?
+  options:
+    - >-
+      Keep kneading without adding flour; stickiness falls as gluten forms.
+    - >-
+      Add flour each time it sticks, because a sticky dough is always over-hydrated.
+    - >-
+      Stop kneading and leave it, because a sticky dough is already over-mixed.
+    - >-
+      Add a little more water to help the proteins unfold faster.
+  correct: 0
+  explanation: >-
+    After 4 minutes the network is still forming. Adding flour changes the formula and keeps the
+    dough under-developed; keep working it and it becomes smooth.

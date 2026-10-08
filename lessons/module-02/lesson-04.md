@@ -83,7 +83,7 @@ The same hydration does not give the same consistency with every flour. A flour 
 - more bran (fibre and pentosans hold water) — higher types;
 - lower moisture in the bag: a flour at 13 % moisture is drier than one at 15.5 % and needs a little more water.
 
-That is why a recipe gives a hydration, but the baker finishes the adjustment by feel: **bassinage** (a little water at the end of mixing) to soften, **contre-frasage** (a little flour) to firm up. Lesson 03.5 practises both.
+That is why a recipe gives a hydration, but the baker finishes the adjustment by feel: **bassinage** (a little water at the end of mixing) to soften, **contre-frasage** (a little flour) to firm up. [Lesson 03.5](../module-03/lesson-05.md) practises both.
 
 ### Water quality
 

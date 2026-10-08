@@ -1,0 +1,87 @@
+- id: q1
+  question: >-
+    A baker prepares an autolyse for tradition baguettes. Which ingredients go into it?
+  options:
+    - >-
+      Flour, water and salt, so that the salt dissolves during the rest.
+    - >-
+      Flour and water only; yeast, salt and pâte fermentée come afterwards.
+    - >-
+      Flour, water and yeast, so that fermentation starts during the rest.
+    - >-
+      Flour, water and pâte fermentée, since it brings no salt or yeast.
+  correct: 1
+  explanation: >-
+    The classic autolyse is flour and water only. Salt tightens gluten and slows enzymes, yeast
+    would start fermenting, and pâte fermentée already contains both.
+
+- id: q2
+  question: >-
+    Two doughs on the same spiral mixer: a pain de mie at 58 % and a tradition at 72 %. Which
+    behaviour do you expect during mixing?
+  options:
+    - >-
+      Both develop at the same speed, because the mixer speed is the same.
+    - >-
+      The tradition develops faster, because water speeds up gluten bonds.
+    - >-
+      The pain de mie stays cooler, because firm doughs absorb friction heat.
+    - >-
+      The pain de mie develops faster and heats more; the tradition is slower.
+  correct: 3
+  explanation: >-
+    In a firm dough the hook meets more resistance, so each turn does more work: faster
+    development, more friction heat. A soft dough develops slowly and stays cooler.
+
+- id: q3
+  question: >-
+    Your mixing sheet says 5 minutes in second speed. With a 30-minute autolyse added, what
+    happens to the mixing?
+  options:
+    - >-
+      The dough reaches the same development sooner, so second speed is shorter.
+    - >-
+      The dough needs more second speed to break the gluten formed in the rest.
+    - >-
+      Nothing changes; the autolyse only improves the taste of the crust.
+    - >-
+      The dough must be mixed in first speed only, or it will tear.
+  correct: 0
+  explanation: >-
+    Gluten bonds form without work during the rest, so less kneading reaches the same
+    windowpane. Less mixing also means less heat and less oxidation.
+
+- id: q4
+  question: >-
+    A new flour has a low falling number (much amylase) and gives a slack dough. The head baker
+    asks whether to add a 45-minute autolyse. What do you advise?
+  options:
+    - >-
+      Yes: the autolyse makes any slack dough firmer by hydrating the bran.
+    - >-
+      Yes, and make it longer, because amylase is destroyed during the rest.
+    - >-
+      No: the rest relaxes gluten and frees sugars; it gets slacker.
+    - >-
+      No, because an autolyse only works with wholemeal flour.
+  correct: 2
+  explanation: >-
+    An autolyse relaxes the gluten (proteases) and lets amylases work longer. With an already
+    slack, high-amylase flour it makes things worse; skip it or keep it very short.
+
+- id: q5
+  question: >-
+    When is the right moment to check and adjust consistency during mixing?
+  options:
+    - >-
+      At the end of second speed, when the dough is fully developed.
+    - >-
+      At the end of frasage, while gluten is not yet developed.
+    - >-
+      During pointage, after the first fold.
+    - >-
+      Before weighing, by changing the hydration on the sheet.
+  correct: 1
+  explanation: >-
+    At the end of frasage water can still be absorbed evenly. Adding water or flour to a fully
+    developed dough is slower and damages the structure.

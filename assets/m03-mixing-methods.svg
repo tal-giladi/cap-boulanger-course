@@ -1,0 +1,70 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 920 420" width="920" height="420" role="img" aria-labelledby="t d">
+  <title id="t">The three French mixing methods on a spiral mixer: slow, improved and intensive</title>
+  <desc id="d">Timeline bars on a 0 to 20 minute scale. Slow mixing: about 4 minutes of frasage then about 12 to 16 more minutes, all in first speed. Improved mixing: 4 minutes of frasage in first speed then about 5 to 7 minutes in second speed. Intensive mixing: 4 minutes of frasage then about 10 to 12 minutes in second speed. On the right, the effects: slow mixing gives little oxidation, creamy crumb, most flavour and keeping, smallest volume and a long pointage; improved mixing is in between with a medium pointage; intensive mixing gives strong oxidation, white crumb, biggest volume, bland taste, fast staling and a short pointage.</desc>
+  <rect x="0" y="0" width="920" height="420" fill="#ffffff"/>
+  <g font-family="Arial, Helvetica, sans-serif" fill="#222222">
+    <text x="460" y="30" text-anchor="middle" font-size="20" font-weight="bold">Mixing methods on a spiral mixer (typical orders of magnitude)</text>
+
+    <!-- legend -->
+    <rect x="180" y="48" width="18" height="14" fill="#9cc3e6"/><text x="204" y="60" font-size="13">1st speed</text>
+    <rect x="290" y="48" width="18" height="14" fill="#d9822b"/><text x="314" y="60" font-size="13">2nd speed</text>
+    <text x="400" y="60" font-size="13">minutes are typical; stop on the dough, not the clock</text>
+
+    <!-- axis 0..20 min : x = 180 + 18*min -->
+    <line x1="180" y1="300" x2="540" y2="300" stroke="#444444" stroke-width="1.5"/>
+    <g font-size="12" text-anchor="middle">
+      <line x1="180" y1="300" x2="180" y2="306" stroke="#444444"/><text x="180" y="320">0</text>
+      <line x1="270" y1="300" x2="270" y2="306" stroke="#444444"/><text x="270" y="320">5</text>
+      <line x1="360" y1="300" x2="360" y2="306" stroke="#444444"/><text x="360" y="320">10</text>
+      <line x1="450" y1="300" x2="450" y2="306" stroke="#444444"/><text x="450" y="320">15</text>
+      <line x1="540" y1="300" x2="540" y2="306" stroke="#444444"/><text x="540" y="320">20 min</text>
+    </g>
+
+    <!-- row labels -->
+    <g font-size="15" font-weight="bold">
+      <text x="20" y="110">Slow (PVL)</text>
+      <text x="20" y="190">Improved</text>
+      <text x="20" y="270">Intensive</text>
+    </g>
+    <g font-size="12">
+      <text x="20" y="128">vitesse lente</text>
+      <text x="20" y="208">amélioré</text>
+      <text x="20" y="288">intensifié</text>
+    </g>
+
+    <!-- slow: 0-4 frasage + 4-18 1st speed (light), uncertainty to 20 -->
+    <rect x="180" y="92" width="72" height="30" fill="#9cc3e6" stroke="#4a7fb0"/>
+    <rect x="252" y="92" width="252" height="30" fill="#c6dcf0" stroke="#4a7fb0"/>
+    <text x="216" y="112" text-anchor="middle" font-size="12">frasage</text>
+    <text x="378" y="112" text-anchor="middle" font-size="12">1st speed, about 12–16 min</text>
+
+    <!-- improved: 0-4 + 4-10 -->
+    <rect x="180" y="172" width="72" height="30" fill="#9cc3e6" stroke="#4a7fb0"/>
+    <rect x="252" y="172" width="108" height="30" fill="#d9822b" stroke="#a35a12"/>
+    <text x="216" y="192" text-anchor="middle" font-size="12">frasage</text>
+    <text x="306" y="192" text-anchor="middle" font-size="12" fill="#ffffff">5–7 min</text>
+
+    <!-- intensive: 0-4 + 4-16 -->
+    <rect x="180" y="252" width="72" height="30" fill="#9cc3e6" stroke="#4a7fb0"/>
+    <rect x="252" y="252" width="198" height="30" fill="#d9822b" stroke="#a35a12"/>
+    <text x="216" y="272" text-anchor="middle" font-size="12">frasage</text>
+    <text x="351" y="272" text-anchor="middle" font-size="12" fill="#ffffff">10–12 min</text>
+
+    <!-- effects table -->
+    <g font-size="13">
+      <text x="580" y="80" font-weight="bold">Effect on dough and bread</text>
+      <rect x="570" y="88" width="330" height="44" rx="6" fill="#eef5fb" stroke="#4a7fb0"/>
+      <text x="580" y="106">little oxidation, creamy crumb, most aroma</text>
+      <text x="580" y="124">small volume, keeps well; long pointage + folds</text>
+      <rect x="570" y="168" width="330" height="44" rx="6" fill="#fdf6ec" stroke="#c0702a"/>
+      <text x="580" y="186">balance of volume and flavour</text>
+      <text x="580" y="204">medium pointage; usual artisan choice</text>
+      <rect x="570" y="248" width="330" height="44" rx="6" fill="#fbe9e0" stroke="#a35a12"/>
+      <text x="580" y="266">strong oxidation, white crumb, big volume</text>
+      <text x="580" y="284">bland, stales fast; short pointage</text>
+    </g>
+
+    <text x="460" y="360" text-anchor="middle" font-size="13">An oblique-axis mixer (pétrin à axe oblique) works more gently: the same development takes longer.</text>
+    <text x="460" y="382" text-anchor="middle" font-size="13">A softer dough, an autolyse or a stronger flour also change the times.</text>
+  </g>
+</svg>
