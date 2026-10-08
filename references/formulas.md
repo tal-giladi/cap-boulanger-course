@@ -18,7 +18,7 @@ These are the course's starting formulas, in baker's percentages (flour = 100). 
 |---|---|---|
 | Flour | T45 or T55 100 | T45 or T55 100 |
 | Water and/or milk | 58-62 (part milk) | 55-60 (milk) |
-| Salt | 2.0 | 2.0 |
+| Salt | 1.6-1.8 (salt limit for pain de mie: 1.1 g per 100 g of bread since October 2025) | 2.0 |
 | Fresh yeast | 3-4 | 3-4 |
 | Sugar | 4-6 | 5-8 |
 | Butter or fat | 6-10 | 8-12 |
