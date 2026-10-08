@@ -91,7 +91,7 @@ Laminated doughs (croissant, pain au chocolat, S3.4) depend on butter staying in
 - **Rest in the cold between turns** to firm both again.
 - **Proof below the butter's softening point**: keep laminated dough below about 27 °C, or the butter melts and leaks from the pieces in the oven. Viennoiserie is proofed cooler than bread would allow.
 
-Rich doughs such as brioche are mixed long with a lot of butter, which heats them, so their TB is low and their water very cold (the EP1 2019 brioche: TB 48 °C, water 4 °C, lesson [05.2](lesson-02.md)). Modules 11 and 12 take these products in detail.
+Rich doughs such as brioche are mixed long with a lot of butter, which heats them, so their TB is low and their water very cold (the EP1 2019 brioche: TB 48 °C, water 4 °C, lesson [05.2](lesson-02.md)). [Modules 11](../module-11/lesson-03.md) and [12](../module-12/lesson-01.md) take these products in detail.
 
 ## Worked example
 
@@ -142,7 +142,7 @@ Checked 2026-10-08.
 - **Humidity.** Summer air on the coast is humid, so dough skins less; in an air-conditioned room it dries faster: always cover.
 - **Fridge for retarding.** Keep the fridge at 5 °C or below, the limit the Ministry of Health sets for chilled food in food businesses; check it before an overnight dough.
 - **Storing the bread.** In humid summer heat bread moulds sooner: once fully cooled, keep what you eat in a day or two in a bag and freeze the rest (-18 °C) in slices.
-- **Butter for later modules.** In summer, laminate only in the coolest room or early morning, with butter straight from the fridge brought to about 13 °C; Modules 11 and 12 give the details. Flour: [Flour in Israel](../../references/flour-in-israel.md).
+- **Butter for later modules.** In summer, laminate only in the coolest room or early morning, with butter straight from the fridge brought to about 13 °C; [Modules 11](../module-11/lesson-03.md) and [12](../module-12/lesson-01.md) give the details. Flour: [Flour in Israel](../../references/flour-in-israel.md).
 
 ### Steps
 

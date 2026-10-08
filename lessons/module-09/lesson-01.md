@@ -88,6 +88,8 @@ What the freezing rule does **not** forbid: cold at positive temperatures. The r
 | Unsold traditions frozen in the shop and sold thawed the next day | No in any business calling itself "boulangerie": dough and bread may not be frozen **at any stage of production or sale** | L122-17 |
 | A customer freezing the tradition she bought | Yes: the law governs the seller, not the customer | — |
 
+These rules are about bread. Viennoiserie may be frozen ([lesson 12.5](../module-12/lesson-05.md)).
+
 Pain de tradition française has no salt limit of its own. The Ministry of Agriculture's salt page sets 1.4 g per 100 g for "pains courants" such as the baguette ([agriculture.gouv.fr](https://agriculture.gouv.fr/filiere-boulangerie-vers-une-diminution-du-sel-dans-le-pain-0)) and does not name tradition; the course keeps tradition under the same 1.4 g as good practice (lesson 09.4 checks it).
 
 ### Pain maison (article 1)

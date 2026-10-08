@@ -1,0 +1,183 @@
+- id: q1
+  question: >-
+    Production order for one lamination: 30 croissants of 60 g and 36 pains au chocolat of 58 g of
+    dough. Batch rule: pieces ÷ 0.90 × 1.02. CR-01: détrempe 177 %, beurrage 50 % of the flour; flour rounded
+    up to the next 100 g. How much flour do you weigh?
+  options:
+    - >-
+      2,000 g, from 4,406 g divided by 2.27
+    - >-
+      2,500 g, from 4,406 g divided by 1.77
+    - >-
+      1,800 g, from 3,888 g divided by 2.27
+    - >-
+      2,200 g, from 3,888 g divided by 1.77
+  correct: 0
+  explanation: >-
+    30 × 60 + 36 × 58 = 3,888 g; ÷ 0.90 × 1.02 = 4,406 g of laminated dough; ÷ 2.27 = 1,941 g → 2,000 g.
+    Dividing by 1.77 forgets the beurrage; skipping trimmings and losses leaves the order short.
+
+- id: q2
+  question: >-
+    Cooling record, crème pâtissière CP-01 cooked at 11:15: "11:18 tray 2 cm, 88 °C — 11:20 63 °C —
+    12:05 30 °C — 12:50 12 °C — 13:15 8 °C → cold room 2 °C". What is the right entry on the sheet?
+  options:
+    - >-
+      Non-conforming: more than 2 hours passed between cooking and 8 °C.
+    - >-
+      Non-conforming: it should have reached 10 °C within 1 hour.
+    - >-
+      Conforming: 1 h 55 min from 63 to 10 °C; use before 11:15 tomorrow.
+    - >-
+      Conforming: use within 3 days, since it is stored below 3 °C.
+  correct: 2
+  explanation: >-
+    The 2-hour clock runs from +63 °C (11:20) to +10 °C (before 13:15): under 2 hours, so it conforms.
+    The course keeps the cream at 0 to +3 °C for 24 hours at most.
+
+- id: q3
+  question: >-
+    Bake log, pains aux raisins: "Tops golden after 16 min at 180 °C fan, taken out. Bases pale and
+    wet, spirals soft in the middle, cream about 5 mm thick." Which diagnosis fits best?
+  options:
+    - >-
+      The raisins were soaked, so they released water into the dough.
+    - >-
+      They came out too early, and the thick cream layer kept the bases wet.
+    - >-
+      The cream was boiled too long and turned to liquid in the oven.
+    - >-
+      The sheet was rolled too thin, so the layers dissolved in the cream.
+  correct: 1
+  explanation: >-
+    The base is the last part to bake under a cream: bake until golden underneath, with a thin, even
+    layer of about 2 mm. Soaked and well-drained raisins and a boiled cream are correct practice.
+
+- id: q4
+  question: >-
+    Fiche technique, pain au lait: "TB 51 °C — température du fournil 24 °C — température de la
+    farine 23 °C". The trainee has milk and liquid egg in the cold room at 4 °C. Which liquid
+    temperature does the sheet ask for?
+  options:
+    - >-
+      20 °C, from 3 × 24 − 24 − 23 − 5 for the mixing heat
+    - >-
+      −2 °C, from 51 − 24 − 23 − 6, taking the friction out again
+    - >-
+      28 °C, from 51 − 23, since the fournil is already in the TB
+    - >-
+      4 °C, from 51 − 24 − 23: the cold-room milk and egg are right
+  correct: 3
+  explanation: >-
+    A printed TB already excludes friction: liquid = TB − fournil − flour = 4 °C, which is the cold-room
+    temperature. Taking friction out again, or replacing the TB with your own base, is wrong.
+
+- id: q5
+  question: >-
+    Shop label to write for pains aux raisins. The raisin bag reads "raisins, huile de tournesol,
+    anhydride sulfureux (E220)". The dough is the croissant dough; the cream is CP-01. Which allergen
+    line is correct?
+  options:
+    - >-
+      Contains: wheat (gluten), milk.
+    - >-
+      Contains: wheat (gluten), egg, soy.
+    - >-
+      Contains: wheat (gluten), milk, egg, sulphites.
+    - >-
+      Contains: wheat (gluten), milk, egg, sunflower.
+  correct: 2
+  explanation: >-
+    Wheat from the flour, milk from the milk and butter, egg from the cream and egg wash, and sulphites
+    (sulphur dioxide) from the raisins. Sunflower oil is not one of the 14 regulated allergens.
+
+- id: q6
+  question: >-
+    Sunday plan for raw croissants frozen on Friday: the shop opens at 7:00 and the pieces need about
+    2 hours to proof. Which schedule is feasible and safe?
+  options:
+    - >-
+      Saturday 17:00 into the cabinet at 4 °C; proof at 25 °C from 3:45; bake 6:00.
+    - >-
+      Sunday 4:00 out of the freezer onto the warm bench; bake when they look ready.
+    - >-
+      Saturday 17:00 onto the bench overnight to thaw; into the oven at 6:00.
+    - >-
+      Sunday 3:00 straight from the freezer into the cabinet at 30 °C; bake 5:00.
+  correct: 0
+  explanation: >-
+    Thaw in the cold overnight, then proof below about 27 °C: the cabinet does both on a programme.
+    A warm bench or a 30 °C cabinet proofs the outside and melts the butter while the inside is frozen.
+
+- id: q7
+  question: >-
+    Order: 6 three-strand braids of 300 g and 30 navettes of 50 g from sheet PL-01 (total 195.5 %);
+    process losses 2 %; flour rounded up to the next 100 g. Which line is correct?
+  options:
+    - >-
+      Flour 1,700 g; strands of 150 g
+    - >-
+      Flour 3,400 g; strands of 100 g
+    - >-
+      Flour 1,700 g; strands of 300 g each
+    - >-
+      Flour 1,800 g; strands of 100 g
+  correct: 3
+  explanation: >-
+    6 × 300 + 30 × 50 = 3,300 g; × 1.02 = 3,366 g; ÷ 1.955 = 1,722 g → 1,800 g. A three-strand braid of
+    300 g has three strands of 100 g; the dough weight is not the flour weight.
+
+- id: q8
+  question: >-
+    July, home kitchen at 30 °C. A learner proofs her pains au chocolat on the counter. After baking
+    there is a pool of butter on the tray and the pieces are flat and fried underneath. Which
+    diagnosis and fix go together?
+  options:
+    - >-
+      Too little butter in the détrempe; add 5 % more next time.
+    - >-
+      Proof too warm, so the butter melted; proof at 24-26 °C next time.
+    - >-
+      Oven too cool; bake 30 °C hotter so the butter sets at once.
+    - >-
+      Too much yeast; halve it so the pieces rise more slowly.
+  correct: 1
+  explanation: >-
+    Above about 27 °C the butter layers soften and run out in the oven. Proof in a cooler place, or
+    shape in the evening, chill overnight and finish the proof in the morning.
+
+- id: q9
+  question: >-
+    A customer asks how salty your brioches à tête are. Sheet BR-01: salt 2.0 %, total 236.5 %. A 50 g
+    piece weighs 44 g after baking. Which figure is correct?
+  options:
+    - >-
+      2.0 g per 100 g, the salt percentage on the sheet
+    - >-
+      0.85 g per 100 g, the salt share of the raw dough
+    - >-
+      0.96 g per 100 g, from 0.42 g of salt in 44 g
+    - >-
+      2.27 g per 100 g, from 1 g of salt in 44 g
+  correct: 2
+  explanation: >-
+    Salt is 2.0 ÷ 236.5 = 0.846 % of the dough: 50 × 0.846 % = 0.42 g in a 44 g brioche = 0.96 g per
+    100 g. The sheet's 2.0 % is of the flour; the raw-dough share ignores the baking loss.
+
+- id: q10
+  question: >-
+    Monday 18 March, freezer check. A bag reads "Pains au chocolat crus ×10 — congelés 02/03 — à
+    utiliser avant 16/03". The freezer log shows −19 °C every day. What do you do?
+  options:
+    - >-
+      Discard it: it is past the date the bakery set, whatever the temperature.
+    - >-
+      Bake it today, since it has been kept at −19 °C throughout.
+    - >-
+      Thaw it and refreeze it with a new date so it can be used next week.
+    - >-
+      Sell the pieces as "day-old" viennoiserie at a lower price.
+  correct: 0
+  explanation: >-
+    The use-by on the bag is the bakery's own limit, set by its tests: past it, the stock is discarded
+    and noted. Refreezing thawed product is not allowed, and a good temperature log does not extend a date.

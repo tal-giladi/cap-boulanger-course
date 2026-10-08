@@ -1,0 +1,88 @@
+- id: q1
+  question: >-
+    A trainee's three-strand braids are always tight and thin at one end and loose and fat at the
+    other. Her strands weigh 100 g each and are the same length. What should she change?
+  options:
+    - >-
+      Roll the strands thinner at both ends so the braid evens out.
+    - >-
+      Start braiding in the middle, then turn the braid and braid the other half.
+    - >-
+      Pull each strand tighter as she goes so the crossings stay the same.
+    - >-
+      Use two strands of 150 g instead, since they cannot go uneven.
+  correct: 1
+  explanation: >-
+    Braiding from one end makes the crossings drift tighter or looser along the braid. Starting in the
+    middle gives two identical halves; pulling the strands only adds tension that splits in the oven.
+
+- id: q2
+  question: >-
+    Order for sheet PB-01 (total 203.5 %): 4 braids of 300 g, 20 hedgehogs of 60 g and 20 navettes of
+    50 g; process losses 2 %; flour rounded up to the next 100 g. How much flour?
+  options:
+    - >-
+      1,700 g, from 3,400 g divided by 2.035 and rounded
+    - >-
+      3,500 g, the dough weight with the losses
+    - >-
+      1,800 g, from 3,468 g divided by 2.035
+    - >-
+      1,900 g, counting the navettes at 60 g like the hedgehogs
+  correct: 2
+  explanation: >-
+    1,200 + 1,200 + 1,000 = 3,400 g; × 1.02 = 3,468 g; ÷ 2.035 = 1,704 g → 1,800 g. Forgetting the losses
+    leaves the order short, the navettes weigh 50 g, and the dough weight is not the flour weight.
+
+- id: q3
+  question: >-
+    Your pain brioché braid split open along the strands in the oven, showing pale dough. The proof
+    was full. Which shaping fault most likely caused it?
+  options:
+    - >-
+      The strands were rolled with too little flour on the bench.
+    - >-
+      The braid was egg-washed twice instead of once.
+    - >-
+      The strands were rested 15 minutes in the cold before rolling.
+    - >-
+      The strands were pulled tight while braiding.
+  correct: 3
+  explanation: >-
+    Strands are laid over each other without tension; a tight braid has no room to expand and tears
+    between the strands. Little flour, a cold rest and two egg washes are all correct practice.
+
+- id: q4
+  question: >-
+    A shop asks for a two-strand braid. Which description of the method is correct?
+  options:
+    - >-
+      Lay the strands in a cross and swap the two ends of one strand over the other, alternating.
+    - >-
+      Twist the two strands round each other like a rope from one end to the other.
+    - >-
+      Lay the strands side by side and pass the left over the right from the middle.
+    - >-
+      Tie the two strands in a knot in the middle and braid each half separately.
+  correct: 0
+  explanation: >-
+    The two-strand braid starts as a cross: the ends of the lower strand are swapped over the upper
+    one, then the ends of the other strand, until the ends are short; it gives a tall, square braid.
+
+- id: q5
+  question: >-
+    Your tray of 60 g hedgehogs shows five different sizes and the spines of some are flat. What do
+    you change for the next tray?
+  options:
+    - >-
+      Shape bigger hedgehogs of 80 g so small differences do not show.
+    - >-
+      Snip the spines before the first egg wash so they set during the proof.
+    - >-
+      Weigh every piece to ± 2 g and snip the spines after the second egg wash.
+    - >-
+      Bake them at 220 °C so the spines crisp and stand up.
+  correct: 2
+  explanation: >-
+    Regularity starts at the scale: every piece weighed. Spines snipped after the last egg wash stay
+    sharp and lift in the oven; snipped early they close up in the proof, and 220 °C burns their tips.

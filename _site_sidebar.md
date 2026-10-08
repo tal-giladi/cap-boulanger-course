@@ -89,3 +89,21 @@
   - [59 · Pain Viennois](/lessons/module-10/lesson-06.md)
   - [60 · Seeded and Special Breads](/lessons/module-10/lesson-07.md)
   - [Module 10 quiz](/assessments/module-10-quiz.md)
+
+- Part 3 — Viennoiserie
+- **Module 11 — Viennoiserie: The Croissant**
+  - [61 · How Laminated Dough Works](/lessons/module-11/lesson-01.md)
+  - [62 · The Détrempe](/lessons/module-11/lesson-02.md)
+  - [63 · Butter and Beurrage](/lessons/module-11/lesson-03.md)
+  - [64 · Tourage: Turns, Rest and Temperature](/lessons/module-11/lesson-04.md)
+  - [65 · Rolling, Cutting and Shaping Croissants](/lessons/module-11/lesson-05.md)
+  - [66 · Proofing, Egg Wash and Baking](/lessons/module-11/lesson-06.md)
+  - [67 · Evaluating Croissants and Fixing Lamination Faults](/lessons/module-11/lesson-07.md)
+  - [Module 11 quiz](/assessments/module-11-quiz.md)
+- **Module 12 — Viennoiserie: Pain au Chocolat, Pain aux Raisins and Brioche Doughs**
+  - [68 · Pain au Chocolat: What Changes from Croissant](/lessons/module-12/lesson-01.md)
+  - [69 · Pain aux Raisins and Crème Pâtissière](/lessons/module-12/lesson-02.md)
+  - [70 · Pâte Levée: Pain au Lait, Pain Brioché and Brioche](/lessons/module-12/lesson-03.md)
+  - [71 · Braids, Navettes and Animals](/lessons/module-12/lesson-04.md)
+  - [72 · Freezing, Storing and Packaging Viennoiserie](/lessons/module-12/lesson-05.md)
+  - [Module 12 quiz](/assessments/module-12-quiz.md)

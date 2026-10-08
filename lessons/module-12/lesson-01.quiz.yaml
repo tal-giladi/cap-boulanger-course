@@ -1,0 +1,91 @@
+- id: q1
+  question: >-
+    A trainee rolls the pain au chocolat part of the sheet to 3.5 mm, cuts rectangles and stretches
+    each one before rolling it, as she does for croissants. The batons stick out at both ends. What
+    is the fault?
+  options:
+    - >-
+      The batons are too long; they should be cut down to about 6 cm before use.
+    - >-
+      The sheet should have been rolled to 2.5 mm so the rectangle covers the batons.
+    - >-
+      Stretching narrowed the rectangle; it must stay a little wider than the batons.
+    - >-
+      The rectangles should be rolled from the long side so the batons lie lengthwise.
+  correct: 2
+  explanation: >-
+    A pain au chocolat is rolled without stretching: the 8.5 cm side is the length of a baton plus a
+    few millimetres. Stretching makes it narrower, so the chocolate shows at the ends.
+
+- id: q2
+  question: >-
+    Order: 48 croissants of 60 g and 48 pains au chocolat of 58 g of dough. Batch rule: pieces ÷ 0.90
+    × 1.02; CR-01 détrempe 177 % and beurrage 50 % of the flour; flour rounded up to the next 100 g.
+    How much flour?
+  options:
+    - >-
+      2,900 g, from 6,419 g divided by 2.27
+    - >-
+      3,700 g, from 6,419 g divided by 1.77
+    - >-
+      2,500 g, from 5,664 g divided by 2.27
+    - >-
+      3,200 g, from 5,664 g divided by 1.77
+  correct: 0
+  explanation: >-
+    5,664 g ÷ 0.90 × 1.02 = 6,419 g of laminated dough; ÷ 2.27 (détrempe 177 + beurrage 50) = 2,828 g →
+    2,900 g. Dividing by 1.77 forgets the beurrage; skipping trimmings and losses leaves the order short.
+
+- id: q3
+  question: >-
+    After baking, several pains au chocolat have unrolled on one side and the seam shows on the
+    side of the piece. Which change prevents it?
+  options:
+    - >-
+      Brush egg wash on the seam and the cut ends so they glue together.
+    - >-
+      Place the last edge underneath, in the middle, and roll without pulling.
+    - >-
+      Proof them warmer, at about 30 °C, so they set before they reach the oven.
+    - >-
+      Put a third baton in the middle so the roll is tighter.
+  correct: 1
+  explanation: >-
+    The weight of the piece holds a seam that is underneath and centred. Egg wash on the cut layers
+    glues them shut, and 30 °C melts the butter out of the layers.
+
+- id: q4
+  question: >-
+    In a hurry, a baker cuts the rectangles as soon as the sheet comes off the laminoir. The pieces
+    shrink and turn oval before she can roll them. What should she do next time?
+  options:
+    - >-
+      Cut the rectangles longer to allow for the shrinking.
+    - >-
+      Use a weaker flour so the sheet is less elastic.
+    - >-
+      Add more butter to the détrempe to soften the sheet.
+    - >-
+      Rest the sheet in the cold for 10-20 minutes before cutting.
+  correct: 3
+  explanation: >-
+    A freshly rolled sheet is elastic and springs back when cut. A short cold rest relaxes the gluten
+    and firms the butter, so the pieces keep their size and the layers stay straight.
+
+- id: q5
+  question: >-
+    A home baker in Tel Aviv cannot find baking batons and cuts a milk chocolate bar into sticks.
+    Her pains au chocolat leak chocolate into the layers. Which explanation fits?
+  options:
+    - >-
+      Milk chocolate contains gluten that breaks the layers apart in the oven.
+    - >-
+      Eating chocolate is more fluid when hot; batons are made to hold their shape.
+    - >-
+      The chocolate was too cold, so it cracked the dough during the proof.
+    - >-
+      Israeli butter melts at a lower point, so the chocolate pushed through it.
+  correct: 1
+  explanation: >-
+    Bake-stable batons are made with low fluidity (less cocoa butter) so they soften without
+    running. A dark baking chocolate cut into sticks and kept cold is the better substitute.

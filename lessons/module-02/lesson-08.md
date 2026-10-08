@@ -28,7 +28,7 @@ A pain au lait, a brioche or a pain de mie is still bread, but sugar, fat, milk 
 
 ## Why it matters
 
-Module 12 (pâte levée: pain au lait, pain brioché, brioche) and Module 11 (croissant) depend on these ingredients. Each one changes gluten, fermentation and colour in a predictable way, so you can adjust: more yeast for sugar, more mixing for butter, lower oven for colour. They are also perishable and allergenic (milk and eggs are two of the 14 regulated allergens), so receiving and storing them correctly is part of food safety (Module 17).
+[Module 12](../module-12/lesson-03.md) (pâte levée: pain au lait, pain brioché, brioche) and [Module 11](../module-11/lesson-03.md) (croissant) depend on these ingredients. Each one changes gluten, fermentation and colour in a predictable way, so you can adjust: more yeast for sugar, more mixing for butter, lower oven for colour. They are also perishable and allergenic (milk and eggs are two of the 14 regulated allergens), so receiving and storing them correctly is part of food safety (Module 17).
 
 ## Key terms
 
@@ -86,7 +86,7 @@ flowchart TB
 | Butter for laminating (beurre de tourage / beurre sec) | firmer, more plastic, higher melting range | croissant, pain au chocolat (lesson 11.3) | cold, flat plaques |
 | Concentrated butter | about 99.8 % fat, no water | pastry, frying | cool, dry |
 | Margarine | emulsion of vegetable fats and water (about 80 % fat for full-fat margarine) | cheaper viennoiserie; special laminating margarines | cool; follow the label |
-| Cream (crème) | fat from milk, roughly 30–35 % for whipping cream; lighter creams less | fillings, some brioches, crème pâtissière (Module 12) | refrigerated, closed, date after opening |
+| Cream (crème) | fat from milk, roughly 30–35 % for whipping cream; lighter creams less | fillings, some brioches, crème pâtissière ([Module 12](../module-12/lesson-02.md)) | refrigerated, closed, date after opening |
 
 **Role of fat in a dough:**
 
@@ -94,7 +94,7 @@ flowchart TB
 - at moderate doses (5–10 %) it improves volume and gives a softer, finer crumb and a thinner, softer crust;
 - at high doses (brioche 50–60 %) it weakens the network so much that butter is added **after** the gluten has formed, at the end of mixing, and the flour must be strong (gruau);
 - it slows staling and carries flavour (butter flavour is the reference: products made with margarine cannot be sold as "pur beurre");
-- in laminated doughs it makes the layers (Module 11).
+- in laminated doughs it makes the layers ([Module 11](../module-11/lesson-03.md)).
 
 ### Eggs and egg products
 

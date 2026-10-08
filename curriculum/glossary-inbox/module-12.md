@@ -1,0 +1,36 @@
+- **Abaisse** (*ah-BESS*) — the rolled-out sheet of dough, and its thickness: about 4 mm for pains au chocolat, about 3.5 mm for pains aux raisins.
+- **Animaux** (*ah-nee-MOH*) — animal shapes in pâte levée (hérisson, tortue, escargot, souris), small pieces of about 60 g, all identical on the tray.
+- **Bâton de chocolat (boulanger)** (*bah-TOHN duh sho-ko-LAH*) — chocolate baton about 8 cm long, low in fluidity so it holds its shape in the oven; two per pain au chocolat.
+- **Batteur** (*bah-TUHR*) — planetary mixer with whisk, paddle and hook; used for brioche doughs and creams.
+- **Blanchir** (*blahn-SHEER*) — to whisk egg yolks and sugar until pale and thick, the first step of a crème pâtissière.
+- **Branche (brin)** (*BRAHNSH (BRAN)*) — strand of a braid: a "tresse à trois branches" is a three-strand braid.
+- **Brioche** (*bree-OSH*) — rich pâte levée in which eggs replace most of the liquid and butter is about half the flour weight; mixed by machine, the butter added after the gluten has formed.
+- **Brioche à tête** (*bree-OSH ah TET*) — brioche with a "head": a small ball pressed into a larger one in a fluted mould.
+- **Brûlure de congélation** (*brü-LÜR duh kohn-zhay-lah-SYOHN*) — freezer burn: dry, pale patches on a frozen product whose surface lost water.
+- **Cellule de refroidissement rapide** (*say-LÜL duh ruh-frwah-dees-MAHN rah-PEED*) — blast chiller: cools hot preparations such as crème pâtissière from +63 °C to +10 °C quickly.
+- **Conditionnement** (*kohn-dee-syon-MAHN*) — packaging finished products for sale or delivery (paper bag, plastic bag, box), competency C2.4.
+- **Conservateur** (*kohn-sair-vah-TUHR*) — storage freezer that keeps frozen products at about −18 °C.
+- **Crème pâtissière** (*krem pah-tee-SYAIR*) — pastry cream: milk, egg yolks, sugar and starch cooked to a full boil; a high-risk preparation cooled from +63 °C to +10 °C in 2 hours or less, kept at 0 to +3 °C and used within 24 hours in this course.
+- **Cru surgelé** (*KRÜ sür-zhuh-LAY*) — frozen raw: viennoiserie shaped, not proofed, and frozen at once; thawed in the cold, then proofed and baked.
+- **Décongélation** (*day-kohn-zhay-lah-SYOHN*) — thawing, done in the cold (0-4 °C) for raw viennoiserie; a thawed product is not refrozen.
+- **Détailler** (*day-tah-YAY*) — to cut a sheet of dough into pieces (triangles, rectangles).
+- **Filmer au contact** (*feel-MAY oh kohn-TAKT*) — to press film directly onto a cream's surface so no skin forms.
+- **Grosse pièce / petite pièce** (*GROHSS pyess / puh-TEET pyess*) — large piece (a loaf, such as a 300 g braid) / small piece (an individual roll or shape).
+- **Hérisson** (*ay-ree-SOHN*) — hedgehog: a pointed ball of pâte levée whose spines are snipped with scissors after the egg wash.
+- **Laminoir** (*lah-mee-NWAHR*) — sheeter: machine with two adjustable rollers that thins a dough step by step.
+- **Nanterre** (*nahn-TAIR*) — brioche loaf made of several balls side by side in a tin.
+- **Nappage** (*nah-PAHZH*) — clear glaze, often apricot, brushed on hot viennoiserie for shine.
+- **Navette** (*nah-VET*) — "shuttle": a small spindle-shaped roll of pâte levée with pointed ends.
+- **Pain au chocolat** (*pan oh sho-ko-LAH*) — croissant dough cut into a rectangle and rolled without stretching around two chocolate batons, seam underneath; "chocolatine" in parts of south-west France.
+- **Pain au lait** (*pan oh LAY*) — milk bun: pâte levée with milk as the liquid and some egg, sugar and butter (course sheet PL-01).
+- **Pain aux raisins** (*pan oh ray-ZAN*) — spiral of croissant dough, crème pâtissière and raisins, cut from a rolled log; sold the day it is baked.
+- **Pain brioché** (*pan bree-oh-SHAY*) — pâte levée between pain au lait and brioche, with more egg and butter than pain au lait (course sheet PB-01).
+- **Pâte levée** (*paht luh-VAY*) — enriched yeast dough, not laminated: pain au lait, pain brioché, brioche.
+- **Pâte levée feuilletée** (*paht luh-VAY fuh-yuh-TAY*) — laminated yeast dough: the dough of croissants, pains au chocolat and pains aux raisins.
+- **Poudre à crème** (*POO-druh ah KREM*) — custard powder: flavoured starch used to thicken crème pâtissière; cornstarch does the same job.
+- **Prêt à cuire (pré-poussé)** (*pret ah KWEER*) — viennoiserie frozen after proofing and baked straight from the freezer; needs formulas made for it.
+- **Raisins secs réhydratés** (*ray-ZAN SEK ray-ee-drah-TAY*) — raisins soaked and drained before use so they do not burn or dry the cream; check the label for sulphites.
+- **Rouler en boudin** (*roo-LAY ahn boo-DAN*) — to roll a piece of dough into an even strand.
+- **Sachet** (*sah-SHAY*) — bag for finished products: paper for crisp viennoiserie, plastic for soft pâte levée once cool.
+- **Surgélateur (cellule de surgélation)** (*sür-zhay-lah-TUHR*) — blast freezer: very cold, fast-moving air that freezes products quickly, keeping ice crystals small.
+- **Tresse** (*TRESS*) — braid of one, two or three strands (or more) of pâte levée, braided without tension.

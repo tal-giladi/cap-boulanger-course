@@ -1,0 +1,89 @@
+- id: q1
+  question: >-
+    A trainee takes the crème pâtissière off the heat as soon as it thickens, before it bubbles.
+    It looks perfect, but the next morning the tray of cream is runny. Which explanation fits?
+  options:
+    - >-
+      The fridge was too cold, so the starch released its water overnight.
+    - >-
+      There was too much sugar, which dissolved the starch as the cream cooled.
+    - >-
+      The milk was UHT, and UHT milk does not thicken with cornstarch.
+    - >-
+      The yolks' amylase was not destroyed, so it went on cutting the starch.
+  correct: 3
+  explanation: >-
+    Egg yolks contain amylase, which thins a starch cream even in the fridge. It is destroyed only
+    near the boil, so the cream is whisked at a full boil for about a minute.
+
+- id: q2
+  question: >-
+    Cooling log for a crème pâtissière: "10:40 poured into tray, 84 °C — 10:47 63 °C — 11:30 25 °C —
+    12:20 14 °C — 12:55 11 °C". What is the right decision at 12:55?
+  options:
+    - >-
+      Discard it: it has been above 10 °C for more than 2 hours since 63 °C.
+    - >-
+      Put it in the fridge now; it is almost at 10 °C, so it conforms.
+    - >-
+      Reboil it for one minute and start the cooling log again.
+    - >-
+      Use it at once in the pains aux raisins, since it will be baked again.
+  correct: 0
+  explanation: >-
+    From 10:47 to 12:55 is 2 h 08 min and the core is still 11 °C: the +63 to +10 °C in 2 hours rule
+    is broken. Discard it and record a non-conformity; next time use a shallow filmed tray on ice.
+
+- id: q3
+  question: >-
+    Order: 60 pains aux raisins with 20 g of cream each, plus 10 % for losses. CP-01 gives about
+    1,400 g of cream per 1,000 g of milk. Which batch is correct?
+  options:
+    - >-
+      1,200 g of cream, from about 860 g of milk
+    - >-
+      1,320 g of cream, from a 1,000 g milk batch
+    - >-
+      1,320 g of cream, from 1,320 g of milk
+    - >-
+      1,470 g of cream, from 1,470 g of milk
+  correct: 1
+  explanation: >-
+    60 × 20 = 1,200 g; with 10 %, 1,320 g. 1,320 ÷ 1.40 = 943 g of milk, so a 1,000 g milk batch.
+    Treating milk weight as cream weight, or forgetting the 10 %, gives the wrong batch.
+
+- id: q4
+  question: >-
+    The cream is cooked at 11:00 on Monday and kept at 2 °C, labelled. On Tuesday at 13:00 a
+    colleague wants to use what is left for a second batch of pains aux raisins. What do you say?
+  options:
+    - >-
+      Fine, as long as it smells fresh and has no skin on top.
+    - >-
+      Fine if it is beaten smooth again with a clean whisk first.
+    - >-
+      No: it is past the 24-hour limit, so it is thrown away.
+    - >-
+      No, unless it is mixed with fresh cream to bring it back to date.
+  correct: 2
+  explanation: >-
+    The course and many bakery plans limit crème pâtissière to 24 hours at 0 to +3 °C. Smell does not
+    show bacteria, and mixing old and new cream spreads the problem to the new batch.
+
+- id: q5
+  question: >-
+    Your pains aux raisins come out with squashed, oval spirals and cream pushed out at the sides,
+    and some have unrolled. Which change fixes both faults?
+  options:
+    - >-
+      Chill the log before cutting, and tuck each tail underneath.
+    - >-
+      Cut thinner slices of 1 cm so they cook through before they unroll.
+    - >-
+      Use warm cream so it spreads thinner and does not push out.
+    - >-
+      Proof them at 30 °C so they set their shape faster.
+  correct: 0
+  explanation: >-
+    A cold log cuts cleanly instead of being squashed, and a tucked tail cannot unroll. Warm cream and
+    a warm proof soften the butter and the cream and make both faults worse.

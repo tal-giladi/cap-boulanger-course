@@ -1,0 +1,89 @@
+- id: q1
+  question: >-
+    A pain brioché sheet in an exam paper reads "TB 48 °C — température du fournil 22 °C —
+    température de la farine 22 °C". Which liquid temperature is correct?
+  options:
+    - >-
+      2 °C, from 72 − 22 − 22 − 26 with the mixer heating taken out again
+    - >-
+      26 °C, from 3 × 24 − 22 − 22 − 2 for hand kneading
+    - >-
+      4 °C, from 48 − 22 − 22
+    - >-
+      14 °C, from 48 − 22 − 12 with the room counted at half
+  correct: 2
+  explanation: >-
+    A printed TB already has the friction taken out, so water = TB − fournil − flour = 4 °C. Taking the
+    friction out a second time, or replacing the given TB with your own, gives a wrong answer.
+
+- id: q2
+  question: >-
+    A trainee puts all the butter of a brioche (55 % of the flour) in the bowl at the start, with
+    the eggs and flour. After 20 minutes the dough is greasy, short and tears. What went wrong?
+  options:
+    - >-
+      The butter coated the flour proteins before a gluten network could form.
+    - >-
+      The eggs were too cold, so the butter could not melt into the dough.
+    - >-
+      The sugar was added too late, so the yeast had nothing to feed on.
+    - >-
+      The dough needed more water because eggs do not hydrate flour.
+  correct: 0
+  explanation: >-
+    Fat coats the gluten proteins and slows network formation. In a rich dough the gluten is developed
+    first and the cool butter goes in afterwards in pieces. Eggs bring about 75 % water.
+
+- id: q3
+  question: >-
+    Why does the EP1 pain brioché sheet send the dough to +4 °C for 12-15 hours after a 30-minute
+    pointage?
+  options:
+    - >-
+      To kill part of the yeast so the dough does not over-proof in the oven.
+    - >-
+      To firm the butter so the dough can be shaped cleanly, and to build flavour.
+    - >-
+      Because the law forbids proofing butter doughs at room temperature.
+    - >-
+      To let the sugar dissolve, which it cannot do at room temperature.
+  correct: 1
+  explanation: >-
+    Cold slows the yeast without killing it, builds flavour and, above all, firms the butter, so a
+    sticky rich dough becomes firm enough for strands, braids and small shapes.
+
+- id: q4
+  question: >-
+    Production sheet PL-01 (total 195.5 %): 72 pains au lait of 50 g, process losses 2 %, flour rounded
+    up to the next 100 g. How much flour?
+  options:
+    - >-
+      1,800 g, from 3,600 g divided by 1.955 and rounded down
+    - >-
+      2,100 g, from 3,672 g divided by 1.775 without the butter
+    - >-
+      3,700 g, the dough weight rounded up
+    - >-
+      1,900 g, from 3,672 g divided by 1.955
+  correct: 3
+  explanation: >-
+    72 × 50 = 3,600 g; × 1.02 = 3,672 g; ÷ 1.955 = 1,878 g → 1,900 g. The dough weight is not the
+    flour weight, and leaving the butter out of the total over-states the flour.
+
+- id: q5
+  question: >-
+    A shop manager asks whether the pains au lait, at 2.0 % salt, break the French salt agreement.
+    A 50 g roll weighs 44 g after baking and the dough is 1.02 % salt. What do you answer?
+  options:
+    - >-
+      Yes: viennoiserie must stay under 1.1 g per 100 g, like pain de mie.
+    - >-
+      Yes: 2.0 % is above the 1.4 % salt limit set for all bakery products.
+    - >-
+      No: viennoiserie is not named, and the roll has about 1.16 g per 100 g anyway.
+    - >-
+      No: the agreement only counts salt added after baking, such as on pretzels.
+  correct: 2
+  explanation: >-
+    The agreement names pains courants, wholemeal or cereal breads and pain de mie. The check still
+    helps: 50 × 1.02 % = 0.51 g in 44 g = 1.16 g per 100 g, below even the pain courant figure.

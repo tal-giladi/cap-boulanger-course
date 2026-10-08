@@ -1,0 +1,88 @@
+- id: q1
+  question: >-
+    The owner of a boulangerie wants to freeze shaped baguettes on Saturday for Sunday, "like we do
+    with the croissants". What do you tell him?
+  options:
+    - >-
+      Fine, as long as they are blast-frozen and stored at −18 °C.
+    - >-
+      Fine for pain courant, but not for the tradition baguettes.
+    - >-
+      Not allowed in a boulangerie; retard the dough in the cold instead.
+    - >-
+      Not allowed for croissants either, so both must stop.
+  correct: 2
+  explanation: >-
+    L122-17 forbids freezing bread dough and bread at any stage in a business called boulangerie,
+    whatever the bread. Viennoiserie is not covered; bread uses positive cold instead (04.6).
+
+- id: q2
+  question: >-
+    Why should shaped croissants go into the blast freezer straight after shaping, not after
+    an hour on the bench?
+  options:
+    - >-
+      Fermentation has not started, and fast freezing keeps ice crystals small.
+    - >-
+      Warm dough freezes faster than cold dough, which saves energy.
+    - >-
+      The egg wash must dry on the bench before the pieces are frozen.
+    - >-
+      Croissants must proof fully before freezing or they will not rise later.
+  correct: 0
+  explanation: >-
+    Freezing kills some yeast and ice cuts gluten. Freezing quickly, before fermentation starts,
+    keeps the dough strong; pieces that have started to ferment or freeze slowly come out flat.
+
+- id: q3
+  question: >-
+    On Sunday morning a bag of raw croissants, taken out on Saturday by mistake, has thawed in the
+    cold room. It is not needed until Tuesday. What do you do?
+  options:
+    - >-
+      Refreeze it at once, since it never left the cold room.
+    - >-
+      Keep it in the cold room until Tuesday and bake it then.
+    - >-
+      Leave it on the bench to proof and freeze it once baked on Tuesday.
+    - >-
+      Proof and bake it today; thawed raw pieces are not refrozen.
+  correct: 3
+  explanation: >-
+    Thawed products are not refrozen without a validated hazard analysis (arrêté of 21 December
+    2009, annex VI). Three days in the cold room would over-ferment it; bake it today.
+
+- id: q4
+  question: >-
+    Which packaging fits each product best on the shop counter?
+  options:
+    - >-
+      Croissants in sealed plastic; pains au lait in paper bags.
+    - >-
+      Croissants in paper bags; pains au lait in a closed bag once cool.
+    - >-
+      Both in sealed plastic, packed warm to keep them soft.
+    - >-
+      Both in the fridge, unwrapped, until the customer asks.
+  correct: 1
+  explanation: >-
+    A paper bag lets steam out so a croissant stays crisp; a soft pain au lait keeps 2-3 days in a
+    closed bag. Packing warm makes products sweat, and the fridge stales baked goods fastest.
+
+- id: q5
+  question: >-
+    A bakery freezes its own croissants raw on Friday and bakes them on Sunday. A customer asks if
+    they are still "viennoiserie maison". Which answer is correct?
+  options:
+    - >-
+      No: any freezing ends the maison claim, as for pain de tradition.
+    - >-
+      No: only products baked within 12 hours of mixing can be called maison.
+    - >-
+      Yes: made here from our own raw materials; we froze them ourselves.
+    - >-
+      Yes, as long as the label says they were bought frozen.
+  correct: 2
+  explanation: >-
+    Viennoiserie maison means made on site from the raw ingredients; freezing your own pieces does not
+    change that. Bought-in frozen croissants are not maison, and the tradition freezing ban is for bread.
