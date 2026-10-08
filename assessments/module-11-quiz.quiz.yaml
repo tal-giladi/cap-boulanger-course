@@ -1,0 +1,185 @@
+- id: q1
+  question: >-
+    Production order: 96 croissants (pâton 60 g) and 30 mini-croissants (pâton 30 g), sheet CR-01
+    (laminated dough 227 %). Trims 10 % of the sheet, losses 2 %, flour rounded up to the next 100 g.
+    How much flour do you weigh?
+  options:
+    - >-
+      3,000 g, from 6,660 g of pieces ÷ 2.27
+    - >-
+      4,300 g, from 7,548 g of sheet ÷ 1.77
+    - >-
+      3,400 g, from 6,660 ÷ 0.9 × 1.02 ÷ 2.27
+    - >-
+      3,300 g, from 7,548 g ÷ 2.27 rounded down
+  correct: 2
+  explanation: >-
+    6,660 g of pieces ÷ 0.90 = 7,400 g of sheet; × 1.02 = 7,548 g; ÷ 2.27 = 3,325 g → 3,400 g.
+    Dividing by 1.77 leaves out the beurre de tourage; skipping trims and losses or rounding down
+    leaves the batch short.
+
+- id: q2
+  question: >-
+    Temperature log, détrempe CR-01: TPV 20 °C, flour 20 °C, fournil 22 °C, friction factor 12
+    (three factors), milk from the cold room at 4 °C (half of the liquid), tap water 20 °C. At what
+    temperature must the water go in?
+  options:
+    - >-
+      8 °C, from 2 × 6 − 4
+    - >-
+      6 °C, the liquid temperature
+    - >-
+      32 °C, from a base of 72
+    - >-
+      2 °C, from 6 − 4
+  correct: 0
+  explanation: >-
+    Liquid = 3 × 20 − 20 − 22 − 12 = 6 °C. Half of it is milk at 4 °C, so water = 2 × 6 − 4 = 8 °C
+    (with ice: 884 × 12 ÷ 100 ≈ 106 g in a 884 g water weight). 72 is the base of a 24 °C bread dough.
+
+- id: q3
+  question: >-
+    Delivery note for tomorrow's croissants pur beurre: ordered "beurre de tourage 84 % MG, 2 × 2 kg";
+    delivered "spécialité laitière à tartiner 60 % MG, 4 × 1 kg". What do you do?
+  options:
+    - >-
+      Accept it: it is a dairy product, so the croissants stay pur beurre.
+    - >-
+      Accept it and add 10 % more to make up for the lower fat.
+    - >-
+      Accept it and laminate it colder so it behaves like butter.
+    - >-
+      Refuse or set it aside and report it: it is not butter and cannot laminate.
+  correct: 3
+  explanation: >-
+    A 60 % spread is not butter: too much water, no plasticity, and it does not allow the "pur beurre"
+    name. It does not match the order, so it is refused or set aside and reported.
+
+- id: q4
+  question: >-
+    Temperature log during tourage: "enfermage 15:10, beurre 19 °C, fournil 27 °C; 2e tour 15:50:
+    bords gras, beurre visible aux angles." What happens if you give the third turn now, and what do
+    you do instead?
+  options:
+    - >-
+      The butter breaks into plates; leave the block on the bench 10 minutes.
+    - >-
+      The butter smears into the dough; wrap and chill 15-20 minutes first.
+    - >-
+      Nothing serious; the greasy edges disappear in the proof.
+    - >-
+      The dough over-ferments; add salt to the next détrempe.
+  correct: 1
+  explanation: >-
+    Butter at 19 °C in a 27 °C room is too soft: it smears and the layers merge. Stop, chill to firm
+    both, and next time lock in at about 13 °C in a cooler window.
+
+- id: q5
+  question: >-
+    Two technical sheets: bakery A "3 tours simples", bakery B "2 tours doubles". Same butter weight
+    and final thickness. Which statement is correct?
+  options:
+    - >-
+      A has 27 butter layers and B has 16; B's layers are thicker and its honeycomb bolder.
+    - >-
+      A has 9 butter layers and B has 8; both are below the minimum for croissant.
+    - >-
+      Both have 81 layers, because each turn triples the dough and butter sheets.
+    - >-
+      B has more layers than A, because a double turn counts as two single turns.
+  correct: 0
+  explanation: >-
+    Single turns multiply butter layers by 3 (1 × 3 × 3 × 3 = 27), double turns by 4 (1 × 4 × 4 = 16).
+    With the same butter, fewer layers are thicker, so B's honeycomb is more open.
+
+- id: q6
+  question: >-
+    Production sheet: "triangles 11 × 30 cm, 60 g ± 3 g". The first three triangles from a sheet
+    rolled to 3.5 mm weigh 54, 55 and 53 g. What do you do before cutting the rest?
+  options:
+    - >-
+      Cut them all and roll the light ones a little tighter.
+    - >-
+      Roll the sheet thinner, to about 3.0 mm, so it gets longer.
+    - >-
+      Roll the sheet to about 3.9 mm: weight follows thickness.
+    - >-
+      Keep 54 g: the baking loss is the same for any size.
+  correct: 2
+  explanation: >-
+    For a fixed triangle, weight is proportional to thickness: 3.5 × 60 ÷ 54 ≈ 3.9 mm. Rolling tighter
+    does not add dough; a thinner sheet makes the pieces lighter still.
+
+- id: q7
+  question: >-
+    Croissants are shaped on Saturday at 18:45 and go into a proofer-retarder. They must be ready to
+    egg-wash at 5:15 on Sunday. From 3 °C they need about 3 hours at 25 °C. Which programme is
+    right?
+  options:
+    - >-
+      25 °C / 78 % HR from 18:45 until 5:15, to give them a long, slow proof.
+    - >-
+      3 °C all night, then straight into the oven at 5:15 without warming.
+    - >-
+      3 °C until 2:15, then 30 °C until 5:15 to be safe on time.
+    - >-
+      3 °C until 2:15, then 25 °C and 78 % HR until about 5:15.
+  correct: 3
+  explanation: >-
+    Hold cold, then warm for about 3 hours at 24-26 °C. Ten hours at 25 °C over-proofs them; no
+    warming leaves them under-proofed; 30 °C melts the butter.
+
+- id: q8
+  question: >-
+    Bake log: "apprêt 1 h 20 à 31 °C (étuve à pain), volume ×2,2; au four: croissants plats, mare de
+    beurre sur la plaque". Which diagnosis and report line are correct?
+  options:
+    - >-
+      Under-proofed: "apprêt trop court, allonger de 30 minutes."
+    - >-
+      Proof too warm: "apprêt à 31 °C au lieu de 24-26 °C."
+    - >-
+      Oven too hot: "baisser le four de 20 °C la prochaine fois."
+    - >-
+      Too few turns: "ajouter un tour simple à la fiche."
+  correct: 1
+  explanation: >-
+    At 31 °C the butter melted in the proof; the volume shows they were not under-proofed. The report
+    gives the measured cause and the correction: proof laminated dough at 24-26 °C.
+
+- id: q9
+  question: >-
+    You write the shop label for croissants made with CR-01 and egg-washed. Which allergen line is
+    correct?
+  options:
+    - >-
+      "Contient: blé (gluten), lait." The egg wash is only on the surface.
+    - >-
+      "Contient: lait." Gluten is declared only for bread.
+    - >-
+      "Contient: blé (gluten), lait, œuf."
+    - >-
+      "Peut contenir: traces de céréales." Croissants are pastry, not bread.
+  correct: 2
+  explanation: >-
+    The détrempe contains wheat and milk, the butter is milk, and the egg wash is egg: all three are
+    regulated allergens and must be declared, wherever in the product they are.
+
+- id: q10
+  question: >-
+    Quality check of a sample croissant: small, tight, dense centre around a small spiral, outer
+    layers fine, a little butter on the paper. Log: "apprêt 55 min à 25 °C, volume ×1,3". What is the
+    cause?
+  options:
+    - >-
+      Under-proofed: the layers were still tight.
+    - >-
+      Too many turns: the layers fused in tourage.
+    - >-
+      Proof too warm: the butter melted early.
+    - >-
+      Over-proofed: the layers collapsed on cooling.
+  correct: 0
+  explanation: >-
+    ×1.3 after 55 minutes at 25 °C is under-proofed: the tight centre could not open and some butter ran
+    out. Too many turns gives a bready crumb throughout; a warm proof shows in the log; over-proof spreads.

@@ -1,0 +1,88 @@
+- id: q1
+  question: >-
+    Second turn, block straight from a fridge left at 1 °C for 90 minutes: pale streaks of butter show
+    through the dough and the edges crack. What do you do now?
+  options:
+    - >-
+      Press harder so the butter is spread before it warms up.
+    - >-
+      Put it in the freezer to firm the dough around the butter.
+    - >-
+      Leave it on the bench a few minutes, then roll gently.
+    - >-
+      Add a fourth turn so the broken pieces join into a layer again.
+  correct: 2
+  explanation: >-
+    The butter is too cold and has broken into plates. A few minutes on the bench restores its
+    plasticity; force, more cold or an extra turn would only make the layers worse.
+
+- id: q2
+  question: >-
+    Why is the block turned 90°, folded edge to the side, before each new rolling?
+  options:
+    - >-
+      To stretch the gluten the other way, so the block stays square.
+    - >-
+      So the butter layers line up at right angles and form a grid.
+    - >-
+      So the folded edge stays cold while you roll out the open side.
+    - >-
+      So the yeast gas can escape through the two open edges.
+  correct: 0
+  explanation: >-
+    Rolling always in the same direction pulls the gluten one way and the block shrinks back out of
+    shape; alternating directions balances the tension and keeps square corners.
+
+- id: q3
+  question: >-
+    A trainee dusts generously at each turn and folds without brushing. What will you find in the
+    baked croissants?
+  options:
+    - >-
+      Darker crust, because the flour browns on the surface.
+    - >-
+      More layers, because the flour keeps them apart.
+    - >-
+      Higher volume, because flour absorbs the butter's water.
+    - >-
+      Dry, white streaks where flour stopped the layers bonding.
+  correct: 3
+  explanation: >-
+    Flour folded between the layers stays raw and dry and prevents the dough layers from bonding:
+    white streaks in the cut section. Brush off excess flour before every fold.
+
+- id: q4
+  question: >-
+    Kitchen at 29 °C, no air conditioning. Which plan best protects the layers of a home croissant
+    batch?
+  options:
+    - >-
+      Give four quick single turns without rests so the butter has no time to warm.
+    - >-
+      Laminate early, roll on a frozen tray and give 1 double + 1 simple with cold rests.
+    - >-
+      Keep the block in the freezer for an hour between turns so it stays hard.
+    - >-
+      Roll on a warm bench so the butter stays soft and spreads easily.
+  correct: 1
+  explanation: >-
+    A cool window, a cold surface and fewer rolling sessions (12 layers in two rollings) limit warming;
+    no rests make the gluten fight back, and an hour of freezer makes the butter brittle.
+
+- id: q5
+  question: >-
+    You are trained to use the bakery's sheeter. The dough sheet starts to wrinkle under the
+    protective grid while the belts run. What is the correct action?
+  options:
+    - >-
+      Reach under the grid quickly to straighten it before it tears.
+    - >-
+      Push the dough through faster with the flat of your hand.
+    - >-
+      Stop the machine, then straighten the dough with the guard open.
+    - >-
+      Lift the grid while it runs so you can see the rollers better.
+  correct: 2
+  explanation: >-
+    A sheeter's rollers can draw in and crush fingers. Hands never go near the rollers or under the
+    grid while the belts run: stop first, then correct.

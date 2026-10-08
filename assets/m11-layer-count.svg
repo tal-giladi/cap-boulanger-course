@@ -1,0 +1,117 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 600" width="900" height="600" role="img" aria-labelledby="t d">
+  <title id="t">How turns multiply the butter layers in croissant dough</title>
+  <desc id="d">Top row, cut sections: the lock-in (enfermage) gives one butter layer between two dough layers. Each single turn (tour simple, folded in three) multiplies the butter layers by three: 3, then 9, then 27 after three single turns. Bottom row: the other common sequence, one double turn (tour double, folded in four) then one single turn: 4, then 12 butter layers. Table: in a 4 mm sheet with about a quarter of its volume butter, 12 layers give butter films of about 0.09 mm, 27 layers about 0.04 mm, and a fourth single turn (81 layers) about 0.013 mm, so thin that the films break and the dough layers fuse.</desc>
+  <rect x="0" y="0" width="900" height="600" fill="#ffffff"/>
+  <g font-family="Arial, Helvetica, sans-serif" fill="#222222">
+    <text x="450" y="32" text-anchor="middle" font-size="21" font-weight="bold">Turns multiply the butter layers</text>
+    <text x="450" y="54" text-anchor="middle" font-size="13">Cut sections (not to scale). Dough = pale, butter = yellow. Butter layers × 3 for a tour simple, × 4 for a tour double.</text>
+
+    <!-- Row 1: lock-in and three single turns -->
+    <text x="30" y="92" font-size="15" font-weight="bold">Sequence A: lock-in + 3 tours simples (course sheet CR-01)</text>
+
+    <!-- lock-in -->
+    <rect x="40" y="110" width="150" height="60" fill="#f3e6c4" stroke="#a8874a" stroke-width="2"/>
+    <rect x="40" y="132" width="150" height="16" fill="#f6d34a" stroke="#c9a400" stroke-width="1"/>
+    <text x="115" y="192" text-anchor="middle" font-size="13" font-weight="bold">Lock-in (enfermage)</text>
+    <text x="115" y="210" text-anchor="middle" font-size="12">1 butter layer</text>
+
+    <text x="205" y="146" font-size="20">→</text>
+
+    <!-- after 1 simple: 3 butter -->
+    <rect x="235" y="110" width="150" height="60" fill="#f3e6c4" stroke="#a8874a" stroke-width="2"/>
+    <rect x="235" y="119" width="150" height="7" fill="#f6d34a"/>
+    <rect x="235" y="137" width="150" height="7" fill="#f6d34a"/>
+    <rect x="235" y="155" width="150" height="7" fill="#f6d34a"/>
+    <text x="310" y="192" text-anchor="middle" font-size="13" font-weight="bold">1st tour simple</text>
+    <text x="310" y="210" text-anchor="middle" font-size="12">1 × 3 = 3 layers</text>
+
+    <text x="400" y="146" font-size="20">→</text>
+
+    <!-- after 2 simples: 9 butter -->
+    <rect x="430" y="110" width="150" height="60" fill="#f3e6c4" stroke="#a8874a" stroke-width="2"/>
+    <g fill="#f6d34a">
+      <rect x="430" y="113" width="150" height="3"/>
+      <rect x="430" y="119" width="150" height="3"/>
+      <rect x="430" y="125" width="150" height="3"/>
+      <rect x="430" y="131" width="150" height="3"/>
+      <rect x="430" y="137" width="150" height="3"/>
+      <rect x="430" y="143" width="150" height="3"/>
+      <rect x="430" y="149" width="150" height="3"/>
+      <rect x="430" y="155" width="150" height="3"/>
+      <rect x="430" y="161" width="150" height="3"/>
+    </g>
+    <text x="505" y="192" text-anchor="middle" font-size="13" font-weight="bold">2nd tour simple</text>
+    <text x="505" y="210" text-anchor="middle" font-size="12">3 × 3 = 9 layers</text>
+
+    <text x="595" y="146" font-size="20">→</text>
+
+    <!-- after 3 simples: 27 butter, hatch -->
+    <rect x="625" y="110" width="150" height="60" fill="#f3e6c4" stroke="#a8874a" stroke-width="2"/>
+    <g stroke="#e0b800" stroke-width="1">
+      <line x1="625" y1="112" x2="775" y2="112"/><line x1="625" y1="114" x2="775" y2="114"/><line x1="625" y1="116" x2="775" y2="116"/>
+      <line x1="625" y1="118" x2="775" y2="118"/><line x1="625" y1="120" x2="775" y2="120"/><line x1="625" y1="122" x2="775" y2="122"/>
+      <line x1="625" y1="124" x2="775" y2="124"/><line x1="625" y1="126" x2="775" y2="126"/><line x1="625" y1="128" x2="775" y2="128"/>
+      <line x1="625" y1="130" x2="775" y2="130"/><line x1="625" y1="132" x2="775" y2="132"/><line x1="625" y1="134" x2="775" y2="134"/>
+      <line x1="625" y1="136" x2="775" y2="136"/><line x1="625" y1="138" x2="775" y2="138"/><line x1="625" y1="140" x2="775" y2="140"/>
+      <line x1="625" y1="142" x2="775" y2="142"/><line x1="625" y1="144" x2="775" y2="144"/><line x1="625" y1="146" x2="775" y2="146"/>
+      <line x1="625" y1="148" x2="775" y2="148"/><line x1="625" y1="150" x2="775" y2="150"/><line x1="625" y1="152" x2="775" y2="152"/>
+      <line x1="625" y1="154" x2="775" y2="154"/><line x1="625" y1="156" x2="775" y2="156"/><line x1="625" y1="158" x2="775" y2="158"/>
+      <line x1="625" y1="160" x2="775" y2="160"/><line x1="625" y1="162" x2="775" y2="162"/><line x1="625" y1="164" x2="775" y2="164"/>
+    </g>
+    <text x="700" y="192" text-anchor="middle" font-size="13" font-weight="bold">3rd tour simple</text>
+    <text x="700" y="210" text-anchor="middle" font-size="12">9 × 3 = 27 layers</text>
+    <text x="700" y="228" text-anchor="middle" font-size="12">(28 dough layers)</text>
+
+    <!-- Row 2: double + simple -->
+    <text x="30" y="275" font-size="15" font-weight="bold">Sequence B: lock-in + 1 tour double + 1 tour simple</text>
+
+    <rect x="40" y="293" width="150" height="60" fill="#f3e6c4" stroke="#a8874a" stroke-width="2"/>
+    <rect x="40" y="315" width="150" height="16" fill="#f6d34a" stroke="#c9a400" stroke-width="1"/>
+    <text x="115" y="375" text-anchor="middle" font-size="12">1 butter layer</text>
+
+    <text x="205" y="329" font-size="20">→</text>
+
+    <rect x="235" y="293" width="150" height="60" fill="#f3e6c4" stroke="#a8874a" stroke-width="2"/>
+    <rect x="235" y="300" width="150" height="6" fill="#f6d34a"/>
+    <rect x="235" y="314" width="150" height="6" fill="#f6d34a"/>
+    <rect x="235" y="328" width="150" height="6" fill="#f6d34a"/>
+    <rect x="235" y="342" width="150" height="6" fill="#f6d34a"/>
+    <text x="310" y="375" text-anchor="middle" font-size="13" font-weight="bold">Tour double</text>
+    <text x="310" y="393" text-anchor="middle" font-size="12">1 × 4 = 4 layers</text>
+
+    <text x="400" y="329" font-size="20">→</text>
+
+    <rect x="430" y="293" width="150" height="60" fill="#f3e6c4" stroke="#a8874a" stroke-width="2"/>
+    <g fill="#f6d34a">
+      <rect x="430" y="296" width="150" height="2.5"/><rect x="430" y="300.5" width="150" height="2.5"/>
+      <rect x="430" y="305" width="150" height="2.5"/><rect x="430" y="309.5" width="150" height="2.5"/>
+      <rect x="430" y="314" width="150" height="2.5"/><rect x="430" y="318.5" width="150" height="2.5"/>
+      <rect x="430" y="331" width="150" height="2.5"/><rect x="430" y="335.5" width="150" height="2.5"/>
+      <rect x="430" y="340" width="150" height="2.5"/><rect x="430" y="344.5" width="150" height="2.5"/>
+      <rect x="430" y="323" width="150" height="2.5"/><rect x="430" y="327" width="150" height="2.5"/>
+    </g>
+    <text x="505" y="375" text-anchor="middle" font-size="13" font-weight="bold">+ tour simple</text>
+    <text x="505" y="393" text-anchor="middle" font-size="12">4 × 3 = 12 layers</text>
+
+    <text x="610" y="312" font-size="12">Fewer, thicker films:</text>
+    <text x="610" y="330" font-size="12">larger, bolder honeycomb.</text>
+    <text x="610" y="348" font-size="12">Only two rolling sessions.</text>
+
+    <!-- Table -->
+    <text x="30" y="440" font-size="15" font-weight="bold">In a 4 mm sheet (about 1/4 of its volume is butter, about 1 mm in total)</text>
+    <g font-size="13">
+      <rect x="40" y="455" width="820" height="28" fill="#eeeeee" stroke="#999999"/>
+      <text x="55" y="474" font-weight="bold">Turns</text>
+      <text x="300" y="474" font-weight="bold">Butter layers</text>
+      <text x="460" y="474" font-weight="bold">Each butter film</text>
+      <text x="640" y="474" font-weight="bold">Result</text>
+      <rect x="40" y="483" width="820" height="26" fill="#ffffff" stroke="#999999"/>
+      <text x="55" y="501">1 double + 1 simple</text><text x="300" y="501">12</text><text x="460" y="501">about 0.09 mm</text><text x="640" y="501">bold honeycomb</text>
+      <rect x="40" y="509" width="820" height="26" fill="#ffffff" stroke="#999999"/>
+      <text x="55" y="527">3 simples (CR-01)</text><text x="300" y="527">27</text><text x="460" y="527">about 0.04 mm</text><text x="640" y="527">fine, regular honeycomb</text>
+      <rect x="40" y="535" width="820" height="26" fill="#fde8e6" stroke="#999999"/>
+      <text x="55" y="553">4 simples (too many)</text><text x="300" y="553">81</text><text x="460" y="553">about 0.013 mm</text><text x="640" y="553" fill="#c0392b">films break: bready, like brioche</text>
+    </g>
+    <text x="40" y="585" font-size="12">Counting both dough and butter sheets naively gives 3 × 27 = 81 "layers" after three single turns; neighbouring dough sheets fuse, so 28 dough layers remain.</text>
+  </g>
+</svg>

@@ -1,0 +1,90 @@
+- id: q1
+  question: >-
+    Bake log, croissants: "apprêt 50 min à 25 °C, volume ×1.4; au four: petits, serrés, beurre sur
+    la plaque". The trainee says the cabinet must have been too hot. What do you answer?
+  options:
+    - >-
+      Agreed: 25 °C is above the butter's limit, so it melted.
+    - >-
+      Unlikely at 25 °C: they were under-proofed, so butter ran out.
+    - >-
+      The oven was too cool, which is the only cause of butter on the tray.
+    - >-
+      The egg wash was too thick, which pushes the butter out of the layers.
+  correct: 1
+  explanation: >-
+    25 °C is within 24-26 °C. At ×1.4 after 50 minutes they were under-proofed: tight layers give
+    the melting butter nowhere to go, so it leaks. The log's temperature separates the two causes.
+
+- id: q2
+  question: >-
+    It is 30 °C in your kitchen and you have no proofing cabinet. Where do you proof the shaped
+    croissants?
+  options:
+    - >-
+      On the kitchen bench, covered, since 30 °C speeds up the proof.
+    - >-
+      In the switched-off oven with the light on, which is always about 25 °C.
+    - >-
+      Under a box in an air-conditioned room at about 24-25 °C, checked with a probe.
+    - >-
+      In the fridge until they double, then straight into the oven.
+  correct: 2
+  explanation: >-
+    Laminated dough proofs at 24-26 °C and never above about 27 °C. 30 °C melts the butter; an oven
+    light often heats above 30 °C; the fridge alone barely proofs them.
+
+- id: q3
+  question: >-
+    Shop opening 6:45. You want croissants out of the oven at about 6:05 without working at night.
+    Which plan is feasible?
+  options:
+    - >-
+      Shape at 15:00, hold at 3 °C, warm to 25 °C from about 2:30.
+    - >-
+      Shape at 15:00 and leave the trays in the 25 °C cabinet overnight.
+    - >-
+      Shape at 5:30 the same morning and proof 30 minutes at 32 °C.
+    - >-
+      Shape at 15:00, freeze, and bake them frozen at 6:00 without proofing.
+  correct: 0
+  explanation: >-
+    A controlled proof holds the croissants cold, then warms them; from 3 °C count about 3 hours to
+    be ready at 5:30. A night at 25 °C over-proofs them; 32 °C melts the butter; unproofed croissants
+    come out dense.
+
+- id: q4
+  question: >-
+    Your croissants come out glossy on top but streaky and dull in places. You baked them at 200 °C
+    with a tray of water for steam, after one thick coat of egg wash. What do you change?
+  options:
+    - >-
+      Bake at 230 °C so the egg wash sets before the steam reaches it.
+    - >-
+      Add sugar to the egg wash so it shines through the steam.
+    - >-
+      Egg-wash during the proof only, so it dries before the oven.
+    - >-
+      No steam, and two thin coats of egg wash instead of one thick one.
+  correct: 3
+  explanation: >-
+    Steam on egg wash makes it streaky and dull; a thick coat drips and colours unevenly. Croissants
+    are baked without steam, with two thin coats.
+
+- id: q5
+  question: >-
+    After 16 minutes at 195 °C the tops are deep gold but the creases between the turns are pale.
+    What do you do?
+  options:
+    - >-
+      Take them out now: the tops show they are baked.
+    - >-
+      Give them 2-3 more minutes until the creases are coloured too.
+    - >-
+      Raise the oven to 230 °C for 5 minutes to colour the creases.
+    - >-
+      Take them out and brush them with butter to colour the creases.
+  correct: 1
+  explanation: >-
+    Pale creases mean the layers there are not set; the croissant collapses as it cools. A few
+    minutes more at the same temperature colours them; a very hot oven burns the tops first.

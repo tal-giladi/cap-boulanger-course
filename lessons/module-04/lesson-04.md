@@ -59,7 +59,7 @@ Most crusty breads are loaded at about three-quarters to full apprêt: a slightl
 | Humidity | about 75-85 % RH in a cabinet; at home, a cover | stops the surface drying (croûtage); too wet leaves condensation drops and a sticky skin |
 | Length | about 45 min-2 h for direct breads | set by dough temperature, yeast, size of the piece and how much the dough fermented before |
 
-Butter-rich products (croissants) proof cooler so the butter does not melt; that is taught in Module 11.
+Butter-rich products (croissants) proof cooler so the butter does not melt; that is taught in [lesson 11.6](../module-11/lesson-06.md).
 
 ### Supports
 

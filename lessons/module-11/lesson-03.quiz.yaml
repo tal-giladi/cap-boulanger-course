@@ -1,0 +1,89 @@
+- id: q1
+  question: >-
+    The store offers four fats for tomorrow's croissants pur beurre: beurre de tourage 84 % MG,
+    beurre concentré 99.8 % MG, margarine de tourage, and a "beurre allégé 60 %". Which do you use?
+  options:
+    - >-
+      The concentrated butter, because more fat gives more layers.
+    - >-
+      The laminating margarine, because it is made for tourage.
+    - >-
+      The reduced-fat butter, because it is lighter for the customer.
+    - >-
+      The beurre de tourage, a plastic butter with water for steam.
+  correct: 3
+  explanation: >-
+    Pur beurre allows butter only, which rules out margarine. Concentrated butter has almost no water
+    and is brittle; a 60 % product has too much water and no plasticity. Beurre de tourage fits.
+
+- id: q2
+  question: >-
+    Your butter plaque reads 6 °C. When you fold a corner over, it snaps. The détrempe is at 4 °C.
+    What do you do before the lock-in?
+  options:
+    - >-
+      Lock it in now: the turns will warm it to the right temperature.
+    - >-
+      Temper it, probing, until it bends without breaking at about 13 °C.
+    - >-
+      Put the détrempe in the freezer so the two are equally hard.
+    - >-
+      Warm the plaque in the microwave for a few seconds until soft.
+  correct: 1
+  explanation: >-
+    Brittle butter breaks into plates in the first turn. Temper it to about 13 °C (12-15 °C), checked
+    with the probe and the bend test; softening it by melting would make it smear.
+
+- id: q3
+  question: >-
+    A 900 g plaque of beurre de tourage (density about 0.91 g/cm³) must be about 1.2 cm thick for an
+    envelope lock-in. Which square is closest?
+  options:
+    - >-
+      29 × 29 cm, then a détrempe square of about 43 cm
+    - >-
+      43 × 43 cm, then a détrempe square of about 29 cm
+    - >-
+      25 × 25 cm, then a détrempe square of about 25 cm
+    - >-
+      35 × 35 cm, then a détrempe square of about 35 cm
+  correct: 0
+  explanation: >-
+    900 ÷ 0.91 ≈ 990 cm³; ÷ 1.2 cm ≈ 825 cm², a square of about 29 cm. For the envelope the détrempe
+    square is about 1.5 times the butter side, about 43 cm, so its corners meet over the centre.
+
+- id: q4
+  question: >-
+    During the lock-in, butter squeezes out at the seams and your fingers turn greasy. Butter 18 °C,
+    détrempe 5 °C. What is happening and what is the fix?
+  options:
+    - >-
+      The détrempe is too cold; leave it on the bench for 20 minutes.
+    - >-
+      Too much butter for the dough; cut part of the plaque away.
+    - >-
+      The butter is softer than the dough; wrap and chill 15-20 minutes.
+    - >-
+      The seams were not floured; dust them and keep rolling.
+  correct: 2
+  explanation: >-
+    At 18 °C the butter is softer than a 5 °C détrempe, so it is squeezed out instead of spreading with
+    the dough. Chill to firm it, and measure the butter before the next lock-in.
+
+- id: q5
+  question: >-
+    Why is the butter set like a diamond (rotated 45°) on the square of détrempe for an envelope
+    lock-in?
+  options:
+    - >-
+      So that the four dough corners fold over it and meet in the centre.
+    - >-
+      So that the butter warms more evenly from the corners inwards.
+    - >-
+      So that the first turn gives two butter layers instead of one.
+    - >-
+      So that the yeast can reach the butter through the open corners.
+  correct: 0
+  explanation: >-
+    With the butter's points at the middle of each side, the four triangular corners of dough fold over
+    its flat sides and close in the centre: one butter layer, fully enclosed.

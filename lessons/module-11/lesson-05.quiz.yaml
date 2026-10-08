@@ -1,0 +1,88 @@
+- id: q1
+  question: >-
+    You cut the first triangle (11 × 30 cm) from a sheet you rolled to "about 3.5 mm". It weighs 52 g;
+    the sheet asks for 60 g ± 3 g. What do you do before cutting the rest?
+  options:
+    - >-
+      Cut all the triangles and add the missing weight from the trims.
+    - >-
+      Roll the sheet thicker, to about 3.5 × 60 ÷ 52 ≈ 4.0 mm, then cut.
+    - >-
+      Cut the triangles 2 cm longer, which adds the 8 g that are missing.
+    - >-
+      Keep 52 g: the weight is checked only after baking.
+  correct: 1
+  explanation: >-
+    With a fixed triangle, weight is proportional to thickness: 60 ÷ 52 ≈ 1.15 times thicker. Pieces
+    are checked against the sheet before cutting the whole batch; patching with trims ruins the layers.
+
+- id: q2
+  question: >-
+    A strip 30 cm high and 104.5 cm long is marked every 11 cm on one edge and every 11 cm, offset 5.5 cm,
+    on the other. How many full triangles does it give?
+  options:
+    - >-
+      9, one per 11 cm of length
+    - >-
+      19, two per 11 cm of length
+    - >-
+      18, from (104.5 − 5.5) ÷ 5.5
+    - >-
+      20, counting the two half triangles
+  correct: 2
+  explanation: >-
+    With alternating bases, a strip of length L gives (L − 5.5) ÷ 5.5 full triangles (base 11 cm): (104.5 − 5.5) ÷ 5.5 = 18,
+    plus two half triangles at the ends, which are trims.
+
+- id: q3
+  question: >-
+    Your croissants come out of the oven with a tight, doughy centre and only two visible turns. You
+    rolled the triangles firmly "so they hold their shape". What is the correction?
+  options:
+    - >-
+      Stretch each triangle and roll it loosely, without pressing.
+    - >-
+      Roll them even tighter and bake them 5 minutes longer.
+    - >-
+      Cut the triangles shorter so that they roll up more easily.
+    - >-
+      Proof them at 30 °C so that the centre rises more.
+  correct: 0
+  explanation: >-
+    Pressing welds the layers and a tight roll leaves no room to rise. Stretched to about 34 cm and
+    rolled loosely, the croissant keeps open, regular turns; a warm proof would melt the butter.
+
+- id: q4
+  question: >-
+    Right after cutting, your triangles shrink from 30 cm to about 26 cm and get thicker. What went
+    wrong?
+  options:
+    - >-
+      The butter was too cold, so it contracted after cutting.
+    - >-
+      The yeast was too active and pulled the dough together.
+    - >-
+      The cuts were too clean, so nothing held the layers in place.
+    - >-
+      The sheet was cut while still tense; it needed to relax first.
+  correct: 3
+  explanation: >-
+    A sheet rolled quickly is elastic. Lifting it and letting it fall back, then resting it in the
+    fridge until it no longer shrinks, prevents triangles from shortening after cutting.
+
+- id: q5
+  question: >-
+    Two croissants unrolled in the oven and their tips stand up burnt. What caused it?
+  options:
+    - >-
+      The egg wash was too thick at the tip.
+    - >-
+      The tips were placed on top instead of underneath.
+    - >-
+      The oven was too cool, so the tips did not set.
+    - >-
+      The triangles were notched too deeply at the base.
+  correct: 1
+  explanation: >-
+    The tip must be tucked underneath, touching the tray: the croissant's weight holds it closed while
+    it rises and bakes. A tip left on top lifts away and burns.

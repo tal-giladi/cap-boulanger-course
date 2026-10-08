@@ -1,0 +1,25 @@
+- **Abaisse / abaisse finale** (*ah-BESS / ah-BESS fee-NAL*) — a rolled-out sheet of dough; the final abaisse is the sheet that is cut into croissants (about 4.5 mm for CR-01).
+- **Abaisser** (*ah-bess-SAY*) — to roll out or flatten dough.
+- **Alvéolage en nid d'abeille** (*al-vay-oh-LAHZH ahn nee dah-BAY*) — honeycomb: the large, regular, open cells with thin walls inside a good croissant.
+- **Beurrage** (*buh-RAHZH*) — putting the butter into the détrempe and locking it in.
+- **Beurre sec** (*buhr SEK*) — "dry" butter: laminating butter with slightly more fat (about 84 %) and less water, firmer and plastic over a wider range.
+- **Coupe longitudinale** (*KOOP lohn-zhee-tü-dee-NAL*) — lengthwise cut through the middle of a croissant to judge its layers.
+- **Coupe-croissants** (*koop krwah-SAHN*) — roller cutter with blades that cuts a sheet into croissant triangles in one pass.
+- **Croissant droit / courbé** (*krwah-SAHN DRWAH / koor-BAY*) — straight / crescent-shaped croissant; the shape follows the house sheet.
+- **Croissant pur beurre** (*krwah-SAHN pür BUHR*) — croissant whose only fat is butter; margarine excludes the name.
+- **Détaillage** (*day-tah-YAHZH*) — cutting a sheet of dough into pieces (triangles for croissants).
+- **Enfermage** (*ahn-fair-MAHZH*) — the lock-in: closing the détrempe around the butter plaque (en enveloppe or by folding over); gives one butter layer.
+- **Feuilletage** (*fuh-yuh-TAHZH*) — lamination; also puff pastry, laminated without yeast.
+- **Fuite de beurre** (*FWEET duh BUHR*) — butter leaking from croissants in the proof or oven, from a warm proof, under-proof or torn layers.
+- **Margarine de tourage** (*mar-gah-REEN duh too-RAHZH*) — vegetable laminating fat made to stay plastic; products made with it cannot be called pur beurre.
+- **Marquer les tours** (*mar-KAY lay TOOR*) — to mark the number of turns given with fingertip impressions on the block.
+- **Pâte levée feuilletée** (*paht luh-VAY fuh-yuh-TAY*) — laminated yeast dough: croissant, pain au chocolat, pain aux raisins.
+- **Plaque de beurre** (*PLAHK duh BUHR*) — flat square or rectangle of butter ready to lock in; about 15 × 15 × 1.2 cm for 250 g.
+- **Plasticité** (*plas-tee-see-TAY*) — plasticity: the ability of cold butter or dough to bend and spread without breaking or melting (butter about 13 °C).
+- **Repos au froid** (*ruh-POH oh FRWAH*) — rest in the cold between turns (20-45 minutes in the fridge for a home block).
+- **Roulette** (*roo-LET*) — pastry or pizza wheel for cutting dough.
+- **Tour double** (*toor DOO-bluh*) — double turn (pli en quatre, en portefeuille): both ends folded to the middle and closed like a book; butter layers × 4.
+- **Tour simple** (*toor SAN-pluh*) — single turn (pli en trois): the sheet folded in three like a letter; butter layers × 3.
+- **Tourage** (*too-RAHZH*) — giving the turns: rolling out and folding laminated dough, with rests in the cold, to multiply the layers.
+- **Laminoir** (*lah-mee-NWAR*) — sheeter: machine that rolls dough between two rollers whose gap is reduced in steps.
+- **CR-01** — the course's croissant technical sheet: T45 100, water 26, milk 26, sugar 11, salt 2.0, fresh yeast 4.0, butter 8 (détrempe 177 %); beurre de tourage 50 (227 %).

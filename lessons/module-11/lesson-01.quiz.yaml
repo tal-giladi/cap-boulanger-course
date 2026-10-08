@@ -1,0 +1,88 @@
+- id: q1
+  question: >-
+    A croissant sheet reads "enfermage, puis 1 tour double et 1 tour simple". How many butter layers
+    does the dough have when the turns are finished?
+  options:
+    - >-
+      7, adding one layer for each fold made
+    - >-
+      12, from 1 × 4 × 3
+    - >-
+      27, as with three single turns
+    - >-
+      13, counting the dough layers as well
+  correct: 1
+  explanation: >-
+    The lock-in gives one butter layer; a double turn multiplies by 4 and a single turn by 3: 1 × 4 ×
+    3 = 12. There are 13 dough layers, but the sheet asks for butter layers.
+
+- id: q2
+  question: >-
+    To get "more layers and more height", a colleague wants to give your croissant dough a fourth
+    single turn instead of three. What do you expect?
+  options:
+    - >-
+      Higher, flakier croissants, because 81 layers trap more steam.
+    - >-
+      No change, because the butter weight in the formula is the same.
+    - >-
+      Paler croissants, because the extra rolling removes the sugar.
+    - >-
+      Denser, bread-like croissants, because the thinner films break.
+  correct: 3
+  explanation: >-
+    The butter weight is fixed, so 81 layers are three times thinner than 27. Rolled once more, the
+    films break, the dough layers weld together and the crumb turns bready.
+
+- id: q3
+  question: >-
+    What mainly separates the layers of a croissant in the first minutes in the oven?
+  options:
+    - >-
+      Steam from the water in the butter and the dough, trapped between the layers.
+    - >-
+      Carbon dioxide from the egg wash reacting with the hot sugar.
+    - >-
+      The gluten contracting as it heats, which pulls the layers apart.
+    - >-
+      Air folded in during the turns, which expands as it heats up.
+  correct: 0
+  explanation: >-
+    Butter is about 16 % water and the dough holds more; at 100 °C it turns to steam between the
+    still-separate layers and lifts them before the starch and proteins set them in place.
+
+- id: q4
+  question: >-
+    A trainee's croissants came out flat, standing in a pool of melted butter. The proof was done in
+    a cabinet at 32 °C "to save time". What is the link?
+  options:
+    - >-
+      At 32 °C the yeast died, so there was no gas to lift the layers.
+    - >-
+      The cabinet's heat dried the egg wash, which stopped the oven spring.
+    - >-
+      The butter softened and melted before the oven, so the layers merged and it ran out.
+    - >-
+      The dough over-proofed, which always makes the butter turn back into cream.
+  correct: 2
+  explanation: >-
+    Laminated dough is proofed at about 24-26 °C and never above about 27 °C. Warmer, the butter melts
+    in the proof: the layers fuse and the fat leaks onto the tray in the oven.
+
+- id: q5
+  question: >-
+    Why must the butter be at about 13 °C, close to the détrempe's firmness, while the turns are
+    given?
+  options:
+    - >-
+      So that the yeast in the détrempe does not start fermenting the butter.
+    - >-
+      So that both stretch together into even sheets without breaking or smearing.
+    - >-
+      So that the butter's water evaporates before the dough is cut.
+    - >-
+      So that the salt in the butter dissolves into the dough evenly.
+  correct: 1
+  explanation: >-
+    At about 13 °C butter is plastic and bends without breaking, like the cool dough. Colder it breaks
+    into plates; warmer it smears into the dough and the layers are lost.

@@ -1,0 +1,87 @@
+- id: q1
+  question: >-
+    Order: 120 croissants of 60 g, sheet CR-01 (laminated dough 227 %). Trims are 10 % of the sheet,
+    process losses 2 %, flour rounded up to the next 100 g. How much flour do you weigh?
+  options:
+    - >-
+      3,200 g, from 7,200 g divided by 2.27
+    - >-
+      3,600 g, from 7,200 ÷ 0.90 × 1.02 ÷ 2.27
+    - >-
+      4,100 g, from 7,200 ÷ 0.90 × 1.02 ÷ 1.77
+    - >-
+      3,500 g, from 7,200 × 1.10 ÷ 2.27
+  correct: 1
+  explanation: >-
+    7,200 ÷ 0.90 = 8,000 g of sheet; × 1.02 = 8,160 g; ÷ 2.27 = 3,595 → 3,600 g. Dividing by 1.77
+    leaves out the beurre de tourage; × 1.10 under-counts the trims; skipping losses leaves the batch short.
+
+- id: q2
+  question: >-
+    Détrempe CR-01 by hand: TPV 20 °C, flour 18 °C, kitchen 20 °C, friction factor 6, milk from the
+    fridge at 4 °C (half of the liquid). At what temperature do you add the water?
+  options:
+    - >-
+      16 °C, the liquid temperature itself
+    - >-
+      22 °C, from 72 − 18 − 20 − 6 − 4 − 2
+    - >-
+      28 °C, from 2 × 16 − 4
+    - >-
+      12 °C, from 16 − 4
+  correct: 2
+  explanation: >-
+    Liquid = 3 × 20 − 18 − 20 − 6 = 16 °C. Half the liquid is milk at 4 °C, so the water must be
+    2 × 16 − 4 = 28 °C for the mix to average 16 °C. The 72 uses a bread TPV of 24 °C.
+
+- id: q3
+  question: >-
+    A trainee kneads the croissant détrempe 15 minutes "like bread" until it passes the windowpane
+    test. What will you most likely see during the turns?
+  options:
+    - >-
+      The dough springs back after each rolling and the butter warms while you fight it.
+    - >-
+      The layers become more regular, because developed gluten holds butter better.
+    - >-
+      The croissants rise higher, because the gluten network traps more steam.
+    - >-
+      Nothing different, since the long cold rest removes the extra development.
+  correct: 0
+  explanation: >-
+    The turns develop the gluten further. A détrempe already fully developed becomes elastic and
+    shrinks back, so you press longer and harder and the butter warms and tears.
+
+- id: q4
+  question: >-
+    Why does CR-01 use about 4 % fresh yeast when pain courant uses about 1.5 %?
+  options:
+    - >-
+      The butter layers absorb part of the yeast during the turns.
+    - >-
+      Sugar and milk kill part of the yeast, which must be replaced.
+    - >-
+      It stays cold for hours and proofs cool, so it needs more yeast.
+    - >-
+      More yeast makes the détrempe softer, so it matches the butter.
+  correct: 2
+  explanation: >-
+    The détrempe rests at 2-4 °C and is proofed at 24-26 °C at most, and 11 % sugar slows yeast a
+    little; more yeast gives enough gas in a practical time.
+
+- id: q5
+  question: >-
+    After mixing, your détrempe reads 25 °C in a 29 °C kitchen. What is the best decision?
+  options:
+    - >-
+      Leave it 30 minutes at room temperature so it relaxes before chilling.
+    - >-
+      Flatten it thin at once, wrap it and chill it, and use colder liquid next time.
+    - >-
+      Add more yeast so it ferments evenly despite the heat.
+    - >-
+      Lock in the butter straight away, since the butter will cool the dough.
+  correct: 1
+  explanation: >-
+    Above 22 °C the détrempe ferments and softens. Skip the room rest, flatten it so it cools through
+    quickly, and correct the water calculation (or chill the flour) next batch.

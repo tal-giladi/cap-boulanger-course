@@ -1,0 +1,88 @@
+- id: q1
+  question: >-
+    You cut a croissant lengthwise: a fine, even, bread-like crumb with hardly any layers. No butter
+    on the paper. The production sheet shows "4 tours simples". What is the most likely cause?
+  options:
+    - >-
+      Under-baked: the layers had no time to set.
+    - >-
+      Too many turns: the butter films broke and the layers fused.
+    - >-
+      Butter too cold at the lock-in, so it broke into plates.
+    - >-
+      Proof too warm, so the butter ran out of the layers.
+  correct: 1
+  explanation: >-
+    Four single turns give 81 butter layers, too thin to stay intact: the dough layers weld into a
+    bread-like crumb. A warm proof would have left butter on the tray; cold butter gives thick, uneven layers.
+
+- id: q2
+  question: >-
+    Cut section: some very thick layers, large uneven gaps and greasy patches near one end. The log
+    says "tour 2: beurre cassant, bords fendus". At which stage was the fault made?
+  options:
+    - >-
+      Proof: the cabinet air was far too humid.
+    - >-
+      Cutting: the triangles were cut too wide.
+    - >-
+      Baking: the oven was too cool at loading.
+    - >-
+      Tourage: the butter was too cold and broke.
+  correct: 3
+  explanation: >-
+    Brittle butter breaks into plates during the turns: thick, uneven layers and greasy patches where
+    the plates lie. The log entry at tour 2 is the evidence.
+
+- id: q3
+  question: >-
+    Batch check: raw weight 60 g. Five baked croissants weigh 51, 52, 52, 53 and 52 g. What baking
+    loss do you record?
+  options:
+    - >-
+      13.3 %, from (60 − 52) ÷ 60
+    - >-
+      15.4 %, from (60 − 52) ÷ 52
+    - >-
+      8 %, the difference in grams
+    - >-
+      86.7 %, the share that remains
+  correct: 0
+  explanation: >-
+    Average 52 g; loss = (60 − 52) ÷ 60 = 13.3 % of the raw weight. Dividing by the baked weight
+    overstates it; 8 is grams, not percent; 86.7 % is what remains, not the loss.
+
+- id: q4
+  question: >-
+    Your croissants show two faults: butter smeared into the dough during tourage, and pale patches
+    from uneven egg wash. What do you change for the next batch?
+  options:
+    - >-
+      Both at once, so the next batch is perfect.
+    - >-
+      The egg wash first, because colour is what the customer sees.
+    - >-
+      The tourage temperature first, then check the next batch.
+    - >-
+      Neither: bake hotter, which hides both faults.
+  correct: 2
+  explanation: >-
+    Correct the earliest stage first, one change at a time: a melted lamination cannot be saved later,
+    and changing two things at once hides which change worked.
+
+- id: q5
+  question: >-
+    Which line belongs in a non-conformity report about a croissant batch?
+  options:
+    - >-
+      "Les croissants n'étaient pas terribles ce matin, il faudra faire plus attention."
+    - >-
+      "Apprêt relevé à 30 °C à 5:00; beurre sur plaque; 40 pièces concernées."
+    - >-
+      "Le stagiaire a encore raté toute la fournée de croissants, comme d'habitude."
+    - >-
+      "Problème sur les croissants du matin, à voir plus tard avec quelqu'un."
+  correct: 1
+  explanation: >-
+    A report gives measured facts, the quantity concerned and, below, the action and correction.
+    Impressions, blame and "later" do not let anyone correct the cause.

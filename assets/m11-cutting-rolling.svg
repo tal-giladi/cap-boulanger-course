@@ -1,0 +1,70 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 620" width="900" height="620" role="img" aria-labelledby="t d">
+  <title id="t">Cutting croissant triangles from a strip and rolling them up</title>
+  <desc id="d">Panel 1: a strip of laminated dough 30 centimetres high and 49.5 centimetres long, about 3.5 millimetres thick. Marks every 11 centimetres along the bottom edge and every 11 centimetres along the top edge, offset by 5.5 centimetres. Straight cuts from mark to mark give 8 full triangles with alternating bases, and two half triangles at the ends, which are trims. Panel 2: one triangle 11 centimetres wide at the base and 30 centimetres high, about 60 grams, with a notch of 1 to 2 centimetres cut in the middle of the base; the two inner corners are folded outwards and the triangle is gently stretched to about 34 centimetres. Panel 3: the triangle rolled loosely from the base towards the tip without pressing. Panel 4: the croissant on the tray with the tip tucked underneath, ends straight or bent into a crescent, at least 5 centimetres from its neighbours.</desc>
+  <rect x="0" y="0" width="900" height="620" fill="#ffffff"/>
+  <g font-family="Arial, Helvetica, sans-serif" fill="#222222">
+    <text x="450" y="32" text-anchor="middle" font-size="21" font-weight="bold">Cutting and rolling croissants (CR-01)</text>
+
+    <!-- Panel 1: strip -->
+    <text x="30" y="70" font-size="15" font-weight="bold">1. Strip 30 × 49.5 cm, about 3.5 mm: 8 triangles</text>
+    <rect x="60" y="90" width="720" height="180" fill="#f3e6c4" stroke="#a8874a" stroke-width="2"/>
+    <!-- half triangles shading -->
+    <polygon points="60,90 140,90 60,270" fill="#dddddd"/>
+    <polygon points="700,270 780,270 780,90" fill="#dddddd"/>
+    <!-- cut lines: bottom marks at 60,220,380,540,700 ; top marks at 140,300,460,620,780 -->
+    <g stroke="#7a3b10" stroke-width="2">
+      <line x1="60" y1="270" x2="140" y2="90"/>
+      <line x1="140" y1="90" x2="220" y2="270"/>
+      <line x1="220" y1="270" x2="300" y2="90"/>
+      <line x1="300" y1="90" x2="380" y2="270"/>
+      <line x1="380" y1="270" x2="460" y2="90"/>
+      <line x1="460" y1="90" x2="540" y2="270"/>
+      <line x1="540" y1="270" x2="620" y2="90"/>
+      <line x1="620" y1="90" x2="700" y2="270"/>
+      <line x1="700" y1="270" x2="780" y2="90"/>
+    </g>
+    <g font-size="13" text-anchor="middle" font-weight="bold">
+      <text x="140" y="240">1</text><text x="220" y="125">2</text><text x="300" y="240">3</text><text x="380" y="125">4</text>
+      <text x="460" y="240">5</text><text x="540" y="125">6</text><text x="620" y="240">7</text><text x="700" y="125">8</text>
+    </g>
+    <text x="85" y="125" font-size="11">trim</text>
+    <text x="740" y="255" font-size="11">trim</text>
+    <g font-size="11" text-anchor="middle">
+      <text x="60" y="288">0</text><text x="220" y="288">11</text><text x="380" y="288">22</text><text x="540" y="288">33</text><text x="700" y="288">44 cm</text>
+      <text x="140" y="84">5.5</text><text x="300" y="84">16.5</text><text x="460" y="84">27.5</text><text x="620" y="84">38.5</text><text x="780" y="84">49.5</text>
+    </g>
+    <text x="800" y="185" font-size="12">30 cm</text>
+    <text x="60" y="310" font-size="12">Marks every 11 cm on each edge, offset 5.5 cm. Cut straight down with a sharp knife or wheel; do not drag.</text>
+
+    <!-- Panel 2: triangle with notch -->
+    <text x="30" y="355" font-size="15" font-weight="bold">2. Notch, open, stretch</text>
+    <polygon points="70,580 190,580 130,380" fill="#f3e6c4" stroke="#a8874a" stroke-width="2"/>
+    <line x1="130" y1="580" x2="130" y2="562" stroke="#c0392b" stroke-width="3"/>
+    <text x="130" y="600" text-anchor="middle" font-size="12">base 11 cm, notch 1-2 cm</text>
+    <text x="200" y="480" font-size="12">height 30 cm</text>
+    <text x="200" y="498" font-size="12">about 60 g</text>
+    <path d="M 130 372 L 130 352" stroke="#555555" stroke-width="2" fill="none"/>
+    <path d="M 124 360 L 130 350 L 136 360" stroke="#555555" stroke-width="2" fill="none"/>
+    <text x="140" y="362" font-size="11">stretch to about 34 cm</text>
+
+    <!-- Panel 3: rolling -->
+    <text x="330" y="355" font-size="15" font-weight="bold">3. Roll loosely, base to tip</text>
+    <polygon points="360,560 480,560 420,420" fill="#f3e6c4" stroke="#a8874a" stroke-width="2"/>
+    <ellipse cx="420" cy="560" rx="62" ry="16" fill="#e3cf9f" stroke="#a8874a" stroke-width="2"/>
+    <path d="M 420 540 L 420 470" stroke="#555555" stroke-width="2" fill="none"/>
+    <path d="M 413 480 L 420 468 L 427 480" stroke="#555555" stroke-width="2" fill="none"/>
+    <text x="330" y="598" font-size="12">loose roll; guide, do not press</text>
+    <text x="330" y="614" font-size="12">(pressing welds the layers)</text>
+
+    <!-- Panel 4: on tray -->
+    <text x="600" y="355" font-size="15" font-weight="bold">4. Tip underneath, on the tray</text>
+    <line x1="600" y1="560" x2="880" y2="560" stroke="#555555" stroke-width="3"/>
+    <path d="M 625 545 Q 640 505 690 500 Q 740 505 755 545 Q 690 535 625 545 Z" fill="#e3cf9f" stroke="#a8874a" stroke-width="2"/>
+    <path d="M 655 530 Q 690 505 725 530" stroke="#a8874a" stroke-width="1.5" fill="none"/>
+    <path d="M 645 540 Q 690 515 735 540" stroke="#a8874a" stroke-width="1.5" fill="none"/>
+    <path d="M 790 548 Q 770 520 800 505 Q 830 495 860 505 Q 885 520 868 548 Q 835 530 790 548 Z" fill="#e3cf9f" stroke="#a8874a" stroke-width="2"/>
+    <text x="690" y="582" text-anchor="middle" font-size="12">straight</text>
+    <text x="830" y="582" text-anchor="middle" font-size="12">or crescent</text>
+    <text x="600" y="606" font-size="12">At least 5 cm apart: they almost double in the proof.</text>
+  </g>
+</svg>
