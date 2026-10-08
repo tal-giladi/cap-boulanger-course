@@ -1,0 +1,188 @@
+- id: q1
+  question: >-
+    Production sheet PC-02 reads "TPV 24 C, pointage 45 min, bac couvert". Your temperature log for
+    this morning: flour 17 C, room 19 C, dough after mixing 21.5 C. What do you plan for the
+    pointage?
+  options:
+    - >-
+      45 minutes as written, because the sheet's times are fixed for the batch.
+    - >-
+      About 35 minutes, because a cold dough must be divided early to keep it warm.
+    - >-
+      About 53 minutes in a warmer place, then divide when the dough shows the signs.
+    - >-
+      45 minutes, but add 20 % more yeast now to catch up the lost speed.
+  correct: 2
+  explanation: >-
+    2.5 C under target is about 1.07 to the power 2.5, so roughly 1.18 times slower: 45 x 1.18 is
+    about 53 min. Warm the tub, then let volume, dome and feel decide. Yeast cannot be added once
+    the dough is mixed.
+
+- id: q2
+  question: >-
+    Tomorrow's production order: pain courant PC-02 on 7,200 g of T55 flour (water 64 %, salt
+    1.8 %, fresh yeast 1.5 %, pâte fermentée 15 %). How much pâte fermentée must tomorrow's dough
+    receive, before any margin?
+  options:
+    - >-
+      1,080 g, which is 15 % of the 7,200 g of flour.
+    - >-
+      1,969 g, which is 15 % of tomorrow's total dough weight.
+    - >-
+      720 g, which is 10 % of the 7,200 g of flour.
+    - >-
+      691 g, which is 15 % of tomorrow's water weight.
+  correct: 0
+  explanation: >-
+    Baker's percentages are on the flour: 7,200 x 15 % = 1,080 g. Taking the percentage of the
+    dough or of the water is a common slip. Keep a little extra for what sticks to the tub.
+
+- id: q3
+  question: >-
+    Bake-off note: "Bâtards de 400 g plats, croûte pâle, grignes fermées, gros trous sous la croûte,
+    goût aigre." The apprêt record reads 2 h at 27 C, where the sheet says 1 h 15 at 25 C. What
+    is the diagnosis and the prevention?
+  options:
+    - >-
+      Under-proofed: lengthen the apprêt and raise the cabinet to 30 C next time.
+    - >-
+      Oven too hot: lower the oven and keep the same apprêt next time.
+    - >-
+      Too much salt: reduce the salt to 1.5 % so the yeast can work evenly.
+    - >-
+      Over-proofed: poke-test from the early end of the window at the sheet's temperature.
+  correct: 3
+  explanation: >-
+    Flat, pale, closed scores, big holes under the crust and sourness are over-proofing signs. A
+    longer and warmer apprêt than the sheet explains it; check from the early end with the poke test.
+
+- id: q4
+  question: >-
+    A colleague's note: "Poolish pour la tradition: farine 2 kg, eau 2 kg, levure fraîche 1 %
+    (20 g). Fait à 14 h pour le pétrissage de demain 6 h. Fournil à 24 C." What is the problem?
+  options:
+    - >-
+      None: 1 % yeast is the standard dose for every poolish, whatever the time.
+    - >-
+      Far too much yeast for 16 h at 24 C: the poolish will be over-ripe by morning.
+    - >-
+      The poolish needs salt at 1.8 % or it will spoil overnight in the fournil.
+    - >-
+      The poolish has too much water: it should be 50 % for a long ripening.
+  correct: 1
+  explanation: >-
+    Poolish yeast is set by time and temperature: about 0.1-1 % on its flour, the lower end for long,
+    warm ripening. With 1 % for 16 h at 24 C it collapses and turns sharp; use far less or make it
+    later.
+
+- id: q5
+  question: >-
+    Fiche technique "Pain au levain": final dough on 6,000 g of flour, ripe levain 25 %, and "levure
+    fraîche selon besoin" (yeast as needed). The bread is to be sold under a levain name. What is
+    the maximum fresh yeast at final mixing?
+  options:
+    - >-
+      120 g, which is 2 % of the flour, the usual dose for pain courant.
+    - >-
+      12 g, which is 0.2 % of the flour used at final mixing.
+    - >-
+      1.2 g, which is 0.02 % of the flour, a trace for safety only.
+    - >-
+      60 g, which is 1 % of the flour, half the usual dose.
+  correct: 1
+  explanation: >-
+    Décret 93-1074 art. 4 allows baker's yeast in a levain bread only at final mixing and at most
+    0.2 % of the flour used at that stage: 6,000 x 0.2 % = 12 g.
+
+- id: q6
+  question: >-
+    A trainee's production notes: "48 baguettes, division à la main 35 min, façonnage en commençant
+    par les derniers pâtons divisés. Les premiers pâtons divisés étaient gonflés et déchirés au
+    façonnage." What should change next time?
+  options:
+    - >-
+      Add more bench flour so the first pieces stop tearing at shaping.
+    - >-
+      Shorten the détente of every piece to 5 minutes to save time.
+    - >-
+      Raise the dough temperature so all pieces ferment at the same speed.
+    - >-
+      Divide faster and shape in the same order as the pieces were divided.
+  correct: 3
+  explanation: >-
+    Fermentation goes on during dividing. Slow dividing and shaping in reverse order left the first
+    pieces far more fermented. A professional divides 40-50 pieces in about 15-20 minutes and keeps
+    the order.
+
+- id: q7
+  question: >-
+    The bakery moves its tradition baguettes from a same-day method (yeast 1 %, TPV 24 C) to an
+    18 h pointage retardé at 4 C. Which adjusted sheet is right?
+  options:
+    - >-
+      Yeast about 0.5 %, TPV about 21 C, short pointage before chilling, longer détente next day.
+    - >-
+      Yeast 2 %, TPV 27 C, so the dough keeps fermenting through the cold night in the cold room.
+    - >-
+      Yeast 1 %, TPV 24 C, and no apprêt next morning because the dough rose overnight.
+    - >-
+      No yeast at all, TPV 18 C, because the cold room does the whole fermentation alone.
+  correct: 0
+  explanation: >-
+    A tub takes hours to cool and keeps fermenting, so retarded doughs use less yeast and a cooler
+    dough. The cold dough then needs a longer détente and apprêt next morning.
+
+- id: q8
+  question: >-
+    Cold-room temperature log, line for the night: "21 h: 4 C / 1 h: 9 C / 5 h: 10 C". The pâte
+    fermentée stored there for PC-02 has collapsed and smells sharply sour. What do you do?
+  options:
+    - >-
+      Use it as usual: pâte fermentée always improves with extra fermentation.
+    - >-
+      Use double the quantity to make up for the strength it has lost.
+    - >-
+      Use less of it and shorten pointage, then report the cold-room fault in writing.
+    - >-
+      Throw the whole day's flour away, since the cold room was above 4 C.
+  correct: 2
+  explanation: >-
+    The pâte fermentée was over-fermented because the cold room warmed up. Use less, shorten
+    pointage and watch the signs; a cold room at 9-10 C is a malfunction to report (C4.4).
+
+- id: q9
+  question: >-
+    Two loads wait in the proofing cabinet and the oven is free for one load now. Load A: the dent
+    stays and the pieces sag slightly. Load B: the dent springs back at once. What do you do?
+  options:
+    - >-
+      Bake B now, because firm pieces give the best oven spring.
+    - >-
+      Bake A now, and leave B to proof and test it again in 10 minutes.
+    - >-
+      Bake both together on one deck, so neither has to wait for the oven.
+    - >-
+      Put A in the cold room and bake B, so both reach the oven correct.
+  correct: 1
+  explanation: >-
+    A is already over-proofed and only gets worse: bake it now. B is under-proofed and needs more
+    time. Loading both together overloads the oven and does not fix either.
+
+- id: q10
+  question: >-
+    Customers say the baguettes "taste of nothing and are stale by the afternoon". The current sheet
+    is direct, fresh yeast 2.5 %, TPV 27 C, pointage 20 min, apprêt 50 min. Which change addresses
+    both complaints?
+  options:
+    - >-
+      Raise the yeast to 3 % so the bread rises higher and seems fresher for longer.
+    - >-
+      Bake the baguettes longer and darker so the crust hides the bland crumb.
+    - >-
+      Keep the method but add ascorbic acid, so the dough holds its gas better.
+    - >-
+      Less yeast, a cooler dough, a pre-ferment and a longer, slower fermentation.
+  correct: 3
+  explanation: >-
+    Fast, warm fermentation with much yeast gives gas but little flavour and little acidity. Less
+    yeast, cooler dough and a pre-ferment build aroma and acids that also slow staling.

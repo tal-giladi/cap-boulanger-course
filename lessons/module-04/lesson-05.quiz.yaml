@@ -1,0 +1,89 @@
+- id: q1
+  question: >-
+    Tomorrow's PC-02 batch uses 4,000 g of flour with 15 % pâte fermentée. How much pâte fermentée
+    should you set aside in the cold room tonight?
+  options:
+    - >-
+      About 400 g, which is 10 % of the flour weight.
+    - >-
+      About 1,090 g, which is 15 % of tomorrow's total dough weight.
+    - >-
+      About 620 g: 600 g needed plus a small margin for losses.
+    - >-
+      About 150 g, because the percentage applies to each kilo of dough.
+  correct: 2
+  explanation: >-
+    Baker's percentages are on flour: 4,000 x 15 % = 600 g, plus a little for what sticks to the
+    tub. Taking 15 % of the dough weight is a classic slip.
+
+- id: q2
+  question: >-
+    At 6:00 the poolish made last night is collapsed, has a ring mark well above its surface and
+    smells sharply of alcohol. What is the diagnosis?
+  options:
+    - >-
+      Over-ripe: it was too warm or had too much yeast for the time.
+    - >-
+      Young: it has not started fermenting yet and needs more time.
+    - >-
+      Perfectly ripe: the ring mark shows it reached its full height.
+    - >-
+      Contaminated: a poolish must never smell of alcohol at all.
+  correct: 0
+  explanation: >-
+    A ripe poolish is bubbly and just starting to sink. Collapsed, with a high ring mark and a
+    sharp alcohol smell, it went past its peak. Make it later, cooler or with less yeast.
+
+- id: q3
+  question: >-
+    Which method best suits a pain de tradition française when the bakery wants more flavour and
+    a more extensible dough for baguettes?
+  options:
+    - >-
+      A direct dough with ascorbic acid for strength and a short pointage.
+    - >-
+      A direct dough with extra yeast so it ferments faster before dividing.
+    - >-
+      A pain de mie-style direct dough with milk powder for colour.
+    - >-
+      A poolish made the day before, with a long pointage on production day.
+  correct: 3
+  explanation: >-
+    Tradition allows no additives, so flavour and strength must come from fermentation. A poolish
+    gives extensibility and aroma; ascorbic acid is forbidden in tradition.
+
+- id: q4
+  question: >-
+    A baker adds 1 % fresh yeast to a levain dough "to be safe" and sells it as "pain au levain".
+    What is the problem?
+  options:
+    - >-
+      None: yeast can be added freely as long as some levain is used.
+    - >-
+      The yeast exceeds the 0.2 % limit at final mixing set for levain bread.
+    - >-
+      Yeast is allowed only in the levain itself, never in the final dough.
+    - >-
+      The bread must then be sold as pain de tradition française instead.
+  correct: 1
+  explanation: >-
+    Décret 93-1074 art. 4 allows baker's yeast only at the final mixing and at most 0.2 % of the
+    flour. With 1 % the bread cannot be called a levain bread.
+
+- id: q5
+  question: >-
+    Compared with the same bread made direct, what does a 15 % pâte fermentée mainly change on
+    production day?
+  options:
+    - >-
+      It removes the need for salt, since the pâte fermentée already contains it.
+    - >-
+      It makes the dough more extensible and sticky, so pointage must be longer.
+    - >-
+      It brings acidity and strength, so pointage can be shorter with more flavour.
+    - >-
+      It replaces the yeast entirely, so no fresh yeast is added to the dough.
+  correct: 2
+  explanation: >-
+    The acids in the pâte fermentée tighten the gluten and add flavour, so the dough holds with a
+    shorter pointage. Salt and yeast are still added at the normal doses.

@@ -1,0 +1,35 @@
+- **Agent de fermentation** (*ah-ZHAHN duh fair-mahn-tah-SYOHN*) — fermenting agent: baker's yeast, levain or a pre-ferment.
+- **Alvéolage** (*al-vay-o-LAHZH*) — crumb structure: the size and spread of the holes in the crumb.
+- **Armoire de pousse contrôlée** (*ar-MWAHR duh pooss kohn-tro-LAY*) — programmable retarder-proofer cabinet that cools, blocks, warms and proofs shaped pieces.
+- **Banneton** (*bahn-TOHN*) — proofing basket (cane, wicker or lined) for boules and levain breads.
+- **Bac à pâte** (*bak ah PAHT*) — dough tub used for pointage.
+- **Chambre froide positive** (*SHAHM-bruh FRWAHD po-zee-TEEV*) — cold room above 0 °C (about 0-4 °C).
+- **Cloques** (*KLOK*) — small blisters on the crust, typical of long cold fermentation.
+- **Couche** (*KOOSH*) — heavy linen cloth folded into pleats to hold baguettes during apprêt.
+- **Croûtage** (*kroo-TAHZH*) — skin forming on dough left uncovered.
+- **Division** (*dee-vee-ZYOHN*) — dividing the dough into pieces of set weight.
+- **Diviseuse (hydraulique)** (*dee-vee-ZUHZ (ee-droh-LEEK)*) — (hydraulic) divider: cuts one load of dough into 10-20 equal pieces by volume.
+- **Fermentation alcoolique** (*fair-mahn-tah-SYOHN al-ko-LEEK*) — alcoholic fermentation by yeast: sugar → carbon dioxide + ethanol + aromas.
+- **Fermentation différée** (*fair-mahn-tah-SYOHN dee-fay-RAY*) — deferred fermentation: slowed or paused by cold to move it in time.
+- **Fermentation lactique** (*fair-mahn-tah-SYOHN lak-TEEK*) — lactic fermentation by bacteria: sugar → lactic acid (and acetic acid for some species).
+- **Fermentation panaire** (*fair-mahn-tah-SYOHN pah-NAIR*) — bread fermentation: everything yeasts and bacteria do from the end of mixing to the oven.
+- **Gaz carbonique (CO₂)** (*gahz kar-bo-NEEK*) — carbon dioxide, the gas that raises the dough.
+- **Hygrométrie (HR)** (*ee-gro-may-TREE*) — relative humidity of the air, e.g. 75-85 % in a proofing cabinet.
+- **Levain dur / levain liquide** (*luh-VAN DOOR / luh-VAN lee-KEED*) — firm sourdough (about 50-60 % water) / liquid sourdough (about 100-125 % water).
+- **Maturation** (*mah-tew-rah-SYOHN*) — the slow change in dough strength and flavour during fermentation.
+- **Méthode directe (non différé)** (*may-TOD dee-REKT*) — direct method: all ingredients mixed at once, fermented the same day.
+- **Oven spring** — the rise of the loaf in the first minutes of baking, until the yeast dies at about 46-50 °C.
+- **Pain cintré / éclaté** (*pan san-TRAY / ay-kla-TAY*) — bread burst along the side, often a sign of under-proofing.
+- **Pâte jeune / pâte vieille** (*paht ZHUHN / paht vee-YAY*) — young (under-fermented) dough / old (over-fermented) dough.
+- **Plaque perforée / filet à baguettes** (*plahk pair-fo-RAY / fee-LAY ah bah-GET*) — perforated tray / channelled baguette tray for proofing and baking.
+- **Pointage retardé (au froid)** (*pwan-TAHZH ruh-tar-DAY (oh FRWAH)*) — retarded bulk fermentation: the bulk dough rests in the cold, often overnight.
+- **Poolish** (*poo-LEESH*) — liquid pre-ferment: equal weights of flour and water with a little yeast and no salt.
+- **Pousse contrôlée / pousse avec blocage** (*pooss kohn-tro-LAY / pooss ah-VEK blo-KAHZH*) — controlled proof: shaped pieces cooled, held (blocked), warmed and proofed by a programme.
+- **Pousse lente** (*pooss LAHNT*) — slow proof of shaped pieces at a cool temperature over several hours.
+- **Préfaçonnage** (*pray-fah-so-NAHZH*) — pre-shaping: giving divided pieces a first loose ball or cylinder shape.
+- **Pré-fermentation** (*pray-fair-mahn-tah-SYOHN*) — part of the flour and water fermented in advance (pâte fermentée, poolish, levain).
+- **Prise de force** (*preez duh FORSS*) — the dough gaining strength (tenacity) during pointage.
+- **Réchauffage / remontée** (*ray-sho-FAHZH / ruh-mohn-TAY*) — gradual warm-up phase after blocking in a controlled-proof cycle.
+- **Sous-apprêté / sur-apprêté** (*sooz-ah-pray-TAY / sewr-ah-pray-TAY*) — under-proofed / over-proofed.
+- **Tolérance de poids** (*to-lay-RAHNSS duh PWAH*) — allowed weight difference for a divided piece, e.g. ±5 g on 350 g.
+- **TPV (température de pâte visée)** (*tay-pay-VAY*) — target dough temperature written on the technical sheet.

@@ -1,0 +1,88 @@
+- id: q1
+  question: >-
+    A baker shapes baguettes at 15:30, puts them in a programmable cabinet that cools them to about
+    3 C, holds them overnight, warms them and proofs them so they are ready at 5:45. Which technique
+    is this?
+  options:
+    - >-
+      Pousse avec blocage (contrôlée).
+    - >-
+      Pointage retardé au froid (bulk).
+    - >-
+      Pousse lente, without blocking.
+    - >-
+      Non différé (direct method).
+  correct: 0
+  explanation: >-
+    Shaped pieces that are cooled, blocked, warmed and proofed by a programme are in pousse
+    contrôlée with blocking. Pointage retardé cools the bulk dough before dividing.
+
+- id: q2
+  question: >-
+    You switch a tradition dough from a same-day method to an overnight pointage retardé at 4 C.
+    Which set of adjustments fits?
+  options:
+    - >-
+      More yeast and a warmer dough so it keeps fermenting in the cold.
+    - >-
+      Same yeast and temperature; only the time in the cold changes.
+    - >-
+      Less yeast, a cooler dough, then a longer détente and apprêt next day.
+    - >-
+      Less salt so the yeast is not slowed further by the cold.
+  correct: 2
+  explanation: >-
+    A large tub takes hours to cool and keeps fermenting meanwhile, so retarded doughs use less
+    yeast and a cooler dough. Next day the cold dough needs more détente and apprêt.
+
+- id: q3
+  question: >-
+    Why does a long cold fermentation usually give bread more flavour than a fast warm one?
+  options:
+    - >-
+      The cold kills the yeast, leaving only bacteria to make all the gas.
+    - >-
+      Salt dissolves better in cold dough, which strengthens the taste.
+    - >-
+      Ethanol cannot evaporate in the cold, so more of it stays in the crumb.
+    - >-
+      Acids and aromas keep forming while the yeast's gas production is slowed.
+  correct: 3
+  explanation: >-
+    Yeast slows down more than lactic bacteria and enzymes in the cold, so relatively more acids and
+    aromas form for the gas made: fuller flavour, deeper crust colour.
+
+- id: q4
+  question: >-
+    At 5:00 the baker finds the cabinet display shows 18 C instead of 3 C during blocking, and the
+    baguettes have collapsed. What should the baker do besides baking what can be saved?
+  options:
+    - >-
+      Nothing: over-proofing at night is normal and needs no record.
+    - >-
+      Report it as a non-conformity and check the cabinet and programme.
+    - >-
+      Lower tomorrow's salt so the dough tolerates warm blocking better.
+    - >-
+      Switch to more yeast so the next batch rises faster in the morning.
+  correct: 1
+  explanation: >-
+    A machine malfunction that ruins a batch is a production non-conformity to report (C4.4), with
+    the temperatures found. Checking the display on arrival is part of the routine.
+
+- id: q5
+  question: >-
+    What is the main organisational benefit of deferred fermentation for a bakery?
+  options:
+    - >-
+      Bread can be baked at set times without night work, and several times a day.
+    - >-
+      No dough temperature checks are needed, since the cold controls everything.
+    - >-
+      Bread no longer needs an apprêt, because it rises in the cold room.
+    - >-
+      The bakery can stop using fiches techniques for its deferred products.
+  correct: 0
+  explanation: >-
+    Deferred fermentation moves fermentation in time: mix in the afternoon, bake at dawn, and bake
+    again during the day. It still needs temperatures, apprêt and records.

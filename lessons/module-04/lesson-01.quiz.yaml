@@ -1,0 +1,89 @@
+- id: q1
+  question: >-
+    A trainee says: "Fermentation is finished once the dough has risen in the tub; after that we
+    just shape and bake." What is the correct reply?
+  options:
+    - >-
+      Right: fermentation is another word for pointage, and it stops at dividing.
+    - >-
+      Wrong: fermentation goes on through détente and apprêt until the yeast dies in the oven.
+    - >-
+      Right: dividing pushes out all the gas, so the yeast stops working until baking.
+    - >-
+      Wrong: fermentation only really starts during apprêt, once the pieces are shaped.
+  correct: 1
+  explanation: >-
+    The fermentation clock runs from the end of mixing to the first minutes in the oven, where the
+    yeast dies at about 46-50 C. Pointage, détente and apprêt are all stages of it.
+
+- id: q2
+  question: >-
+    Two loaves from the same dough: one baked on time, one forgotten for an extra hour of apprêt.
+    The forgotten one has a pale crust despite the same bake. Why?
+  options:
+    - >-
+      The extra gas insulated the crust, so the oven heat could not reach it.
+    - >-
+      The ethanol made during the extra hour bleached the crust colour in the oven.
+    - >-
+      The yeast used up the residual sugars that the crust needed to brown.
+    - >-
+      The longer apprêt dried the skin, and a dry skin never takes colour.
+  correct: 2
+  explanation: >-
+    Crust colour comes from sugars left in the dough (Maillard reaction, caramelisation). A long
+    over-fermentation lets the yeast eat them, so the crust stays pale.
+
+- id: q3
+  question: >-
+    According to the alcoholic fermentation equation, about how much carbon dioxide do 18 g of
+    glucose give?
+  options:
+    - >-
+      About 8.8 g of CO2, with about 9.2 g of ethanol.
+    - >-
+      About 18 g of CO2, since all the sugar becomes gas.
+    - >-
+      About 9.2 g of CO2, with about 8.8 g of ethanol.
+    - >-
+      About 4.4 g of CO2, with the rest becoming water.
+  correct: 0
+  explanation: >-
+    180 g of glucose gives 92 g of ethanol and 88 g of CO2, so 18 g gives about 9.2 g of ethanol
+    and 8.8 g of CO2. The mass is shared between the two products.
+
+- id: q4
+  question: >-
+    In the balloon test, the bottle with 4 g of salt inflates much more slowly than the reference
+    bottle at the same temperature. What does this show?
+  options:
+    - >-
+      Salt kills yeast outright, so only a few cells survive to make gas.
+    - >-
+      Salt reacts with the CO2 and holds it in the water as a salt solution.
+    - >-
+      Salt replaces the sugar as yeast food, and it is a much poorer food.
+    - >-
+      Salt draws water from the yeast cells by osmosis, slowing their work.
+  correct: 3
+  explanation: >-
+    Salt slows yeast by osmosis; at normal doses (about 1.8-2 % of flour) it controls fermentation
+    without stopping it. Direct contact with dry salt is what damages yeast.
+
+- id: q5
+  question: >-
+    A baker wants more flavour in a direct pain courant without changing the flour. Which change
+    works with how fermentation produces flavour?
+  options:
+    - >-
+      Raise the dough temperature to 32 C so the yeast makes more of everything.
+    - >-
+      Use less yeast and a longer, cooler fermentation so acids and aromas can build.
+    - >-
+      Double the yeast so the dough is ready sooner and keeps its freshness.
+    - >-
+      Shorten pointage and lengthen the bake, since flavour comes from the oven.
+  correct: 1
+  explanation: >-
+    Yeast makes gas fastest in the mid-30s C, but flavour molecules form slowly at moderate
+    temperatures. Less yeast with more time, or a pre-ferment, gives more flavour.

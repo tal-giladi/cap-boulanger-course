@@ -22,8 +22,8 @@ Goal: build "CAP Boulanger Preparation" per `curriculum/plan.md`, following
 - [ ] manifest.json and competency matrix (matrix assembled from `curriculum/matrix/` at the end)
 - [x] Module 1 — Introduction to Professional Baking
 - [x] Module 2 — Ingredients
-- [ ] Module 3 — Dough Science
-- [ ] Module 4 — Fermentation
+- [x] Module 3 — Dough Science
+- [x] Module 4 — Fermentation
 - [ ] Module 5 — Temperature Management
 - [ ] Module 6 — Baker's Mathematics
 - [ ] Module 7 — The Production Process
@@ -47,9 +47,7 @@ Goal: build "CAP Boulanger Preparation" per `curriculum/plan.md`, following
 
 ## Agents now
 
-- Agent A: done
-- Agent B: done
-- PAUSED after modules 1 and 2 (Tal, 2026-10-08). Next: modules 3 and 4.
+- PAUSED after modules 3 and 4 (2026-10-08). Next: modules 5 and 6.
 
 ## Decisions and open questions
 
@@ -64,3 +62,7 @@ Goal: build "CAP Boulanger Preparation" per `curriculum/plan.md`, following
 - Technical sheets defined in 01.6 for reuse: PC-02 (T55 100 / water 64 / salt 1.8 / fresh yeast 1.5 / pâte fermentée 15) and PD-01 (direct, by hand: water 65 / salt 1.8 / yeast 1.5).
 - Final QA: turn plain-text forward references into links (02.2 and 02.9 → 09.1; module 2 mentions of 03.5, 07.5, 10.7, 17.6). Check every module's matrix file for similar requests.
 - Module 2 salt limits (agriculture.gouv.fr): pain courant 1.4 g/100 g since Oct 2023; wholemeal/cereal 1.3 g; pain de mie 1.1 g since Oct 2025.
+- Module 5 friction figures must agree with 03.4 (hand kneading +1–3 °C, intensive mixing +10 °C or more).
+- Final QA: add module 3 troubleshooting rows (over-oxidation → white bland crumb; over-mixed/warm → sticky slack dough; late contre-frasage → flour specks) and its sources (see curriculum/matrix/module-03.md).
+- Module 5 should use module 4's planning rule: fermentation ~7 % faster/slower per °C of dough temperature.
+- Final QA: add module 4 troubleshooting rows (forgotten salt; over-ripe pre-ferment; over-proofed retarded dough) and its sources; turn module 4 plain-text references (Module 5, 06.4, Module 7, 09.1, Module 11, 14, 17) into links. Consider merging glossary "Croûtage" and "Pâte croûtée".

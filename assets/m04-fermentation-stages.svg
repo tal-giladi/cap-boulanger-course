@@ -1,0 +1,85 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 440" width="960" height="440" role="img" aria-labelledby="t d">
+  <title id="t">The stages of bread fermentation from mixing to the oven</title>
+  <desc id="d">Timeline of a pain courant dough. Mixing, then pointage (bulk fermentation, dough gains strength and flavour), dividing and pre-shaping, détente (bench rest, gluten relaxes), shaping, apprêt (final proof, the shaped piece fills with gas), then the first minutes in the oven where gas expands and yeast dies at about 46 to 50 degrees Celsius. Bars show the dough volume growing during pointage, dropping when it is divided and shaped, and growing again during apprêt and in the oven.</desc>
+  <rect x="0" y="0" width="960" height="440" fill="#ffffff"/>
+  <defs>
+    <marker id="ar" markerWidth="10" markerHeight="10" refX="9" refY="5" orient="auto">
+      <path d="M0,0 L10,5 L0,10 Z" fill="#444444"/>
+    </marker>
+  </defs>
+  <g font-family="Arial, Helvetica, sans-serif" fill="#222222">
+    <text x="480" y="32" text-anchor="middle" font-size="22" font-weight="bold">Fermentation runs from the end of mixing until the yeast dies in the oven</text>
+
+    <!-- stage boxes -->
+    <g font-size="14" text-anchor="middle">
+      <rect x="15" y="60" width="110" height="70" rx="8" fill="#f5f5f5" stroke="#777777"/>
+      <text x="70" y="88" font-weight="bold">Pétrissage</text>
+      <text x="70" y="108">mixing</text>
+
+      <rect x="140" y="60" width="160" height="70" rx="8" fill="#fdf1e6" stroke="#c0702a"/>
+      <text x="220" y="88" font-weight="bold">Pointage</text>
+      <text x="220" y="108">bulk fermentation</text>
+
+      <rect x="315" y="60" width="120" height="70" rx="8" fill="#eef5fb" stroke="#4a7fb0"/>
+      <text x="375" y="84" font-weight="bold">Division</text>
+      <text x="375" y="102">+ préfaçonnage</text>
+      <text x="375" y="120">divide, pre-shape</text>
+
+      <rect x="450" y="60" width="100" height="70" rx="8" fill="#fdf1e6" stroke="#c0702a"/>
+      <text x="500" y="88" font-weight="bold">Détente</text>
+      <text x="500" y="108">bench rest</text>
+
+      <rect x="565" y="60" width="100" height="70" rx="8" fill="#eef5fb" stroke="#4a7fb0"/>
+      <text x="615" y="88" font-weight="bold">Façonnage</text>
+      <text x="615" y="108">shaping</text>
+
+      <rect x="680" y="60" width="150" height="70" rx="8" fill="#fdf1e6" stroke="#c0702a"/>
+      <text x="755" y="88" font-weight="bold">Apprêt</text>
+      <text x="755" y="108">final proof</text>
+
+      <rect x="845" y="60" width="100" height="70" rx="8" fill="#fbe9e9" stroke="#b03a3a"/>
+      <text x="895" y="88" font-weight="bold">Four</text>
+      <text x="895" y="108">oven</text>
+    </g>
+
+    <!-- volume bars -->
+    <line x1="15" y1="300" x2="945" y2="300" stroke="#444444" stroke-width="2"/>
+    <text x="20" y="160" font-size="13" fill="#555555">dough volume (illustrative)</text>
+    <g fill="#e9dcb4" stroke="#8a6a10" stroke-width="1.5">
+      <rect x="45" y="260" width="50" height="40"/>
+      <rect x="160" y="250" width="35" height="50"/>
+      <rect x="245" y="220" width="35" height="80"/>
+      <rect x="355" y="265" width="40" height="35"/>
+      <rect x="480" y="255" width="40" height="45"/>
+      <rect x="595" y="265" width="40" height="35"/>
+      <rect x="700" y="240" width="35" height="60"/>
+      <rect x="775" y="205" width="35" height="95"/>
+      <rect x="875" y="180" width="40" height="120"/>
+    </g>
+
+    <!-- notes under the axis -->
+    <g font-size="12.5" text-anchor="middle">
+      <text x="70" y="322">yeast mixed in;</text>
+      <text x="70" y="338">gas starts</text>
+      <text x="220" y="322">gas + acids give strength</text>
+      <text x="220" y="338">and flavour (la pâte</text>
+      <text x="220" y="354">prend de la force)</text>
+      <text x="375" y="322">part of the gas</text>
+      <text x="375" y="338">pushed out</text>
+      <text x="500" y="322">gluten relaxes;</text>
+      <text x="500" y="338">fermentation goes on</text>
+      <text x="615" y="322">tension and</text>
+      <text x="615" y="338">final form</text>
+      <text x="755" y="322">shaped piece fills</text>
+      <text x="755" y="338">with gas: volume</text>
+      <text x="755" y="354">for the oven</text>
+      <text x="895" y="322">gas expands;</text>
+      <text x="895" y="338">yeast dies at</text>
+      <text x="895" y="354">about 46-50 °C</text>
+    </g>
+
+    <!-- time arrow -->
+    <line x1="20" y1="395" x2="935" y2="395" stroke="#444444" stroke-width="2" marker-end="url(#ar)"/>
+    <text x="480" y="420" text-anchor="middle" font-size="13">Example PC-02: pointage 45 min · dividing 20 min · détente 20 min · shaping 25 min · apprêt 1 h 15 at 25 °C</text>
+  </g>
+</svg>

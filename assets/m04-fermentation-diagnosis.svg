@@ -1,0 +1,75 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 470" width="960" height="470" role="img" aria-labelledby="t d">
+  <title id="t">Under-fermented, correctly fermented and over-fermented bread compared</title>
+  <desc id="d">Three cut loaves side by side. Under-fermented: small, tall and tight, burst along the side, dark reddish crust, dense crumb with small holes. Correct: good volume, open score with an ear, golden crust, even, open crumb. Over-fermented: flat and wide, score barely opened, pale crust, large irregular holes under the crust and a coarse crumb, sour smell. Below each loaf, the signs in the dough before baking: dent springs back at once; dent fills back slowly; dent stays or the piece sags.</desc>
+  <rect x="0" y="0" width="960" height="470" fill="#ffffff"/>
+  <g font-family="Arial, Helvetica, sans-serif" fill="#222222">
+    <text x="480" y="32" text-anchor="middle" font-size="22" font-weight="bold">Read the fermentation in the bread: under, correct, over</text>
+
+    <g font-size="18" font-weight="bold" text-anchor="middle">
+      <text x="160" y="70">Under-fermented</text>
+      <text x="480" y="70">Correct</text>
+      <text x="800" y="70">Over-fermented</text>
+    </g>
+
+    <!-- under: small tall loaf, dark crust, burst side -->
+    <path d="M 70 250 Q 70 130 160 125 Q 250 130 250 250 Z" fill="#9a4a1c" stroke="#5a2a0c" stroke-width="3"/>
+    <path d="M 84 248 Q 86 145 160 140 Q 236 145 236 248 Z" fill="#f3e6c4"/>
+    <g fill="#d9c597">
+      <circle cx="120" cy="200" r="3"/><circle cx="140" cy="180" r="3"/><circle cx="165" cy="210" r="3"/><circle cx="190" cy="190" r="3"/>
+      <circle cx="205" cy="225" r="3"/><circle cx="130" cy="230" r="3"/><circle cx="160" cy="165" r="3"/><circle cx="180" cy="235" r="3"/>
+      <circle cx="110" cy="175" r="2"/><circle cx="215" cy="200" r="2"/>
+    </g>
+    <path d="M 238 200 L 252 192 L 246 210 L 256 206" fill="none" stroke="#5a2a0c" stroke-width="3"/>
+    <text x="275" y="205" font-size="12">burst</text>
+
+    <!-- correct: good volume, ear, golden -->
+    <path d="M 360 250 Q 362 120 480 112 Q 598 120 600 250 Z" fill="#c98a3a" stroke="#8a5a1a" stroke-width="3"/>
+    <path d="M 374 248 Q 378 135 480 127 Q 584 135 586 248 Z" fill="#f6ebcd"/>
+    <path d="M 470 113 Q 495 95 525 108" fill="none" stroke="#8a5a1a" stroke-width="4"/>
+    <g fill="#ffffff" stroke="#d9c597" stroke-width="2">
+      <ellipse cx="420" cy="190" rx="9" ry="7"/><ellipse cx="460" cy="165" rx="8" ry="6"/><ellipse cx="500" cy="200" rx="10" ry="7"/>
+      <ellipse cx="545" cy="175" rx="8" ry="6"/><ellipse cx="440" cy="225" rx="8" ry="6"/><ellipse cx="530" cy="228" rx="9" ry="6"/>
+      <ellipse cx="480" cy="235" rx="7" ry="5"/><ellipse cx="410" cy="150" rx="6" ry="5"/><ellipse cx="560" cy="210" rx="6" ry="5"/>
+    </g>
+    <text x="530" y="92" font-size="12">open score (ear)</text>
+
+    <!-- over: flat wide, pale, big holes under crust -->
+    <path d="M 670 250 Q 672 175 800 170 Q 928 175 930 250 Z" fill="#e2c48a" stroke="#a88a50" stroke-width="3"/>
+    <path d="M 684 248 Q 688 188 800 184 Q 914 188 916 248 Z" fill="#f8f0d8"/>
+    <g fill="#ffffff" stroke="#d9c597" stroke-width="2">
+      <ellipse cx="760" cy="196" rx="28" ry="9"/><ellipse cx="840" cy="197" rx="24" ry="8"/>
+      <ellipse cx="720" cy="230" rx="10" ry="6"/><ellipse cx="800" cy="228" rx="14" ry="7"/><ellipse cx="875" cy="230" rx="11" ry="6"/>
+    </g>
+    <path d="M 785 171 Q 800 166 815 171" fill="none" stroke="#a88a50" stroke-width="3"/>
+    <text x="800" y="155" font-size="12" text-anchor="middle">flat score</text>
+
+    <!-- descriptions -->
+    <g font-size="13.5" text-anchor="middle">
+      <text x="160" y="285">small volume, tight and tall</text>
+      <text x="160" y="305">dark, reddish crust</text>
+      <text x="160" y="325">tears along the side</text>
+      <text x="160" y="345">dense crumb, small holes</text>
+
+      <text x="480" y="285">full volume, scores open</text>
+      <text x="480" y="305">golden crust</text>
+      <text x="480" y="325">even, open crumb</text>
+      <text x="480" y="345">balanced, fresh taste</text>
+
+      <text x="800" y="285">flat and wide, spreads</text>
+      <text x="800" y="305">pale, dull crust</text>
+      <text x="800" y="325">large holes under the crust</text>
+      <text x="800" y="345">sour or alcoholic taste</text>
+    </g>
+
+    <line x1="30" y1="370" x2="930" y2="370" stroke="#cccccc" stroke-width="1.5"/>
+    <text x="480" y="395" text-anchor="middle" font-size="14" font-weight="bold">Before baking: the poke test</text>
+    <g font-size="13.5" text-anchor="middle">
+      <text x="160" y="420">dent springs back at once,</text>
+      <text x="160" y="440">piece feels firm and heavy</text>
+      <text x="480" y="420">dent fills back slowly</text>
+      <text x="480" y="440">and not completely; light, airy</text>
+      <text x="800" y="420">dent stays or the piece sags;</text>
+      <text x="800" y="440">fragile, smells sharp</text>
+    </g>
+  </g>
+</svg>

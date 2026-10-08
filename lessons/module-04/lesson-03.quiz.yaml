@@ -1,0 +1,86 @@
+- id: q1
+  question: >-
+    The sheet's tolerance for baguettes is 350 g +/- 5 g. Five pieces from one divider load weigh
+    352, 347, 349, 355 and 344 g. What do you do?
+  options:
+    - >-
+      Accept the load: the average is 349.4 g, so the batch is on target.
+    - >-
+      Reset the divider to 355 g so that no piece falls under 345 g.
+    - >-
+      Correct the out-of-tolerance pieces and spread the next load more evenly.
+    - >-
+      Send the whole load back into the dough tub and divide it all by hand.
+  correct: 2
+  explanation: >-
+    The average shows the setting is right; the spread comes from uneven gas in the load (a divider
+    cuts by volume). Correct the pieces outside 345-355 g and flatten the next load evenly.
+
+- id: q2
+  question: >-
+    A trainee shapes baguettes straight after pre-shaping. The pieces tear and shrink back. What is
+    the most likely cause?
+  options:
+    - >-
+      The gluten had no détente to relax, so the pieces were still too elastic.
+    - >-
+      The dough was over-fermented, so the gluten had broken down.
+    - >-
+      The pieces were divided too accurately and lost their gas.
+    - >-
+      The bench had too little flour, so the dough stuck and tore.
+  correct: 0
+  explanation: >-
+    Dividing and pre-shaping tighten the gluten. During a covered détente of about 15-20 minutes
+    its elasticity drops and the piece can be lengthened without tearing.
+
+- id: q3
+  question: >-
+    Why must pieces be pre-shaped and shaped in the same order as they were divided?
+  options:
+    - >-
+      Because the first pieces are always the heaviest and need longer to relax.
+    - >-
+      Because fermentation goes on during dividing, so this keeps all pieces at the same stage.
+    - >-
+      Because the exam jury checks that the pieces stay numbered on the bench.
+    - >-
+      Because the last pieces have less salt and must be shaped before they dry.
+  correct: 1
+  explanation: >-
+    Fermentation does not stop while you cut. Working in order means each piece gets the same
+    détente and fermentation time, so the batch is ready for the oven together.
+
+- id: q4
+  question: >-
+    You are dividing a slack, sticky dough for boules. How should you pre-shape?
+  options:
+    - >-
+      As loose cylinders with almost no tension, so the dough is not stressed.
+    - >-
+      Not at all: slack doughs go straight to final shaping to save gas.
+    - >-
+      Into tight balls with flour worked inside to dry the dough.
+    - >-
+      Into balls with firmer tension, then a covered détente.
+  correct: 3
+  explanation: >-
+    The pre-shape follows the final shape (balls for boules), and a weak dough gets a firmer
+    pre-shape for strength. Flour inside the dough makes streaks and holes.
+
+- id: q5
+  question: >-
+    After the détente, the pieces have a dry skin that cracks during shaping. What went wrong?
+  options:
+    - >-
+      The détente was too short, so the skin had no time to soften.
+    - >-
+      The dough had too much salt, which draws water to the surface.
+    - >-
+      The pieces were left uncovered and a skin formed (croûtage).
+    - >-
+      The pieces were pre-shaped too loosely to hold their moisture.
+  correct: 2
+  explanation: >-
+    Uncovered pieces dry at the surface. The skin cracks at shaping and will not stretch in the
+    oven. Always cover the pieces during détente.

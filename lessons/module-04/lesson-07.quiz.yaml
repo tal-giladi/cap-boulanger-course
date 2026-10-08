@@ -1,0 +1,89 @@
+- id: q1
+  question: >-
+    A batch of bâtards comes out small and tall, with a dark reddish crust, a tear along one side
+    and a tight, dense crumb. What is the most likely fermentation diagnosis?
+  options:
+    - >-
+      Over-fermented: the yeast used up the dough's strength.
+    - >-
+      Correctly fermented, but baked in an oven that was too hot.
+    - >-
+      Over-proofed at apprêt after a correct pointage.
+    - >-
+      Under-fermented: loaded before the apprêt was complete.
+  correct: 3
+  explanation: >-
+    Little gas and plenty of sugar left give a small, dark, tight loaf that bursts at the side as it
+    rises unevenly in the oven: classic under-fermentation.
+
+- id: q2
+  question: >-
+    Baguettes are pale. Before writing "over-fermented" on the report, which evidence do you check
+    first?
+  options:
+    - >-
+      The dough temperature, the fermentation times and the oven temperature.
+    - >-
+      Only the colour of yesterday's baguettes, to see if the flour changed.
+    - >-
+      Only the weight of the pieces, since heavy pieces stay pale.
+    - >-
+      The shop's display lighting, which can make bread look paler.
+  correct: 0
+  explanation: >-
+    A pale crust can come from over-fermentation (sugars used up) or from an oven that is too cool.
+    Dough temperature, times and oven temperature tell them apart.
+
+- id: q3
+  question: >-
+    The production record shows a dough at 27.5 C instead of the 24 C target, with the sheet's times
+    followed exactly. Roughly how much faster did it ferment?
+  options:
+    - >-
+      About 3.5 % faster, one percent per degree.
+    - >-
+      About twice as fast, since yeast doubles every few degrees.
+    - >-
+      About a quarter faster, roughly 7 % per degree.
+    - >-
+      No faster: dough temperature only affects mixing, not fermentation.
+  correct: 2
+  explanation: >-
+    With the rule of thumb of about 7 % per degree, 1.07 to the power 3.5 is about 1.27. Over two
+    hours of pointage and apprêt that is like about 30 extra minutes at 24 C.
+
+- id: q4
+  question: >-
+    A dough rises very fast, is sticky and slack, and the bread tastes bland. Dough temperature,
+    yeast and times were all correct. Which cause fits best?
+  options:
+    - >-
+      The pâte fermentée was over-ripe and too acid.
+    - >-
+      The salt was forgotten at weighing.
+    - >-
+      The flour was too strong for the mixing time.
+    - >-
+      The apprêt cabinet was too humid.
+  correct: 1
+  explanation: >-
+    Salt slows yeast and tightens gluten; without it the dough rushes, stays sticky and slack, and
+    the bread tastes flat. Ticking salt on the sheet at weighing prevents it.
+
+- id: q5
+  question: >-
+    You find that a batch was over-proofed because the cabinet thermostat read 32 C instead of 25 C.
+    What goes in the non-conformity report?
+  options:
+    - >-
+      Only the name of the colleague who set the cabinet, so the manager knows who to blame.
+    - >-
+      Nothing: the products were sold, so there is nothing left to report.
+    - >-
+      A note asking for a new oven, since the bread was pale.
+    - >-
+      The facts and temperatures, the action taken, the probable cause and a prevention.
+  correct: 3
+  explanation: >-
+    A non-conformity report records facts and measurements, the immediate action, the probable cause
+    (here the cabinet) and how to prevent it, so the fault gets fixed, not blamed.

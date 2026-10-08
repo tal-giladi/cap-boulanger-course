@@ -1,0 +1,87 @@
+- id: q1
+  question: >-
+    The sheet says "pointage 45 min, TPV 24 C". Your dough reads 26 C at the end of mixing. What is
+    the professional approach?
+  options:
+    - >-
+      Keep the 45 minutes: the sheet's time is what the exam jury checks.
+    - >-
+      Add 10 minutes, because a warm dough needs longer to gain strength.
+    - >-
+      Put the dough in the fridge for 45 minutes to cancel the extra 2 C.
+    - >-
+      Plan about 39 minutes, start checking earlier and divide on the signs.
+  correct: 3
+  explanation: >-
+    About 7 % faster per degree: 45 / 1.14 is about 39 min. The calculation tells you when to start
+    looking; the dough's volume, dome and feel decide the moment to divide.
+
+- id: q2
+  question: >-
+    Why does a dough mixed with intensive mixing (pétrissage intensifié) need a much shorter
+    pointage than a slow-mixed tradition dough?
+  options:
+    - >-
+      The machine already gave it much strength, so it needs little time to gain more.
+    - >-
+      Intensive mixing kills part of the yeast, so a long pointage would be useless.
+    - >-
+      Intensive mixing warms the dough above 35 C, which stops fermentation early.
+    - >-
+      A slow-mixed dough contains more salt, which slows its fermentation.
+  correct: 0
+  explanation: >-
+    Pointage and mixing both build strength. Intensive mixing gives strength (and oxidation) in the
+    mixer, so a short pointage is enough, at the cost of flavour.
+
+- id: q3
+  question: >-
+    At dividing, a dough is sticky, slack and has barely moved in the tub after the planned time.
+    The dough temperature log shows 21 C. What is the diagnosis?
+  options:
+    - >-
+      Over-fermented dough (pâte vieille): divide at once.
+    - >-
+      Too much salt: the yeast was killed during mixing.
+    - >-
+      Under-fermented dough (pâte jeune) because it was too cold.
+    - >-
+      Over-mixed dough: the gluten has broken down.
+  correct: 2
+  explanation: >-
+    A cold dough ferments slowly: little gas, little strength, still sticky. Give it more time in a
+    warmer place and correct the water temperature for the next batch.
+
+- id: q4
+  question: >-
+    Which set of signs best shows that a 1 h 15 pointage with one fold is complete?
+  options:
+    - >-
+      The dough has tripled, the surface shows large bursting bubbles and it smells of vinegar.
+    - >-
+      The dough is about 1.5-2 times its volume, domed, airy, and a finger dent fills slowly.
+    - >-
+      The dough has not moved but is smooth, and the timer shows 1 h 15.
+    - >-
+      The dough springs back instantly when pressed and sticks firmly to the tub.
+  correct: 1
+  explanation: >-
+    A clear rise read in a marked tub, a domed surface, an airy feel and a slow-filling dent show a
+    finished pointage. Large bursting bubbles and a vinegar smell mean it went too far.
+
+- id: q5
+  question: >-
+    What does a fold (rabat) during pointage mainly do?
+  options:
+    - >-
+      It removes all the gas so the dough can start fermenting again from zero.
+    - >-
+      It cools the dough so that fermentation slows down for the rest of the pointage.
+    - >-
+      It adds strength, evens out temperature and gas, and tightens a slack dough.
+    - >-
+      It mixes in the salt that was added late to the dough.
+  correct: 2
+  explanation: >-
+    A fold stretches and reorganises the gluten, giving strength without more mixing, and evens out
+    the dough's temperature and gas. It is a standard tool for slack or slow-mixed doughs.

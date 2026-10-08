@@ -1,0 +1,88 @@
+- id: q1
+  question: >-
+    You press a floured finger into a shaped baguette on the couche. The dent springs back at once
+    and the piece feels firm. What do you do?
+  options:
+    - >-
+      Score and load it now, since a firm piece gives the best oven spring.
+    - >-
+      Leave it to proof longer and test again in about 10 minutes.
+    - >-
+      Bake it immediately at a lower temperature to stop the fermentation.
+    - >-
+      Reshape it tighter, because the dent shows the shaping was too loose.
+  correct: 1
+  explanation: >-
+    A dent that springs back at once means the piece is under-proofed. Loaded now, it would be
+    tight and burst at the side. Wait until the dent fills back slowly.
+
+- id: q2
+  question: >-
+    Which proofing support suits a soft pain de campagne au levain shaped as a boule?
+  options:
+    - >-
+      A perforated baguette tray, so the boule bakes without transfer.
+    - >-
+      A pleated linen couche, to hold the boule in a long shape.
+    - >-
+      A plain tray with no cover, so the surface firms up before baking.
+    - >-
+      A well-floured banneton, seam up, turned out just before baking.
+  correct: 3
+  explanation: >-
+    A banneton holds the shape of a soft round loaf during apprêt. It is floured well and the boule
+    is turned out onto the peel or loader at the last moment.
+
+- id: q3
+  question: >-
+    The baguettes in a cabinet at 26 C, 95 % RH come out with wet spots and stick to the couche.
+    What is the most likely cause?
+  options:
+    - >-
+      Humidity too high: condensation has wetted the surface.
+    - >-
+      Humidity too low: the skin dried and then cracked.
+    - >-
+      Temperature too low: the dough stayed cold and sticky.
+    - >-
+      Too much salt in the dough, drawing water to the surface.
+  correct: 0
+  explanation: >-
+    Usual humidity is about 75-85 %. Above that, water condenses on the pieces, leaving wet spots
+    and a sticky skin. Lower the humidity and flour the couche properly.
+
+- id: q4
+  question: >-
+    The oven will be free 20 minutes later than planned while your baguettes are halfway through
+    apprêt at 25 C. What is the best first action?
+  options:
+    - >-
+      Raise the cabinet to 30 C so the pieces are ready and waiting for the oven.
+    - >-
+      Reshape all the baguettes to remove the gas and restart the apprêt.
+    - >-
+      Move the pieces to a cooler place, about 20 C, to slow the apprêt.
+    - >-
+      Leave them in the cabinet and bake them over-proofed, since nothing can be done.
+  correct: 2
+  explanation: >-
+    Cooling slows fermentation (about 1.4 times slower for 5 C less). That buys most of the delay;
+    record it and fix the oven plan for next time.
+
+- id: q5
+  question: >-
+    Why are most crusty breads loaded at about three-quarters to full apprêt rather than at the
+    largest possible volume?
+  options:
+    - >-
+      Because the law limits the volume a bread may reach before baking.
+    - >-
+      Because they need some gas production and gluten strength left for oven spring.
+    - >-
+      Because a fully proofed piece always has too much salt left for the crust.
+    - >-
+      Because larger pieces do not fit through the oven door on the loader.
+  correct: 1
+  explanation: >-
+    A piece at its maximum has stretched gluten and little life left: it spreads and the scores stay
+    flat. Some reserve gives oven spring and bold, open scores.
