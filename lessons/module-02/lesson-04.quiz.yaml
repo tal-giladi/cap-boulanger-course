@@ -1,0 +1,87 @@
+- id: q1
+  question: >-
+    A formula gives 68 % hydration for 7.5 kg of flour. How much water do you weigh?
+  options:
+    - >-
+      5,100 g
+    - >-
+      6,800 g
+    - >-
+      4,410 g
+    - >-
+      5,440 g
+  correct: 0
+  explanation: >-
+    Water = 7,500 x 68 / 100 = 5,100 g. 6,800 g would be 68 % of 10 kg; hydration is always a
+    percentage of the flour weight, not of the dough.
+
+- id: q2
+  question: >-
+    You switch from T55 to T150 wholemeal and keep the water at 64 %. The dough is stiff and tears.
+    Why?
+  options:
+    - >-
+      Wholemeal flour has no protein, so no gluten network can form at all.
+    - >-
+      The bran absorbs extra water, so the same hydration gives a firmer dough.
+    - >-
+      Wholemeal flour already contains salt, which tightens the gluten network.
+    - >-
+      Bran stops the yeast producing gas, so the dough can never relax.
+  correct: 1
+  explanation: >-
+    Bran and its pentosans hold a lot of water. Higher-type flours need more water (pain complet is
+    often 72-78 %) to reach the same consistency.
+
+- id: q3
+  question: >-
+    At the end of mixing a dough feels a little too firm for the product. What is the usual
+    professional correction?
+  options:
+    - >-
+      Contre-frasage: add a little flour and mix for longer.
+    - >-
+      Add more yeast so that fermentation softens the dough.
+    - >-
+      Bassinage: add a little water while mixing slowly.
+    - >-
+      Leave it and lengthen the final proof to compensate.
+  correct: 2
+  explanation: >-
+    Bassinage softens a dough by adding water at the end of mixing. Contre-frasage is the opposite
+    (adding flour to firm up a soft dough).
+
+- id: q4
+  question: >-
+    A new bakery is supplied with very soft water (about 3 F degrees). What change in the dough do
+    you expect compared with medium-hard water?
+  options:
+    - >-
+      A tighter dough and a noticeably slower fermentation.
+    - >-
+      No change at all, because hardness only affects taste.
+    - >-
+      A darker crust, because of the extra dissolved minerals.
+    - >-
+      A slacker, stickier dough, fixed with a little less water.
+  correct: 3
+  explanation: >-
+    Calcium and magnesium tighten gluten a little; very soft water gives slacker, stickier doughs.
+    The usual fix is a small adjustment of hydration rather than treating the water.
+
+- id: q5
+  question: >-
+    Which statement about the role of water in baking is correct?
+  options:
+    - >-
+      Its steam helps oven spring, and starch needs it to gelatinise.
+    - >-
+      It is only needed for mixing; it all evaporates before the crumb sets.
+    - >-
+      It slows yeast down, so drier doughs always ferment faster.
+    - >-
+      It weakens gluten, so the less water, the stronger the network.
+  correct: 0
+  explanation: >-
+    Steam from the dough water expands the loaf at the start of baking, and starch can only
+    gelatinise in water. The crumb keeps much of its water; only the crust dries out.

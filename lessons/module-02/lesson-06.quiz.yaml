@@ -1,0 +1,88 @@
+- id: q1
+  question: >-
+    A formula needs 60 g of fresh yeast and you only have instant dry yeast. About how much instant
+    yeast do you use?
+  options:
+    - >-
+      60 g, because yeast is yeast whatever its form.
+    - >-
+      120 g, because dry yeast is weaker than fresh.
+    - >-
+      6 g, because dry yeast is ten times stronger.
+    - >-
+      20 g, about one-third of the fresh weight.
+  correct: 3
+  explanation: >-
+    Instant dry yeast is dosed about three times lower than fresh pressed yeast (60 x 0.33 = about
+    20 g). Using the fresh weight would triple the yeast and the dough would rush.
+
+- id: q2
+  question: >-
+    At 6 a.m. delivery, a 500 g block of fresh yeast is warm to the touch, brown at the edges and
+    smells cheesy. What do you do?
+  options:
+    - >-
+      Accept it and use it first, because it is already active.
+    - >-
+      Refuse it and report it: the cold chain was broken.
+    - >-
+      Accept it and freeze it at once to stop it ageing.
+    - >-
+      Accept it and double the dose to compensate for weaker activity.
+  correct: 1
+  explanation: >-
+    Fresh yeast must arrive cold (0-4 C), cream-beige and pleasant-smelling. Warm, browned, cheesy
+    yeast is a non-conformity to refuse or report; its activity is unreliable.
+
+- id: q3
+  question: >-
+    A trainee dissolves yeast in water "nice and hot" from the kettle at about 60 C. What happens?
+  options:
+    - >-
+      Fermentation starts faster, so the dough is ready sooner.
+    - >-
+      The yeast is unaffected because the flour cools the water instantly.
+    - >-
+      The yeast cells are killed, so the dough will barely rise.
+    - >-
+      Only the aroma changes; the gas production stays the same.
+  correct: 2
+  explanation: >-
+    Yeast is damaged above about 45 C and dies around 46-50 C. Water at 60 C kills it. Water
+    temperature is calculated to reach the target dough temperature (Module 5).
+
+- id: q4
+  question: >-
+    During a long bulk fermentation, what is the yeast's main food once the flour's own small
+    amount of sugar is used up?
+  options:
+    - >-
+      Maltose released from damaged starch by the flour's amylases.
+    - >-
+      The gluten proteins, which yeast breaks down into sugar.
+    - >-
+      The salt, which yeast converts into carbon dioxide.
+    - >-
+      Oxygen from the air, which keeps it working without sugar.
+  correct: 0
+  explanation: >-
+    Flour has only 1-2 % simple sugars. Amylases cut damaged starch into maltose, which feeds the
+    yeast through the fermentation and leaves sugar for crust colour.
+
+- id: q5
+  question: >-
+    A brioche dough with 15 % sugar rises much more slowly than a pain courant dough with the same
+    yeast percentage. Why?
+  options:
+    - >-
+      Sugar kills yeast, so brioche must rely on eggs for its rise.
+    - >-
+      The high sugar pulls water from the yeast cells by osmosis and slows them.
+    - >-
+      Sugar strengthens the gluten so much that the gas cannot expand it.
+    - >-
+      Brioche is mixed cold, and sugar makes cold doughs ferment faster.
+  correct: 1
+  explanation: >-
+    Above about 10 % sugar on flour, osmotic pressure slows yeast. Rich doughs use more yeast
+    (3-4 %) and often sugar-tolerant (osmotolerant) yeast.

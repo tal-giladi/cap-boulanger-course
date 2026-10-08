@@ -1,0 +1,89 @@
+- id: q1
+  question: >-
+    A flour bag lists "farine de blé, gluten de blé, farine de blé malté, agent de traitement de la
+    farine : acide ascorbique". For which product can you use it?
+  options:
+    - >-
+      Pain courant, but not pain de tradition française.
+    - >-
+      Pain de tradition française, because malt flour is allowed.
+    - >-
+      Pain au levain only, because ascorbic acid feeds the levain.
+    - >-
+      No bread at all, because gluten is a forbidden ingredient.
+  correct: 0
+  explanation: >-
+    Ascorbic acid (E300) is an additive and gluten is not a permitted extra in tradition. Both are
+    allowed in ordinary bread flour, so the bag goes to pain courant.
+
+- id: q2
+  question: >-
+    Your croissant dough is so tough that it shrinks back after every turn. Which correcting
+    product is designed to relax it?
+  options:
+    - >-
+      Ascorbic acid, because it improves gas retention.
+    - >-
+      Vital wheat gluten, because it adds protein.
+    - >-
+      Deactivated yeast, which loosens gluten bonds.
+    - >-
+      Bean flour, because its enzyme whitens the crumb.
+  correct: 2
+  explanation: >-
+    Deactivated yeast releases glutathione, which loosens the gluten network and makes the dough
+    more extensible. Ascorbic acid and gluten would make it even tighter.
+
+- id: q3
+  question: >-
+    Why is fungal amylase classed as a processing aid (auxiliaire technologique) rather than an
+    additive?
+  options:
+    - >-
+      It is extracted from wheat, so it counts as part of the flour.
+    - >-
+      It is inactivated during baking and has no function in the finished bread.
+    - >-
+      It is used in amounts too small to be weighed, so it is ignored.
+    - >-
+      It only acts on the crust, so it never enters the crumb.
+  correct: 1
+  explanation: >-
+    A processing aid acts during manufacture (here, making sugars from starch) but has no
+    technological role in the final product; fungal amylase is destroyed in the oven.
+
+- id: q4
+  question: >-
+    A tradition formula uses 10 kg of flour. What is the maximum bean flour (farine de fève) you may
+    include?
+  options:
+    - >-
+      50 g, the limit for soy flour.
+    - >-
+      30 g, the limit for wheat malt flour.
+    - >-
+      2,000 g, because the limit is 20 %.
+    - >-
+      200 g, which is 2 % of the flour.
+  correct: 3
+  explanation: >-
+    Décret 93-1074 art. 2: at most 2 % bean flour, 0.5 % soy flour and 0.3 % wheat malt flour of the
+    total flour. 2 % of 10 kg = 200 g.
+
+- id: q5
+  question: >-
+    A seeded loaf has a dry, crumbly crumb the next morning. The seeds (15 % of flour) were added
+    dry at the start of mixing. What do you change?
+  options:
+    - >-
+      Add the seeds as a soaker, counting its water, at the end of mixing.
+    - >-
+      Add 0.5 % ascorbic acid so the gluten holds more moisture.
+    - >-
+      Bake hotter and shorter so the crust seals the water in.
+    - >-
+      Halve the yeast so the dough ferments less and dries less.
+  correct: 0
+  explanation: >-
+    Dry seeds draw water from the crumb, and seeds added early cut the developing gluten. A soaker
+    brings moisture in, and adding it at the end protects the gluten.

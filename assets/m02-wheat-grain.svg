@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 860 460" width="860" height="460" role="img" aria-labelledby="t d">
+  <title id="t">Wheat grain cut lengthwise: bran, endosperm and germ with their share of grain weight</title>
+  <desc id="d">A wheat grain cut along its length. The outer bran layers with the aleurone layer make up about 13 to 17 percent of the grain, the starchy endosperm about 80 to 85 percent, and the germ about 2.5 to 3 percent. White flour comes from the endosperm; wholemeal flour keeps bran and germ.</desc>
+  <rect x="0" y="0" width="860" height="460" fill="#ffffff"/>
+  <text x="430" y="34" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="bold" fill="#222222">The wheat grain (grain de blé), cut lengthwise</text>
+  <!-- grain outline: bran -->
+  <ellipse cx="270" cy="245" rx="190" ry="120" fill="#a0612b"/>
+  <!-- aleurone -->
+  <ellipse cx="270" cy="245" rx="178" ry="108" fill="#d9a441"/>
+  <!-- endosperm -->
+  <ellipse cx="272" cy="245" rx="170" ry="100" fill="#fbf3dc"/>
+  <!-- starch granule dots -->
+  <g fill="#e9dcb4">
+    <circle cx="200" cy="210" r="7"/><circle cx="230" cy="260" r="5"/><circle cx="260" cy="200" r="6"/>
+    <circle cx="300" cy="240" r="7"/><circle cx="330" cy="290" r="5"/><circle cx="170" cy="270" r="6"/>
+    <circle cx="350" cy="215" r="6"/><circle cx="280" cy="300" r="6"/><circle cx="215" cy="305" r="5"/>
+    <circle cx="390" cy="260" r="5"/><circle cx="140" cy="230" r="5"/><circle cx="320" cy="180" r="5"/>
+  </g>
+  <!-- germ at the base (left) -->
+  <path d="M 84 220 Q 100 245 84 290 Q 120 300 135 255 Q 125 215 84 220 Z" fill="#7aa33a" stroke="#4f6e22" stroke-width="2"/>
+  <!-- brush hairs at the tip (right) -->
+  <g stroke="#a0612b" stroke-width="2">
+    <line x1="458" y1="235" x2="482" y2="225"/><line x1="459" y1="245" x2="486" y2="245"/><line x1="458" y1="255" x2="482" y2="265"/>
+  </g>
+  <!-- labels -->
+  <g font-family="Arial, Helvetica, sans-serif" fill="#222222">
+    <line x1="420" y1="150" x2="560" y2="110" stroke="#555555" stroke-width="1.5"/>
+    <text x="565" y="100" font-size="17" font-weight="bold">Bran (son / enveloppes)</text>
+    <text x="565" y="120" font-size="15">outer layers + aleurone layer</text>
+    <text x="565" y="140" font-size="15" font-weight="bold" fill="#8a4b18">about 13–17 % of the grain</text>
+    <text x="565" y="158" font-size="13">fibre, minerals (ash), vitamins</text>
+
+    <line x1="340" y1="250" x2="560" y2="235" stroke="#555555" stroke-width="1.5"/>
+    <text x="565" y="222" font-size="17" font-weight="bold">Endosperm (amande farineuse)</text>
+    <text x="565" y="242" font-size="15" font-weight="bold" fill="#8a6a10">about 80–85 % of the grain</text>
+    <text x="565" y="260" font-size="13">starch + gluten-forming proteins</text>
+    <text x="565" y="276" font-size="13">→ this is white flour</text>
+
+    <line x1="100" y1="300" x2="150" y2="400" stroke="#555555" stroke-width="1.5"/>
+    <text x="155" y="398" font-size="17" font-weight="bold">Germ (germe)</text>
+    <text x="155" y="418" font-size="15" font-weight="bold" fill="#4f6e22">about 2.5–3 % of the grain</text>
+    <text x="155" y="436" font-size="13">fat, enzymes, vitamins — goes rancid; removed from white flour</text>
+
+    <text x="470" y="300" font-size="13">brush</text>
+    <text x="565" y="330" font-size="15" font-weight="bold">Milling separates the parts:</text>
+    <text x="565" y="350" font-size="14">white flour (T45–T65) ≈ endosperm</text>
+    <text x="565" y="368" font-size="14">wholemeal (T150) ≈ the whole grain</text>
+    <text x="565" y="386" font-size="12" fill="#555555">Shares vary with variety and source.</text>
+  </g>
+</svg>

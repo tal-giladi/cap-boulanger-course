@@ -1,0 +1,37 @@
+- **Acide ascorbique (E300)** (*ah-SEED as-kor-BEEK*) — ascorbic acid (vitamin C): the oxidising additive that strengthens gluten in ordinary bread flour; forbidden in pain de tradition française.
+- **Adjuvant** (*ad-zhew-VAHN*) — ingredient added to correct a flour: gluten, bean, soy or malt flour, deactivated yeast.
+- **Alvéographe** (*al-vay-o-GRAHF*) — Chopin alveograph: blows a dough bubble to measure flour strength (W) and the balance tenacity/extensibility (P/L).
+- **Amande farineuse** (*ah-MAHND fah-ree-NUHZ*) — starchy endosperm: about 80–85 % of the wheat grain, the part that becomes white flour.
+- **Amidon** (*ah-mee-DOHN*) — starch: about 70 % of flour; gelatinises in the oven and forms the crumb.
+- **Amylases** (*ah-mee-LAHZ*) — enzymes that cut starch into sugars for the yeast; fungal amylase is a processing aid.
+- **Auxiliaire technologique** (*ok-see-LYAIR tek-no-lo-ZHEEK*) — processing aid: acts during manufacture, inactive in the finished product (e.g. fungal amylase).
+- **Bassinage** (*bah-see-NAHZH*) — adding water at the end of mixing to soften a dough.
+- **Blé dur / blé tendre** (*blay DOOR / blay TAHN-druh*) — durum wheat (semolina, pasta) / soft wheat (bread flour).
+- **Contre-frasage** (*KOHN-truh frah-ZAHZH*) — adding flour at the end of mixing to firm up a dough that is too soft.
+- **DDM** (*day-day-EM*) — date de durabilité minimale: best-before date (quality).
+- **DLC** (*day-el-SAY*) — date limite de consommation: use-by date (safety).
+- **Dorure** (*do-ROOR*) — egg wash brushed on before baking.
+- **Élasticité / extensibilité** (*ay-las-tee-see-TAY / ex-tahn-see-bee-lee-TAY*) — elasticity (dough springs back) / extensibility (dough stretches without tearing).
+- **Farine de gruau** (*fah-REEN duh grew-OH*) — strong, high-protein white flour (usually T45) for viennoiserie and rich doughs.
+- **Farine de tradition française** (*fah-REEN duh trah-dee-SYOHN frahn-SEZ*) — wheat flour with no additives, made for pain de tradition française (usually T65).
+- **Force boulangère (W)** (*FORSS boo-lahn-ZHAIR*) — flour strength measured with the alveograph.
+- **Germe** (*ZHAIRM*) — germ of the wheat grain (about 2.5–3 %): fat, enzymes, vitamins.
+- **Gliadines / gluténines** (*glee-ah-DEEN / gloo-tay-NEEN*) — the two wheat protein families that form gluten: gliadins give extensibility, glutenins elasticity.
+- **Hydratation** (*ee-dra-tah-SYOHN*) — water as a percentage of the flour weight.
+- **Indice de chute (Hagberg)** (*an-DEESS duh SHOOT*) — falling number: a measure of the flour's amylase activity (bread flour above 220 s).
+- **Levain** (*luh-VAN*) — sourdough: flour and water fermented by wild yeasts and lactic acid bacteria (legal definition in décret 93-1074 art. 4).
+- **Levain chef / de tout point** (*luh-VAN SHEF / duh too PWAN*) — the mother culture kept between batches / the final ripe levain used in the dough.
+- **Levure pressée** (*luh-VOOR preh-SAY*) — fresh pressed (compressed) baker's yeast, about 68 % water, stored at 0–4 °C.
+- **Levure désactivée** (*luh-VOOR day-zak-tee-VAY*) — deactivated yeast: a dough relaxer.
+- **Mouture** (*moo-TOOR*) — milling: turning grain into flour.
+- **Ovoproduits** (*o-vo-pro-DWEE*) — egg products: pasteurised liquid, frozen or dried eggs (kept at +4 °C maximum when chilled).
+- **Pekar (test de)** (*peh-KAR*) — comparing flours' colour and bran specks wet on a board.
+- **Piqûres** (*pee-KOOR*) — specks: small bran particles visible in flour.
+- **Rafraîchi** (*rah-freh-SHEE*) — refreshment (feeding) of a levain with fresh flour and water.
+- **Son / enveloppes** (*SOHN / ahn-VLOP*) — bran: the outer layers of the grain (about 13–17 %).
+- **Taux de cendres** (*toh duh SAHNDR*) — ash content: minerals left after burning flour; the French type number is ash % × 100.
+- **Taux d'extraction** (*toh dex-trak-SYOHN*) — extraction rate: kg of flour obtained from 100 kg of grain.
+- **Trempage** (*trahm-PAHZH*) — soaker: seeds or grains soaked in water before going into the dough.
+- **Type (T45 … T150)** (*teep*) — French flour type: ash content × 100 on dry matter; T45 white to T150 wholemeal.
+- **Nutri-Score** — voluntary A-to-E front-of-pack nutrition logo; new calculation official in France since the arrêté of 14 March 2025.
+- **Salt agreement (accord sel)** — 3 March 2022 agreement between the state and the bakery sector: 1.4 g salt per 100 g of pain courant since October 2023, 1.1 g for pain de mie since October 2025.

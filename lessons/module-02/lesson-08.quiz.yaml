@@ -1,0 +1,89 @@
+- id: q1
+  question: >-
+    Your brioche dough with 55 % butter never becomes smooth and stays greasy. You added all the
+    butter at the start of mixing. What should you change?
+  options:
+    - >-
+      Add more flour until the dough stops being greasy.
+    - >-
+      Melt the butter first so it mixes in faster.
+    - >-
+      Add the butter at about 15-18 C after the gluten has formed.
+    - >-
+      Replace half the butter with milk to reduce the fat.
+  correct: 2
+  explanation: >-
+    Fat coats the proteins and prevents gluten from forming. In rich doughs the gluten is developed
+    first, then cool, plastic butter is worked in at the end.
+
+- id: q2
+  question: >-
+    A trainee bakes pain au lait at 240 C like baguettes. The rolls are dark brown outside and
+    raw in the centre. Which explanation is right?
+  options:
+    - >-
+      Sugar and milk lactose brown fast, so sweet doughs need about 170-200 C.
+    - >-
+      The milk proteins block the heat, so the oven must be even hotter.
+    - >-
+      The eggs cooked before the starch, so no further baking is possible.
+    - >-
+      The yeast died too early, so the dough could not rise in the oven.
+  correct: 0
+  explanation: >-
+    Sugars (including unfermented lactose) brown through Maillard reactions and caramelisation.
+    Sweet, rich doughs bake cooler and longer so the centre cooks before the crust darkens.
+
+- id: q3
+  question: >-
+    Why do many bakeries prefer pasteurised liquid whole egg (ovoproduit) to shell eggs for large
+    brioche batches?
+  options:
+    - >-
+      It is cheaper per kilo and keeps for weeks once opened at room temperature.
+    - >-
+      It gives a stronger egg flavour and a yellower crumb than fresh eggs.
+    - >-
+      It needs no refrigeration because pasteurisation kills all bacteria.
+    - >-
+      It lowers the Salmonella risk, avoids shells and allows exact dosing.
+  correct: 3
+  explanation: >-
+    Pasteurisation reduces Salmonella risk, there are no shells in the fournil, and it is weighed
+    exactly. It costs more and must stay at +4 C maximum, with a short life after opening.
+
+- id: q4
+  question: >-
+    A pain au lait formula uses 52 % milk instead of water. Why does the dough still feel soft
+    although 52 % looks low compared with a 64 % lean dough?
+  options:
+    - >-
+      Milk contains no water, so the flour absorbs the milk fat instead.
+    - >-
+      Sugar and butter soften the dough, and eggs and butter add water too.
+    - >-
+      Milk proteins dissolve the gluten completely, so no firmness remains.
+    - >-
+      The yeast produces water during fermentation that doubles the hydration.
+  correct: 1
+  explanation: >-
+    Milk is about 88 % water; eggs (about 75 % water) and butter (about 16 %) add more, while sugar
+    and fat themselves make the dough softer and more extensible.
+
+- id: q5
+  question: >-
+    A customer asks if your "croissant pur beurre" may be made with margarine because it is
+    "almost the same thing". What is the professional answer?
+  options:
+    - >-
+      Yes, because margarine also contains at least 82 % milk fat.
+    - >-
+      Yes, as long as the margarine is a special laminating type.
+    - >-
+      No: "pur beurre" means butter is the only fat; margarine is vegetable fat.
+    - >-
+      No, because margarine is only allowed in bread, never in viennoiserie.
+  correct: 2
+  explanation: >-
+    Butter is a milk fat (at least 82 % fat); margarine is an emulsion of vegetable fats. A product
+    sold as "pur beurre" must use butter only. Margarine viennoiserie exists but cannot carry that name.

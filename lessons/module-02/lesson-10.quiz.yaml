@@ -1,0 +1,87 @@
+- id: q1
+  question: >-
+    You cook a large pot of béchamel for croque-monsieur at 9:00 (core 90 C). By what time must
+    its core be below +10 C under the French cooling rule?
+  options:
+    - >-
+      By 9:30, because cooked sauces must cool in 30 minutes.
+    - >-
+      By 15:00, because six hours are allowed for sauces.
+    - >-
+      There is no limit if it is placed in the fridge at once.
+    - >-
+      About 2 hours after it falls below +63 C, so roughly 11:00-11:15.
+  correct: 3
+  explanation: >-
+    Annex IV of the arrêté of 21 December 2009: the core must not stay between +63 C and +10 C for
+    more than two hours. A deep pot in the fridge usually fails; use shallow trays or a blast chiller.
+
+- id: q2
+  question: >-
+    A box of frozen spinach for quiches is needed tomorrow morning. How do you thaw it?
+  options:
+    - >-
+      On the bench overnight, covered, so it is ready at opening.
+    - >-
+      In the fridge between 0 and +4 C from today.
+    - >-
+      In warm water just before use, then refreeze what is left.
+    - >-
+      In the proofer at 27 C for one hour before use.
+  correct: 1
+  explanation: >-
+    Thawing is done in a refrigerated unit (by default 0 to +4 C), never at room temperature, and
+    thawed food is not refrozen unless a validated hazard analysis allows it.
+
+- id: q3
+  question: >-
+    A can of tuna has a DDM ("à consommer de préférence avant") two weeks ago and is intact. A jar of
+    cream has a DLC ("à consommer jusqu'au") of yesterday. What do you do?
+  options:
+    - >-
+      The cream must not be used; the tuna may be assessed under the bakery's procedure.
+    - >-
+      Both must be thrown away, because any date past is a safety risk.
+    - >-
+      Both may be used if they smell normal, because dates are only advice.
+    - >-
+      The tuna must be thrown away; the cream can be used if it is cooked.
+  correct: 0
+  explanation: >-
+    The DLC (use-by) is a safety date: never use after it. The DDM (best-before) concerns quality;
+    an intact can past its DDM is not automatically unsafe.
+
+- id: q4
+  question: >-
+    You open a vacuum pack of cooked ham at 6:00 and use half. What do you do with the rest?
+  options:
+    - >-
+      Put it back in the opened pack on the bench for the lunch rush.
+    - >-
+      Freeze it at once, because opened vacuum packs cannot be refrigerated.
+    - >-
+      Put it in a closed container in the fridge, labelled with date and new use-by.
+    - >-
+      Keep it in the fridge in its pack; the original use-by date still applies.
+  correct: 2
+  explanation: >-
+    Once opened, the original DLC no longer applies. Store it covered in the cold, labelled with the
+    opening date and the shorter use-by from the label or the bakery's procedure.
+
+- id: q5
+  question: >-
+    Under the arrêté of 21 December 2009, what is the maximum storage temperature for pasteurised
+    liquid egg (not UHT) and for prepared dishes made in advance?
+  options:
+    - >-
+      +8 C for both, like other perishable foods.
+    - >-
+      +4 C for the egg product and +3 C for prepared dishes.
+    - >-
+      +6 C for the egg product and +10 C for prepared dishes.
+    - >-
+      +2 C for both, like minced meat.
+  correct: 1
+  explanation: >-
+    Annex I: egg products (except UHT) +4 C; préparations culinaires élaborées à l'avance +3 C;
+    minced meat +2 C; other perishables +8 C at retail.

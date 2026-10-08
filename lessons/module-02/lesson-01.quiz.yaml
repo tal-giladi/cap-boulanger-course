@@ -1,0 +1,89 @@
+- id: q1
+  question: >-
+    A trainee asks which part of the wheat grain white bread flour mainly comes from, and roughly
+    how much of the grain that part represents. Which answer is right?
+  options:
+    - >-
+      The bran layers, about 13-17 % of the grain, because they hold the proteins.
+    - >-
+      The endosperm, about 80-85 % of the grain, which holds the starch and gluten proteins.
+    - >-
+      The germ, about 2.5-3 % of the grain, because it is the richest part.
+    - >-
+      The whole grain, 100 %, ground finely and then bleached white.
+  correct: 1
+  explanation: >-
+    White flour is essentially the starchy endosperm (amande farineuse), the largest part of the
+    grain. Bran and germ are mostly removed, which is why white flour is pale and keeps well.
+
+- id: q2
+  question: >-
+    Your wholemeal flour bought four months ago now smells bitter. Which part of the grain most
+    likely caused this?
+  options:
+    - >-
+      The bran, because its fibre absorbs moisture from the air and ferments.
+    - >-
+      The endosperm starch, which breaks down into bitter sugars over time.
+    - >-
+      The germ, whose fat oxidises and goes rancid during storage.
+    - >-
+      The gluten proteins, which turn bitter once the flour is exposed to light.
+  correct: 2
+  explanation: >-
+    The germ contains fat and enzymes. In wholemeal flour that fat oxidises, giving a rancid,
+    bitter smell. White flour, with almost no germ, keeps much longer.
+
+- id: q3
+  question: >-
+    In the mill, wheat is moistened and left to rest for a day before the first rollers. What is
+    the purpose of this conditioning step?
+  options:
+    - >-
+      It starts germination so that the enzymes needed for fermentation develop.
+    - >-
+      It washes off pesticide residues that cleaning could not remove.
+    - >-
+      It raises the flour's moisture so the baker can add less water to the dough.
+    - >-
+      It toughens the bran and softens the endosperm so they separate cleanly.
+  correct: 3
+  explanation: >-
+    Conditioning makes the bran leathery, so it comes off in large flakes instead of powder, and
+    makes the endosperm easier to grind. It gives whiter flour with less bran contamination.
+
+- id: q4
+  question: >-
+    A customer asks whether your baguette is made from durum wheat because it is "the hard wheat
+    that makes the best bread". What do you answer?
+  options:
+    - >-
+      No: baguettes use soft wheat; durum is milled into semolina for pasta and couscous.
+    - >-
+      Yes: durum gives the strongest gluten, so all French bread flours use it.
+    - >-
+      Partly: tradition flour must contain at least 30 % durum for a crisp crust.
+    - >-
+      No: baguettes use rye, because wheat is reserved for pastry and viennoiserie.
+  correct: 0
+  explanation: >-
+    French bread and viennoiserie flours come from blé tendre (soft wheat). Durum (blé dur) breaks
+    into semolina and has a tough, poorly extensible gluten suited to pasta.
+
+- id: q5
+  question: >-
+    A mill grinds 12,000 kg of clean wheat at a 75 % extraction rate. How many 25 kg bags of flour
+    does it fill?
+  options:
+    - >-
+      480 bags
+    - >-
+      360 bags
+    - >-
+      120 bags
+    - >-
+      9,000 bags
+  correct: 1
+  explanation: >-
+    Flour = 12,000 x 75 / 100 = 9,000 kg; 9,000 / 25 = 360 bags. 480 forgets the extraction rate,
+    and 9,000 is the flour weight in kg, not the number of bags.

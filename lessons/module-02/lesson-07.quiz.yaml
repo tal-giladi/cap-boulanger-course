@@ -1,0 +1,89 @@
+- id: q1
+  question: >-
+    A baker adds 1 % fresh yeast to every levain bread "to be safe" and sells them as "pain au
+    levain". What is the problem?
+  options:
+    - >-
+      None, as long as the levain is at least 20 % of the flour.
+    - >-
+      The law caps baker's yeast at 0.2 % of the flour, added only at final mixing.
+    - >-
+      Yeast is forbidden in all French breads that are sold with a name.
+    - >-
+      The yeast must be dehydrated, not fresh, to meet the definition.
+  correct: 1
+  explanation: >-
+    Décret 93-1074 art. 4 allows baker's yeast in a levain bread only at the final kneading and at
+    most 0.2 % of the flour used then. At 1 % the bread cannot be sold as "au levain".
+
+- id: q2
+  question: >-
+    A laboratory checks a loaf sold as "pain au levain". Which result shows it conforms to
+    article 3 of the décret?
+  options:
+    - >-
+      Crumb pH 5.2 and 400 ppm acetic acid.
+    - >-
+      Crumb pH 4.6 and 1,200 ppm lactic acid.
+    - >-
+      Crumb pH 4.1 and 950 ppm acetic acid.
+    - >-
+      Crust pH 4.3 and no acetic acid detected.
+  correct: 2
+  explanation: >-
+    "Au levain" requires a crumb pH of 4.3 or less and at least 900 ppm of acetic acid from the
+    fermentation. pH 4.1 with 950 ppm meets both conditions.
+
+- id: q3
+  question: >-
+    Customers find your levain bread too sharp and vinegary. Your levain is firm (55 % water) and
+    kept at 20 C. Which change gives a milder, creamier acidity?
+  options:
+    - >-
+      Make the levain firmer (45 % water) and keep it cooler.
+    - >-
+      Use more levain in the dough and ferment it longer.
+    - >-
+      Feed it only once every two days to reduce acidity.
+    - >-
+      Switch to a liquid levain (about 100 % water) kept at 26-28 C.
+  correct: 3
+  explanation: >-
+    Firm, cool levains favour acetic acid (sharp). Liquid, warmer levains favour lactic acid
+    (mild, creamy).
+
+- id: q4
+  question: >-
+    You need 440 g of ripe liquid levain (100 % hydration) built with 20 % seed on the flour
+    weight. What do you mix?
+  options:
+    - >-
+      40 g levain + 200 g flour + 200 g water.
+    - >-
+      88 g levain + 176 g flour + 176 g water.
+    - >-
+      40 g levain + 220 g flour + 180 g water.
+    - >-
+      20 g levain + 210 g flour + 210 g water.
+  correct: 0
+  explanation: >-
+    Flour F + water F + seed 0.2F = 2.2F = 440 g, so F = 200 g: 40 g seed, 200 g flour, 200 g
+    water. Taking 20 % of the total (88 g) is the common slip.
+
+- id: q5
+  question: >-
+    Your levain smells of nail-polish remover and has a layer of grey liquid on top. What does it
+    tell you?
+  options:
+    - >-
+      It is contaminated with mould and must be thrown away.
+    - >-
+      It is hungry and over-ripe: it needs more frequent feeding.
+    - >-
+      It is too young and needs three more days before any feeding.
+    - >-
+      It is perfectly ripe and should be used in the dough right now.
+  correct: 1
+  explanation: >-
+    Grey liquid and a solvent smell mean the culture has run out of food. Pour off the liquid and
+    feed it more often; discard only if there is fuzzy mould or pink/orange streaks.

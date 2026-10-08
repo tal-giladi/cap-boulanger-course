@@ -1,0 +1,186 @@
+- id: q1
+  question: >-
+    Delivery at 5:30. The bag reads "Farine de tradition française T65", but the analysis
+    certificate attached to the delivery note lists "acide ascorbique (E300) 40 ppm". Tomorrow's
+    order is 80 baguettes de tradition. What do you do?
+  options:
+    - >-
+      Accept it for tradition, because 40 ppm is far below the 300 ppm limit.
+    - >-
+      Accept it for tradition, because the bag name is what counts legally.
+    - >-
+      Set it aside for pain courant, record the non-conformity and tell the manager.
+    - >-
+      Accept it and add 2 % bean flour to cancel out the ascorbic acid.
+  correct: 2
+  explanation: >-
+    Pain de tradition française allows no additives at all (décret 93-1074 art. 2), whatever the
+    dose. The flour can still go to pain courant, but the mismatch must be reported (delivery check).
+
+- id: q2
+  question: >-
+    Technical sheet for baguettes: 15 kg T55 flour, water 65 %, salt 2.0 %, fresh yeast 1.5 %;
+    baking loss 20 %. Your manager asks whether the salt respects the 1.4 g per 100 g threshold.
+    What is your answer?
+  options:
+    - >-
+      No: about 1.48 g per 100 g of bread; lower the salt to about 1.8 % (270 g).
+    - >-
+      Yes: 2.0 % of flour is 1.4 g per 100 g of bread once baked.
+    - >-
+      Yes: the threshold applies to salt per 100 g of flour, so 2.0 g is allowed.
+    - >-
+      No: about 2.0 g per 100 g of bread; lower the salt to 1.4 % (210 g).
+  correct: 0
+  explanation: >-
+    Dough per 100 g flour = 168.5 g; bread = 168.5 x 0.8 = 134.8 g; 2.0 / 134.8 x 100 = 1.48 g per
+    100 g, above 1.4. At 1.8 % (270 g) it is about 1.33 g. The threshold is per 100 g of bread.
+
+- id: q3
+  question: >-
+    Production order: 8 kg of flour for tradition baguettes with 0.8 % fresh yeast. The fresh yeast
+    delivery is missing; you have instant dry yeast. The calculated water temperature is 6 C. What
+    do you do?
+  options:
+    - >-
+      Use 64 g of instant yeast, dissolved in the 6 C water first.
+    - >-
+      Use 21 g of instant yeast, dissolved in the 6 C water first.
+    - >-
+      Use 6 g of instant yeast, since dry yeast is ten times stronger.
+    - >-
+      Use 21 g of instant yeast, added once flour and water are mixed.
+  correct: 3
+  explanation: >-
+    Fresh = 8,000 x 0.8 % = 64 g; instant is about one-third = 21 g. Instant yeast must not touch
+    ice-cold water, so mix flour and water first, then add it.
+
+- id: q4
+  question: >-
+    A customer complaint leads to a lab test of your "pain au levain": crumb pH 4.6, acetic acid
+    600 ppm. Your production sheet shows 0.8 % fresh yeast added "for safety" and a 2-hour bulk.
+    What is the most likely explanation and fix?
+  options:
+    - >-
+      The levain was too old; start a new one and keep the same process.
+    - >-
+      Too much yeast, too short a bulk: cut yeast to 0.2 %, ferment longer.
+    - >-
+      The test is wrong, because pH can only be measured on the crust.
+    - >-
+      The flour type was too low; switch from T65 to T80 to add acidity.
+  correct: 1
+  explanation: >-
+    "Au levain" needs pH 4.3 or less and at least 900 ppm acetic acid; yeast is capped at 0.2 % of
+    the flour at final mixing. Extra yeast and a short bulk leave too little time for acidification.
+
+- id: q5
+  question: >-
+    A miller's certificate for a new batch shows: protein 11.2 %, W 200, P/L 0.6, Hagberg falling
+    number 170 s. The first doughs are sticky and the crumb is gummy. Which value explains it and
+    what do you ask for?
+  options:
+    - >-
+      The W of 200 is too weak: ask for a gruau flour with W above 300.
+    - >-
+      The P/L of 0.6 is too slack: ask for a flour with P/L above 1.
+    - >-
+      The falling number of 170 s: ask for a batch above 220 s.
+    - >-
+      The protein of 11.2 % is too low: ask for flour with added gluten.
+  correct: 2
+  explanation: >-
+    A falling number below about 220 s means excessive alpha-amylase (often sprouted wheat):
+    sticky dough, gummy crumb, too much colour. W 200 and P/L 0.6 are normal for bread flour.
+
+- id: q6
+  question: >-
+    You switch a campagne dough from T65 to T80 flour, keeping 68 % water. At the end of mixing the
+    dough is firm and tears. Which correction is right?
+  options:
+    - >-
+      Contre-frasage: add some flour so the dough holds together better.
+    - >-
+      Add another 0.5 % salt to tighten and smooth out the gluten.
+    - >-
+      Add more yeast so that fermentation softens the dough later on.
+    - >-
+      Bassinage now, and a higher hydration in the formula next time.
+  correct: 3
+  explanation: >-
+    A higher type holds more water (bran fibre), so the same hydration gives a firmer dough.
+    Bassinage softens it now; the formula's water should go up for this flour.
+
+- id: q7
+  question: >-
+    Brioche batch: T45 flour, 55 % butter, 15 % sugar, 3 % fresh yeast. The trainee put the butter
+    in at the start; the dough is greasy, slack and has not risen after 2 hours at 22 C. Which two
+    corrections address the causes?
+  options:
+    - >-
+      Add butter after the gluten forms; more or sugar-tolerant yeast, warmer proof.
+    - >-
+      Melt the butter before mixing it in, and add salt to speed up the yeast.
+    - >-
+      Replace the butter with margarine, and cut the sugar down to zero.
+    - >-
+      Use T150 flour for more strength, and proof at 35 C to melt the butter in.
+  correct: 0
+  explanation: >-
+    Fat added early stops gluten forming; it goes in after development. High sugar slows yeast by
+    osmosis: more yeast, sugar-tolerant yeast and a proof around 26-28 C (not hot enough to melt butter).
+
+- id: q8
+  question: >-
+    Morning temperature log of the fillings fridge: 6.5 C. Inside: opened cooked ham, pasteurised
+    liquid egg, grated cheese, quiche cream mix made yesterday. What is the correct reaction?
+  options:
+    - >-
+      Nothing: the legal retail limit for all chilled foods is +8 C.
+    - >-
+      Move products to a working unit, assess the exposure, report the fault.
+    - >-
+      Freeze all the products at once to stop any bacterial growth.
+    - >-
+      Use everything today, making sure all products are cooked above 63 C.
+  correct: 1
+  explanation: >-
+    Egg products and very perishable foods are limited to +4 C, prepared dishes to +3 C (arrêté of
+    21 December 2009). Products must be moved, assessed (time above limit) and the fault reported.
+
+- id: q9
+  question: >-
+    Your croissant détrempe is so elastic that it shrinks after every turn. Your colleague suggests
+    adding ascorbic acid. What do you answer?
+  options:
+    - >-
+      Yes: ascorbic acid relaxes the gluten, so the shrinking stops.
+    - >-
+      Yes: ascorbic acid feeds the yeast, so the dough softens.
+    - >-
+      No: it tightens gluten; deactivated yeast or longer rests would help.
+    - >-
+      No: ascorbic acid is forbidden by law in all viennoiserie.
+  correct: 2
+  explanation: >-
+    Ascorbic acid is an oxidiser that strengthens gluten (more tenacity). Deactivated yeast releases
+    glutathione and relaxes the dough; longer cold rests between turns also help.
+
+- id: q10
+  question: >-
+    Two packaged breads, per 100 g. Bread A: salt 1.2 g, fibre 7.5 g, sugars 3 g. Bread B: salt
+    1.25 g, fibre 3 g, sugars 6 g. A customer wants an everyday bread following French public
+    guidance. Which advice is correct?
+  options:
+    - >-
+      Bread B, because more sugar gives more energy for the day.
+    - >-
+      Either, because only the salt counts and both are below 1.4 g.
+    - >-
+      Neither, because bread should be avoided under the PNNS.
+    - >-
+      Bread A: more than twice the fibre, less sugar, similar salt.
+  correct: 3
+  explanation: >-
+    Guidance favours wholegrain starchy foods rich in fibre (target 25 g a day) and limiting sugar
+    and salt. Bread A gives 7.5 g fibre per 100 g with less sugar; salt is similar.

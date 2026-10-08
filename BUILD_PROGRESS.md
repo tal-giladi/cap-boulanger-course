@@ -21,7 +21,7 @@ Goal: build "CAP Boulanger Preparation" per `curriculum/plan.md`, following
 - [x] Foundations: README, _sidebar, glossary, references (cap-exam, formulas, troubleshooting), templates (8), course-details
 - [ ] manifest.json and competency matrix (matrix assembled from `curriculum/matrix/` at the end)
 - [x] Module 1 — Introduction to Professional Baking
-- [ ] Module 2 — Ingredients
+- [x] Module 2 — Ingredients
 - [ ] Module 3 — Dough Science
 - [ ] Module 4 — Fermentation
 - [ ] Module 5 — Temperature Management
@@ -48,8 +48,8 @@ Goal: build "CAP Boulanger Preparation" per `curriculum/plan.md`, following
 ## Agents now
 
 - Agent A: done
-- Agent B: Module 2 (started 2026-10-08)
-- PAUSE after modules 1 and 2 finish (Tal, 2026-10-08): merge, commit, push, then stop and wait.
+- Agent B: done
+- PAUSED after modules 1 and 2 (Tal, 2026-10-08). Next: modules 3 and 4.
 
 ## Decisions and open questions
 
@@ -62,3 +62,5 @@ Goal: build "CAP Boulanger Preparation" per `curriculum/plan.md`, following
 - Module 17 must re-check the bakery GBPH: CNBPF 2026 guide says the 1997 GBPH was withdrawn in 2025 and the new one was not yet validated (as of 2026-10-08).
 - Module 5 should refer back to the simple hand-mix water estimate in 01.7 (3 × target − flour − room − 2 °C).
 - Technical sheets defined in 01.6 for reuse: PC-02 (T55 100 / water 64 / salt 1.8 / fresh yeast 1.5 / pâte fermentée 15) and PD-01 (direct, by hand: water 65 / salt 1.8 / yeast 1.5).
+- Final QA: turn plain-text forward references into links (02.2 and 02.9 → 09.1; module 2 mentions of 03.5, 07.5, 10.7, 17.6). Check every module's matrix file for similar requests.
+- Module 2 salt limits (agriculture.gouv.fr): pain courant 1.4 g/100 g since Oct 2023; wholemeal/cereal 1.3 g; pain de mie 1.1 g since Oct 2025.

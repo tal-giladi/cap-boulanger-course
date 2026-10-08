@@ -1,0 +1,89 @@
+- id: q1
+  question: >-
+    A label gives per 100 g: carbohydrate 50 g, protein 10 g, fat 5 g, fibre 6 g. How much energy
+    should it declare?
+  options:
+    - >-
+      About 297 kcal
+    - >-
+      About 272 kcal
+    - >-
+      About 285 kcal
+    - >-
+      About 309 kcal
+  correct: 0
+  explanation: >-
+    50 x 4 + 10 x 4 + 5 x 9 + 6 x 2 = 200 + 40 + 45 + 12 = 297 kcal. 272 counts fat at 4 kcal/g,
+    285 ignores fibre and 309 counts fibre at 4 kcal/g.
+
+- id: q2
+  question: >-
+    A customer asks why your baguette, sold unwrapped over the counter, has no nutrition table
+    while supermarket sliced bread does. What is the correct explanation?
+  options:
+    - >-
+      Artisan bread is exempt from all labelling rules, including allergens.
+    - >-
+      Bread with less than 1.4 g of salt per 100 g does not need a nutrition table.
+    - >-
+      Unwrapped bread needs no nutrition table, but its allergen information must be in writing.
+    - >-
+      The nutrition table is only required for breads that carry a Nutri-Score.
+  correct: 2
+  explanation: >-
+    The INCO nutrition declaration applies to prepacked food (with an exemption for small
+    quantities supplied directly by the maker). For non-prepacked food, French rules still require
+    written allergen information.
+
+- id: q3
+  question: >-
+    Which statement about the Nutri-Score in France is correct in 2026?
+  options:
+    - >-
+      It is compulsory on every bread sold in France since 2024.
+    - >-
+      It is voluntary; a new calculation became official by an arrêté of 14 March 2025.
+    - >-
+      It was withdrawn in 2025 and replaced by the salt agreement thresholds.
+    - >-
+      It is compulsory only for artisan bakeries with more than ten employees.
+  correct: 1
+  explanation: >-
+    The Nutri-Score stays voluntary. The arrêté of 14 March 2025 made the new calculation official;
+    products show "Nouveau calcul" and businesses have two years to update packs.
+
+- id: q4
+  question: >-
+    A customer wants an everyday bread that best follows the French public advice on starchy foods.
+    Which suggestion fits that advice?
+  options:
+    - >-
+      A brioche, because eggs and butter add protein to the diet.
+    - >-
+      A white baguette, because white flour is more digestible than wholemeal.
+    - >-
+      Any bread, since the advice only concerns pasta and rice.
+    - >-
+      A wholemeal or semi-wholemeal bread, for its higher fibre content.
+  correct: 3
+  explanation: >-
+    Santé publique France advises at least one wholegrain starchy food a day and choosing wholemeal
+    or semi-wholemeal cereal products, because they are rich in fibre (target 25 g a day).
+
+- id: q5
+  question: >-
+    A laboratory analysis of your pain de mie gives 0.48 g of sodium per 100 g. Does it respect
+    the salt agreement threshold for pain de mie that applies since October 2025?
+  options:
+    - >-
+      Yes: 0.48 g is far below the 1.1 g limit.
+    - >-
+      No: 0.48 g of sodium is 1.2 g of salt, above the 1.1 g limit.
+    - >-
+      Yes: the limit for pain de mie is 1.4 g of salt per 100 g.
+    - >-
+      No: the limit for pain de mie is 0.4 g of sodium per 100 g.
+  correct: 1
+  explanation: >-
+    Salt = sodium x 2.5, so 0.48 g sodium = 1.2 g salt. Since October 2025 the pain de mie
+    threshold is 1.1 g of salt per 100 g, so the recipe must be reduced.

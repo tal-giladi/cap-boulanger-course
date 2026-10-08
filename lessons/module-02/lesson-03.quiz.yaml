@@ -1,0 +1,88 @@
+- id: q1
+  question: >-
+    Your baguette dough keeps shrinking back every time you try to lengthen it, and tears at the
+    surface. Which flour property is most likely too high?
+  options:
+    - >-
+      The falling number, which shows too little amylase activity.
+    - >-
+      The ash content, because minerals make the dough elastic.
+    - >-
+      The elasticity from glutenins (high P and P/L), giving a tight dough.
+    - >-
+      The extensibility from gliadins (high L), giving a slack dough.
+  correct: 2
+  explanation: >-
+    Springing back and tearing are signs of excess elasticity and tenacity (high P, high P/L), the
+    property glutenins bring. A longer détente or a less tenacious flour helps.
+
+- id: q2
+  question: >-
+    A miller offers you a flour with W 300 and 13 % protein. For which product is it the most
+    suitable choice?
+  options:
+    - >-
+      Brioche with 50 % butter and 15 % sugar.
+    - >-
+      Pain de tradition française with a long, slow fermentation.
+    - >-
+      Shortcrust pastry that must not shrink in the tin.
+    - >-
+      A rye-rich pain de seigle with levain.
+  correct: 0
+  explanation: >-
+    Butter and sugar weaken gluten, so rich doughs need a strong flour (W 250 and above, like
+    gruau). A W 300 flour would make tradition dough tight and pastry shrink.
+
+- id: q3
+  question: >-
+    After a very wet harvest your dough is sticky, the crust turns reddish and the crumb is gummy.
+    Which value on the flour certificate do you check first?
+  options:
+    - >-
+      The ash content, because a wet harvest raises the minerals.
+    - >-
+      The Hagberg falling number, because sprouted wheat has too much amylase.
+    - >-
+      The P/L ratio, because rain makes gluten more elastic.
+    - >-
+      The moisture content, because the flour absorbed rain in the bag.
+  correct: 1
+  explanation: >-
+    Sprouting raises alpha-amylase activity. A low falling number (below about 220 s) means starch
+    is broken down too much: sticky dough, gummy crumb and too much crust colour.
+
+- id: q4
+  question: >-
+    In the oven, what changes turn the soft, gassy dough into a firm crumb?
+  options:
+    - >-
+      The gluten melts and the starch dissolves into sugar, which hardens on cooling.
+    - >-
+      The yeast forms a solid crust inside the crumb once it dies at 46 C.
+    - >-
+      The water evaporates completely from the crumb, which dries into a solid.
+    - >-
+      The starch gelatinises from about 55-60 C and the gluten coagulates around 70-80 C.
+  correct: 3
+  explanation: >-
+    Starch granules swell and burst into a gel (empois) and gluten proteins coagulate. The crumb
+    keeps a lot of water; only the crust dries out.
+
+- id: q5
+  question: >-
+    In a gluten-washing test, 100 g of flour gives 30 g of wet gluten. About how much dry gluten
+    does that represent?
+  options:
+    - >-
+      About 30 g, because washing removes only starch.
+    - >-
+      About 90 g, because gluten absorbs three times its weight.
+    - >-
+      About 10 g, because wet gluten is roughly two-thirds water.
+    - >-
+      About 3 g, because gluten is only a trace of the flour.
+  correct: 2
+  explanation: >-
+    Wet gluten holds about twice its dry weight in water, so dry gluten is about one-third of the
+    wet weight: roughly 10 g, close to the flour's protein content.

@@ -1,0 +1,89 @@
+- id: q1
+  question: >-
+    A trainee forgot the salt. During bulk fermentation the dough is rising very fast and has gone
+    sticky and slack. Which two effects of salt explain this?
+  options:
+    - >-
+      Salt feeds the yeast and softens the gluten, so without it the dough should be slow.
+    - >-
+      Salt slows the yeast by osmosis and tightens the gluten, so without it the dough rushes and slackens.
+    - >-
+      Salt adds water to the dough and makes the starch swell, so without it the dough dries.
+    - >-
+      Salt kills wild bacteria and adds colour, so without it the dough turns sour and pale.
+  correct: 1
+  explanation: >-
+    Salt pulls water from yeast cells (osmotic pressure) and slows them, and it tightens the gluten
+    network. Without it fermentation rushes and the dough is slack and sticky.
+
+- id: q2
+  question: >-
+    Under the French bread salt-reduction agreement, what is the maximum salt content for a
+    baguette (pain courant) since October 2023?
+  options:
+    - >-
+      1.4 g of salt per 100 g of flour
+    - >-
+      1.8 g of salt per 100 g of bread
+    - >-
+      1.1 g of salt per 100 g of bread
+    - >-
+      1.4 g of salt per 100 g of bread
+  correct: 3
+  explanation: >-
+    The agreement of 3 March 2022 set 1.5 g then, from October 2023, 1.4 g of salt per 100 g of
+    pain courant. The figure is per 100 g of bread; 1.1 g is the pain de mie threshold from 2025.
+
+- id: q3
+  question: >-
+    A formula uses 2.2 % salt on flour, 65 % water and 1.5 % yeast; baguettes lose 20 % in baking.
+    About how much salt is in 100 g of bread, and does it conform?
+  options:
+    - >-
+      About 1.6 g: above the 1.4 g threshold, so the dose must drop.
+    - >-
+      About 1.3 g: below the threshold, so it conforms.
+    - >-
+      About 2.2 g: the same as in the formula, so far too salty.
+    - >-
+      About 1.0 g: baking removes salt with the steam.
+  correct: 0
+  explanation: >-
+    Dough per 100 g flour is about 168.7 g; after 20 % loss the bread is about 135 g. 2.2 / 135 x
+    100 = about 1.63 g per 100 g of bread, above 1.4 g. Salt does not evaporate.
+
+- id: q4
+  question: >-
+    You weigh fresh yeast and salt into the same small pot at 4 a.m. and mix at 5 a.m. What is the
+    risk?
+  options:
+    - >-
+      None, because salt only acts once it is dissolved in the dough water.
+    - >-
+      The salt will dissolve in the yeast and the dough will be too salty.
+    - >-
+      Salt pulls water out of the yeast cells and damages them, weakening fermentation.
+    - >-
+      The yeast will start fermenting the salt and produce off-flavours.
+  correct: 2
+  explanation: >-
+    Fresh yeast is about 68-70 % water; salt in contact draws water out by osmosis and damages the
+    cells. Keep them apart until mixing.
+
+- id: q5
+  question: >-
+    A baker adds salt only at the very end of a long, fast mixing. Compared with salting at the
+    start, what does she get?
+  options:
+    - >-
+      A creamier crumb and a stronger wheat flavour.
+    - >-
+      A whiter crumb and more volume, but less flavour.
+    - >-
+      A darker crust and a denser, tighter crumb.
+    - >-
+      No difference, because the salt is the same in the end.
+  correct: 1
+  explanation: >-
+    Delayed salting lets the dough take up more oxygen: pigments oxidise (whiter crumb) and volume
+    rises, at the cost of flavour. Traditional French practice salts early.

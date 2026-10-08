@@ -1,0 +1,75 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 860 470" width="860" height="470" role="img" aria-labelledby="t d">
+  <title id="t">French wheat flour types T45 to T150: ash content, colour and typical uses</title>
+  <desc id="d">Six legal French wheat flour types from white to wholemeal. T45 below 0.50 percent ash, T55 0.50 to 0.60, T65 0.62 to 0.75, T80 0.75 to 0.90, T110 1.00 to 1.20, T150 above 1.40 percent ash on dry matter. The higher the type, the more bran is in the flour, the darker it is and the more water it absorbs.</desc>
+  <rect x="0" y="0" width="860" height="470" fill="#ffffff"/>
+  <g font-family="Arial, Helvetica, sans-serif" fill="#222222">
+    <text x="430" y="32" text-anchor="middle" font-size="22" font-weight="bold">French wheat flour types: the number is the ash</text>
+    <text x="430" y="56" text-anchor="middle" font-size="14">Type = ash % × 100, on dry matter. Burn 100 g of T55 dry matter at about 900 °C → about 0.55 g of ash (minerals).</text>
+
+    <!-- columns -->
+    <g font-size="15" text-anchor="middle">
+      <rect x="40" y="80" width="120" height="70" rx="8" fill="#fffdf6" stroke="#999999"/>
+      <text x="100" y="110" font-size="22" font-weight="bold">T45</text>
+      <text x="100" y="135">below 0.50 %</text>
+
+      <rect x="170" y="80" width="120" height="70" rx="8" fill="#fbf4e0" stroke="#999999"/>
+      <text x="230" y="110" font-size="22" font-weight="bold">T55</text>
+      <text x="230" y="135">0.50–0.60 %</text>
+
+      <rect x="300" y="80" width="120" height="70" rx="8" fill="#f3e6c4" stroke="#999999"/>
+      <text x="360" y="110" font-size="22" font-weight="bold">T65</text>
+      <text x="360" y="135">0.62–0.75 %</text>
+
+      <rect x="430" y="80" width="120" height="70" rx="8" fill="#e3cd9b" stroke="#999999"/>
+      <text x="490" y="110" font-size="22" font-weight="bold">T80</text>
+      <text x="490" y="135">0.75–0.90 %</text>
+
+      <rect x="560" y="80" width="120" height="70" rx="8" fill="#c9a96e" stroke="#999999"/>
+      <text x="620" y="110" font-size="22" font-weight="bold">T110</text>
+      <text x="620" y="135">1.00–1.20 %</text>
+
+      <rect x="690" y="80" width="130" height="70" rx="8" fill="#a98454" stroke="#999999"/>
+      <text x="755" y="110" font-size="22" font-weight="bold" fill="#ffffff">T150</text>
+      <text x="755" y="135" fill="#ffffff">above 1.40 %</text>
+    </g>
+
+    <!-- names -->
+    <g font-size="14" text-anchor="middle">
+      <text x="100" y="175">farine blanche</text>
+      <text x="230" y="175">farine blanche</text>
+      <text x="360" y="175">farine blanche</text>
+      <text x="490" y="175">farine bise</text>
+      <text x="620" y="175">farine semi-complète</text>
+      <text x="755" y="175">farine complète</text>
+    </g>
+
+    <!-- uses -->
+    <g font-size="13" text-anchor="middle">
+      <text x="100" y="205">viennoiserie,</text><text x="100" y="222">brioche, pastry;</text><text x="100" y="239">gruau (strong)</text>
+      <text x="230" y="205">pain courant,</text><text x="230" y="222">baguette, pain de</text><text x="230" y="239">mie, viennois</text>
+      <text x="360" y="205">tradition</text><text x="360" y="222">française,</text><text x="360" y="239">campagne</text>
+      <text x="490" y="205">pain bis,</text><text x="490" y="222">stone-ground</text><text x="490" y="239">(meule) breads</text>
+      <text x="620" y="205">pain bis,</text><text x="620" y="222">semi-wholemeal,</text><text x="620" y="239">special breads</text>
+      <text x="755" y="205">pain complet,</text><text x="755" y="222">wholemeal</text><text x="755" y="239">special breads</text>
+    </g>
+
+    <!-- arrow -->
+    <defs>
+      <marker id="ah" markerWidth="10" markerHeight="10" refX="9" refY="5" orient="auto">
+        <path d="M0,0 L10,5 L0,10 Z" fill="#8a4b18"/>
+      </marker>
+    </defs>
+    <line x1="60" y1="280" x2="810" y2="280" stroke="#8a4b18" stroke-width="4" marker-end="url(#ah)"/>
+    <text x="430" y="272" text-anchor="middle" font-size="15" font-weight="bold" fill="#8a4b18">higher type = more of the outer grain in the flour</text>
+
+    <g font-size="14">
+      <text x="60" y="315" font-weight="bold">As the type rises:</text>
+      <text x="60" y="340">• more bran, minerals, fibre and vitamins; darker colour, more flavour</text>
+      <text x="60" y="362">• absorbs more water (bran holds water) → higher hydration in the formula</text>
+      <text x="60" y="384">• bran particles cut gluten strands → weaker network, smaller volume, denser crumb</text>
+      <text x="60" y="406">• more enzymes and fat → ferments faster, keeps less long in store (rancidity)</text>
+      <text x="60" y="436" font-size="12" fill="#555555">Ash ranges of the six legal wheat types (arrêté of 13 July 1963), as published e.g. in the INAO Label Rouge "farine de meule" specification.</text>
+      <text x="60" y="454" font-size="12" fill="#555555">Rye flours have their own types: T70, T85, T130, T170.</text>
+    </g>
+  </g>
+</svg>

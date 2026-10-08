@@ -1,0 +1,90 @@
+- id: q1
+  question: >-
+    A laboratory report says a wheat flour has 0.70 % ash on dry matter. Which type is it, and what
+    is it typically used for?
+  options:
+    - >-
+      T55, the standard flour for pain courant and baguettes.
+    - >-
+      T80, a farine bise for stone-ground and pain bis.
+    - >-
+      T65, often used for pain de tradition française and campagne.
+    - >-
+      T45, a strong white flour for croissants and brioche.
+  correct: 2
+  explanation: >-
+    T65 covers 0.62-0.75 % ash. The type number is the ash percentage x 100, so 0.70 % sits inside
+    the T65 range, the usual type for tradition flour.
+
+- id: q2
+  question: >-
+    You replace a T55 with a T150 in the same formula without changing anything else. What do you
+    expect?
+  options:
+    - >-
+      A stiffer dough, lower volume and a denser, darker crumb.
+    - >-
+      A softer dough, higher volume and a whiter crumb.
+    - >-
+      The same dough, because the type only describes the colour.
+    - >-
+      A slower fermentation, because bran contains no enzymes.
+  correct: 0
+  explanation: >-
+    Bran absorbs water (stiffer dough at the same hydration), cuts gluten films (less volume) and
+    darkens the crumb. Higher types also ferment faster, not slower.
+
+- id: q3
+  question: >-
+    A bag reads "Farine de blé T65 - ingrédients : farine de blé, gluten de blé, acide ascorbique".
+    Your manager wants to use it for the pain de tradition française. What do you say?
+  options:
+    - >-
+      It is fine, because T65 is the legal type for tradition flour.
+    - >-
+      It is fine if you reduce the dose so the ascorbic acid stays below 0.3 %.
+    - >-
+      It is fine for tradition if the gluten is declared on the shop label.
+    - >-
+      It cannot be used: tradition bread allows no additives such as ascorbic acid.
+  correct: 3
+  explanation: >-
+    Décret 93-1074 art. 2 forbids additives in pain de tradition française. The only permitted
+    extras are bean, soy and wheat malt flours within small limits. The type number does not make
+    a flour "tradition".
+
+- id: q4
+  question: >-
+    You do a Pekar test on two white flours with the same ash on their certificates. After wetting,
+    flour B shows clearly more brown specks. What can you conclude?
+  options:
+    - >-
+      Flour B has a higher type and should be relabelled T80.
+    - >-
+      Flour B carries more bran particles, so its milling purity is lower.
+    - >-
+      Flour B has more protein, because protein turns brown in water.
+    - >-
+      Nothing: the Pekar test only measures moisture content.
+  correct: 1
+  explanation: >-
+    The Pekar test compares colour and specks (piqûres) side by side. Two flours with the same ash
+    can still differ in bran specks, which reflects milling quality. It gives no number.
+
+- id: q5
+  question: >-
+    A trainee mixes a rye bread like a wheat dough and asks why it never becomes smooth and elastic.
+    Which explanation is right?
+  options:
+    - >-
+      Rye proteins need twice the mixing time to form gluten, so mix longer.
+    - >-
+      The water was too cold; rye gluten forms only above 30 C.
+    - >-
+      Rye proteins do not form a gluten network; its gums hold water and gas instead.
+    - >-
+      Rye contains more gluten than wheat, so the dough becomes too tight to smooth.
+  correct: 2
+  explanation: >-
+    Rye does not build a gluten network. Its pentosans (gums) absorb a lot of water and give a
+    sticky, paste-like dough; acidification with levain helps control enzymes and set the crumb.
