@@ -1,0 +1,91 @@
+- id: q1
+  question: >-
+    CA-01 final dough: T65 2,340 g, rye 540 g, water 1,800 g, salt 64.8 g, liquid levain 1,440 g.
+    The chef wants to add a little fresh yeast and still sell the bread as "pain au levain". What is
+    the most yeast allowed?
+  options:
+    - >-
+      7.2 g, 0.2 % of the 3,600 g of total flour
+    - >-
+      12.4 g, 0.2 % of the 6,185 g of dough
+    - >-
+      None, because any baker's yeast forbids the mention
+    - >-
+      5.8 g, 0.2 % of the 2,880 g of final-mixing flour
+  correct: 3
+  explanation: >-
+    Décret 93-1074, art. 4: baker's yeast only at final mixing, at most 0.2 % of the flour used at
+    that stage, 2,340 + 540 = 2,880 g. The levain's flour and the dough weight do not count.
+
+- id: q2
+  question: >-
+    Temperature log for CA-01: TPV 24 °C, flour 20 °C, fournil 22 °C, ripe levain 27 °C, friction
+    factor 16 (four factors). Which water temperature do you set?
+  options:
+    - >-
+      11 °C, from 96 − 20 − 22 − 27 − 16
+    - >-
+      14 °C, from 72 − 20 − 22 − 16
+    - >-
+      38 °C, from 96 − 20 − 22 − 16
+    - >-
+      27 °C, from 96 − 20 − 22 − 27
+  correct: 0
+  explanation: >-
+    The levain is a fourth factor: 4 × 24 = 96, minus flour, room, levain and the four-factor friction
+    factor = 11 °C. Leaving out the levain or the friction, or using a three-factor base, misses.
+
+- id: q3
+  question: >-
+    At 6:00 your levain de tout point has collapsed, its jar shows a ring 3 cm above the surface and it
+    smells of nail-polish remover. What do you expect if you mix the campagne with it now?
+  options:
+    - >-
+      A faster, lighter loaf, because an old levain holds more yeast cells
+    - >-
+      A slack, sticky dough that tears and a sharp, sour, flatter loaf
+    - >-
+      No visible change, because the levain is only 20 % of the flour
+    - >-
+      A firmer dough, because the acid tightens the gluten more and more
+  correct: 1
+  explanation: >-
+    Over-ripe levain brings excess acid and protease activity that weaken the gluten, and hungry yeasts.
+    A little acid tightens; a lot slackens. Refresh it and use it at its peak.
+
+- id: q4
+  question: >-
+    A customer asks whether the bakery's "pain de campagne" label means the same as "au levain". What
+    is the correct answer?
+  options:
+    - >-
+      Yes: the 1993 decree defines pain de campagne as a levain bread made with some rye.
+    - >-
+      Yes: any bread containing rye flour must by law be raised on a levain.
+    - >-
+      No: campagne is a usage name; "au levain" is a legal test of crumb pH and acetic acid.
+    - >-
+      No: "au levain" only means that some levain was added to the dough for taste.
+  correct: 2
+  explanation: >-
+    The decree does not define pain de campagne; its name comes from usage (lesson 09.1). "Au levain"
+    is legal: crumb pH 4.3 or less and at least 900 ppm acetic acid, yeast limited to 0.2 % at final
+    mixing.
+
+- id: q5
+  question: >-
+    Your 420 g campagne loaves have a dark crust after 20 minutes, but the core reads 84 °C and the
+    crumb near the base is gummy. You baked at 250 °C throughout. What do you change?
+  options:
+    - >-
+      Bake at 250 °C for 15 minutes only and cut while warm to release steam.
+    - >-
+      Load at about 240 °C with steam, then lower to 220-230 °C and bake longer.
+    - >-
+      Leave out the steam so the crust stays thinner and lets heat in.
+    - >-
+      Proof longer so the lighter dough bakes through in the same time.
+  correct: 1
+  explanation: >-
+    Large loaves need a long bake at a moderate heat after the first minutes, to a core of at least
+    93 °C. Steam is still needed; cutting warm or over-proofing make the crumb worse.

@@ -1,0 +1,90 @@
+- id: q1
+  question: >-
+    A trainee's fendus came out of the oven closed: the groove is only a faint line and one loaf tore
+    along its side. They proofed groove up on the couche. What is the most likely cause?
+  options:
+    - >-
+      The groove was not scored with a lame just before the loaves were loaded.
+    - >-
+      The lips fused while proofing groove up, so the loaf had to open elsewhere.
+    - >-
+      The dough was too firm, so the groove could not open in the oven.
+    - >-
+      The oven was too hot, so the crust set before the groove opened.
+  correct: 1
+  explanation: >-
+    A fendu proofs groove down with flour in the groove, then is turned groove up at loading. Proofed
+    groove up, the lips stick together and the gas tears the side instead. A fendu is not scored.
+
+- id: q2
+  question: >-
+    Order: 6 fendus of 400 g, 6 tabatières of 400 g and 4 couronnes of 500 g, PC-02 (total 182.3 %),
+    process losses 2 %, flour rounded up to the next 100 g. How much flour do you weigh?
+  options:
+    - >-
+      3,800 g, from 6,936 g of dough rounded down
+    - >-
+      3,400 g, from 6,800 g divided by 2.0
+    - >-
+      3,900 g, from 6,936 g of dough divided by 1.823
+    - >-
+      4,200 g, from 6,800 g plus 2 % divided by 1.673
+  correct: 2
+  explanation: >-
+    6,800 g × 1.02 = 6,936 g; ÷ 1.823 = 3,805 g, rounded up to 3,900 g. Rounding down leaves the batch
+    short; dividing by 1.673 leaves out the pâte fermentée that is part of the total.
+
+- id: q3
+  question: >-
+    Your tabatières come out with the lid glued flat to the loaf. The flap was about 7 mm thick and
+    folded straight onto the floured ball. What do you change next time?
+  options:
+    - >-
+      Roll the flap to 3-4 mm and oil or flour its edge before folding it over.
+    - >-
+      Score the lid with a lame so the steam can lift it during baking.
+    - >-
+      Proof the tabatière flap up so the lid can dry before baking.
+    - >-
+      Bake 20 °C cooler so the lid has time to lift before the crust sets.
+  correct: 0
+  explanation: >-
+    A thick flap is too heavy to lift and sticks back. At 3-4 mm, with a little oil or flour on its
+    edge, the rising body pushes it open. Tabatières proof flap down and are not scored.
+
+- id: q4
+  question: >-
+    Your 400 g boules spread into wide, flat discs during apprêt. You shaped them on a well-floured
+    bench so they would not stick. What is the best correction?
+  options:
+    - >-
+      Add 3 % more water so the dough relaxes into a rounder shape.
+    - >-
+      Shape them on a bench almost free of flour so the drag tightens the skin.
+    - >-
+      Shorten the détente to 5 minutes so the gluten stays tight for shaping.
+    - >-
+      Score them deeper before apprêt so they rise upwards instead of spreading.
+  correct: 1
+  explanation: >-
+    Tension comes from the bench gripping the dough as you drag it; on a floured bench it slides and
+    stays slack. More water makes it worse, a short détente makes it tear, and boules are scored at
+    loading, not before apprêt.
+
+- id: q5
+  question: >-
+    Your deck oven is shared between baguettes (about 22 minutes) and 400 g fendus and couronnes. How
+    do you plan the shaped pieces?
+  options:
+    - >-
+      Bake them with the baguettes and take everything out at 22 minutes.
+    - >-
+      Bake them at 280 °C so they finish in the same 22 minutes as the baguettes.
+    - >-
+      Bake them without steam, since only baguettes need their cuts to open.
+    - >-
+      Give them their own deck and about 30-35 minutes, to a core of at least 93 °C.
+  correct: 3
+  explanation: >-
+    A thicker piece needs longer at the same temperature; a hotter oven only burns the crust before
+    the centre is baked. Shaped pieces get steam too, and their own deck so baguettes are not held up.

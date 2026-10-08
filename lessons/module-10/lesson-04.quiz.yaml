@@ -1,0 +1,90 @@
+- id: q1
+  question: >-
+    You mix wholemeal flour with 74 % water and it feels firm at once. A colleague wants to add 6 %
+    more water straight away. What do you do?
+  options:
+    - >-
+      Add the 6 % now, because wholemeal dough always needs about 80 % water.
+    - >-
+      Add 3 % of white flour to make the dough smoother before adding water.
+    - >-
+      Rest the flour and water 20-30 minutes, then judge and add water by bassinage.
+    - >-
+      Knead longer in second speed so the gluten softens the firm dough.
+  correct: 2
+  explanation: >-
+    Bran absorbs water slowly: after a rest the dough is softer than it first seemed. Decide on extra
+    water after the rest, by bassinage. More mixing only heats and weakens a wholemeal dough.
+
+- id: q2
+  question: >-
+    Sheet: pain complet rolls of 60 g, measured loss 23 %. Option A: salt 1.8 % (dough total 177.6 %).
+    Option B: salt 1.7 % (dough total 177.5 %). Which statement is correct for the 1.3 g per 100 g
+    limit?
+  options:
+    - >-
+      Both conform, because the limit for wholemeal bread is 1.4 g per 100 g.
+    - >-
+      A gives about 1.32 g (over); B gives about 1.24 g (conforms).
+    - >-
+      A gives about 1.01 g and B about 0.96 g, so both conform easily.
+    - >-
+      Neither conforms, because salt above 1.5 % always exceeds the limit.
+  correct: 1
+  explanation: >-
+    A: 60 × 1.8 ÷ 177.6 = 0.608 g in 46.2 g = 1.32 g. B: 60 × 1.7 ÷ 177.5 = 0.575 g in 46.2 g = 1.24 g.
+    1.01 % and 0.96 % are the salt in the dough, not in the bread; the wholemeal limit is 1.3 g.
+
+- id: q3
+  question: >-
+    Your pain complet tin loaves collapsed in the oven: flat, slightly sunken tops and a torn crumb.
+    Pointage and apprêt were the same length as for your pain courant. What is the most likely cause?
+  options:
+    - >-
+      Over-fermentation: wholemeal dough ferments faster and has little tolerance.
+    - >-
+      Under-mixing: wholemeal dough must be mixed to a clear windowpane.
+    - >-
+      Too much water: wholemeal dough should stay at about 64 % like T55.
+    - >-
+      Too little salt: wholemeal dough needs 2.2 % salt to hold its gas.
+  correct: 0
+  explanation: >-
+    Bran brings enzymes, minerals and sugars that speed fermentation, and weakens the gluten: the same
+    times as pain courant over-proof it. Shorten pointage and apprêt and proof to 80-90 %.
+
+- id: q4
+  question: >-
+    A customer asks whether the bakery's dark loaf made with T80 flour can be sold as "pain complet".
+    What is the right answer?
+  options:
+    - >-
+      Yes, because any bread darker than pain courant counts as complet.
+    - >-
+      Yes, if at least 80 % of the grain is in the flour, as the T80 type shows.
+    - >-
+      No, because pain complet must be made on levain with some rye flour.
+    - >-
+      No: pain complet is made with wholemeal flour, type 150.
+  correct: 3
+  explanation: >-
+    The name pain complet refers to wholemeal flour (T150). A T80 bread is darker than pain courant
+    but not complet; lesson 09.1 sets out the names. Levain and rye belong to campagne, not complet.
+
+- id: q5
+  question: >-
+    Delivery check: a 25 kg sack of T150 arrives with a best-before date three weeks away, and the
+    open sack in the store smells bitter and paint-like. What do you do with the open sack?
+  options:
+    - >-
+      Use it first, since first in first out applies to all flour.
+    - >-
+      Set it aside and report it: the germ oil has turned rancid.
+    - >-
+      Mix it 50/50 with the new sack so the off-smell is diluted.
+    - >-
+      Sift it to remove the bran, which is where the smell comes from.
+  correct: 1
+  explanation: >-
+    Wholemeal flour keeps less well because the oil of the germ and bran oxidises. A rancid smell is a
+    non-conformity: set it aside and report it; blending or sifting does not fix it.

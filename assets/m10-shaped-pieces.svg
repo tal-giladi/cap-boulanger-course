@@ -1,0 +1,76 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 600" width="900" height="600" role="img" aria-labelledby="t d">
+  <title id="t">Six classic French bread shapes seen from above: boule, bâtard, fendu, tabatière, couronne and épi</title>
+  <desc id="d">Six panels. Boule: a round loaf, shaped with a tight skin, scored with a cross or a square. Bâtard: an oval loaf about 25 cm long for 400 g, scored with one long cut or three oblique cuts. Fendu: a bâtard pressed along its centre with a rolling pin; it proofs groove down and is turned groove up at loading; not scored, the groove opens into a split. Tabatière: a boule with one third rolled into a thin flap folded over the top; it proofs flap down and is turned flap up at loading, like the lid of a snuff box; not scored. Couronne: a ring made from a boule with a hole widened to about one third of the diameter, or from a cylinder joined end to end; scored with short cuts around the ring. Épi: a baguette cut with scissors at a low angle about three quarters of the way through, every 6 to 8 cm, each piece laid alternately left and right like an ear of wheat.</desc>
+  <rect x="0" y="0" width="900" height="600" fill="#ffffff"/>
+  <g font-family="Arial, Helvetica, sans-serif" fill="#222222">
+    <text x="450" y="32" text-anchor="middle" font-size="21" font-weight="bold">Pièces façonnées: six classic shapes from one dough (seen from above)</text>
+
+    <!-- panel frames -->
+    <rect x="20" y="50" width="280" height="260" fill="none" stroke="#cccccc"/>
+    <rect x="310" y="50" width="280" height="260" fill="none" stroke="#cccccc"/>
+    <rect x="600" y="50" width="280" height="260" fill="none" stroke="#cccccc"/>
+    <rect x="20" y="320" width="280" height="260" fill="none" stroke="#cccccc"/>
+    <rect x="310" y="320" width="280" height="260" fill="none" stroke="#cccccc"/>
+    <rect x="600" y="320" width="280" height="260" fill="none" stroke="#cccccc"/>
+
+    <!-- 1 boule -->
+    <text x="160" y="76" text-anchor="middle" font-size="16" font-weight="bold">1. Boule (round)</text>
+    <circle cx="160" cy="170" r="72" fill="#e3cf9f" stroke="#a8874a" stroke-width="2"/>
+    <line x1="115" y1="125" x2="205" y2="215" stroke="#7a3b10" stroke-width="3"/>
+    <line x1="205" y1="125" x2="115" y2="215" stroke="#7a3b10" stroke-width="3"/>
+    <text x="160" y="268" text-anchor="middle" font-size="12">tight skin, seam underneath</text>
+    <text x="160" y="286" text-anchor="middle" font-size="12">score: cross or square</text>
+
+    <!-- 2 batard -->
+    <text x="450" y="76" text-anchor="middle" font-size="16" font-weight="bold">2. Bâtard (oval)</text>
+    <ellipse cx="450" cy="170" rx="115" ry="48" fill="#e3cf9f" stroke="#a8874a" stroke-width="2"/>
+    <line x1="360" y1="172" x2="540" y2="166" stroke="#7a3b10" stroke-width="3"/>
+    <text x="450" y="250" text-anchor="middle" font-size="12">400 g: about 25 cm long</text>
+    <text x="450" y="268" text-anchor="middle" font-size="12">score: one long cut</text>
+    <text x="450" y="286" text-anchor="middle" font-size="12">or three oblique cuts</text>
+
+    <!-- 3 fendu -->
+    <text x="740" y="76" text-anchor="middle" font-size="16" font-weight="bold">3. Fendu (split)</text>
+    <ellipse cx="740" cy="160" rx="110" ry="50" fill="#e3cf9f" stroke="#a8874a" stroke-width="2"/>
+    <path d="M 640 160 Q 740 146 840 160 Q 740 174 640 160 Z" fill="#f6f0e0" stroke="#7a3b10" stroke-width="2"/>
+    <text x="740" y="232" text-anchor="middle" font-size="12">groove pressed with a rolling pin,</text>
+    <text x="740" y="250" text-anchor="middle" font-size="12">floured inside; proof groove DOWN,</text>
+    <text x="740" y="268" text-anchor="middle" font-size="12">turn groove UP at loading</text>
+    <text x="740" y="286" text-anchor="middle" font-size="12" fill="#c0392b">not scored: the groove opens</text>
+
+    <!-- 4 tabatiere -->
+    <text x="160" y="346" text-anchor="middle" font-size="16" font-weight="bold">4. Tabatière (snuff box)</text>
+    <circle cx="160" cy="440" r="70" fill="#e3cf9f" stroke="#a8874a" stroke-width="2"/>
+    <path d="M 104 398 Q 160 372 216 398 L 216 470 Q 160 490 104 470 Z" fill="#d9bf86" stroke="#7a3b10" stroke-width="2"/>
+    <text x="160" y="438" text-anchor="middle" font-size="12">thin flap</text>
+    <text x="160" y="454" text-anchor="middle" font-size="12">(lid)</text>
+    <text x="160" y="532" text-anchor="middle" font-size="12">one third rolled 3-4 mm thin, folded</text>
+    <text x="160" y="550" text-anchor="middle" font-size="12">over; proof flap DOWN, turn flap UP</text>
+    <text x="160" y="568" text-anchor="middle" font-size="12" fill="#c0392b">not scored: the lid lifts</text>
+
+    <!-- 5 couronne -->
+    <text x="450" y="346" text-anchor="middle" font-size="16" font-weight="bold">5. Couronne (crown)</text>
+    <circle cx="450" cy="440" r="75" fill="#e3cf9f" stroke="#a8874a" stroke-width="2"/>
+    <circle cx="450" cy="440" r="27" fill="#ffffff" stroke="#a8874a" stroke-width="2"/>
+    <line x1="450" y1="370" x2="450" y2="398" stroke="#7a3b10" stroke-width="3"/>
+    <line x1="520" y1="440" x2="492" y2="440" stroke="#7a3b10" stroke-width="3"/>
+    <line x1="450" y1="510" x2="450" y2="482" stroke="#7a3b10" stroke-width="3"/>
+    <line x1="380" y1="440" x2="408" y2="440" stroke="#7a3b10" stroke-width="3"/>
+    <text x="450" y="540" text-anchor="middle" font-size="12">hole widened to about 1/3 of the width</text>
+    <text x="450" y="558" text-anchor="middle" font-size="12">(it closes in apprêt and in the oven)</text>
+    <text x="450" y="576" text-anchor="middle" font-size="12">score: short cuts around the ring</text>
+
+    <!-- 6 epi -->
+    <text x="740" y="346" text-anchor="middle" font-size="16" font-weight="bold">6. Épi (ear of wheat)</text>
+    <line x1="640" y1="440" x2="845" y2="440" stroke="#a8874a" stroke-width="2" stroke-dasharray="4 4"/>
+    <ellipse cx="655" cy="440" rx="20" ry="13" fill="#e3cf9f" stroke="#a8874a" stroke-width="2"/>
+    <ellipse cx="690" cy="418" rx="24" ry="14" transform="rotate(-30 690 418)" fill="#e3cf9f" stroke="#a8874a" stroke-width="2"/>
+    <ellipse cx="725" cy="462" rx="24" ry="14" transform="rotate(30 725 462)" fill="#e3cf9f" stroke="#a8874a" stroke-width="2"/>
+    <ellipse cx="760" cy="418" rx="24" ry="14" transform="rotate(-30 760 418)" fill="#e3cf9f" stroke="#a8874a" stroke-width="2"/>
+    <ellipse cx="795" cy="462" rx="24" ry="14" transform="rotate(30 795 462)" fill="#e3cf9f" stroke="#a8874a" stroke-width="2"/>
+    <ellipse cx="830" cy="430" rx="22" ry="13" transform="rotate(-20 830 430)" fill="#e3cf9f" stroke="#a8874a" stroke-width="2"/>
+    <text x="740" y="532" text-anchor="middle" font-size="12">baguette cut with scissors, low angle,</text>
+    <text x="740" y="550" text-anchor="middle" font-size="12">3/4 through every 6-8 cm; leaves laid</text>
+    <text x="740" y="568" text-anchor="middle" font-size="12">alternately left and right (lesson 10.2)</text>
+  </g>
+</svg>

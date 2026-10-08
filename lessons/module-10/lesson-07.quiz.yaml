@@ -1,0 +1,90 @@
+- id: q1
+  question: >-
+    SE-01 for 20 tin loaves: flour 4,800 g. The soaker is 20 % seeds and 25 % water on the flour. What
+    do you put in the soaker tub on Monday afternoon?
+  options:
+    - >-
+      960 g of seeds and 1,200 g of water
+    - >-
+      960 g of seeds and 960 g of water
+    - >-
+      2,143 g of seeds and 1,200 g of water
+    - >-
+      480 g of seeds and 600 g of water
+  correct: 0
+  explanation: >-
+    Seeds 4,800 × 20 % = 960 g; water 4,800 × 25 % = 1,200 g (125 % of the seeds because of the flax).
+    Equal weights ignore the flax gel; the other options mix up the total % or halve the batch.
+
+- id: q2
+  question: >-
+    A trainee mixes the seeded dough with the soaker in from the very start. The loaves are small with
+    a tight crumb. What is the most likely cause?
+  options:
+    - >-
+      The soaker water made the dough too soft to rise properly.
+    - >-
+      The salt in the soaker stopped the yeast from working.
+    - >-
+      Seeds present while the gluten formed cut the gluten films.
+    - >-
+      The seeds were soaked too long and released starch into the dough.
+  correct: 2
+  explanation: >-
+    Seeds cut the gluten as it forms. Develop the dough first, then add the soaker at slow speed only
+    until even. The soaker has no salt here, and a long soak is what you want.
+
+- id: q3
+  question: >-
+    Batch control of SE-01 (salt 0.840 % of the dough): pâton 500 g, cooled loaf 414 g. Which statement
+    about the salt is correct?
+  options:
+    - >-
+      1.80 g per 100 g: over the 1.4 g limit for pain courant
+    - >-
+      1.01 g per 100 g: under the 1.3 g limit for cereal breads
+    - >-
+      0.84 g per 100 g: under every limit, the loss does not matter
+    - >-
+      1.35 g per 100 g: over the 1.3 g limit for cereal breads
+  correct: 1
+  explanation: >-
+    500 × 0.840 % = 4.20 g of salt in 414 g = 1.01 g per 100 g. 0.84 % is the dough, not the bread;
+    1.80 is % of flour; seeded and cereal breads fall under the 1.3 g limit.
+
+- id: q4
+  question: >-
+    A premix label reads: wheat flour, seeds, rye flour, wheat gluten, malted wheat flour, E472e, flour
+    treatment agent E300, enzymes. The baker wants to sell the bread as "tradition aux graines". What
+    do you tell them?
+  options:
+    - >-
+      Fine: seeds and premixes are allowed in tradition up to 20 % of the flour.
+    - >-
+      Fine, if the E300 is listed on the label so the customer is informed.
+    - >-
+      Not possible, because rye flour is never allowed in any wheat bread.
+    - >-
+      Not as tradition: E300 and E472e are additives and gluten is not allowed.
+  correct: 3
+  explanation: >-
+    Pain de tradition française allows no additives and only bean, soy and malt flour within limits;
+    gluten, E300 and E472e rule this premix out. It suits a pain courant-type cereal bread, declared.
+
+- id: q5
+  question: >-
+    You plan Tuesday's mixing: pain courant, tradition and a sesame-seeded loaf, one spiral mixer. A
+    customer with a sesame allergy buys pain courant every morning. Which plan is correct?
+  options:
+    - >-
+      Seeded dough first, while the mixer is clean, then the plain doughs.
+    - >-
+      Plain doughs first, seeded dough last, then clean the mixer and tools.
+    - >-
+      Any order, because baking at 230 °C destroys sesame allergens.
+    - >-
+      Any order, if the seeded dough is mixed at slow speed only.
+  correct: 1
+  explanation: >-
+    Seeds stick to the mixer, scrapers, benches and couches. Mixing plain doughs first and the seeded
+    one last, then cleaning, keeps sesame out of the plain bread. Baking does not destroy allergens.

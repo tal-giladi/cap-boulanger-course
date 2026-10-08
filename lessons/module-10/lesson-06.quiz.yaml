@@ -1,0 +1,88 @@
+- id: q1
+  question: >-
+    A trainee bakes egg-washed baguettes viennoises like baguettes: 250 °C with steam. They come out
+    dark brown, streaky and dull, with a pale, soft centre. What do you change?
+  options:
+    - >-
+      Bake at about 200 °C (180 °C fan) without steam until evenly golden.
+    - >-
+      Keep 250 °C but take them out after 8 minutes, before they colour.
+    - >-
+      Keep the steam but skip the egg wash, so the crust stays even.
+    - >-
+      Bake at 150 °C for 40 minutes so the colour builds slowly.
+  correct: 0
+  explanation: >-
+    Milk sugars and added sugar brown fast, so a moderate oven bakes the inside before the crust is too
+    dark. Steam streaks and dulls the egg wash. 150 °C dries the bread before it colours.
+
+- id: q2
+  question: >-
+    Why does VI-01 use 58 % whole milk rather than the 64 % water of PC-02?
+  options:
+    - >-
+      Milk ferments faster than water, so less of it is needed for the same rise.
+    - >-
+      Milk is about 88 % water, so the dough is firm enough to hold sharp cuts.
+    - >-
+      Milk adds gluten, so a smaller amount gives the same dough strength.
+    - >-
+      The salt agreement limits milk to 58 % of the flour in viennois.
+  correct: 1
+  explanation: >-
+    58 % milk brings about 51 % water: a firm dough that keeps a regular shape and a crisp pattern of
+    cuts. Milk solids soften the crumb; milk adds no gluten and has no legal limit.
+
+- id: q3
+  question: >-
+    Production order: 40 baguettes viennoises of 280 g, VI-01 total 179.3 %, process losses 2 %, flour
+    rounded up to the next 100 g. How much flour do you weigh?
+  options:
+    - >-
+      6,300 g, from 11,200 g divided by 1.793 and rounded
+    - >-
+      6,900 g, from 11,424 g divided by 1.643 without the butter
+    - >-
+      6,400 g, from 11,424 g divided by 1.793
+    - >-
+      6,200 g, from 11,424 g divided by 1.793 and rounded down
+  correct: 2
+  explanation: >-
+    40 × 280 = 11,200 g; × 1.02 = 11,424 g; ÷ 1.793 = 6,371 g → 6,400 g. Forgetting the losses, leaving
+    an ingredient out of the total or rounding down all leave the order short.
+
+- id: q4
+  question: >-
+    At 10:00 there is half a bowl of egg wash left from the 6:00 viennoiserie, standing on the bench.
+    You need egg wash for the viennois at 13:30. What do you do?
+  options:
+    - >-
+      Use it, since egg wash is baked at over 180 °C and any germs are killed.
+    - >-
+      Add a fresh egg to it so it is strong enough again for the afternoon.
+    - >-
+      Put it in the fridge now and use it at 13:30 if it still smells fresh.
+    - >-
+      Discard it and make fresh egg wash, kept cold, for the afternoon batch.
+  correct: 3
+  explanation: >-
+    Raw egg left at room temperature for hours is a food-safety risk, and brushes and hands spread it
+    before baking. Make it fresh, keep it cold, and discard what is left.
+
+- id: q5
+  question: >-
+    Your viennois cuts are blurred and closed after baking. The dough was soft and you scored before
+    brushing the second coat of egg wash. Which change helps most?
+  options:
+    - >-
+      Score deeper, about 1 cm, along the midline like a baguette.
+    - >-
+      A firmer dough (58 % milk), scored 3-5 mm after the second egg wash.
+    - >-
+      Add steam at loading so the cuts open as on a baguette.
+    - >-
+      Shorten the apprêt by half so the cuts stay sharp.
+  correct: 1
+  explanation: >-
+    A firm dough holds the cut; scoring after the egg wash keeps the cut clean and pale. Viennois cuts
+    are shallow and oblique, without steam; a short apprêt only gives dense bread.

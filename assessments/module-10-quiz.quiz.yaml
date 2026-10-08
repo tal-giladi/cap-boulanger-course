@@ -1,0 +1,183 @@
+- id: q1
+  question: >-
+    Production order: 12 boules de campagne, "poids cuit 450 g". Sheet CA-01: measured baking loss
+    15 %; pâtons rounded up to the next 5 g. What pâton do you divide?
+  options:
+    - >-
+      520 g, from 450 × 1.15 rounded up
+    - >-
+      450 g, since the order gives the weight to divide
+    - >-
+      530 g, from 450 ÷ 0.85 rounded up
+    - >-
+      385 g, from 450 × 0.85 rounded up
+  correct: 2
+  explanation: >-
+    The baked weight is 85 % of the pâton, so pâton = 450 ÷ 0.85 = 529.4 g → 530 g. Multiplying by
+    1.15 under-counts the loss; 450 g or 385 g give loaves well under the ordered weight.
+
+- id: q2
+  question: >-
+    Temperature log, campagne on liquid levain: TPV 24 °C, flour 18 °C, fournil 19 °C, ripe levain
+    25 °C, friction factor 16 (four factors). Which water temperature is correct?
+  options:
+    - >-
+      18 °C
+    - >-
+      43 °C
+    - >-
+      34 °C
+    - >-
+      −6 °C
+  correct: 0
+  explanation: >-
+    96 − 18 − 19 − 25 − 16 = 18 °C. 43 °C leaves out the levain; 34 °C leaves out the friction factor;
+    −6 °C subtracts four inputs from a three-factor base of 72.
+
+- id: q3
+  question: >-
+    Technical sheet PM-01, lidded pain de mie. The bakery's new tins measure 32 × 10 × 10 cm inside.
+    The sheet says "0.35 g de pâte par cm³". What pâton is correct, and how is the lid used?
+  options:
+    - >-
+      1,290 g; lid on as soon as the dough is in the tin
+    - >-
+      3,200 g; lid on when the dough reaches the rim
+    - >-
+      960 g; lid on when the dough is 3 cm above the rim
+    - >-
+      1,120 g; lid on when the dough is 1-1.5 cm below the rim
+  correct: 3
+  explanation: >-
+    3,200 cm³ × 0.35 = 1,120 g. The lid goes on just below the rim so the last rise fills the corners.
+    Too much dough or a late lid forces the lid up; too little gives rounded corners.
+
+- id: q4
+  question: >-
+    Bake log, pain de campagne: "levain de tout point built 18:00 Sunday, 20 % seed, 27 °C; used Monday
+    8:00. Dough slack and sticky, tore at shaping; loaves spread; crumb very sour." Which diagnosis
+    fits best?
+  options:
+    - >-
+      The levain was too young, so the dough had too little gas and strength.
+    - >-
+      The levain was over-ripe after 14 hours warm: excess acid weakened the gluten.
+    - >-
+      The rye flour was too fine and absorbed too little of the water.
+    - >-
+      The dough was under-mixed, so it needs intensive mixing next time.
+  correct: 1
+  explanation: >-
+    A liquid levain with a 20 % seed peaks in about 3-6 hours at 24-28 °C; after 14 hours it is far
+    past its peak. Its acid and proteases slacken the dough and sharpen the taste.
+
+- id: q5
+  question: >-
+    Batch control, pain complet rolls: sheet salt 1.8 % (dough total 177.6 %), pâton 60 g, cooled
+    roll 45.6 g. The limit for wholemeal breads is 1.3 g per 100 g. What do you write on the
+    non-conformity note?
+  options:
+    - >-
+      1.01 g per 100 g: conforms, no action
+    - >-
+      1.80 g per 100 g: over; halve the salt
+    - >-
+      1.33 g per 100 g: over; reduce salt to 1.7 %
+    - >-
+      1.24 g per 100 g: conforms, no action
+  correct: 2
+  explanation: >-
+    60 × 1.8 ÷ 177.6 = 0.608 g of salt in 45.6 g = 1.33 g per 100 g, over 1.3 g. 1.01 % is the salt in
+    the dough; 1.80 confuses % of flour with grams per 100 g; 1.24 g is what 1.7 % gives.
+
+- id: q6
+  question: >-
+    Home bake, one oven tray at a time, oven at 250 °C. Nine rolls (15 minutes) will be ready at 9:40;
+    an épi (22 minutes) will be ready at 10:00. Which plan is feasible?
+  options:
+    - >-
+      Rolls in at 9:40, out about 9:55; re-steam; épi cut and in at 10:00.
+    - >-
+      Épi in at 9:40 although not ready, rolls after it at 10:02.
+    - >-
+      Both in together at 10:00, rolls left out until the épi is ready.
+    - >-
+      Rolls held in the fridge until the épi is out at 10:22.
+  correct: 0
+  explanation: >-
+    Bake what is ready first: the rolls finish before the épi is ready, so each goes in on its poke
+    test. The other plans under-proof the épi or leave the fast rolls to over-proof.
+
+- id: q7
+  question: >-
+    A bakery sells a "pain au levain". Its sheet: levain flour 750 g; final dough T65 2,450 g and rye
+    550 g. The chef asks how much fresh yeast he may add at final mixing and keep the mention. What is
+    correct?
+  options:
+    - >-
+      None: any baker's yeast forbids the mention "au levain".
+    - >-
+      7.5 g, 0.2 % of all the flour including the levain's
+    - >-
+      12 g, 0.4 % of the flour used at final mixing
+    - >-
+      6.0 g, 0.2 % of the 3,000 g of flour at final mixing
+  correct: 3
+  explanation: >-
+    Décret 93-1074, art. 4: yeast only at final mixing, at most 0.2 % of the flour used at that stage:
+    2,450 + 550 = 3,000 g → 6.0 g. The crumb must still pass the pH 4.3 and 900 ppm acetic acid tests.
+
+- id: q8
+  question: >-
+    Label check for baguettes viennoises aux pépites: flour, whole milk, sugar, butter, salt, yeast,
+    egg wash; chocolate chips whose bag says "sucre, pâte de cacao, beurre de cacao, émulsifiant:
+    lécithine de soja". Which allergens must the shop declare?
+  options:
+    - >-
+      Wheat and milk only, since egg wash is only on the surface
+    - >-
+      Milk and egg only, since wheat flour is not an allergen
+    - >-
+      Wheat (gluten), milk, egg and soy
+    - >-
+      Wheat (gluten), milk, egg, soy and nuts
+  correct: 2
+  explanation: >-
+    Wheat, milk, egg and soy are among the 14 regulated allergens and each is present (soy lecithin in
+    the chips). Egg wash is an ingredient; nuts are not in this recipe.
+
+- id: q9
+  question: >-
+    Quality report: "Pains de mie, lot de 6h40: flancs affaissés, croûte molle sur les côtés. Sortis du
+    four 6h40, démoulés 6h55, centre 94 °C." What is the most likely cause?
+  options:
+    - >-
+      Too much dough in each tin, so the sides were pushed out and fell back.
+    - >-
+      Unmoulded 15 minutes late: steam condensed between loaf and tin.
+    - >-
+      Under-baked: the centre should reach at least 98 °C for pain de mie.
+    - >-
+      Too much sugar, which keeps the crust soft and makes the sides sag.
+  correct: 1
+  explanation: >-
+    The loaves were baked through (94 °C), but left 15 minutes in the tins: condensation softened the
+    sides, which caved in. Unmould at once and cool on the side.
+
+- id: q10
+  question: >-
+    Seeded loaf SE-01: the soaker went in straight from the fridge and the dough reads 21.5 °C instead
+    of 24 °C. The sheet gives a pointage of 60 minutes. Using about 7 % per °C, what do you plan?
+  options:
+    - >-
+      About 51 minutes, because a cold dough must be divided early.
+    - >-
+      Keep 60 minutes, because the soaker does not change fermentation.
+    - >-
+      About 90 minutes, half as long again for a seeded dough.
+    - >-
+      About 71 minutes, confirmed by the signs of the dough.
+  correct: 3
+  explanation: >-
+    2.5 °C colder: 1.07^2.5 ≈ 1.18, so 60 × 1.18 ≈ 71 minutes; confirm by the dough's signs. Take the
+    soaker out 1-2 hours before mixing so it does not chill the dough.

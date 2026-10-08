@@ -1,0 +1,88 @@
+- id: q1
+  question: >-
+    A trainee's épi came out as a baguette with bumps: the leaves barely separated. They cut with the
+    scissors held upright, about halfway into the dough. What do you tell them?
+  options:
+    - >-
+      Cut right through the dough so each leaf can open fully in the oven.
+    - >-
+      Use a lame instead of scissors, with five cuts along the midline.
+    - >-
+      Hold the scissors low and cut about three quarters through.
+    - >-
+      Cut the épi after baking, while the crust is still soft and warm.
+  correct: 2
+  explanation: >-
+    A low angle and a cut about three quarters through let each leaf be laid to the side; the uncut
+    quarter is the stalk. Cutting right through separates the pieces; halfway leaves them closed.
+
+- id: q2
+  question: >-
+    Batch control of PC-02 rolls (salt 1.076 % of the dough): pâton 60 g, a roll from the back corner
+    weighs 45.6 g after cooling. What is its salt per 100 g, and does it conform to the 1.4 g limit?
+  options:
+    - >-
+      1.42 g per 100 g: just over the limit
+    - >-
+      1.08 g per 100 g: well under the limit
+    - >-
+      1.18 g per 100 g: under the limit
+    - >-
+      1.80 g per 100 g: far over the limit
+  correct: 0
+  explanation: >-
+    60 × 1.076 % = 0.646 g of salt in 45.6 g of bread = 1.42 g per 100 g. 1.08 g is the salt % of the
+    dough, not the bread; 1.80 g confuses % of flour with grams per 100 g of bread.
+
+- id: q3
+  question: >-
+    Rolls and baguettes were shaped from the same dough at the same time and proof side by side at
+    25 °C. What do you expect, and what do you plan?
+  options:
+    - >-
+      Baguettes are ready first; bake them and let the rolls proof longer.
+    - >-
+      Rolls are ready first; proof them a little cooler or shape them last.
+    - >-
+      Both are ready together, since proof depends only on dough temperature.
+    - >-
+      Rolls need a longer apprêt because small pieces lose gas faster.
+  correct: 1
+  explanation: >-
+    Small pieces warm through and rise faster, so a tray of rolls is often ready 15-20 minutes before
+    the baguettes. Proof them cooler, or shape them last, so the oven is free when they are ready.
+
+- id: q4
+  question: >-
+    You have 36 rolls to divide at 60 g. Which tolerance keeps a tray looking like a batch, and why?
+  options:
+    - >-
+      ± 10 g, because apprêt and baking even out small differences between rolls
+    - >-
+      ± 5 g, because the shop sells rolls by the piece, not by weight
+    - >-
+      No weighing needed if the dough is divided by eye into equal strips
+    - >-
+      ± 2 g, about 3 %, so the rolls proof, bake and look alike
+  correct: 3
+  explanation: >-
+    At ± 2 g a 60 g roll is within about 3 %; at ± 5 g it is about 8 %, which shows in size and in
+    baking. Fermentation and baking magnify differences rather than hide them.
+
+- id: q5
+  question: >-
+    Your home épi has burnt leaf tips while the stalk is still pale. The leaves were cut every 12 cm
+    and the oven has strong top heat. What is the best change?
+  options:
+    - >-
+      Cut every 6-8 cm for shorter leaves, and bake on a lower shelf or at 240 °C.
+    - >-
+      Cut every 15 cm so there are fewer tips to burn on each épi.
+    - >-
+      Leave out the steam, so the crust colours more evenly on the leaves.
+    - >-
+      Proof the épi longer, so the leaves grow thicker before baking.
+  correct: 0
+  explanation: >-
+    Long, thin leaves colour much faster than the stalk. Shorter leaves and less top heat even out the
+    colour; steam is still needed for the crust, and over-proofing only weakens the stalk.

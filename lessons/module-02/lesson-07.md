@@ -28,7 +28,7 @@ Levain (sourdough) is a living culture of wild yeasts and lactic acid bacteria k
 
 ## Why it matters
 
-Pain au levain, pain de campagne and many tradition breads rely on a levain, and you will need yours ready for Modules 4 and 10. A levain is also the ingredient that most often fails silently: too young, too old, too cold, too acidic. Knowing what lives in it and what each refreshment does lets you control it instead of guessing. The law matters because "au levain" on a label is a promise the bread must keep in a laboratory test.
+Pain au levain, pain de campagne and many tradition breads rely on a levain, and you will need yours ready for [Modules 4](../module-04/lesson-05.md) and [10](../module-10/lesson-03.md). A levain is also the ingredient that most often fails silently: too young, too old, too cold, too acidic. Knowing what lives in it and what each refreshment does lets you control it instead of guessing. The law matters because "au levain" on a label is a promise the bread must keep in a laboratory test.
 
 ## Key terms
 
@@ -50,7 +50,7 @@ Pain au levain, pain de campagne and many tradition breads rely on a levain, and
 - **Levain (article 4):** a dough made of wheat and/or rye flour and drinking water, possibly with salt, left to a **natural acidifying fermentation** whose purpose is to make the dough rise. Its flora is mainly **lactic acid bacteria and yeasts**. Baker's yeast may be added, but **only at the final kneading and at most 0.2 % of the flour** used at that stage. A dehydrated levain is allowed if it still contains a living flora (in the order of a billion bacteria and one to ten million yeasts per gram) and raises the dough correctly once rehydrated.
 - **"Au levain" (article 3):** bread may carry this mention only if its crumb has a **pH of 4.3 or less** and at least **900 ppm of acetic acid** produced by the fermentation.
 
-So a bread mixed with 1 % baker's yeast and a little levain "for taste" cannot be sold as "pain au levain". The full bread law, including tradition and maison, is taught in lesson 09.1.
+So a bread mixed with 1 % baker's yeast and a little levain "for taste" cannot be sold as "pain au levain". The full bread law, including tradition and maison, is taught in [lesson 09.1](../module-09/lesson-01.md).
 
 ### What lives in a levain
 
@@ -136,7 +136,7 @@ Tomorrow at 6 a.m. you mix pain de campagne needing **600 g of ripe liquid levai
 3. **Days 3–7:** feed the same way once a day. From the day it doubles reliably, feed twice a day (every 12 h).
 4. Before each feed, log: date and time, room temperature, highest rise since the last feed (× 1, × 1.5, × 2…), time to reach the peak if you saw it, smell, bubbles, pH if you have strips.
 5. On day 7, do a **float test**: drop a teaspoon of levain at its peak into water. A levain full of gas floats (a useful sign, not a law).
-6. Keep your levain: either feed it daily at room temperature, or store it in the fridge and refresh it 1–2 times before baking. You will use it in Modules 4 and 10.
+6. Keep your levain: either feed it daily at room temperature, or store it in the fridge and refresh it 1–2 times before baking. You will use it in [Modules 4](../module-04/lesson-05.md) and [10](../module-10/lesson-03.md).
 
 ### Targets
 

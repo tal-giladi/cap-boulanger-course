@@ -70,7 +70,7 @@ Décret 93-1074 (article 2) allows **no additive** in pain de tradition françai
 - a flour labelled "farine de tradition française" is made to respect this;
 - a commercial "améliorant" almost always contains E300 and is forbidden in tradition.
 
-The full legal text and the other bread names (maison, levain, campagne) are taught in lesson 09.1.
+The full legal text and the other bread names (maison, levain, campagne) are taught in [lesson 09.1](../module-09/lesson-01.md).
 
 ### Seeds, grains and other flours
 
@@ -82,7 +82,7 @@ The full legal text and the other bread names (maison, levain, campagne) are tau
 | Spelt (épeautre) | a wheat with weaker, more extensible gluten | mix less, ferment gently |
 | Buckwheat (sarrasin), maize | no gluten | blend with wheat; small shares only |
 
-A **soaker** (*trempage*) is seeds + water (often equal weights, more for flax, which forms a gel) left for several hours or overnight in the fridge. Soaked seeds bring moisture into the bread instead of stealing it. Toasting seeds before soaking adds flavour. Lesson 10.7 bakes a seeded loaf with a soaker.
+A **soaker** (*trempage*) is seeds + water (often equal weights, more for flax, which forms a gel) left for several hours or overnight in the fridge. Soaked seeds bring moisture into the bread instead of stealing it. Toasting seeds before soaking adds flavour. [Lesson 10.7](../module-10/lesson-07.md) bakes a seeded loaf with a soaker.
 
 > [!IMPORTANT]
 > Sesame, mustard, lupin, nuts and all gluten cereals (wheat including spelt, rye, barley, oats) are among the 14 regulated allergens. A seeded dough can contaminate the next batch through the mixer, the bench and the trays: plan the order of work and cleaning (lesson 17.6).

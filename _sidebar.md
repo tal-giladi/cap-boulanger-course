@@ -74,3 +74,18 @@
   - [48 · Scoring and Baking Baguettes](lessons/module-08/lesson-04.md)
   - [49 · Evaluating Your Pain Courant](lessons/module-08/lesson-05.md)
   - [Module 8 quiz](assessments/module-08-quiz.md)
+- **Module 9 — Pain de Tradition Française**
+  - [50 · The Law: Tradition, Maison, Levain and Other Names](lessons/module-09/lesson-01.md)
+  - [51 · Making Tradition Dough](lessons/module-09/lesson-02.md)
+  - [52 · Shaping and Scoring Tradition](lessons/module-09/lesson-03.md)
+  - [53 · Baking and Judging Tradition](lessons/module-09/lesson-04.md)
+  - [Module 9 quiz](assessments/module-09-quiz.md)
+- **Module 10 — Other Breads**
+  - [54 · Shaped Pieces: Boule, Bâtard, Fendu, Tabatière, Couronne](lessons/module-10/lesson-01.md)
+  - [55 · Épi and Petits Pains](lessons/module-10/lesson-02.md)
+  - [56 · Pain de Campagne and Levain Bread](lessons/module-10/lesson-03.md)
+  - [57 · Pain Complet and Wholemeal Doughs](lessons/module-10/lesson-04.md)
+  - [58 · Pain de Mie](lessons/module-10/lesson-05.md)
+  - [59 · Pain Viennois](lessons/module-10/lesson-06.md)
+  - [60 · Seeded and Special Breads](lessons/module-10/lesson-07.md)
+  - [Module 10 quiz](assessments/module-10-quiz.md)

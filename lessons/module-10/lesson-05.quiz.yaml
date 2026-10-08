@@ -1,0 +1,89 @@
+- id: q1
+  question: >-
+    A new lidded tin measures 28 × 10 × 10 cm inside. Using about 0.35 g of dough per cm³, what pâton
+    do you weigh for a pain de mie?
+  options:
+    - >-
+      About 2,800 g, one gram per cm³ of tin
+    - >-
+      About 980 g, 2,800 cm³ × 0.35
+    - >-
+      About 1,130 g, 2,800 cm³ × 0.35 plus 15 %
+    - >-
+      About 800 g, the usual weight for any pain de mie
+  correct: 1
+  explanation: >-
+    2,800 cm³ × 0.35 = 980 g. One gram per cm³ forces the lid off; adding 15 % suits an open tin (à
+    chapeau), not a lidded one; a fixed weight ignores the tin.
+
+- id: q2
+  question: >-
+    Technical sheet: pain de mie, salt 1.8 % (dough total 182.3 %), pâton 1,050 g, measured baking
+    loss 12 %. The limit is 1.1 g per 100 g of bread. What do you conclude?
+  options:
+    - >-
+      About 0.99 g per 100 g: conforms, so the sheet needs no change.
+    - >-
+      About 1.80 g per 100 g: far over the limit, so halve the salt.
+    - >-
+      About 0.96 g per 100 g: conforms with a comfortable margin.
+    - >-
+      About 1.12 g per 100 g: over; lower the salt to about 1.6 %.
+  correct: 3
+  explanation: >-
+    1,050 × 1.8 ÷ 182.3 = 10.37 g of salt in 924 g of bread = 1.12 g per 100 g. 0.99 % is the salt in
+    the dough, not the bread; 1.80 confuses % of flour with grams per 100 g of bread.
+
+- id: q3
+  question: >-
+    Your pain de mie dough took 25 minutes to reach a windowpane and came out at 29 °C. You put the
+    butter in with the flour at the start. What happened?
+  options:
+    - >-
+      Fat coated the proteins and slowed gluten forming, so mixing ran long and hot.
+    - >-
+      The butter melted into the water and made the dough far too wet to develop.
+    - >-
+      Butter at the start is correct; the dough was warm because of all the sugar.
+    - >-
+      The milk powder absorbed the water, so the gluten could not form.
+  correct: 0
+  explanation: >-
+    Fat coats the gluten-forming proteins and slows development. Add soft butter once the gluten has
+    formed; the dough then develops in normal time and stays near 25 °C.
+
+- id: q4
+  question: >-
+    A trainee wants to put the steam tray in for the pain de mie "for a better crust", as for the
+    baguettes. What do you tell them?
+  options:
+    - >-
+      Yes, steam at loading always gives more oven spring, whatever the bread.
+    - >-
+      Yes, but only for the first 5 minutes, then vent the oven.
+    - >-
+      No: it is unscored in a closed tin, and a soft, thin crust is wanted.
+    - >-
+      No: steam would make the lid rust and stick to the tin.
+  correct: 2
+  explanation: >-
+    Steam keeps the skin supple so scores open and gives a crisp, shiny crust. A pain de mie has no
+    scores, bakes enclosed in its own moisture and should have a soft crust: no steam.
+
+- id: q5
+  question: >-
+    Twenty minutes after baking, the pains de mie left in their tins on the rack have soft, caved-in
+    sides. What was the mistake?
+  options:
+    - >-
+      Too much dough in each tin, pressing the sides outward.
+    - >-
+      The lid was slid on too late, when the dough was above the rim.
+    - >-
+      Too little sugar, so the crust could not set firmly.
+    - >-
+      They were not unmoulded at once, so steam condensed against the tin.
+  correct: 3
+  explanation: >-
+    Left in the tin, steam from the loaf condenses between bread and metal and softens the sides, which
+    cave in. Unmould at once and cool on the side; under-baking gives the same defect.

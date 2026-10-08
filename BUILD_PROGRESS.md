@@ -28,8 +28,8 @@ Goal: build "CAP Boulanger Preparation" per `curriculum/plan.md`, following
 - [x] Module 6 — Baker's Mathematics
 - [x] Module 7 — The Production Process
 - [x] Module 8 — Pain Courant
-- [ ] Module 9 — Pain de Tradition Française
-- [ ] Module 10 — Other Breads
+- [x] Module 9 — Pain de Tradition Française
+- [x] Module 10 — Other Breads
 - [ ] Module 11 — Viennoiserie: The Croissant
 - [ ] Module 12 — Viennoiserie: Pain au Chocolat, Pain aux Raisins and Brioche Doughs
 - [ ] Module 13 — Professional Equipment
@@ -47,7 +47,7 @@ Goal: build "CAP Boulanger Preparation" per `curriculum/plan.md`, following
 
 ## Agents now
 
-- PAUSED after modules 7 and 8 (2026-10-08). Next: modules 9 and 10.
+- PAUSED after modules 9 and 10 (2026-10-08). Next: modules 11 and 12.
 
 ## Decisions and open questions
 
@@ -72,3 +72,5 @@ Goal: build "CAP Boulanger Preparation" per `curriculum/plan.md`, following
 - Module 6: order sheets PO-01 (baguettes on poolish) and CA-01 (campagne on liquid levain) in projects/m06-calculation-workbook.md — reuse in modules 8–10. VAT source BOFiP BOI-TVA-LIQ-30-10-10. Baking-loss 20 % still unsourced (planning estimate). Final QA: module 6 troubleshooting rows and sources (see matrix); 06.5 mentions 08.3 in plain text.
 - Module 8 decisions: home pâte fermentée = mini PC-02 dough (50 g flour) made the evening before, then keep back 75 g (500 g batch) / 150 g (1 kg) at end of pointage; 270 g home baguette hits the 1.4 g salt limit at ~23 % baking loss; four-factor hand friction factor = 8; home steam = preheated metal tray lowest shelf, 100–150 mL hot water at loading, vent at ~10 min, fan off first 10 min. Final QA: module 8 troubleshooting rows, ASBE "Baking" source, quality-rubric crumb line for pain courant (see matrix).
 - Module 7: Module 9 must cover freezing rules for pain de tradition (07.5 leaves them out). Final QA: module 7 sources (King Arthur ×9, FAO AGRIS Aguirre 2011, INRS), troubleshooting rows (pain ferré, croûte terne, fused cuts, fridge staling, façonneuse tearing), oven temperature source (INBP/ANMF).
+- Module 9: sheet TR-01 (T65 tradition 100 / water 70 = 68 autolyse + 2 bassinage / salt 1.8 / fresh yeast 0.6 / tradition pâte fermentée 15; TPV 23 °C; ~2 h pointage with folds; salt 1.044 % of dough) + retarded variant; home tradition pâte fermentée = mini dough from the same additive-free flour, never PC-02; bakery friction factor 14 for autolyse + slow mix; tradition salt ≤ 1.4 g/100 g as good practice. Freezing ban (décret 93-1074 art. 2, Code conso L122-17) taught in 09.1/09.4 — 07.5 can link to 09.1. Campagne/complet are free names (QE 11049, 2024). Final QA: module 9 sources and troubleshooting rows, tradition crumb line in quality rubric (see matrix).
+- Module 10 sheets CO-01, PM-01, VI-01, SE-01 (full formulas in curriculum/matrix/module-10.md item 3). Salt as % of dough: PC-02 1.076, CA-01 1.048, CO-01 0.958, PM-01 0.879, VI-01 1.004, SE-01 0.840. formulas.md salt ranges lowered to stay under the 2023/2025 limits (bread 1.6-1.8, pain de mie 1.5-1.6, viennois 1.8). No steam for pain de mie, egg-washed viennois, tin loaves. Final QA: module 10 troubleshooting rows, sources, unsourced shaping statements (fendu, tabatière, viennois cuts) — find INBP/ANMF source; 10.7 mentions 17.6 in plain text.

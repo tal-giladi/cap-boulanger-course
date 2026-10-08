@@ -1,0 +1,34 @@
+- **Bâtard** (*bah-TAR*) — oval loaf, shorter and thicker than a baguette; about 25 cm for a 400 g pâton.
+- **Boulage à deux mains** (*boo-LAHZH ah duh MAN*) — rounding two rolls at once, one under each hand, on a bench that grips the dough.
+- **Boule** (*BOOL*) — round loaf, shaped with tension in every direction and scored symmetrically.
+- **Ciseaux** (*see-ZOH*) — scissors; used to cut the épi and some rolls.
+- **Coups de lame obliques** (*KOO duh LAHM oh-BLEEK*) — short, parallel oblique cuts across the top of a baguette viennoise.
+- **Couronne** (*koo-RONN*) — crown: a ring-shaped loaf made from a ball with a widened hole or from a cylinder joined end to end.
+- **Démoulage** (*day-moo-LAHZH*) — unmoulding: taking a tin loaf out of its tin, at once after baking for pain de mie.
+- **Épi** (*ay-PEE*) — "ear of wheat": a baguette cut with scissors held low, about three quarters through, into leaves laid alternately left and right.
+- **Farine complète (T150)** (*fah-REEN kohm-PLET*) — wholemeal flour: the whole grain milled, ash about 1.4 % or more; the flour of pain complet.
+- **Farine de seigle** (*fah-REEN duh SEH-gluh*) — rye flour (T85, T130, T170); binds much water and forms no gluten network.
+- **Flancs affaissés** (*FLAHN ah-fay-SAY*) — caved-in sides of a tin loaf, from unmoulding too late or under-baking.
+- **Graines de lin / tournesol / sésame / courge** (*GREN duh LAN / toor-nuh-SOL / say-ZAM / KOORZH*) — flax / sunflower / sesame / pumpkin seeds; sesame is a regulated allergen.
+- **Inclusions / garnitures** (*an-klü-ZYOHN / gar-nee-TÜR*) — additions folded into a dough at the end of mixing: seeds, nuts, dried fruit, chocolate.
+- **Lait en poudre** (*LAY ahn POO-druh*) — milk powder; used with water in pain de mie and viennois.
+- **Moule à pain de mie** (*MOOL ah pan duh MEE*) — pain de mie tin with a sliding lid (couvercle), the Pullman tin; dough about 0.35 g per cm³ of tin.
+- **Pain au levain** (*pan oh luh-VAN*) — bread that may carry the "au levain" mention: levain-raised, crumb pH 4.3 or less, at least 900 ppm acetic acid, baker's yeast only at final mixing and at most 0.2 % of that flour (décret 93-1074).
+- **Pain aux graines / aux céréales** (*pan oh GREN / oh say-ray-AL*) — seeded / cereal bread; at most 1.3 g of salt per 100 g of bread under the salt agreement.
+- **Pain aux noix** (*pan oh NWAH*) — walnut bread; walnuts folded in at the end of mixing; nuts are a regulated allergen.
+- **Pain bien cuit** (*pan byan KWEE*) — well-baked bread with a deep, dark crust, as expected for pain de campagne.
+- **Pain complet** (*pan kohm-PLAY*) — wholemeal bread made with type 150 flour; at most 1.3 g of salt per 100 g of bread.
+- **Pain d'épeautre** (*pan day-POH-truh*) — spelt bread; spelt is a wheat with weaker, more extensible gluten and contains gluten.
+- **Pain de campagne** (*pan duh kahm-PAN-yuh*) — "country bread": a rustic loaf, usually with some rye or darker flour and a levain or long fermentation; the name comes from usage, not from the 1993 decree.
+- **Pain de mie** (*pan duh MEE*) — soft sandwich loaf baked in a lidded tin, without steam; enriched with milk, sugar and butter; at most 1.1 g of salt per 100 g of bread since October 2025.
+- **Pain de mie à chapeau** (*pan duh MEE ah shah-POH*) — pain de mie baked without a lid, with a domed top.
+- **Pain fendu** (*pan fahn-DÜ*) — split loaf: a floured groove pressed along the middle with a rolling pin; proofed groove down, turned up at loading, not scored.
+- **Pain moulé** (*pan moo-LAY*) — tin loaf: bread proofed and baked in a mould.
+- **Pain spécial** (*pan spay-SYAL*) — special bread: bread with added ingredients or other flours (seeds, cereals, nuts, rye, spelt).
+- **Pain viennois / baguette viennoise** (*pan vyeh-NWAH / bah-GET vyeh-NWAZ*) — soft milk bread with sugar and butter, a firm dough usually shaped as a baguette, egg-washed, cut obliquely and baked at about 180-200 °C without steam.
+- **Petit pain** (*puh-TEE PAN*) — roll: a small bread, about 60 g of dough in this course, in shapes such as rond, long, fendu, tabatière or petit épi.
+- **Pièce façonnée** (*pyess fah-soh-NAY*) — shaped piece: a loaf other than a baguette shaped by hand from the day's dough (boule, bâtard, fendu, tabatière, couronne).
+- **Prémix (mix céréales)** (*pray-MEEKS*) — ready-made blend of flours, seeds and often adjuvants and additives for cereal breads; its label must be read and its allergens declared.
+- **Rancissement** (*rahn-sees-MAHN*) — rancidity: off-taste from oxidised fats, a risk with wholemeal flour and seeds kept warm or too long.
+- **Rouleau (à pâtisserie)** (*roo-LOH*) — rolling pin; presses the fendu's groove and rolls the tabatière's flap.
+- **Tabatière** (*tah-bah-TYAIR*) — "snuff box": a round loaf with a thin flap (3-4 mm) folded over it like a lid; proofed flap down, turned up at loading, not scored.
