@@ -1,0 +1,92 @@
+- id: q1
+  question: >-
+    A mill's specification sheet for a new T65 reads: "farine de blé, farine de fèves 1,5 %, farine
+    de malt de blé 0,2 %, acide ascorbique (E300)". Can bread made only from this flour, water,
+    salt and yeast be sold as pain de tradition française?
+  options:
+    - >-
+      Yes, because bean flour and malt flour are both within their legal limits.
+    - >-
+      Yes, if the ascorbic acid stays below 300 ppm of the flour weight.
+    - >-
+      No, because the ascorbic acid is an additive, and tradition allows none.
+    - >-
+      No, because bean flour is never allowed in a tradition dough.
+  correct: 2
+  explanation: >-
+    Article 2 of décret 93-1074 allows no additive at all. Bean flour (up to 2 %) and wheat malt flour
+    (up to 0.3 %) are permitted, but the E300 rules the flour out for tradition.
+
+- id: q2
+  question: >-
+    The owner wants traditions for Sunday without working on Sunday morning. Which plan keeps the
+    name "pain de tradition française"?
+  options:
+    - >-
+      Shape on Saturday, freeze the raw baguettes, bake them on Sunday.
+    - >-
+      Retard the bulk dough at about 4 °C overnight, then divide and shape on Sunday.
+    - >-
+      Par-bake on Saturday, freeze, and finish the baguettes in the shop oven.
+    - >-
+      Bake on Saturday, freeze the unsold bread, and thaw it on Sunday morning.
+  correct: 1
+  explanation: >-
+    Article 2 forbids any freezing treatment during making; positive cold such as pointage retardé
+    au froid is a listed tradition method. Freezing the finished bread for later sale is also banned
+    in any boulangerie (L122-17).
+
+- id: q3
+  question: >-
+    A "pain au levain" is made with levain and a final dough on 5,000 g of flour. How much fresh
+    yeast may go into the final dough at most?
+  options:
+    - >-
+      10 g, which is 0.2 % of the flour in the final dough
+    - >-
+      50 g, which is 1 % of the flour in the final dough
+    - >-
+      None at all, because levain bread may never contain yeast
+    - >-
+      25 g, which is 0.5 % of the flour in the final dough
+  correct: 0
+  explanation: >-
+    Article 4 allows baker's yeast only in the final mixing, at most 0.2 % of the flour used at that
+    stage: 5,000 × 0.2 % = 10 g. The bread must also reach crumb pH ≤ 4.3 and ≥ 900 ppm acetic acid.
+
+- id: q4
+  question: >-
+    A shop bakes dough delivered frozen by a supplier, in its own oven, and sells it hot. Which
+    labels may it use?
+  options:
+    - >-
+      "Pain maison", because the bread is baked on the premises.
+    - >-
+      The sign "boulangerie", if it also sells viennoiserie made on site.
+    - >-
+      "Pain de tradition française", if the supplier's dough has no additive.
+    - >-
+      None of these three; it may sell the bread under a plain or fantasy name.
+  correct: 3
+  explanation: >-
+    Pain maison needs kneading, shaping and baking on site (art. 1); tradition forbids freezing
+    during making (art. 2); the boulangerie sign needs the dough made on site and never frozen
+    (L122-17).
+
+- id: q5
+  question: >-
+    A new sales assistant asks what "pain de campagne" means legally. Which answer is correct?
+  options:
+    - >-
+      It is defined by the 1993 decree as wheat and rye bread on levain.
+    - >-
+      It has no legal recipe, but the name must not mislead the customer.
+    - >-
+      It must contain at least 10 % rye flour and a crumb pH under 4.3.
+    - >-
+      It is a protected name reserved for bread with the Label Rouge.
+  correct: 1
+  explanation: >-
+    The decree defines only maison, tradition and au levain. Campagne, complet and similar names
+    are free descriptive names, but a misleading claim about composition or method is forbidden
+    by the consumer code (L121-2).

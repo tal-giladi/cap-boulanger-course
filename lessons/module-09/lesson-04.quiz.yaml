@@ -1,0 +1,89 @@
+- id: q1
+  question: >-
+    Batch control, tradition TR-01 (salt 1.044 % of the dough): pâtons 300 g, five cooled baguettes
+    average 228 g. What is the salt per 100 g of bread?
+  options:
+    - >-
+      1.04 g, the share of salt in the dough
+    - >-
+      1.37 g, from 3.13 g of salt in 228 g of bread
+    - >-
+      1.80 g, the salt percentage on the sheet
+    - >-
+      1.08 g, from the PC-02 dough figure
+  correct: 1
+  explanation: >-
+    Salt does not evaporate: 300 × 1.044 % = 3.13 g, in 228 g of bread = 1.37 g per 100 g. The 1.8 %
+    is of the flour, and 1.044 % is of the raw dough, not of the bread.
+
+- id: q2
+  question: >-
+    Two home traditions come out at 25 minutes golden but light on the cuts, hollow underneath, core
+    92 °C. What do you do?
+  options:
+    - >-
+      Take them out: hollow sound means they are done whatever the colour.
+    - >-
+      Switch to grill mode for 2 minutes to colour the top only.
+    - >-
+      Give them 2-4 minutes more until deep golden and a core of 96-98 °C.
+    - >-
+      Take them out and cover them with a cloth so the crust softens.
+  correct: 2
+  explanation: >-
+    Tradition is baked to a deep colour with a core of at least 93 °C, usually 96-98 °C. At 92 °C and
+    light cuts it is under-baked: pale, softer crust and less aroma.
+
+- id: q3
+  question: >-
+    You cut a cooled tradition: very white crumb, small regular holes, little aroma. The bake log
+    shows correct temperatures and times. Which earlier step is most likely responsible?
+  options:
+    - >-
+      Mixing too long or too fast, which oxidised the dough.
+    - >-
+      Steam left in the oven for 10 minutes at the start.
+    - >-
+      A pâte fermentée kept at 4 °C overnight.
+    - >-
+      A poke test that showed a slowly filling dent.
+  correct: 0
+  explanation: >-
+    Fast or long mixing beats in air and oxidises the carotenoids: white, bland crumb. Steam, a
+    cold-kept pâte fermentée and a slowly filling dent are all normal practice.
+
+- id: q4
+  question: >-
+    A customer asks the sales assistant whether the shop's tradition is "the one you freeze and bake
+    every morning". Which answer is correct?
+  options:
+    - >-
+      Yes: freezing is allowed if the bread is baked in the shop the same day.
+    - >-
+      Yes, but only for the baguettes, not for the larger tradition loaves.
+    - >-
+      No, because frozen dough would need additives, and tradition has none.
+    - >-
+      No: tradition is never frozen while it is made, and she may freeze it at home.
+  correct: 3
+  explanation: >-
+    Article 2 of the decree forbids freezing during making, and a boulangerie may not freeze dough or
+    bread at any stage (L122-17). After purchase the customer may freeze her bread.
+
+- id: q5
+  question: >-
+    The owner asks why tradition needs about two hours more of the baker's day than PC-02 pain
+    courant. Which answer is correct?
+  options:
+    - >-
+      Tradition must by law ferment for at least two hours before dividing.
+    - >-
+      The autolyse and the long pointage replace the strength the additive gives.
+    - >-
+      Tradition flour absorbs water slowly, so the mixer runs two hours longer.
+    - >-
+      The higher hydration doubles the baking time in the deck oven.
+  correct: 1
+  explanation: >-
+    No law sets a fermentation time. Without additives, the autolyse, the folds and a pointage of
+    about 2 hours build strength and flavour; the bake is only a few minutes longer.

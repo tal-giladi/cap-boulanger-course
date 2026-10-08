@@ -1,0 +1,89 @@
+- id: q1
+  question: >-
+    A trainee tips the tradition dough out of the tub, punches it flat "to even it out" and rounds
+    each piece into a tight ball. What will the customer most likely see?
+  options:
+    - >-
+      A tight, regular crumb instead of an open, irregular one.
+    - >-
+      A sour taste, because punching restarts the lactic fermentation.
+    - >-
+      A darker crust, because degassed dough browns faster in the oven.
+    - >-
+      Larger holes, because the gas is pushed into fewer, bigger bubbles.
+  correct: 0
+  explanation: >-
+    The large irregular bubbles built during the long pointage are the point of tradition. Punching
+    and tight rounding push them out and the crumb comes out regular and tight.
+
+- id: q2
+  question: >-
+    Dividing log, tradition 300 g ± 5 g: piece 7 weighed 286 g and received three appoints to reach
+    300 g. What does this tell you?
+  options:
+    - >-
+      Nothing: the weight is right, so the piece is acceptable as it is.
+    - >-
+      The dough is under-fermented, because light pieces show too little gas.
+    - >-
+      The cutting is off: rectangles too small, more than one appoint per pâton.
+    - >-
+      The scale is wrong and must be checked with a test weight at once.
+  correct: 2
+  explanation: >-
+    At most one appoint per pâton; more means badly sized cuts, extra handling and weaker pieces.
+    Look at the size of the rectangles you cut.
+
+- id: q3
+  question: >-
+    The détente of a tradition divided straight from the cold room (pointage retardé at 4 °C) has
+    lasted 25 minutes and the pieces spring back when stretched. What do you do?
+  options:
+    - >-
+      Shape now with firm pressure so the gluten gives way.
+    - >-
+      Put the pieces in the proofing cabinet so they warm up while you shape.
+    - >-
+      Add dusting flour and roll them out in one long, firm pass.
+    - >-
+      Extend the détente, about 45-60 minutes in total for cold dough.
+  correct: 3
+  explanation: >-
+    Cold, retarded dough needs a longer détente before it stretches without tearing. Forcing it tears
+    the gluten and squeezes out the gas.
+
+- id: q4
+  question: >-
+    Shaped traditions spread wide and flat in the couche within 20 minutes, with seams opening
+    underneath. Which cause fits best?
+  options:
+    - >-
+      Too much dusting flour in the couche absorbed the surface water.
+    - >-
+      Seams not sealed and too little tension for a soft dough.
+    - >-
+      The lame was dull, so the dough could not hold its shape.
+    - >-
+      The détente was too long, so the dough became too strong to spread.
+  correct: 1
+  explanation: >-
+    Light folds are right for tradition, but the seam must be sealed firmly: it holds a soft dough
+    together. Open seams and no tension let the baguette spread.
+
+- id: q5
+  question: >-
+    Traditions are ready to bake, but the lame drags and tears the skin on the first baguette. What
+    is the best correction for the rest of the load?
+  options:
+    - >-
+      Cut much deeper so the blade goes through the wet layer.
+    - >-
+      Score with a knife held upright to get a cleaner cut.
+    - >-
+      A new blade, quick low strokes and a skin left to dry briefly.
+    - >-
+      Wait 30 minutes so the skin dries fully before scoring.
+  correct: 2
+  explanation: >-
+    A sharp blade, a quick stroke, a low angle and a skin dried for a few minutes give clean cuts.
+    Deep or upright cuts flatten the baguette, and 30 more minutes would over-proof it.

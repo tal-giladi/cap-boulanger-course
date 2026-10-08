@@ -97,7 +97,7 @@ flowchart TB
   L --> T[Nutrition declaration per 100 g:<br/>energy, fat, saturates, carbohydrate,<br/>sugars, protein, salt]
 ```
 
-**Unwrapped bakery bread** sold over the counter is "non-prepacked". The EU nutrition table is not required here, and Annex V of the INCO regulation also exempts food, including handcrafted food, supplied directly by the manufacturer of small quantities to the final consumer. What remains compulsory in France is the **allergen information in writing** for customers (décret n° 2015-447) and the correct legal **name** of the product (tradition, campagne, au levain: Module 9). That is why the artisan baguette has no nutrition table but must have an allergen list available.
+**Unwrapped bakery bread** sold over the counter is "non-prepacked". The EU nutrition table is not required here, and Annex V of the INCO regulation also exempts food, including handcrafted food, supplied directly by the manufacturer of small quantities to the final consumer. What remains compulsory in France is the **allergen information in writing** for customers (décret n° 2015-447) and the correct legal **name** of the product (tradition, maison, au levain: [lesson 09.1](../module-09/lesson-01.md)). That is why the artisan baguette has no nutrition table but must have an allergen list available.
 
 ### The Nutri-Score
 

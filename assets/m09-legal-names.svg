@@ -1,0 +1,56 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 640" width="900" height="640" role="img" aria-labelledby="t d">
+  <title id="t">French bread names: which are protected by law and what each requires</title>
+  <desc id="d">Four protected names and one group of free names. Pain de tradition française (décret 93-1074, article 2): wheat flour, drinking water and salt only; baker's yeast and/or levain; optional bean flour up to 2 percent, soy flour up to 0.5 percent and wheat malt flour up to 0.3 percent of the total flour; no additive; no freezing during making. Pain maison (article 1): kneaded, shaped and baked entirely where it is sold. Au levain (articles 3 and 4): crumb pH 4.3 or less and at least 900 ppm acetic acid; baker's yeast only at the final mixing, at most 0.2 percent of the flour used at that stage. Boulanger and boulangerie (Code de la consommation L122-17): kneading, fermentation, shaping and baking done on site from chosen raw materials; dough and bread never frozen at any stage of production or sale. Free names with no legal recipe: pain courant, pain de campagne, pain complet and other descriptive mentions; they must not mislead the customer (L121-2). Names combine: a tradition au levain must meet both sets of rules.</desc>
+  <rect x="0" y="0" width="900" height="640" fill="#ffffff"/>
+  <g font-family="Arial, Helvetica, sans-serif" fill="#222222">
+    <text x="450" y="32" text-anchor="middle" font-size="21" font-weight="bold">French bread names: what the law protects</text>
+    <text x="450" y="56" text-anchor="middle" font-size="13">Checked on Légifrance 2026-10-08. Protected names in colour; free names in grey.</text>
+
+    <!-- tradition -->
+    <rect x="20" y="76" width="420" height="214" rx="10" fill="#fdf1dc" stroke="#b9822c" stroke-width="2"/>
+    <text x="36" y="104" font-size="17" font-weight="bold">Pain de tradition française</text>
+    <text x="36" y="124" font-size="12" fill="#7a5418">décret n°93-1074, article 2</text>
+    <text x="36" y="150" font-size="13">• Dough of wheat flour, drinking water, salt only</text>
+    <text x="36" y="172" font-size="13">• Fermented with baker's yeast and/or levain</text>
+    <text x="36" y="194" font-size="13">• Optional, as % of the total flour:</text>
+    <text x="52" y="214" font-size="13">bean flour ≤ 2 % · soy flour ≤ 0.5 % · wheat malt flour ≤ 0.3 %</text>
+    <text x="36" y="238" font-size="13" font-weight="bold">• No additive at all (no E300, no improver)</text>
+    <text x="36" y="262" font-size="13" font-weight="bold">• No freezing (surgélation) during making</text>
+    <text x="36" y="282" font-size="12" fill="#7a5418">Cold retarding above 0 °C is allowed.</text>
+
+    <!-- maison -->
+    <rect x="460" y="76" width="420" height="100" rx="10" fill="#e6f0fa" stroke="#3d6fa3" stroke-width="2"/>
+    <text x="476" y="104" font-size="17" font-weight="bold">Pain maison</text>
+    <text x="476" y="124" font-size="12" fill="#2b5179">décret n°93-1074, article 1</text>
+    <text x="476" y="150" font-size="13">• Kneaded, shaped and baked entirely</text>
+    <text x="476" y="168" font-size="13">at the place where it is sold to the customer</text>
+
+    <!-- levain -->
+    <rect x="460" y="190" width="420" height="100" rx="10" fill="#eaf5e6" stroke="#4e8a3a" stroke-width="2"/>
+    <text x="476" y="216" font-size="17" font-weight="bold">« Au levain »</text>
+    <text x="606" y="216" font-size="12" fill="#3a6a2b">articles 3 and 4</text>
+    <text x="476" y="240" font-size="13">• Crumb pH ≤ 4.3 and ≥ 900 ppm acetic acid</text>
+    <text x="476" y="262" font-size="13">• Baker's yeast only at the final mixing,</text>
+    <text x="476" y="280" font-size="13">at most 0.2 % of the flour used at that stage</text>
+
+    <!-- boulangerie -->
+    <rect x="20" y="306" width="860" height="96" rx="10" fill="#f3e8f7" stroke="#7d4b94" stroke-width="2"/>
+    <text x="36" y="334" font-size="17" font-weight="bold">« Boulanger » and the sign « Boulangerie »</text>
+    <text x="440" y="334" font-size="12" fill="#5b3470">Code de la consommation, article L122-17</text>
+    <text x="36" y="360" font-size="13">• The business itself kneads, ferments and shapes the dough from chosen raw materials, and bakes on the site of sale</text>
+    <text x="36" y="384" font-size="13" font-weight="bold">• Dough and bread never frozen (surgelés or congelés) at any stage of production or sale</text>
+
+    <!-- free -->
+    <rect x="20" y="418" width="860" height="110" rx="10" fill="#f2f2f2" stroke="#8a8a8a" stroke-width="2" stroke-dasharray="6 4"/>
+    <text x="36" y="446" font-size="17" font-weight="bold">No legal recipe: pain courant, pain de campagne, pain complet, « multi-céréales »…</text>
+    <text x="36" y="472" font-size="13">• Composition and method chosen by the baker; additives allowed for bread may be used (not in tradition)</text>
+    <text x="36" y="494" font-size="13">• The name must not mislead about composition or method (Code de la consommation L121-2)</text>
+    <text x="36" y="516" font-size="13">• Pain courant must also respect the salt limit (1.4 g per 100 g of bread, lesson 02.5)</text>
+
+    <!-- combine -->
+    <rect x="20" y="544" width="860" height="78" rx="10" fill="#fff8e1" stroke="#c9a227" stroke-width="2"/>
+    <text x="36" y="572" font-size="15" font-weight="bold">Names add up, rules add up</text>
+    <text x="36" y="596" font-size="13">A « tradition au levain maison » must meet article 2 AND articles 3-4 AND article 1. Fail one rule and that word comes off the label.</text>
+    <text x="36" y="614" font-size="12" fill="#6b5a17">Label Rouge « Baguette de tradition française » (LA 22/01) is a voluntary label with its own extra specification.</text>
+  </g>
+</svg>

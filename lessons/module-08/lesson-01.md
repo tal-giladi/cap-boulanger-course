@@ -49,7 +49,7 @@ Pain courant is the everyday bread of a French bakery and the first bread on the
 
 ### What "pain courant" means
 
-The 1993 bread decree protects the name **pain de tradition française**: wheat flour, water, salt, yeast and/or levain, a few listed flours, **no additives**, never frozen ([décret n°93-1074](https://www.legifrance.gouv.fr/loda/id/JORFTEXT000000727617); Module 9). Bread that does not meet those rules is **pain courant**. It may use ordinary bread flour with ascorbic acid (E300), improvers allowed for bread, and faster methods. It is not a lesser bread: well made, on pâte fermentée with improved mixing, it has a crisp crust, a creamy crumb and a clean wheat flavour. It is cheaper to make because the day is shorter.
+The 1993 bread decree protects the name **pain de tradition française**: wheat flour, water, salt, yeast and/or levain, a few listed flours, **no additives**, never frozen ([décret n°93-1074](https://www.legifrance.gouv.fr/loda/id/JORFTEXT000000727617); [Module 9](../module-09/lesson-01.md)). Bread that does not meet those rules is **pain courant**. It may use ordinary bread flour with ascorbic acid (E300), improvers allowed for bread, and faster methods. It is not a lesser bread: well made, on pâte fermentée with improved mixing, it has a crisp crust, a creamy crumb and a clean wheat flavour. It is cheaper to make because the day is shorter.
 
 One legal number does apply: since October 2023, pain courant such as the baguette must contain at most **1.4 g of salt per 100 g of bread** ([Ministry of Agriculture](https://agriculture.gouv.fr/filiere-boulangerie-vers-une-diminution-du-sel-dans-le-pain-0); lesson [02.5](../module-02/lesson-05.md)).
 

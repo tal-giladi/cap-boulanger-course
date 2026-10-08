@@ -77,7 +77,7 @@ A poolish is ripe when its surface is covered with small bubbles and it has just
 
 ### The levain rules, in one line
 
-Under décret n°93-1074, a bread made on levain may have baker's yeast added only at the final mixing and at most 0.2 % of the flour used at that stage (art. 4), and a bread sold "au levain" must have a crumb pH of 4.3 or less and at least 900 ppm of acetic acid (art. 3). Lesson [02.7](../module-02/lesson-07.md) explains them; lesson 09.1 places them among the other legal bread names.
+Under décret n°93-1074, a bread made on levain may have baker's yeast added only at the final mixing and at most 0.2 % of the flour used at that stage (art. 4), and a bread sold "au levain" must have a crumb pH of 4.3 or less and at least 900 ppm of acetic acid (art. 3). Lesson [02.7](../module-02/lesson-07.md) explains them; [lesson 09.1](../module-09/lesson-01.md) places them among the other legal bread names.
 
 ### Choosing a method for a product
 

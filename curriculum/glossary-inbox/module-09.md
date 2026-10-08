@@ -1,0 +1,21 @@
+- **Alvéoles brillantes** (*al-vay-OHL bree-YAHNT*) — shiny cell walls in the crumb of a well-fermented, well-hydrated dough such as tradition.
+- **Appellation (réglementaire)** (*ah-peh-lah-SYOHN ray-gluh-mahn-TAIR*) — a product name whose conditions are set by law, such as pain de tradition française or pain maison.
+- **Argumentaire de vente** (*ar-gü-mahn-TAIR duh VAHNT*) — sales argument: what the shop tells customers about a product (composition, method, taste, keeping).
+- **Au levain** (*oh luh-VAN*) — mention allowed only on bread whose crumb has a pH of 4.3 or less and at least 900 ppm of acetic acid (décret 93-1074, art. 3); yeast only at the final mixing, at most 0.2 % of that flour (art. 4).
+- **Bien cuit** (*byan KWEE*) — well baked: the deep golden-brown crust usually wanted on tradition.
+- **Boulangerie (enseigne)** (*boo-lahn-zhuh-REE*) — sign reserved for businesses that knead, ferment, shape and bake on the site of sale, with dough and bread never frozen at any stage (Code de la consommation L122-17).
+- **Dégazage** (*day-gah-ZAHZH*) — degassing: pushing gas out of the dough when handling it; kept to a minimum for tradition.
+- **DGCCRF** (*day-zhay-say-say-air-EF*) — Direction générale de la concurrence, de la consommation et de la répression des fraudes: the French authority that checks product names and labels.
+- **Dépôt de pain / point chaud** (*day-POH duh PAN / pwan SHOH*) — shop that sells bread made elsewhere or baked off from bought-in dough; it may not use the word boulangerie.
+- **Farine de fèves / de soja / de malt de blé** (*fah-REEN duh FEHV / duh soh-ZHAH / duh MAHLT duh BLAY*) — bean, soy and wheat malt flour: the only extras allowed in pain de tradition française, at most 2 %, 0.5 % and 0.3 % of the total flour.
+- **Fleurage** (*fluh-RAHZH*) — dusting flour (often rice flour) on the bench, couche or dough.
+- **Label Rouge** (*lah-BEL ROOZH*) — French state-recognised, voluntary quality label with its own specification; LA 22/01 covers the "Baguette de tradition française".
+- **Mie crème** (*mee KREM*) — cream-coloured crumb, from carotenoid pigments kept by gentle mixing and an autolyse.
+- **Pain complet** (*pan kohm-PLEH*) — wholemeal bread; a voluntary descriptive mention (linked to T150 flour), with no legal recipe beyond consumer law.
+- **Pain de campagne** (*pan duh kahm-PAHN-yuh*) — country bread; no legal recipe, usually wheat with some rye, often on levain; the name must not mislead.
+- **Pain de tradition française** (*pan duh trah-dee-SYOHN frahn-SEZ*) — bread of wheat flour, drinking water and salt fermented with yeast and/or levain, with only bean, soy and malt flours as extras, no additive and no freezing during making (décret 93-1074, art. 2).
+- **Pain maison** (*pan meh-ZOHN*) — bread kneaded, shaped and baked entirely at the place where it is sold (décret 93-1074, art. 1).
+- **Pâte fermentée de tradition** (*paht fair-mahn-TAY duh trah-dee-SYOHN*) — a piece of earlier tradition dough kept as pre-ferment; pain courant dough may not be used, as it can carry additives.
+- **Pratique commerciale trompeuse** (*prah-TEEK koh-mair-SYAL trohm-PUHZ*) — misleading commercial practice, e.g. a false claim about composition or method (Code de la consommation L121-2).
+- **Surgélation / congélation** (*sür-zhay-lah-SYOHN / kohn-zhay-lah-SYOHN*) — deep-freezing / freezing; excluded during the making of tradition and at any stage in a boulangerie.
+- **Viennoiserie maison** (*vyen-wahz-REE meh-ZOHN*) — viennoiserie made on site from the raw ingredients; no decree, but calling bought-in products "maison" is misleading.

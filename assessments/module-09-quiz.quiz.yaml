@@ -1,0 +1,185 @@
+- id: q1
+  question: >-
+    Production order: 30 baguettes de tradition at 300 g, TR-01 (total 187.4 %). The batch must also
+    give tomorrow's 800 g of tradition pâte fermentée. Process losses 2 %, flour rounded up to the
+    next 100 g. How much flour do you weigh?
+  options:
+    - >-
+      4,900 g, from 9,000 g of dough plus 2 %
+    - >-
+      5,300 g, from 9,800 g plus 2 %, rounded down
+    - >-
+      5,400 g, from 9,800 g of dough plus 2 %
+    - >-
+      5,800 g, from 9,800 g plus 2 % over 172.4 %
+  correct: 2
+  explanation: >-
+    Requirement 9,000 + 800 = 9,800 g; × 1.02 = 9,996 g; ÷ 1.874 = 5,334 g, rounded up to 5,400 g.
+    Forgetting tomorrow's pâte fermentée, rounding down, or dividing by 1.724 (leaving out today's
+    pâte fermentée) are the usual slips.
+
+- id: q2
+  question: >-
+    Temperature log, July, 3:30: TR-01, TPV 23 °C, flour 24 °C, fournil 26 °C, tradition pâte
+    fermentée from the cold room 7 °C, friction factor 14 (four factors, autolyse + slow mixing).
+    Which water temperature is correct?
+  options:
+    - >-
+      21 °C
+    - >-
+      5 °C
+    - >-
+      28 °C
+    - >-
+      35 °C
+  correct: 0
+  explanation: >-
+    4 × 23 = 92; 92 − 24 − 26 − 7 − 14 = 21 °C. 28 °C forgets the cold pâte fermentée, 35 °C forgets
+    the friction factor, and 5 °C comes from a three-factor base (69) that also leaves out the pâte fermentée.
+
+- id: q3
+  question: >-
+    Delivery note and specification sheet: "Farine de tradition française T65 — farine de blé,
+    farine de fèves 1,5 %, farine de soja 0,8 %, farine de malt de blé 0,2 %. Sans additif." What
+    do you decide for the tradition line?
+  options:
+    - >-
+      Accept it: "sans additif" is printed, so the bread will be tradition.
+    - >-
+      Accept it, but add no more bean flour at the bench this month.
+    - >-
+      Reject it: malt flour is not allowed in tradition dough.
+    - >-
+      Reject it for tradition: soy flour is above the 0.5 % limit.
+  correct: 3
+  explanation: >-
+    Article 2 allows at most 2 % bean, 0.5 % soy and 0.3 % wheat malt flour of the total flour. The
+    0.8 % soy flour takes the bread out of the tradition name, whatever the label says about additives.
+
+- id: q4
+  question: >-
+    Temperature log: TR-01 left the mixer at 21 °C instead of 23 °C on a cold morning. The sheet says
+    pointage 2 h with two folds. What do you plan?
+  options:
+    - >-
+      Keep 2 h, because folds make up for the lower temperature.
+    - >-
+      Plan about 2 h 15 and judge by the dough's signs.
+    - >-
+      Plan about 1 h 45, because a cold dough must not ferment too long.
+    - >-
+      Plan 2 h, then add 1 % yeast at the second fold.
+  correct: 1
+  explanation: >-
+    About 7 % slower per °C below target: 120 × 1.07² ≈ 137 minutes. Use it to plan, put the tub
+    somewhere warmer if you can, and end pointage on the dough's signs.
+
+- id: q5
+  question: >-
+    Laboratory report for the shop's "pain au levain": crumb pH 4.4, acetic acid 950 ppm. The sheet
+    shows 0.15 % fresh yeast in the final dough. May the shop keep the mention "au levain"?
+  options:
+    - >-
+      Yes, because the yeast is under 0.2 % and acetic acid is over 900 ppm.
+    - >-
+      No, because the crumb pH must be 4.3 or less.
+    - >-
+      No, because a levain bread may contain no yeast at all.
+    - >-
+      Yes, because pH limits apply only to tradition au levain.
+  correct: 1
+  explanation: >-
+    Article 3 needs both: pH ≤ 4.3 and at least 900 ppm acetic acid. The yeast is within the 0.2 %
+    of article 4, but the pH fails, so the mention must go until a new test passes.
+
+- id: q6
+  question: >-
+    Bake log, tradition: "autolyse skipped (late); mixed 4 min speed 1 + 7 min speed 2; dough 24.5 °C;
+    pointage 2 h, two folds; baked 25 min, core 97 °C." Tasting: very white crumb, small regular
+    holes, little aroma. Which diagnosis fits?
+  options:
+    - >-
+      Under-baking: the core should have reached 99 °C for a tradition.
+    - >-
+      Under-fermentation: two hours is too short for a tradition dough.
+    - >-
+      Too little steam, which dulls the crust and whitens the crumb.
+    - >-
+      Over-oxidation: fast mixing in speed 2 with no autolyse.
+  correct: 3
+  explanation: >-
+    Seven minutes in second speed without autolyse beats air into the dough and bleaches the
+    carotenoids: white, bland, regular crumb. The bake and the pointage were within the targets.
+
+- id: q7
+  question: >-
+    The owner wants to buy frozen par-baked traditions from a supplier for the Sunday rush and finish
+    them in the shop's oven under the "Tradition" label. What do you tell him?
+  options:
+    - >-
+      Not possible: no freezing in tradition or in any boulangerie.
+    - >-
+      Possible, if the supplier's flour has no additive and the shop bakes them.
+    - >-
+      Possible, if the label adds "cuite sur place" next to "Tradition".
+    - >-
+      Not possible, because only the bakery's own levain may be used in tradition.
+  correct: 0
+  explanation: >-
+    Article 2 of décret 93-1074 excludes any freezing during making, and L122-17 forbids frozen dough
+    or bread at any stage in a business calling itself boulangerie. The levain claim is wrong.
+
+- id: q8
+  question: >-
+    Home batch control: three TR-01 baguettes of 270 g (salt 1.044 % of the dough) baked 32 minutes
+    in a slow oven, cooled average 199 g. What do you conclude about salt?
+  options:
+    - >-
+      1.04 g per 100 g: the salt in the dough, so well under the limit.
+    - >-
+      1.34 g per 100 g, using the planning loss of 22 %.
+    - >-
+      1.42 g per 100 g: over 1.4 g because of the high baking loss.
+    - >-
+      1.80 g per 100 g: the sheet's salt percentage, over the limit.
+  correct: 2
+  explanation: >-
+    270 × 1.044 % = 2.82 g in 199 g = 1.42 g per 100 g. The 26 % loss of a long, slow bake pushed it
+    over the 1.4 g the course keeps for tradition; a hotter, shorter bake fixes it.
+
+- id: q9
+  question: >-
+    Bake log, summer: dough 26 °C after mixing; pointage 2 h by the clock with two folds; apprêt
+    1 h. The baguettes spread in the couche, the cuts stayed flat, the crumb smells sour. What is the
+    most likely cause?
+  options:
+    - >-
+      Under-fermentation, because the summer dough was too warm to rise.
+    - >-
+      Too little water, which makes tradition dough tight and flat.
+    - >-
+      A tradition pâte fermentée that was too young to give strength.
+    - >-
+      Over-fermentation: pointage not cut to about 1 h 38 for a 26 °C dough.
+  correct: 3
+  explanation: >-
+    At 26 °C the dough ferments about 7 % faster per °C: 120 ÷ 1.07³ ≈ 98 minutes. Keeping 2 h by the
+    clock, then a full hour of apprêt, over-ferments it: slack, flat, sour bread.
+
+- id: q10
+  question: >-
+    You write the shelf card and the briefing for the sales staff about the "Baguette de tradition".
+    Which sentence is correct and complete enough to say to customers?
+  options:
+    - >-
+      "Made with levain only, so it is a sourdough baguette."
+    - >-
+      "Wheat flour, water, salt and yeast, no additives, never frozen."
+    - >-
+      "No salt and no yeast, just flour and water fermented slowly."
+    - >-
+      "Made with organic flour, as the tradition name requires."
+  correct: 1
+  explanation: >-
+    Tradition is wheat flour, water and salt fermented with yeast and/or levain, with no additive and
+    no freezing. Levain and organic flour are not required, and salt is part of it.

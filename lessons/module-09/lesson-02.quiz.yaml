@@ -1,0 +1,89 @@
+- id: q1
+  question: >-
+    TR-01 at 4:00: TPV 23 °C, flour 19 °C, fournil 21 °C, tradition pâte fermentée 5 °C, friction
+    factor 14 (four factors, autolyse + slow mixing). Which water temperature is correct?
+  options:
+    - >-
+      19 °C, using 3 × 23 and the same friction factor
+    - >-
+      38 °C, using 4 × 23 and leaving out the friction factor
+    - >-
+      28 °C, using 4 × 23 and leaving out the pâte fermentée
+    - >-
+      33 °C, using 4 × 23 and all four inputs
+  correct: 3
+  explanation: >-
+    With a pre-ferment the base is 4 × 23 = 92: 92 − 19 − 21 − 5 − 14 = 33 °C. Using three factors,
+    or forgetting the friction or the cold pâte fermentée, gives the wrong water.
+
+- id: q2
+  question: >-
+    A trainee puts the salt and the yeast into the autolyse "to save time". What is the main
+    problem?
+  options:
+    - >-
+      The salt tightens the gluten and slows the enzymes, and the yeast starts fermenting early.
+    - >-
+      The salt dissolves the yeast cells at once, so the dough will not rise at all.
+    - >-
+      Nothing changes, because salt and yeast only act once the dough is in pointage.
+    - >-
+      The dough becomes too extensible to shape because salt weakens the gluten.
+  correct: 0
+  explanation: >-
+    The autolyse is flour and water only: salt would tighten the network and slow the proteases that
+    make the dough extensible, and yeast would start fermenting and acidifying before mixing.
+
+- id: q3
+  question: >-
+    The sous-chef suggests using a piece of this morning's PC-02 pain courant dough as the pâte
+    fermentée for today's tradition. What do you answer?
+  options:
+    - >-
+      Fine, because pâte fermentée is a pre-ferment and the decree allows pre-ferments.
+    - >-
+      No, because PC-02 is made with T55 flour, and tradition must be made with T65.
+    - >-
+      No, because PC-02's flour may contain ascorbic acid, an additive tradition may not contain.
+    - >-
+      Fine, as long as the pâte fermentée stays under 0.2 % of the flour weight.
+  correct: 2
+  explanation: >-
+    Tradition may contain no additive, including through its pre-ferment. Its pâte fermentée must be
+    kept from tradition dough. The decree requires wheat flour, not specifically T65.
+
+- id: q4
+  question: >-
+    A TR-01 dough comes out of the mixer at 25 °C instead of 23 °C. The sheet says pointage 2 h. What
+    is the best plan?
+  options:
+    - >-
+      Keep 2 h, because tradition always needs a long pointage for flavour.
+    - >-
+      Plan about 1 h 45, ferment somewhere cooler and decide by the dough.
+    - >-
+      Plan about 2 h 15 so the gluten has time to recover from the heat.
+    - >-
+      Add 1 % more salt to slow the yeast down to the planned speed.
+  correct: 1
+  explanation: >-
+    About 7 % faster per °C: 120 ÷ 1.07² ≈ 105 minutes. Plan for it, ferment cooler, and end
+    pointage on the dough's signs. Extra salt would change the recipe and the taste.
+
+- id: q5
+  question: >-
+    Why is a tradition dough mixed slowly and stopped before a perfect windowpane, when pain
+    courant is taken further in second speed?
+  options:
+    - >-
+      Tradition flour has no gluten, so longer mixing would not develop anything.
+    - >-
+      The law limits the mixing time of tradition dough to protect its name.
+    - >-
+      Slow mixing heats the dough more, which speeds up its long pointage.
+    - >-
+      Less oxidation keeps colour and aroma; folds and time finish the strength.
+  correct: 3
+  explanation: >-
+    Gentle mixing beats in less air, so the carotenoid pigments are less oxidised: cream crumb and
+    more aroma. Without ascorbic acid, the folds and the long pointage give the remaining strength.

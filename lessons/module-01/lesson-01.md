@@ -70,7 +70,7 @@ The working day is shaped by one fact: bread must be fresh when the shop opens, 
 Bread-making in France is protected in a way most countries do not know:
 
 - Since a 1998 law, now article L122-17 of the Code de la consommation, a business may call itself a **boulangerie** and its staff **boulangers** only if they themselves knead, ferment, shape and bake the bread on the premises where it is sold to the customer, from raw materials they choose. The dough and the bread may never be frozen at any stage. A shop that bakes off frozen dough is a "terminal de cuisson" or "dépôt de pain", not a boulangerie.
-- The **pain de tradition française** has a legal definition that limits its ingredients (module 9).
+- The **pain de tradition française** has a legal definition that limits its ingredients ([module 9](../module-09/lesson-01.md)).
 - In 2022 UNESCO inscribed the "artisanal know-how and culture of baguette bread" on its list of intangible cultural heritage. Its description of the craft is the sequence you will learn in this course: weighing, mixing, kneading, fermentation, dividing, resting, hand shaping, a second fermentation, scoring and baking.
 
 These rules matter to you as a worker: they decide what you may do in the fournil (no freezing in a boulangerie), what the shop may write on its sign and on its labels, and why the written test asks you about legal names.

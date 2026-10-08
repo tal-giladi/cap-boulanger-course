@@ -1,0 +1,94 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 560" width="900" height="560" role="img" aria-labelledby="t d">
+  <title id="t">Pain courant PC-02 and tradition TR-01: the same bakery day, side by side</title>
+  <desc id="d">Two timelines in minutes from the start of weighing. PC-02 pain courant: weighing 15, improved mixing 10, pointage 45, dividing and pre-shaping 20, détente 20, shaping 30, apprêt 75, baking 22; about 3 hours 57 minutes. TR-01 tradition: weighing 15, autolyse 30, slow mixing 15, pointage 120 with folds, dividing and pre-shaping 20, détente 30, shaping 30, apprêt 60, baking 25; about 5 hours 45 minutes. Below, a table of differences: flour T55 with ascorbic acid allowed versus T65 tradition flour with no additive; water 64 versus 70 percent; fresh yeast 1.5 versus 0.6 percent; mixing improved versus autolyse then slow; dough temperature 24 versus 23 degrees; strength from the mixer versus from time and folds; crumb creamy and regular versus cream-coloured with irregular, shiny holes.</desc>
+  <rect x="0" y="0" width="900" height="560" fill="#ffffff"/>
+  <g font-family="Arial, Helvetica, sans-serif" fill="#222222">
+    <text x="450" y="32" text-anchor="middle" font-size="21" font-weight="bold">Pain courant and tradition: where the extra time goes</text>
+    <text x="450" y="54" text-anchor="middle" font-size="13">Scale: 2 px per minute from the start of weighing. Course sheets PC-02 (lesson 08.1) and TR-01 (lesson 09.2).</text>
+
+    <!-- axis -->
+    <g font-size="11" fill="#555555">
+      <line x1="170" y1="78" x2="860" y2="78" stroke="#999999"/>
+      <text x="170" y="72" text-anchor="middle">0 h</text>
+      <text x="290" y="72" text-anchor="middle">1 h</text>
+      <text x="410" y="72" text-anchor="middle">2 h</text>
+      <text x="530" y="72" text-anchor="middle">3 h</text>
+      <text x="650" y="72" text-anchor="middle">4 h</text>
+      <text x="770" y="72" text-anchor="middle">5 h</text>
+      <line x1="290" y1="74" x2="290" y2="230" stroke="#eeeeee"/>
+      <line x1="410" y1="74" x2="410" y2="230" stroke="#eeeeee"/>
+      <line x1="530" y1="74" x2="530" y2="230" stroke="#eeeeee"/>
+      <line x1="650" y1="74" x2="650" y2="230" stroke="#eeeeee"/>
+      <line x1="770" y1="74" x2="770" y2="230" stroke="#eeeeee"/>
+    </g>
+
+    <!-- PC-02 row: 15,10,45,20,20,30,75,22 -->
+    <text x="20" y="112" font-size="14" font-weight="bold">PC-02 courant</text>
+    <text x="20" y="130" font-size="12">about 3 h 57</text>
+    <rect x="170" y="96" width="30" height="34" fill="#cfcfcf"/>
+    <rect x="200" y="96" width="20" height="34" fill="#8fb3d9"/>
+    <rect x="220" y="96" width="90" height="34" fill="#f2c56b"/>
+    <rect x="310" y="96" width="40" height="34" fill="#b7d7a8"/>
+    <rect x="350" y="96" width="40" height="34" fill="#dce9d5"/>
+    <rect x="390" y="96" width="60" height="34" fill="#b7d7a8"/>
+    <rect x="450" y="96" width="150" height="34" fill="#f2c56b"/>
+    <rect x="600" y="96" width="44" height="34" fill="#d98c5f"/>
+    <g font-size="11" text-anchor="middle">
+      <text x="265" y="118">pointage 45</text>
+      <text x="525" y="118">apprêt 75</text>
+      <text x="622" y="118">bake</text>
+    </g>
+
+    <!-- TR-01 row: 15,30,15,120,20,30,30,60,25 -->
+    <text x="20" y="182" font-size="14" font-weight="bold">TR-01 tradition</text>
+    <text x="20" y="200" font-size="12">about 5 h 45</text>
+    <rect x="170" y="166" width="30" height="34" fill="#cfcfcf"/>
+    <rect x="200" y="166" width="60" height="34" fill="#c9b3e0"/>
+    <rect x="260" y="166" width="30" height="34" fill="#8fb3d9"/>
+    <rect x="290" y="166" width="240" height="34" fill="#f2c56b"/>
+    <rect x="530" y="166" width="40" height="34" fill="#b7d7a8"/>
+    <rect x="570" y="166" width="60" height="34" fill="#dce9d5"/>
+    <rect x="630" y="166" width="60" height="34" fill="#b7d7a8"/>
+    <rect x="690" y="166" width="120" height="34" fill="#f2c56b"/>
+    <rect x="810" y="166" width="50" height="34" fill="#d98c5f"/>
+    <g font-size="11" text-anchor="middle">
+      <text x="230" y="188">autolyse</text>
+      <text x="410" y="188">pointage 120, folds at 40 and 80</text>
+      <text x="750" y="188">apprêt 60</text>
+      <text x="835" y="188">bake</text>
+    </g>
+    <path d="M 370 204 L 370 214 M 450 204 L 450 214" stroke="#7a5418" stroke-width="2"/>
+    <text x="410" y="226" text-anchor="middle" font-size="11" fill="#7a5418">rabat</text>
+
+    <!-- legend -->
+    <g font-size="11">
+      <rect x="170" y="240" width="14" height="12" fill="#cfcfcf"/><text x="190" y="250">weigh</text>
+      <rect x="240" y="240" width="14" height="12" fill="#c9b3e0"/><text x="260" y="250">autolyse</text>
+      <rect x="325" y="240" width="14" height="12" fill="#8fb3d9"/><text x="345" y="250">mixing</text>
+      <rect x="405" y="240" width="14" height="12" fill="#f2c56b"/><text x="425" y="250">fermentation</text>
+      <rect x="515" y="240" width="14" height="12" fill="#b7d7a8"/><text x="535" y="250">divide, pre-shape, shape</text>
+      <rect x="690" y="240" width="14" height="12" fill="#dce9d5"/><text x="710" y="250">détente</text>
+      <rect x="775" y="240" width="14" height="12" fill="#d98c5f"/><text x="795" y="250">bake</text>
+    </g>
+
+    <!-- comparison table -->
+    <line x1="20" y1="272" x2="880" y2="272" stroke="#dddddd" stroke-width="1.5"/>
+    <g font-size="13">
+      <text x="30" y="300" font-weight="bold">What changes</text>
+      <text x="290" y="300" font-weight="bold">PC-02 pain courant</text>
+      <text x="600" y="300" font-weight="bold">TR-01 tradition</text>
+
+      <text x="30" y="328">Flour</text><text x="290" y="328">T55, ascorbic acid allowed</text><text x="600" y="328">T65 tradition, no additive</text>
+      <text x="30" y="354">Water</text><text x="290" y="354">64 % (pâte bâtarde)</text><text x="600" y="354">70 % (soft dough, by bassinage)</text>
+      <text x="30" y="380">Fresh yeast</text><text x="290" y="380">1.5 %</text><text x="600" y="380">0.6 %</text>
+      <text x="30" y="406">Pâte fermentée</text><text x="290" y="406">15 % (any PC-02 dough)</text><text x="600" y="406">15 % (must be tradition dough)</text>
+      <text x="30" y="432">Mixing</text><text x="290" y="432">improved, about 6 min speed 2</text><text x="600" y="432">autolyse 30 min, then slow</text>
+      <text x="30" y="458">Dough temperature</text><text x="290" y="458">24 °C</text><text x="600" y="458">23 °C (22-24)</text>
+      <text x="30" y="484">Where strength comes from</text><text x="290" y="484">the mixer</text><text x="600" y="484">time and folds</text>
+      <text x="30" y="510">Crumb</text><text x="290" y="510">creamy, regular, medium holes</text><text x="600" y="510">cream-coloured, irregular, shiny holes</text>
+      <text x="30" y="536">Freezing</text><text x="290" y="536">name allows it; a « boulangerie » may not</text><text x="600" y="536">never during making (article 2)</text>
+    </g>
+    <line x1="280" y1="284" x2="280" y2="546" stroke="#eeeeee"/>
+    <line x1="590" y1="284" x2="590" y2="546" stroke="#eeeeee"/>
+  </g>
+</svg>

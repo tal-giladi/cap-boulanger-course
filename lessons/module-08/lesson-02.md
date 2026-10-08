@@ -44,7 +44,7 @@ The référentiel asks you to identify the stages of fermentation and explain th
 
 ### Why the pointage is short
 
-Pointage builds gas, acidity, aroma and strength in the whole mass of dough before it is cut. In PC-02 three things shorten it: the **pâte fermentée** brings hours of fermentation already done (acid and active yeast); **improved mixing** develops the gluten well in the mixer, so less strength has to come from time; and **1.5 % fresh yeast** produces gas quickly. That is why the sheet says about **45 minutes at 24 °C**, while a tradition dough on slow mixing may need 2-3 hours (Module 9).
+Pointage builds gas, acidity, aroma and strength in the whole mass of dough before it is cut. In PC-02 three things shorten it: the **pâte fermentée** brings hours of fermentation already done (acid and active yeast); **improved mixing** develops the gluten well in the mixer, so less strength has to come from time; and **1.5 % fresh yeast** produces gas quickly. That is why the sheet says about **45 minutes at 24 °C**, while a tradition dough on slow mixing may need 2-3 hours ([Module 9](../module-09/lesson-01.md)).
 
 A hand-mixed home dough is a little less developed than a spiral-mixed one, so give it **one fold (rabat) at about 30 minutes** and expect 45-60 minutes in total.
 
