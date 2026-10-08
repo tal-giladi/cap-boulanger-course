@@ -1,0 +1,84 @@
+- id: q1
+  question: >-
+    Your kitchen is 22 °C and your flour 21 °C. Using the lesson's estimate for hand mixing and a target
+    dough temperature of 24 °C, what water temperature do you start with?
+  options:
+    - >-
+      29 °C
+    - >-
+      27 °C
+    - >-
+      31 °C
+    - >-
+      24 °C
+  correct: 1
+  explanation: >-
+    3 × 24 − 21 − 22 − 2 = 27 °C. 29 °C forgets the hand-kneading allowance; 24 °C simply copies the
+    target, which ignores the flour and the room.
+- id: q2
+  question: >-
+    After kneading, your dough measures 26.5 °C instead of 24 °C. What is the best decision for this
+    batch?
+  options:
+    - >-
+      Keep to the planned 1 h 15 pointage, because the technical sheet sets the time.
+    - >-
+      Add 50 g of cold water to cool the dough down to the target.
+    - >-
+      Ferment somewhere cooler and judge the end of pointage by the dough's volume.
+    - >-
+      Throw the dough away, because it can no longer make acceptable bread.
+  correct: 2
+  explanation: >-
+    Warmer dough ferments faster. Slow it down if you can and watch the dough, not the clock; next
+    time use water 2.5 °C cooler. Adding water now would change the formula.
+- id: q3
+  question: >-
+    During the poke test the dent made by your finger springs back immediately and completely. What
+    does it tell you?
+  options:
+    - >-
+      The rolls are under-proofed: wait about 10 minutes and test again.
+    - >-
+      The rolls are over-proofed: bake them immediately.
+    - >-
+      The rolls are ready: put them in the oven now.
+    - >-
+      The dough is too dry: brush the rolls with water before baking.
+  correct: 0
+  explanation: >-
+    A fast, complete spring-back means the gluten still has a lot of strength and little gas: the
+    pieces need more time. Ready dough springs back slowly and leaves a slight mark.
+- id: q4
+  question: >-
+    You want steam in your home oven at loading. Which method is safe?
+  options:
+    - >-
+      Pour cold water into a glass dish preheated on the bottom shelf.
+    - >-
+      Spray water straight onto the oven light and the door glass.
+    - >-
+      Put a cold bowl of water in the oven once the rolls are in.
+    - >-
+      Pour hot water into a preheated metal tin, close the door, step back.
+  correct: 3
+  explanation: >-
+    A preheated metal tin makes a burst of steam at once and cannot shatter. Water on hot glass can
+    break it; a cold bowl added late gives almost no steam when it matters.
+- id: q5
+  question: >-
+    Your 8 pieces weigh 98, 103, 104, 105, 106, 107, 110 and 112 g. The target is 105 g ±2 g. What does
+    this show?
+  options:
+    - >-
+      The total is correct, so the individual weights do not matter.
+    - >-
+      The pieces were cut by eye; three are outside ±2 g and need adjusting.
+    - >-
+      The scale is faulty, because pieces of one dough must weigh the same.
+    - >-
+      The dough lost weight during pointage, so the target should be lowered.
+  correct: 1
+  explanation: >-
+    98, 110 and 112 g are outside 103-107 g. Uneven pieces bake unevenly and fail the weight check
+    in the exam. Weigh every piece and adjust before rounding.

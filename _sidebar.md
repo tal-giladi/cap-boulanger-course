@@ -4,3 +4,14 @@
 - [Base Formulas](references/formulas.md)
 - [Troubleshooting](references/troubleshooting.md)
 - [Templates](templates/README.md)
+
+- Part 1 — Foundations
+- **Module 1 — Introduction to Professional Baking**
+  - [01 · The Boulanger's Job and the CAP](lessons/module-01/lesson-01.md)
+  - [02 · Inside a Bakery: Workflow, Zones and Roles](lessons/module-01/lesson-02.md)
+  - [03 · Working Safely and Hygienically from Day One](lessons/module-01/lesson-03.md)
+  - [04 · Weighing and Measuring Like a Professional](lessons/module-01/lesson-04.md)
+  - [05 · Baker's Percentages](lessons/module-01/lesson-05.md)
+  - [06 · Reading a Production Order and a Technical Sheet](lessons/module-01/lesson-06.md)
+  - [07 · Mise en Place: Your First Simple Dough](lessons/module-01/lesson-07.md)
+  - [Module 1 quiz](assessments/module-01-quiz.md)

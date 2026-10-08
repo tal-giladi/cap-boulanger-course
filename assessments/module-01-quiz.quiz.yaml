@@ -1,0 +1,171 @@
+- id: q1
+  question: >-
+    In a one-room bakery, the egg and butter delivery arrives at 9:00 in cardboard cartons. The only
+    free surface is the marble where croissants will be shaped at 9:15. What is the correct way to work?
+  options:
+    - >-
+      Unpack the cartons on the marble, then wipe it with a dry cloth before shaping.
+    - >-
+      Shape the croissants first and leave the eggs and butter in their cartons on the floor until 11:00.
+    - >-
+      Unpack at the door, store chilled goods at once, bin the cartons, then clean the marble and wash hands.
+    - >-
+      Put the cartons on the marble but shape the croissants on a sheet of baking paper beside them.
+  correct: 2
+  explanation: >-
+    Cartons never go on a work surface, and chilled goods go into the cold quickly. Unpacking first,
+    then cleaning and hand washing before shaping, is the marche en avant in time.
+- id: q2
+  question: >-
+    An order asks for 50 baguettes divided at 300 g. The technical sheet totals 170% and the bakery
+    allows 2% for losses. How much flour is needed before rounding?
+  options:
+    - >-
+      8,824 g
+    - >-
+      9,000 g
+    - >-
+      15,300 g
+    - >-
+      26,010 g
+  correct: 1
+  explanation: >-
+    Dough: 50 × 300 = 15,000 g; with losses 15,300 g. Flour = 15,300 × 100 ÷ 170 = 9,000 g. 8,824 g
+    forgets the losses, 15,300 g is the dough, and 26,010 g multiplies by 1.7 instead of dividing.
+- id: q3
+  question: >-
+    A technical sheet for 6,000 g of flour gives water at 66%. A trainee has written 6,732 g of water on
+    the sheet. What went wrong?
+  options:
+    - >-
+      They took 66% of the total dough (about 10.2 kg) instead of 66% of the flour.
+    - >-
+      They added the 2% loss allowance to the water instead of to the dough.
+    - >-
+      Nothing: 66% hydration on 6 kg of flour gives about 6.7 kg of water.
+    - >-
+      They used the hydration of pain de tradition instead of pain courant.
+  correct: 0
+  explanation: >-
+    Water = 6,000 × 0.66 = 3,960 g. 6,732 g is 66% of a 10.2 kg dough: the percent-of-dough slip,
+    which would make a batter instead of a dough.
+- id: q4
+  question: >-
+    Your temperature log shows that your probe thermometer read +2.0 °C in iced water this morning. After
+    mixing, the dough reads 26.0 °C. The technical sheet targets 23-25 °C. What do you do?
+  options:
+    - >-
+      Slow the pointage down, because the dough is 1 °C above the target range.
+    - >-
+      Add cold water to the dough to bring it into the range.
+    - >-
+      Remix the dough with colder flour to lower its temperature.
+    - >-
+      Continue as planned: the real temperature is 24.0 °C, within the target.
+  correct: 3
+  explanation: >-
+    The thermometer reads 2 °C high, so the dough is 26.0 − 2.0 = 24.0 °C. Always correct readings by
+    the offset you found at the ice point before making a decision.
+- id: q5
+  question: >-
+    You are making a home batch with 300 g of flour and 2% fresh yeast. Your kitchen scale shows 1 g
+    steps and you also own a 0.1 g pocket scale. What should you do?
+  options:
+    - >-
+      Weigh the yeast on the kitchen scale, since 1 g steps are enough for any bread ingredient.
+    - >-
+      Measure half a teaspoon of yeast, since spoons are more precise than scales for small amounts.
+    - >-
+      Weigh the 6 g of yeast on the pocket scale, since ±0.5 g would be about ±8% of it.
+    - >-
+      Double the yeast to 12 g so the kitchen scale's error becomes negligible.
+  correct: 2
+  explanation: >-
+    2% of 300 g is 6 g. On a 1 g scale the true weight could be 5.5-6.5 g, about ±8%. A 0.1 g scale
+    cuts that to under 1%. Changing the formula is never the answer.
+- id: q6
+  question: >-
+    An ouvrier takes the bins out to the yard, comes back and goes straight to the bench to shape rolls
+    wearing new disposable gloves. What should the supervisor say?
+  options:
+    - >-
+      Nothing, because the new gloves protect the dough from the hands.
+    - >-
+      Wash your hands after handling waste, then put on gloves if the task needs them.
+    - >-
+      Take off the gloves, because they are not allowed when shaping bread.
+    - >-
+      Use hand gel on the gloves, because it disinfects them as well as hands.
+  correct: 1
+  explanation: >-
+    Taking out waste is a dirty operation that requires hand washing. Gloves put on over dirty hands
+    are contaminated, and gel never replaces washing.
+- id: q7
+  question: >-
+    A forum post says the CAP Boulanger production test has changed its product list this year. You
+    sit the exam next June. What is the right way to check?
+  options:
+    - >-
+      Check the official sources, then confirm with your académie and convocation.
+    - >-
+      Trust the post if several other users agree with it in the replies.
+    - >-
+      Ask a private bakery school, because it trains many candidates every year.
+    - >-
+      Assume nothing changed, because the référentiel dates from 2014.
+  correct: 0
+  explanation: >-
+    Exam rules come from official texts and your académie. The course keeps them on one page with its
+    sources; your convocation is the final word for your session.
+- id: q8
+  question: >-
+    Your dough came out of mixing at 25.5 °C instead of 24 °C. The sheet says pointage 1 h 15. After
+    55 minutes it has doubled in volume, is domed and shows bubbles. What do you do?
+  options:
+    - >-
+      Wait until 1 h 15, because the technical sheet sets the time.
+    - >-
+      Knock the dough back hard and restart the pointage from zero.
+    - >-
+      Put it in the fridge for 20 minutes so the total time matches the sheet.
+    - >-
+      Divide it now: the warmer dough has fermented faster and is ready.
+  correct: 3
+  explanation: >-
+    Fermentation speed follows dough temperature. The times on a sheet assume the target temperature;
+    you judge the dough itself and note the correction (cooler water) for next time.
+- id: q9
+  question: >-
+    A new colleague sweeps the flour off the fournil floor with a dry broom at the end of every shift
+    and often sneezes while doing it. What do you advise?
+  options:
+    - >-
+      Use a vacuum suited to flour dust instead of the broom, then clean damp.
+    - >-
+      Sweep faster so less time is spent in the dust cloud.
+    - >-
+      Blow the flour into a corner with compressed air first, then sweep it up.
+    - >-
+      Wet the floor first so the flour becomes a paste that can be swept.
+  correct: 0
+  explanation: >-
+    Flour is the leading cause of occupational asthma in France. Dry sweeping and compressed air lift
+    fine dust into the air; INRS recommends a vacuum suited to flour dust.
+- id: q10
+  question: >-
+    Petits pains must be delivered to a restaurant at 8:00. Baking takes 15 min, cooling at least
+    30 min, apprêt 60 min and shaping 20 min. When must shaping start at the latest?
+  options:
+    - >-
+      6:15
+    - >-
+      5:55
+    - >-
+      6:25
+    - >-
+      6:55
+  correct: 1
+  explanation: >-
+    8:00 − 30 cooling = 7:30 out; − 15 baking = 7:15 in; − 60 apprêt = 6:15 shaping finished; − 20
+    shaping = 5:55 start. 6:15 is when shaping must end, 6:25 forgets the cooling, and 6:55 forgets
+    the apprêt.

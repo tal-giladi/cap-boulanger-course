@@ -1,0 +1,68 @@
+- id: q1
+  question: >-
+    An order asks for 30 baguettes at 350 g and 10 rolls at 80 g from the same dough. The technical
+    sheet's batch makes 11,200 g of dough. What do you do before weighing?
+  options:
+    - >-
+      Start weighing, since 11,200 g is clearly more than 30 baguettes need.
+    - >-
+      Reduce the baguettes to 29 so that the rolls can be made at full weight.
+    - >-
+      Recalculate: the order needs 11,300 g plus losses, so the batch is too small.
+    - >-
+      Make the rolls at 70 g, because rolls are less visible to customers.
+  correct: 2
+  explanation: >-
+    (30 × 350) + (10 × 80) = 11,300 g before any losses, so 11,200 g is short. Recalculate the flour
+    from the order; never change the products or weights on your own.
+- id: q2
+  question: >-
+    Which document tells you the mixing times, the pointage time and the oven temperature for a product?
+  options:
+    - >-
+      The technical sheet (fiche technique).
+    - >-
+      The production order (commande).
+    - >-
+      The store requisition (bon d'économat).
+    - >-
+      The supplier delivery note (bon de livraison).
+  correct: 0
+  explanation: >-
+    The order says what and when; the requisition lists what leaves the store. The technical sheet is
+    the bakery's standard for how: formula, process, times and targets.
+- id: q3
+  question: >-
+    Baguettes must be in the shop at 7:00. They need 25 minutes of baking and at least 30 minutes of
+    cooling, and the apprêt is 75 minutes. At what time must shaping be finished at the latest?
+  options:
+    - >-
+      6:05
+    - >-
+      5:20
+    - >-
+      4:20
+    - >-
+      4:50
+  correct: 3
+  explanation: >-
+    Work backwards: 7:00 − 30 min cooling = 6:30 out of the oven; − 25 min baking = 6:05 into the
+    oven; − 75 min apprêt = 4:50. 6:05 forgets the apprêt, 5:20 forgets the cooling, and 4:20 counts
+    the cooling twice.
+- id: q4
+  question: >-
+    A technical sheet says "Pointage 45 min, 24 °C" and "Apprêt 1 h 15, 25 °C, 75-80% HR". What does
+    "HR" tell you to control in the proofing cabinet?
+  options:
+    - >-
+      The heating rate of the cabinet in degrees per hour.
+    - >-
+      The relative humidity, so the dough surface does not dry out.
+    - >-
+      The resting height of the dough on the boards.
+    - >-
+      The hours remaining before the dough must be baked.
+  correct: 1
+  explanation: >-
+    HR is humidité relative. At 75-80% relative humidity the surface of the dough stays supple; in dry
+    air it forms a skin that tears and stops the scores opening.

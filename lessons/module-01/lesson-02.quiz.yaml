@@ -1,0 +1,68 @@
+- id: q1
+  question: >-
+    A one-room bakery has no separate reception area. The flour delivery arrives while the baker is
+    about to shape baguettes on the only table. Which approach applies the marche en avant in time?
+  options:
+    - >-
+      Unpack the delivery on the table quickly, then brush off the flour dust and start shaping.
+    - >-
+      Shape the baguettes on the table while a colleague unpacks the delivery at the other end of it.
+    - >-
+      Leave the sacks by the door, finish shaping, then unpack, clean the table and wash hands.
+    - >-
+      Unpack the delivery after shaping but skip cleaning, since flour dust is not a contaminant.
+  correct: 2
+  explanation: >-
+    In time means dirty and clean operations happen one after the other in the same place, with
+    cleaning between them. Doing both at once on one table is a crossing, and packaging dust and
+    hands still need cleaning afterwards.
+- id: q2
+  question: >-
+    Where in a bakery is a hygiene mistake most likely to reach the customer unchanged?
+  options:
+    - >-
+      In the dry store, because flour sacks are opened there.
+    - >-
+      On the cooling racks, because baked bread is not heated again.
+    - >-
+      At the mixer, because raw dough is handled by several people.
+    - >-
+      In the proofing cabinet, because it is warm and humid.
+  correct: 1
+  explanation: >-
+    Baking kills most microorganisms in the crumb, so contamination before the oven is largely
+    destroyed. A dirty hand or splash on cooled bread goes straight to the customer.
+- id: q3
+  question: >-
+    A shop receives deep-frozen baguettes from a factory every morning and bakes them for its
+    customers. Which description fits this business?
+  options:
+    - >-
+      A terminal de cuisson, which may not use the name boulangerie.
+    - >-
+      A boulangerie artisanale, because baking happens on the premises.
+    - >-
+      A franchise boulangerie, because the dough follows a brand formula.
+    - >-
+      An industrial bakery, because it uses products from a factory.
+  correct: 0
+  explanation: >-
+    A bake-off point bakes dough made elsewhere. The law reserves the name boulangerie for businesses
+    that knead, ferment, shape and bake on site, with no freezing.
+- id: q4
+  question: >-
+    In the wheat-flour-bread chain, who decides how the wheat is cleaned, ground and blended into a
+    flour of a given type?
+  options:
+    - >-
+      The farmer (céréalier), when choosing the wheat variety to sow.
+    - >-
+      The cooperative, when grading and storing the harvest.
+    - >-
+      The baker, when choosing the mixing method for the flour.
+    - >-
+      The miller (meunier), when milling and blending the wheat.
+  correct: 3
+  explanation: >-
+    The miller cleans, conditions, grinds and blends wheats to produce flours of a steady type and
+    quality; the baker then adapts the process to that flour.

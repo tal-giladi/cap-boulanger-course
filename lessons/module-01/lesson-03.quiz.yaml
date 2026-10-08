@@ -1,0 +1,81 @@
+- id: q1
+  question: >-
+    An employee answers their phone, puts on new disposable gloves without washing, then goes back to
+    shaping baguettes. What is the problem?
+  options:
+    - >-
+      None, because the new gloves create a barrier between the hands and the dough.
+    - >-
+      The gloves should be blue, so they can be found if they fall into the dough.
+    - >-
+      Gloves are forbidden for shaping bread, so the employee must remove them first.
+    - >-
+      Gloves do not replace hand washing; hands must be washed before new gloves go on.
+  correct: 3
+  explanation: >-
+    Hands contaminated by the phone contaminate the outside of the gloves as they are put on. The rule
+    is to wash hands after touching a phone, then put on gloves if the task needs them.
+- id: q2
+  question: >-
+    Which way of loading flour into a mixer limits flour dust, as INRS recommends?
+  options:
+    - >-
+      Tip the whole sack in from shoulder height so it takes less time near the bowl.
+    - >-
+      Put the water in the bowl first, then pour the flour low without shaking the sack.
+    - >-
+      Put the flour in first, then add water while the mixer runs at high speed.
+    - >-
+      Sieve the flour over the bowl from above so it falls in evenly.
+  correct: 1
+  explanation: >-
+    Water first holds down the flour as it lands, and pouring low without shaking keeps the dust cloud
+    small. Height, sieving and dry flour at high speed all raise more dust.
+- id: q3
+  question: >-
+    At the end of the shift the floor is covered in flour. Which cleaning method is correct?
+  options:
+    - >-
+      A vacuum suited to flour dust, then a damp clean of the floor.
+    - >-
+      A dry broom, then a damp mop once the dust has settled.
+    - >-
+      Compressed air to blow the flour into one corner, then a vacuum.
+    - >-
+      A dry broom only, because water and flour make a sticky paste.
+  correct: 0
+  explanation: >-
+    Brooms and compressed air throw fine flour dust back into the air, where it is breathed in. INRS
+    recommends a vacuum suited to flour dust.
+- id: q4
+  question: >-
+    A baker has a small cut on a finger. Which way of working is correct?
+  options:
+    - >-
+      Work normally once the bleeding has stopped, because the oven will kill any germs.
+    - >-
+      Cover it with a skin-coloured plaster so customers do not notice it.
+    - >-
+      Cover it with a waterproof, brightly coloured dressing and wear a glove over it.
+    - >-
+      Leave it uncovered so it dries faster, and wash hands more often.
+  correct: 2
+  explanation: >-
+    Cuts carry germs such as Staphylococcus aureus, and finished bread is handled after baking. A
+    waterproof coloured dressing protects the food and is easy to find if lost; the glove holds it in place.
+- id: q5
+  question: >-
+    Which list gives moments when the bakery hygiene guide requires hand washing?
+  options:
+    - >-
+      Only before starting work and after using the toilet.
+    - >-
+      After unpacking a delivery, after breaking eggs and after taking out the bins.
+    - >-
+      Before weighing salt, before weighing yeast and before weighing flour.
+    - >-
+      Only when hands look dirty, because flour on the hands is not a contaminant.
+  correct: 1
+  explanation: >-
+    Besides the start of work, breaks and the toilet, the guide lists the dirty operations: receiving
+    and unpacking goods, breaking eggs, raw foods, waste and cleaning.

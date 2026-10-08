@@ -1,0 +1,85 @@
+- id: q1
+  question: >-
+    A friend says: "Once I finish this online CAP Boulanger course I will have my CAP." What is the
+    accurate reply?
+  options:
+    - >-
+      The course gives the CAP only if you also pass all of its module quizzes at 70% or more.
+    - >-
+      The course prepares you, but the CAP is awarded by the Ministry after the official exam.
+    - >-
+      The course awards a CAP that is valid in France but not in other European countries.
+    - >-
+      The course awards the professional blocks; only the general subjects still need an exam.
+  correct: 1
+  explanation: >-
+    The CAP is a national diploma awarded by the Ministry of Education after the official tests. A
+    course, its quizzes and its completion certificate award nothing towards it.
+- id: q2
+  question: >-
+    A shop receives frozen baguette dough from a factory, proofs it and bakes it on site all day. The
+    owner wants to put "Boulangerie" on the sign. What does the Code de la consommation say?
+  options:
+    - >-
+      Allowed, because the bread is baked on the premises where it is sold.
+    - >-
+      Allowed, as long as the label states that the dough was made elsewhere.
+    - >-
+      Not allowed: the bread must be made from scratch on site and never frozen.
+    - >-
+      Not allowed, because only holders of a CAP Boulanger may use the word on a sign.
+  correct: 2
+  explanation: >-
+    Article L122-17 reserves the names boulanger and boulangerie for professionals who themselves knead,
+    ferment, shape and bake on the place of sale, and forbids freezing dough or bread at any stage.
+- id: q3
+  question: >-
+    You have read every theory lesson and score 90% on the quizzes, but you have only ever baked 500 g
+    batches by hand. Which part of your preparation is weakest for the production test?
+  options:
+    - >-
+      Physical practice: speed, dough feel and professional machines need real batches.
+    - >-
+      Exam knowledge: you should reread the exam page until you know it by heart.
+    - >-
+      Administration: you still need to confirm your exemptions from general subjects.
+    - >-
+      Online theory: a 90% quiz score is below the level the production test expects.
+  correct: 0
+  explanation: >-
+    Theory can be learned online, but working 4-6 kg of dough on a spiral mixer, a deck oven and a
+    sheeter at exam speed only comes from repeated physical practice in a real fournil.
+- id: q4
+  question: >-
+    Which of these belongs to the "administrative requirements" area of your preparation plan, rather
+    than to the exam content?
+  options:
+    - >-
+      Learning how to complete a technical sheet and an organigramme from an order.
+    - >-
+      Learning which products the production test asks for and how they are marked.
+    - >-
+      Practising shaping baguettes until all pieces are the same length and weight.
+    - >-
+      Registering with your académie within its window and sending the documents it asks for.
+  correct: 3
+  explanation: >-
+    Registration, documents and exemptions are administrative: no amount of baking skill helps if
+    they are missed. The other options are exam content or physical practice.
+- id: q5
+  question: >-
+    Your manager asks you to tell the shop staff why today's tradition baguettes cost more than the
+    pain courant. Which part of the ouvrier boulanger's official job is this?
+  options:
+    - >-
+      Supply: checking the quality of goods received from the mill.
+    - >-
+      Production: setting up the workstation according to the technical sheet.
+    - >-
+      Sales and communication: giving sales staff the arguments about a product.
+    - >-
+      Quality and hygiene: applying the company's food safety plan.
+  correct: 2
+  explanation: >-
+    The CAP job description includes presenting products to sales staff and communicating with the
+    team. It is assessed alongside baking, so explaining a product is part of the trade.

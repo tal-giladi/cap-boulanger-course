@@ -1,0 +1,140 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 600" width="960" height="600" role="img" aria-labelledby="t d" font-family="Arial, Helvetica, sans-serif">
+  <title id="t">Bakery zones and the marche en avant</title>
+  <desc id="d">Floor plan of a craft bakery. Raw materials enter at reception, go to dry, chilled and frozen storage, then weighing, mixing, shaping, proofing, baking, cooling and the shop, always moving forward. Staff enter through the changing room and a hand basin. Dirty equipment goes to the washing area and waste leaves through a separate exit, never crossing the finished bread.</desc>
+  <defs>
+    <marker id="arr" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M0,0 L10,5 L0,10 z" fill="#1f4e79"/>
+    </marker>
+    <marker id="arrw" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M0,0 L10,5 L0,10 z" fill="#8a3b12"/>
+    </marker>
+    <marker id="arrs" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M0,0 L10,5 L0,10 z" fill="#4b5563"/>
+    </marker>
+  </defs>
+  <rect x="0" y="0" width="960" height="600" fill="#ffffff"/>
+  <text x="480" y="30" text-anchor="middle" font-size="20" font-weight="bold" fill="#111827">Marche en avant: products only move forward, from dirty to clean</text>
+
+  <!-- outer wall -->
+  <rect x="20" y="50" width="920" height="440" fill="none" stroke="#111827" stroke-width="3"/>
+
+  <!-- Raw zone (orange) -->
+  <rect x="35" y="65" width="150" height="120" fill="#fde2c4" stroke="#8a3b12" stroke-width="1.5"/>
+  <text x="110" y="95" text-anchor="middle" font-size="15" font-weight="bold" fill="#111827">1 Réception</text>
+  <text x="110" y="115" text-anchor="middle" font-size="12" fill="#111827">delivery, checks,</text>
+  <text x="110" y="131" text-anchor="middle" font-size="12" fill="#111827">unpacking</text>
+  <text x="110" y="147" text-anchor="middle" font-size="12" fill="#111827">(décartonnage)</text>
+
+  <rect x="35" y="200" width="150" height="275" fill="#fde2c4" stroke="#8a3b12" stroke-width="1.5"/>
+  <text x="110" y="228" text-anchor="middle" font-size="15" font-weight="bold" fill="#111827">2 Stockage</text>
+  <text x="110" y="255" text-anchor="middle" font-size="12" fill="#111827">dry store: flour,</text>
+  <text x="110" y="271" text-anchor="middle" font-size="12" fill="#111827">salt, sugar</text>
+  <text x="110" y="300" text-anchor="middle" font-size="12" fill="#111827">chilled room</text>
+  <text x="110" y="316" text-anchor="middle" font-size="12" fill="#111827">(froid positif):</text>
+  <text x="110" y="332" text-anchor="middle" font-size="12" fill="#111827">butter, eggs, yeast</text>
+  <text x="110" y="361" text-anchor="middle" font-size="12" fill="#111827">freezer</text>
+  <text x="110" y="377" text-anchor="middle" font-size="12" fill="#111827">(froid négatif)</text>
+
+  <!-- Production zone (yellow) -->
+  <rect x="200" y="65" width="520" height="290" fill="#fff4c2" stroke="#8a6d00" stroke-width="1.5"/>
+  <text x="460" y="88" text-anchor="middle" font-size="15" font-weight="bold" fill="#111827">Fournil (production)</text>
+
+  <rect x="215" y="100" width="110" height="100" fill="#ffffff" stroke="#8a6d00"/>
+  <text x="270" y="130" text-anchor="middle" font-size="14" font-weight="bold" fill="#111827">3 Pesée</text>
+  <text x="270" y="150" text-anchor="middle" font-size="12" fill="#111827">weighing,</text>
+  <text x="270" y="166" text-anchor="middle" font-size="12" fill="#111827">mise en place</text>
+
+  <rect x="340" y="100" width="110" height="100" fill="#ffffff" stroke="#8a6d00"/>
+  <text x="395" y="130" text-anchor="middle" font-size="14" font-weight="bold" fill="#111827">4 Pétrissage</text>
+  <text x="395" y="150" text-anchor="middle" font-size="12" fill="#111827">mixer</text>
+  <text x="395" y="166" text-anchor="middle" font-size="12" fill="#111827">(pétrin)</text>
+
+  <rect x="465" y="100" width="110" height="100" fill="#ffffff" stroke="#8a6d00"/>
+  <text x="520" y="130" text-anchor="middle" font-size="14" font-weight="bold" fill="#111827">5 Façonnage</text>
+  <text x="520" y="150" text-anchor="middle" font-size="12" fill="#111827">dividing and</text>
+  <text x="520" y="166" text-anchor="middle" font-size="12" fill="#111827">shaping bench</text>
+
+  <rect x="590" y="100" width="115" height="100" fill="#ffffff" stroke="#8a6d00"/>
+  <text x="647" y="130" text-anchor="middle" font-size="14" font-weight="bold" fill="#111827">6 Apprêt</text>
+  <text x="647" y="150" text-anchor="middle" font-size="12" fill="#111827">proofing</text>
+  <text x="647" y="166" text-anchor="middle" font-size="12" fill="#111827">cabinet</text>
+
+  <rect x="590" y="225" width="115" height="115" fill="#ffffff" stroke="#8a6d00"/>
+  <text x="647" y="258" text-anchor="middle" font-size="14" font-weight="bold" fill="#111827">7 Four</text>
+  <text x="647" y="278" text-anchor="middle" font-size="12" fill="#111827">deck oven</text>
+  <text x="647" y="294" text-anchor="middle" font-size="12" fill="#111827">(scoring,</text>
+  <text x="647" y="310" text-anchor="middle" font-size="12" fill="#111827">loading, baking)</text>
+
+  <!-- Clean zone (green) -->
+  <rect x="735" y="65" width="190" height="130" fill="#d6f0dc" stroke="#1b6b35" stroke-width="1.5"/>
+  <text x="830" y="95" text-anchor="middle" font-size="15" font-weight="bold" fill="#111827">8 Ressuage</text>
+  <text x="830" y="117" text-anchor="middle" font-size="12" fill="#111827">cooling racks:</text>
+  <text x="830" y="133" text-anchor="middle" font-size="12" fill="#111827">steam and heat</text>
+  <text x="830" y="149" text-anchor="middle" font-size="12" fill="#111827">leave the bread</text>
+
+  <rect x="735" y="210" width="190" height="265" fill="#d6f0dc" stroke="#1b6b35" stroke-width="1.5"/>
+  <text x="830" y="245" text-anchor="middle" font-size="15" font-weight="bold" fill="#111827">9 Magasin</text>
+  <text x="830" y="267" text-anchor="middle" font-size="12" fill="#111827">shop: display</text>
+  <text x="830" y="283" text-anchor="middle" font-size="12" fill="#111827">and sale</text>
+  <text x="830" y="455" text-anchor="middle" font-size="12" fill="#111827">customer door</text>
+
+  <!-- Dirty zone (grey) -->
+  <rect x="200" y="370" width="200" height="105" fill="#e5e7eb" stroke="#4b5563" stroke-width="1.5"/>
+  <text x="300" y="400" text-anchor="middle" font-size="15" font-weight="bold" fill="#111827">Plonge</text>
+  <text x="300" y="420" text-anchor="middle" font-size="12" fill="#111827">washing bowls,</text>
+  <text x="300" y="436" text-anchor="middle" font-size="12" fill="#111827">trays and tools</text>
+
+  <rect x="415" y="370" width="150" height="105" fill="#e5e7eb" stroke="#4b5563" stroke-width="1.5"/>
+  <text x="490" y="400" text-anchor="middle" font-size="15" font-weight="bold" fill="#111827">Déchets</text>
+  <text x="490" y="420" text-anchor="middle" font-size="12" fill="#111827">waste and</text>
+  <text x="490" y="436" text-anchor="middle" font-size="12" fill="#111827">packaging out</text>
+
+  <rect x="580" y="370" width="140" height="105" fill="#dbeafe" stroke="#1f4e79" stroke-width="1.5"/>
+  <text x="650" y="398" text-anchor="middle" font-size="14" font-weight="bold" fill="#111827">Vestiaire</text>
+  <text x="650" y="418" text-anchor="middle" font-size="12" fill="#111827">staff change,</text>
+  <text x="650" y="434" text-anchor="middle" font-size="12" fill="#111827">then wash hands</text>
+  <text x="650" y="450" text-anchor="middle" font-size="12" fill="#111827">(lave-mains)</text>
+
+  <!-- product flow arrows (blue) -->
+  <g stroke="#1f4e79" stroke-width="3" fill="none">
+    <line x1="110" y1="185" x2="110" y2="198" marker-end="url(#arr)"/>
+    <path d="M185,240 L240,240 L240,203" marker-end="url(#arr)"/>
+    <line x1="325" y1="150" x2="338" y2="150" marker-end="url(#arr)"/>
+    <line x1="450" y1="150" x2="463" y2="150" marker-end="url(#arr)"/>
+    <line x1="575" y1="150" x2="588" y2="150" marker-end="url(#arr)"/>
+    <line x1="647" y1="200" x2="647" y2="223" marker-end="url(#arr)"/>
+    <path d="M705,282 L720,282 L720,130 L733,130" marker-end="url(#arr)"/>
+    <line x1="830" y1="195" x2="830" y2="208" marker-end="url(#arr)"/>
+  </g>
+
+  <!-- dirty flow arrows (brown dashed) -->
+  <g stroke="#8a3b12" stroke-width="2.5" fill="none" stroke-dasharray="7 5">
+    <path d="M300,355 L300,368" marker-end="url(#arrw)"/>
+    <path d="M490,355 L490,368" marker-end="url(#arrw)"/>
+    <path d="M490,475 L490,520" marker-end="url(#arrw)"/>
+  </g>
+  <text x="500" y="535" font-size="12" fill="#8a3b12">separate waste exit</text>
+
+  <!-- staff entry (grey) -->
+  <g stroke="#4b5563" stroke-width="2.5" fill="none">
+    <path d="M650,520 L650,477" marker-end="url(#arrs)"/>
+  </g>
+  <text x="660" y="535" font-size="12" fill="#4b5563">staff entrance</text>
+  <text x="40" y="535" font-size="12" fill="#8a3b12">goods entrance at reception (top left)</text>
+
+  <!-- legend -->
+  <g font-size="12" fill="#111827">
+    <rect x="40" y="555" width="16" height="12" fill="#fde2c4" stroke="#8a3b12"/>
+    <text x="62" y="566">raw materials (dirty)</text>
+    <rect x="200" y="555" width="16" height="12" fill="#fff4c2" stroke="#8a6d00"/>
+    <text x="222" y="566">production</text>
+    <rect x="310" y="555" width="16" height="12" fill="#d6f0dc" stroke="#1b6b35"/>
+    <text x="332" y="566">finished products (clean)</text>
+    <rect x="510" y="555" width="16" height="12" fill="#e5e7eb" stroke="#4b5563"/>
+    <text x="532" y="566">dirty: washing and waste</text>
+    <line x1="710" y1="561" x2="750" y2="561" stroke="#1f4e79" stroke-width="3" marker-end="url(#arr)"/>
+    <text x="756" y="566">product flow</text>
+    <line x1="710" y1="583" x2="750" y2="583" stroke="#8a3b12" stroke-width="2.5" stroke-dasharray="7 5" marker-end="url(#arrw)"/>
+    <text x="756" y="588">dirty flow</text>
+  </g>
+</svg>

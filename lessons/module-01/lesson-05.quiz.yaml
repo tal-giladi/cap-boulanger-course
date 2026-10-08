@@ -1,0 +1,83 @@
+- id: q1
+  question: >-
+    A technical sheet gives salt at 2% and you are mixing 1.2 kg of flour. How much salt do you weigh?
+  options:
+    - >-
+      2.4 g
+    - >-
+      240 g
+    - >-
+      24 g
+    - >-
+      38 g
+  correct: 2
+  explanation: >-
+    Salt (g) = flour (g) × % ÷ 100 = 1,200 × 2 ÷ 100 = 24 g. 2.4 g and 240 g are decimal slips; 38 g
+    comes from taking 2% of a whole dough of about 1.9 kg instead of the flour.
+- id: q2
+  question: >-
+    A dough contains 2,000 g flour, 1,360 g water, 40 g salt and 30 g fresh yeast. What is its
+    hydration?
+  options:
+    - >-
+      68%
+    - >-
+      39.7%
+    - >-
+      147%
+    - >-
+      32%
+  correct: 0
+  explanation: >-
+    Hydration is water ÷ flour × 100 = 1,360 ÷ 2,000 × 100 = 68%. 39.7% is water as a share of the
+    whole dough (1,360 ÷ 3,430), which bakers do not use.
+- id: q3
+  question: >-
+    An order asks for 30 pieces of 400 g. The formula totals 170% and you allow 3% for losses. How
+    much flour do you need before rounding?
+  options:
+    - >-
+      7,059 g
+    - >-
+      7,271 g
+    - >-
+      21,012 g
+    - >-
+      12,360 g
+  correct: 1
+  explanation: >-
+    Dough: 30 × 400 = 12,000 g; with losses 12,000 × 1.03 = 12,360 g. Flour = 12,360 × 100 ÷ 170 =
+    7,271 g. 7,059 g forgets the losses; 12,360 g is the dough, not the flour.
+- id: q4
+  question: >-
+    A loaf uses 800 g of T65 flour, 200 g of wholemeal T150 flour and 700 g of water. What is the
+    water as a baker's percentage?
+  options:
+    - >-
+      87.5%, because the main flour is the 100% reference.
+    - >-
+      41.2%, because water is compared with the total dough.
+    - >-
+      35%, because the two flours are counted as 200%.
+    - >-
+      70%, because both flours together are the 100% reference.
+  correct: 3
+  explanation: >-
+    All flours together make 100%: 800 + 200 = 1,000 g. Water = 700 ÷ 1,000 × 100 = 70%. Dividing by
+    the T65 alone gives 87.5%, a common slip with multi-flour formulas.
+- id: q5
+  question: >-
+    You have rounded the flour to 8,500 g. The sheet gives fresh yeast at 1.5%. Which weight is correct?
+  options:
+    - >-
+      12.75 g
+    - >-
+      1,275 g
+    - >-
+      85 g
+    - >-
+      127.5 g
+  correct: 3
+  explanation: >-
+    8,500 × 1.5 ÷ 100 = 127.5 g (weigh 128 g on a 1 g scale). The other answers are decimal slips or
+    1% instead of 1.5%. A quick sense check: yeast at 1.5% is a little over 1/70 of the flour.

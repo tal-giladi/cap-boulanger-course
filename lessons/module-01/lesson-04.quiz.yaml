@@ -1,0 +1,83 @@
+- id: q1
+  question: >-
+    You need 6 g of fresh yeast for a home batch and only have a scale with 1 g steps. What is the
+    worst-case error from the display resolution alone?
+  options:
+    - >-
+      About ±0.8%, because 0.5 g is small compared with the whole dough.
+    - >-
+      About ±17%, because 1 g is a sixth of the target weight.
+    - >-
+      About ±8%, because the true weight is within 0.5 g of the display.
+    - >-
+      No error, because a digital scale rounds to the exact gram.
+  correct: 2
+  explanation: >-
+    A display of 6 g means the true weight lies between 5.5 and 6.5 g, so ±0.5 g. Relative to the
+    6 g target that is 0.5 ÷ 6 × 100, about ±8%. The error is judged against the ingredient, not the dough.
+- id: q2
+  question: >-
+    Ten 2-euro coins (8.50 g each) read 85 g in the centre of your scale and 81 g in one corner. What
+    do you conclude?
+  options:
+    - >-
+      The coins are worn, so the scale should be trusted.
+    - >-
+      The scale is accurate, because the centre reading is correct.
+    - >-
+      The scale needs a heavier test weight before any conclusion.
+    - >-
+      The scale is not reliable: readings depend on where the load sits.
+  correct: 3
+  explanation: >-
+    Worn coins would read low everywhere, not only in one corner. A 4 g difference between centre and
+    corner means the result depends on where the bowl is placed, so the scale cannot be trusted.
+- id: q3
+  question: >-
+    Your probe thermometer reads 1.5 °C in a well-stirred glass of iced water and cannot be reset.
+    Your dough reads 25.0 °C. What is the dough's real temperature?
+  options:
+    - >-
+      23.5 °C, because the thermometer reads 1.5 °C too high.
+    - >-
+      26.5 °C, because the thermometer reads 1.5 °C too low.
+    - >-
+      25.0 °C, because a 1.5 °C error is within normal tolerance.
+    - >-
+      Unknown, because an ice-point check says nothing about 25 °C.
+  correct: 0
+  explanation: >-
+    Iced water is 0 °C, so the thermometer adds 1.5 °C. Subtract the offset from every reading:
+    25.0 − 1.5 = 23.5 °C. Write the offset on the thermometer until you replace it.
+- id: q4
+  question: >-
+    A recipe says "330 mL of milk". You weigh 330 g of milk instead. What happens?
+  options:
+    - >-
+      Nothing changes, because 1 mL of any liquid weighs exactly 1 g.
+    - >-
+      Slightly less milk, because milk weighs about 1.03 g per mL.
+    - >-
+      Slightly more milk, because milk is a little lighter than water.
+    - >-
+      About 10% less milk, because milk weighs about 1.1 g per mL.
+  correct: 1
+  explanation: >-
+    330 mL of milk weighs about 340 g, so 330 g is about 320 mL. The difference is small, but only
+    water can be treated as 1 mL = 1 g; oil is lighter and milk heavier.
+- id: q5
+  question: >-
+    Which order of actions is correct when weighing water into the mixing bowl?
+  options:
+    - >-
+      Bowl on the scale, tare, pour water, note the weight.
+    - >-
+      Pour water into the bowl, then put it on the scale and read the total.
+    - >-
+      Measure water in a jug, then check it on the scale without the bowl.
+    - >-
+      Tare the empty scale, add the bowl and water, then subtract nothing.
+  correct: 0
+  explanation: >-
+    Taring with the bowl on the scale means the display shows only what you add. Reading a total
+    includes the bowl, and a jug is far less precise than a scale.

@@ -20,7 +20,7 @@ Goal: build "CAP Boulanger Preparation" per `curriculum/plan.md`, following
 - [x] Planning: sources, competency map, architecture/lesson inventory, exam map, physical practice, build spec, validator
 - [x] Foundations: README, _sidebar, glossary, references (cap-exam, formulas, troubleshooting), templates (8), course-details
 - [ ] manifest.json and competency matrix (matrix assembled from `curriculum/matrix/` at the end)
-- [ ] Module 1 — Introduction to Professional Baking
+- [x] Module 1 — Introduction to Professional Baking
 - [ ] Module 2 — Ingredients
 - [ ] Module 3 — Dough Science
 - [ ] Module 4 — Fermentation
@@ -47,7 +47,9 @@ Goal: build "CAP Boulanger Preparation" per `curriculum/plan.md`, following
 
 ## Agents now
 
-- (none)
+- Agent A: done
+- Agent B: Module 2 (started 2026-10-08)
+- PAUSE after modules 1 and 2 finish (Tal, 2026-10-08): merge, commit, push, then stop and wait.
 
 ## Decisions and open questions
 
@@ -57,3 +59,6 @@ Goal: build "CAP Boulanger Preparation" per `curriculum/plan.md`, following
   (Légifrance consolidated text). Reasons in `curriculum/research/sources.md`.
 - Modules are added to `_sidebar.md` only when finished, so check-course stays at 0 problems.
 - Repo is public (Tal, 2026-10-08). All three simulations to be built (Tal, 2026-10-08).
+- Module 17 must re-check the bakery GBPH: CNBPF 2026 guide says the 1997 GBPH was withdrawn in 2025 and the new one was not yet validated (as of 2026-10-08).
+- Module 5 should refer back to the simple hand-mix water estimate in 01.7 (3 × target − flour − room − 2 °C).
+- Technical sheets defined in 01.6 for reuse: PC-02 (T55 100 / water 64 / salt 1.8 / fresh yeast 1.5 / pâte fermentée 15) and PD-01 (direct, by hand: water 65 / salt 1.8 / yeast 1.5).
