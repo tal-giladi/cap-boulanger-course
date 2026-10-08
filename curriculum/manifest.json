@@ -1,0 +1,1581 @@
+{
+  "certification": "CAP Boulanger",
+  "rncp": "RNCP42115",
+  "level": 3,
+  "certifier": "Ministère de l'Éducation nationale",
+  "framework": {
+    "text": "Arrêté du 21 février 2014, modified by arrêté du 22 juillet 2019",
+    "rncp_pathways_from": "2026-09-01",
+    "rncp_registration_until": "2028-08-31",
+    "checked": "2026-10-08"
+  },
+  "official_sources": [
+    "https://www.francecompetences.fr/recherche/rncp/42115",
+    "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000028699556",
+    "https://referentiels-professionnels.eduscol.education.fr/"
+  ],
+  "blocks_covered": [
+    "BC01",
+    "BC02"
+  ],
+  "blocks_not_covered": [
+    "BC03",
+    "BC04",
+    "BC05",
+    "BC06",
+    "BC07 (partly)"
+  ],
+  "competencies": [
+    "C1.1",
+    "C1.2",
+    "C1.3",
+    "C2.1",
+    "C2.2",
+    "C2.3",
+    "C2.4",
+    "C2.5",
+    "C2.6",
+    "C2.7",
+    "C2.8",
+    "C3.1",
+    "C3.2",
+    "C4.1",
+    "C4.2",
+    "C4.3",
+    "C4.4"
+  ],
+  "assessments": {
+    "lesson_quiz": "3-5 MCQ",
+    "module_quiz": "8-10 MCQ scenarios",
+    "pass_mark": 0.7,
+    "ep1_mocks": "module 21",
+    "ep2_production_day": "module 22 + projects/m22-production-day.md"
+  },
+  "practical_requirements": "see curriculum/physical-practice.md",
+  "modules": [
+    {
+      "number": 1,
+      "title": "Introduction to Professional Baking",
+      "project": "projects/m01-production-order.md",
+      "quiz": "assessments/module-01-quiz.md",
+      "lessons": [
+        {
+          "running": 1,
+          "id": "01.1",
+          "file": "lessons/module-01/lesson-01.md",
+          "title": "The Boulanger's Job and the CAP",
+          "competencies": [
+            "C4.3",
+            "S1.1",
+            "S5.1"
+          ],
+          "practice": "Write your own preparation plan: online / physical / exam / admin"
+        },
+        {
+          "running": 2,
+          "id": "01.2",
+          "file": "lessons/module-01/lesson-02.md",
+          "title": "Inside a Bakery: Workflow, Zones and Roles",
+          "competencies": [
+            "C1.2",
+            "S1.2",
+            "S1.3"
+          ],
+          "practice": "Map your kitchen into bakery zones with marche en avant"
+        },
+        {
+          "running": 3,
+          "id": "01.3",
+          "file": "lessons/module-01/lesson-03.md",
+          "title": "Working Safely and Hygienically from Day One",
+          "competencies": [
+            "C2.5",
+            "C2.6",
+            "S1.3"
+          ],
+          "practice": "Set up your home \"fournil\", dress and wash hands to standard"
+        },
+        {
+          "running": 4,
+          "id": "01.4",
+          "file": "lessons/module-01/lesson-04.md",
+          "title": "Weighing and Measuring Like a Professional",
+          "competencies": [
+            "C2.2"
+          ],
+          "practice": "Calibrate scale and thermometer; weigh exercises"
+        },
+        {
+          "running": 5,
+          "id": "01.5",
+          "file": "lessons/module-01/lesson-05.md",
+          "title": "Baker's Percentages",
+          "competencies": [
+            "C1.3"
+          ],
+          "practice": "Convert three recipes to percentages and back"
+        },
+        {
+          "running": 6,
+          "id": "01.6",
+          "file": "lessons/module-01/lesson-06.md",
+          "title": "Reading a Production Order and a Technical Sheet",
+          "competencies": [
+            "C1.2",
+            "C1.3",
+            "S3.1"
+          ],
+          "practice": "Read a production order; list ingredients, equipment, sequence"
+        },
+        {
+          "running": 7,
+          "id": "01.7",
+          "file": "lessons/module-01/lesson-07.md",
+          "title": "Mise en Place: Your First Simple Dough",
+          "competencies": [
+            "C1.2",
+            "C2.2",
+            "C2.3"
+          ],
+          "practice": "First lean dough: weigh, mix by hand, observe, bake flat rolls"
+        }
+      ]
+    },
+    {
+      "number": 2,
+      "title": "Ingredients",
+      "project": "projects/m02-flour-comparison.md",
+      "quiz": "assessments/module-02-quiz.md",
+      "lessons": [
+        {
+          "running": 8,
+          "id": "02.1",
+          "file": "lessons/module-02/lesson-01.md",
+          "title": "The Wheat Grain and Milling",
+          "competencies": [
+            "S1.2",
+            "S2.1"
+          ],
+          "practice": "Sieve and compare wholemeal vs white flour"
+        },
+        {
+          "running": 9,
+          "id": "02.2",
+          "file": "lessons/module-02/lesson-02.md",
+          "title": "French Flour Types and Legal Names",
+          "competencies": [
+            "S2.1"
+          ],
+          "practice": "Read flour bags; Pekar test at home"
+        },
+        {
+          "running": 10,
+          "id": "02.3",
+          "file": "lessons/module-02/lesson-03.md",
+          "title": "Proteins, Gluten, Starch and Flour Strength",
+          "competencies": [
+            "S2.1",
+            "S4.1"
+          ],
+          "practice": "Gluten-washing test on two flours"
+        },
+        {
+          "running": 11,
+          "id": "02.4",
+          "file": "lessons/module-02/lesson-04.md",
+          "title": "Water in Bread",
+          "competencies": [
+            "S2.1",
+            "S4.3"
+          ],
+          "practice": "Same dough at two hydrations"
+        },
+        {
+          "running": 12,
+          "id": "02.5",
+          "file": "lessons/module-02/lesson-05.md",
+          "title": "Salt",
+          "competencies": [
+            "S2.1",
+            "S4.1"
+          ],
+          "practice": "Salt vs no-salt dough comparison"
+        },
+        {
+          "running": 13,
+          "id": "02.6",
+          "file": "lessons/module-02/lesson-06.md",
+          "title": "Yeast",
+          "competencies": [
+            "S2.1",
+            "S4.2"
+          ],
+          "practice": "Fresh vs dry yeast activity test"
+        },
+        {
+          "running": 14,
+          "id": "02.7",
+          "file": "lessons/module-02/lesson-07.md",
+          "title": "Levain",
+          "competencies": [
+            "S2.1",
+            "S3.3",
+            "S4.2"
+          ],
+          "practice": "Start a levain (7-day log)"
+        },
+        {
+          "running": 15,
+          "id": "02.8",
+          "file": "lessons/module-02/lesson-08.md",
+          "title": "Sugar, Fats, Milk and Eggs",
+          "competencies": [
+            "S2.1",
+            "S2.2"
+          ],
+          "practice": "Enriched vs lean roll comparison"
+        },
+        {
+          "running": 16,
+          "id": "02.9",
+          "file": "lessons/module-02/lesson-09.md",
+          "title": "Seeds, Other Flours, Malt and Improvers",
+          "competencies": [
+            "S2.1",
+            "S2.4"
+          ],
+          "practice": "Read improver labels; soaker for seeds"
+        },
+        {
+          "running": 17,
+          "id": "02.10",
+          "file": "lessons/module-02/lesson-10.md",
+          "title": "Savoury Fillings and Bought-in Products",
+          "competencies": [
+            "S2.3",
+            "C2.6"
+          ],
+          "practice": "Storage plan for a savoury filling"
+        },
+        {
+          "running": 18,
+          "id": "02.11",
+          "file": "lessons/module-02/lesson-11.md",
+          "title": "Bread, Nutrition and the Label",
+          "competencies": [
+            "S4.1",
+            "S4.3"
+          ],
+          "practice": "Compare nutrition labels of 4 breads"
+        }
+      ]
+    },
+    {
+      "number": 3,
+      "title": "Dough Science",
+      "project": "projects/m03-mixing-study.md",
+      "quiz": "assessments/module-03-quiz.md",
+      "lessons": [
+        {
+          "running": 19,
+          "id": "03.1",
+          "file": "lessons/module-03/lesson-01.md",
+          "title": "How a Gluten Network Forms",
+          "competencies": [
+            "S3.1",
+            "S4.1"
+          ],
+          "practice": "Windowpane test at 3 mixing stages"
+        },
+        {
+          "running": 20,
+          "id": "03.2",
+          "file": "lessons/module-03/lesson-02.md",
+          "title": "Hydration, Consistency and Autolyse",
+          "competencies": [
+            "S3.1"
+          ],
+          "practice": "Autolyse vs no-autolyse comparison"
+        },
+        {
+          "running": 21,
+          "id": "03.3",
+          "file": "lessons/module-03/lesson-03.md",
+          "title": "Mixing Phases and Methods",
+          "competencies": [
+            "S3.1",
+            "C2.3"
+          ],
+          "practice": "Hand-mix simulating slow vs improved mixing"
+        },
+        {
+          "running": 22,
+          "id": "03.4",
+          "file": "lessons/module-03/lesson-04.md",
+          "title": "Oxidation, Dough Temperature and Mixing",
+          "competencies": [
+            "S3.1"
+          ],
+          "practice": "Over-mix a small dough deliberately"
+        },
+        {
+          "running": 23,
+          "id": "03.5",
+          "file": "lessons/module-03/lesson-05.md",
+          "title": "Dough Strength: Elasticity, Extensibility and Correcting Consistency",
+          "competencies": [
+            "S3.1",
+            "C4.4"
+          ],
+          "practice": "Bassinage and contre-frasage correction"
+        }
+      ]
+    },
+    {
+      "number": 4,
+      "title": "Fermentation",
+      "project": "projects/m04-diagnose-the-dough.md",
+      "quiz": "assessments/module-04-quiz.md",
+      "lessons": [
+        {
+          "running": 24,
+          "id": "04.1",
+          "file": "lessons/module-04/lesson-01.md",
+          "title": "What Fermentation Does",
+          "competencies": [
+            "S3.3",
+            "S4.2"
+          ],
+          "practice": "Balloon-bottle CO2 test"
+        },
+        {
+          "running": 25,
+          "id": "04.2",
+          "file": "lessons/module-04/lesson-02.md",
+          "title": "Pointage: Bulk Fermentation",
+          "competencies": [
+            "S3.3"
+          ],
+          "practice": "Track bulk with marked container"
+        },
+        {
+          "running": 26,
+          "id": "04.3",
+          "file": "lessons/module-04/lesson-03.md",
+          "title": "Dividing, Pre-shaping and Détente",
+          "competencies": [
+            "S3.1",
+            "S3.3"
+          ],
+          "practice": "Divide and pre-shape 8 pieces"
+        },
+        {
+          "running": 27,
+          "id": "04.4",
+          "file": "lessons/module-04/lesson-04.md",
+          "title": "Apprêt: Final Proof",
+          "competencies": [
+            "S3.3"
+          ],
+          "practice": "Poke test series"
+        },
+        {
+          "running": 28,
+          "id": "04.5",
+          "file": "lessons/module-04/lesson-05.md",
+          "title": "Pre-ferments: Pâte Fermentée, Poolish and Levain",
+          "competencies": [
+            "S3.3"
+          ],
+          "practice": "Same bread with poolish vs direct"
+        },
+        {
+          "running": 29,
+          "id": "04.6",
+          "file": "lessons/module-04/lesson-06.md",
+          "title": "Controlled and Retarded Fermentation",
+          "competencies": [
+            "S3.3",
+            "C1.2"
+          ],
+          "practice": "Overnight fridge pointage retardé"
+        },
+        {
+          "running": 30,
+          "id": "04.7",
+          "file": "lessons/module-04/lesson-07.md",
+          "title": "Judging Fermentation by the Dough",
+          "competencies": [
+            "S3.3",
+            "C4.4"
+          ],
+          "practice": "Under/correct/over test bake"
+        }
+      ]
+    },
+    {
+      "number": 5,
+      "title": "Temperature Management",
+      "project": "projects/m05-temperature-log.md",
+      "quiz": "assessments/module-05-quiz.md",
+      "lessons": [
+        {
+          "running": 31,
+          "id": "05.1",
+          "file": "lessons/module-05/lesson-01.md",
+          "title": "Temperatures That Matter in a Bakery",
+          "competencies": [
+            "S3.1",
+            "S4.1"
+          ],
+          "practice": "Temperature audit of your kitchen"
+        },
+        {
+          "running": 32,
+          "id": "05.2",
+          "file": "lessons/module-05/lesson-02.md",
+          "title": "The Base Temperature Method",
+          "competencies": [
+            "S3.1",
+            "C1.3"
+          ],
+          "practice": "Calculate water temp; hit target dough temp"
+        },
+        {
+          "running": 33,
+          "id": "05.3",
+          "file": "lessons/module-05/lesson-03.md",
+          "title": "Friction, Pre-ferments and Ice",
+          "competencies": [
+            "S3.1",
+            "C1.3"
+          ],
+          "practice": "Measure your mixing friction factor"
+        },
+        {
+          "running": 34,
+          "id": "05.4",
+          "file": "lessons/module-05/lesson-04.md",
+          "title": "Temperature Through the Whole Process",
+          "competencies": [
+            "S3.1",
+            "S3.4"
+          ],
+          "practice": "Temperature log of a full bake"
+        }
+      ]
+    },
+    {
+      "number": 6,
+      "title": "Baker's Mathematics",
+      "project": "projects/m06-calculation-workbook.md",
+      "quiz": "assessments/module-06-quiz.md",
+      "lessons": [
+        {
+          "running": 35,
+          "id": "06.1",
+          "file": "lessons/module-06/lesson-01.md",
+          "title": "Scaling a Formula",
+          "competencies": [
+            "C1.3"
+          ],
+          "practice": "Scale 1 kg to 10 kg and to 4.5 kg"
+        },
+        {
+          "running": 36,
+          "id": "06.2",
+          "file": "lessons/module-06/lesson-02.md",
+          "title": "From Dough Weight Back to Ingredients",
+          "competencies": [
+            "C1.3"
+          ],
+          "practice": "Reverse problems"
+        },
+        {
+          "running": 37,
+          "id": "06.3",
+          "file": "lessons/module-06/lesson-03.md",
+          "title": "Dividing, Losses and Yield",
+          "competencies": [
+            "C1.3",
+            "C3.2"
+          ],
+          "practice": "Measure your own baking loss"
+        },
+        {
+          "running": 38,
+          "id": "06.4",
+          "file": "lessons/module-06/lesson-04.md",
+          "title": "Pre-ferment and Levain Calculations",
+          "competencies": [
+            "C1.3"
+          ],
+          "practice": "Build a poolish formula"
+        },
+        {
+          "running": 39,
+          "id": "06.5",
+          "file": "lessons/module-06/lesson-05.md",
+          "title": "Cost of a Product",
+          "competencies": [
+            "C1.3",
+            "S5.5"
+          ],
+          "practice": "Cost one baguette"
+        }
+      ]
+    },
+    {
+      "number": 7,
+      "title": "The Production Process",
+      "project": "projects/m07-process-sheet.md",
+      "quiz": "assessments/module-07-quiz.md",
+      "lessons": [
+        {
+          "running": 40,
+          "id": "07.1",
+          "file": "lessons/module-07/lesson-01.md",
+          "title": "The 18 Stages from Order to Clean Bench",
+          "competencies": [
+            "C1.2",
+            "S3.1"
+          ],
+          "practice": "Write the stage list for your next bake"
+        },
+        {
+          "running": 41,
+          "id": "07.2",
+          "file": "lessons/module-07/lesson-02.md",
+          "title": "From Order to Mixing",
+          "competencies": [
+            "C1.2",
+            "C1.3",
+            "C2.2"
+          ],
+          "practice": "Prepare a full mise en place"
+        },
+        {
+          "running": 42,
+          "id": "07.3",
+          "file": "lessons/module-07/lesson-03.md",
+          "title": "From Bulk to Shaping",
+          "competencies": [
+            "C2.3",
+            "S3.1"
+          ],
+          "practice": "Shaping drills with a practice dough"
+        },
+        {
+          "running": 43,
+          "id": "07.4",
+          "file": "lessons/module-07/lesson-04.md",
+          "title": "Scoring, Steam and Loading the Oven",
+          "competencies": [
+            "S3.1",
+            "C2.3"
+          ],
+          "practice": "Home steam setups compared"
+        },
+        {
+          "running": 44,
+          "id": "07.5",
+          "file": "lessons/module-07/lesson-05.md",
+          "title": "Baking, Cooling, Staling and Storage",
+          "competencies": [
+            "S3.1",
+            "C2.4"
+          ],
+          "practice": "Cool and store test: three methods"
+        }
+      ]
+    },
+    {
+      "number": 8,
+      "title": "Pain Courant",
+      "project": "projects/m08-pain-courant-batch.md",
+      "quiz": "assessments/module-08-quiz.md",
+      "lessons": [
+        {
+          "running": 45,
+          "id": "08.1",
+          "file": "lessons/module-08/lesson-01.md",
+          "title": "Pain Courant: Formula and Mixing",
+          "competencies": [
+            "C1.3",
+            "C2.3",
+            "S3.2"
+          ],
+          "practice": "Mix a pain courant dough to target temperature"
+        },
+        {
+          "running": 46,
+          "id": "08.2",
+          "file": "lessons/module-08/lesson-02.md",
+          "title": "Fermentation and Dividing",
+          "competencies": [
+            "C2.3",
+            "S3.3"
+          ],
+          "practice": "Bulk and divide to weight"
+        },
+        {
+          "running": 47,
+          "id": "08.3",
+          "file": "lessons/module-08/lesson-03.md",
+          "title": "Shaping Baguettes",
+          "competencies": [
+            "C2.3"
+          ],
+          "practice": "Shape 6 baguettes (home-oven length)"
+        },
+        {
+          "running": 48,
+          "id": "08.4",
+          "file": "lessons/module-08/lesson-04.md",
+          "title": "Scoring and Baking Baguettes",
+          "competencies": [
+            "C2.3",
+            "S3.1"
+          ],
+          "practice": "Score and bake"
+        },
+        {
+          "running": 49,
+          "id": "08.5",
+          "file": "lessons/module-08/lesson-05.md",
+          "title": "Evaluating Your Pain Courant",
+          "competencies": [
+            "C3.2",
+            "C4.4"
+          ],
+          "practice": "Score your bake with the rubric"
+        }
+      ]
+    },
+    {
+      "number": 9,
+      "title": "Pain de Tradition Française",
+      "project": "projects/m09-tradition-bake.md",
+      "quiz": "assessments/module-09-quiz.md",
+      "lessons": [
+        {
+          "running": 50,
+          "id": "09.1",
+          "file": "lessons/module-09/lesson-01.md",
+          "title": "The Law: Tradition, Maison, Levain and Other Names",
+          "competencies": [
+            "S1.4",
+            "C4.2"
+          ],
+          "practice": "Classify 8 shop breads by legal name"
+        },
+        {
+          "running": 51,
+          "id": "09.2",
+          "file": "lessons/module-09/lesson-02.md",
+          "title": "Making Tradition Dough",
+          "competencies": [
+            "C2.3",
+            "S3.2",
+            "S3.3"
+          ],
+          "practice": "Slow-mix tradition dough with pâte fermentée"
+        },
+        {
+          "running": 52,
+          "id": "09.3",
+          "file": "lessons/module-09/lesson-03.md",
+          "title": "Shaping and Scoring Tradition",
+          "competencies": [
+            "C2.3"
+          ],
+          "practice": "Shape with minimal degassing"
+        },
+        {
+          "running": 53,
+          "id": "09.4",
+          "file": "lessons/module-09/lesson-04.md",
+          "title": "Baking and Judging Tradition",
+          "competencies": [
+            "C2.3",
+            "C3.2"
+          ],
+          "practice": "Bake and compare with pain courant"
+        }
+      ]
+    },
+    {
+      "number": 10,
+      "title": "Other Breads",
+      "project": "projects/m10-bread-assortment.md",
+      "quiz": "assessments/module-10-quiz.md",
+      "lessons": [
+        {
+          "running": 54,
+          "id": "10.1",
+          "file": "lessons/module-10/lesson-01.md",
+          "title": "Shaped Pieces: Boule, Bâtard, Fendu, Tabatière, Couronne",
+          "competencies": [
+            "C2.3"
+          ],
+          "practice": "Shape 2 forms from one dough"
+        },
+        {
+          "running": 55,
+          "id": "10.2",
+          "file": "lessons/module-10/lesson-02.md",
+          "title": "Épi and Petits Pains",
+          "competencies": [
+            "C2.3"
+          ],
+          "practice": "Épi + 3 roll shapes"
+        },
+        {
+          "running": 56,
+          "id": "10.3",
+          "file": "lessons/module-10/lesson-03.md",
+          "title": "Pain de Campagne and Levain Bread",
+          "competencies": [
+            "C2.3",
+            "S1.4",
+            "S3.3"
+          ],
+          "practice": "Campagne with levain"
+        },
+        {
+          "running": 57,
+          "id": "10.4",
+          "file": "lessons/module-10/lesson-04.md",
+          "title": "Pain Complet and Wholemeal Doughs",
+          "competencies": [
+            "C2.3",
+            "S1.4"
+          ],
+          "practice": "Pain complet"
+        },
+        {
+          "running": 58,
+          "id": "10.5",
+          "file": "lessons/module-10/lesson-05.md",
+          "title": "Pain de Mie",
+          "competencies": [
+            "C2.3",
+            "S3.2"
+          ],
+          "practice": "Tin loaf"
+        },
+        {
+          "running": 59,
+          "id": "10.6",
+          "file": "lessons/module-10/lesson-06.md",
+          "title": "Pain Viennois",
+          "competencies": [
+            "C2.3",
+            "S3.2"
+          ],
+          "practice": "Viennois baguettes"
+        },
+        {
+          "running": 60,
+          "id": "10.7",
+          "file": "lessons/module-10/lesson-07.md",
+          "title": "Seeded and Special Breads",
+          "competencies": [
+            "C2.3",
+            "S2.4"
+          ],
+          "practice": "Seeded loaf with soaker"
+        }
+      ]
+    },
+    {
+      "number": 11,
+      "title": "Viennoiserie: The Croissant",
+      "project": "projects/m11-croissant-batch.md",
+      "quiz": "assessments/module-11-quiz.md",
+      "lessons": [
+        {
+          "running": 61,
+          "id": "11.1",
+          "file": "lessons/module-11/lesson-01.md",
+          "title": "How Laminated Dough Works",
+          "competencies": [
+            "S3.4",
+            "S4.1"
+          ],
+          "practice": "Paper-folding layer count model"
+        },
+        {
+          "running": 62,
+          "id": "11.2",
+          "file": "lessons/module-11/lesson-02.md",
+          "title": "The Détrempe",
+          "competencies": [
+            "C2.3",
+            "S3.4"
+          ],
+          "practice": "Make and chill a détrempe"
+        },
+        {
+          "running": 63,
+          "id": "11.3",
+          "file": "lessons/module-11/lesson-03.md",
+          "title": "Butter and Beurrage",
+          "competencies": [
+            "C2.3",
+            "S2.2"
+          ],
+          "practice": "Make a butter plaque; test plasticity"
+        },
+        {
+          "running": 64,
+          "id": "11.4",
+          "file": "lessons/module-11/lesson-04.md",
+          "title": "Tourage: Turns, Rest and Temperature",
+          "competencies": [
+            "C2.3"
+          ],
+          "practice": "Give turns with a rolling pin"
+        },
+        {
+          "running": 65,
+          "id": "11.5",
+          "file": "lessons/module-11/lesson-05.md",
+          "title": "Rolling, Cutting and Shaping Croissants",
+          "competencies": [
+            "C2.3",
+            "C1.3"
+          ],
+          "practice": "Cut and roll 12 croissants"
+        },
+        {
+          "running": 66,
+          "id": "11.6",
+          "file": "lessons/module-11/lesson-06.md",
+          "title": "Proofing, Egg Wash and Baking",
+          "competencies": [
+            "C2.3",
+            "S3.4"
+          ],
+          "practice": "Proof and bake"
+        },
+        {
+          "running": 67,
+          "id": "11.7",
+          "file": "lessons/module-11/lesson-07.md",
+          "title": "Evaluating Croissants and Fixing Lamination Faults",
+          "competencies": [
+            "C3.2",
+            "C4.4"
+          ],
+          "practice": "Cut-section analysis"
+        }
+      ]
+    },
+    {
+      "number": 12,
+      "title": "Viennoiserie: Pain au Chocolat, Pain aux Raisins and Brioche Doughs",
+      "project": "projects/m12-viennoiserie-tray.md",
+      "quiz": "assessments/module-12-quiz.md",
+      "lessons": [
+        {
+          "running": 68,
+          "id": "12.1",
+          "file": "lessons/module-12/lesson-01.md",
+          "title": "Pain au Chocolat: What Changes from Croissant",
+          "competencies": [
+            "C2.3",
+            "C1.3"
+          ],
+          "practice": "Pains au chocolat from one lamination"
+        },
+        {
+          "running": 69,
+          "id": "12.2",
+          "file": "lessons/module-12/lesson-02.md",
+          "title": "Pain aux Raisins and Crème Pâtissière",
+          "competencies": [
+            "C2.3",
+            "C2.6"
+          ],
+          "practice": "Crème pâtissière + pains aux raisins"
+        },
+        {
+          "running": 70,
+          "id": "12.3",
+          "file": "lessons/module-12/lesson-03.md",
+          "title": "Pâte Levée: Pain au Lait, Pain Brioché and Brioche",
+          "competencies": [
+            "C2.3",
+            "S3.4"
+          ],
+          "practice": "Pain au lait dough"
+        },
+        {
+          "running": 71,
+          "id": "12.4",
+          "file": "lessons/module-12/lesson-04.md",
+          "title": "Braids, Navettes and Animals",
+          "competencies": [
+            "C2.3"
+          ],
+          "practice": "1-, 2- and 3-strand braids, navettes"
+        },
+        {
+          "running": 72,
+          "id": "12.5",
+          "file": "lessons/module-12/lesson-05.md",
+          "title": "Freezing, Storing and Packaging Viennoiserie",
+          "competencies": [
+            "C2.4",
+            "C2.6"
+          ],
+          "practice": "Freeze-and-bake test"
+        }
+      ]
+    },
+    {
+      "number": 13,
+      "title": "Professional Equipment",
+      "project": "projects/m13-equipment-file.md",
+      "quiz": "assessments/module-13-quiz.md",
+      "lessons": [
+        {
+          "running": 73,
+          "id": "13.1",
+          "file": "lessons/module-13/lesson-01.md",
+          "title": "Mixers",
+          "competencies": [
+            "S3.1",
+            "C2.5"
+          ],
+          "practice": "Home mixer vs hand comparison"
+        },
+        {
+          "running": 74,
+          "id": "13.2",
+          "file": "lessons/module-13/lesson-02.md",
+          "title": "Dividers, Moulders and the Sheeter",
+          "competencies": [
+            "S3.1",
+            "S3.4",
+            "C2.5"
+          ],
+          "practice": "Equipment safety sheet"
+        },
+        {
+          "running": 75,
+          "id": "13.3",
+          "file": "lessons/module-13/lesson-03.md",
+          "title": "Proofers, Retarders and Cold Rooms",
+          "competencies": [
+            "S3.4",
+            "S4.3"
+          ],
+          "practice": "Build a home proofing box"
+        },
+        {
+          "running": 76,
+          "id": "13.4",
+          "file": "lessons/module-13/lesson-04.md",
+          "title": "Ovens and Heat Transfer",
+          "competencies": [
+            "S3.1",
+            "S4.3"
+          ],
+          "practice": "Map your oven's hot spots"
+        },
+        {
+          "running": 77,
+          "id": "13.5",
+          "file": "lessons/module-13/lesson-05.md",
+          "title": "Energy, Gas and Electrical Safety",
+          "competencies": [
+            "S4.3",
+            "C2.5"
+          ],
+          "practice": "Read a rating plate"
+        },
+        {
+          "running": 78,
+          "id": "13.6",
+          "file": "lessons/module-13/lesson-06.md",
+          "title": "Small Equipment, Cleaning and Care",
+          "competencies": [
+            "C2.5",
+            "C2.6"
+          ],
+          "practice": "Clean-down protocol for your kit"
+        }
+      ]
+    },
+    {
+      "number": 14,
+      "title": "Production Planning",
+      "project": "projects/m14-multi-product-schedule.md",
+      "quiz": "assessments/module-14-quiz.md",
+      "lessons": [
+        {
+          "running": 79,
+          "id": "14.1",
+          "file": "lessons/module-14/lesson-01.md",
+          "title": "The Work Organigramme",
+          "competencies": [
+            "C1.2"
+          ],
+          "practice": "Draw an organigramme for one bread"
+        },
+        {
+          "running": 80,
+          "id": "14.2",
+          "file": "lessons/module-14/lesson-02.md",
+          "title": "Planning Several Products at Once",
+          "competencies": [
+            "C1.2",
+            "C1.3"
+          ],
+          "practice": "Two-product schedule"
+        },
+        {
+          "running": 81,
+          "id": "14.3",
+          "file": "lessons/module-14/lesson-03.md",
+          "title": "Oven, Mixer and Space Constraints",
+          "competencies": [
+            "C1.2"
+          ],
+          "practice": "Find the conflicts in a schedule"
+        },
+        {
+          "running": 82,
+          "id": "14.4",
+          "file": "lessons/module-14/lesson-04.md",
+          "title": "An EP2-Style Schedule",
+          "competencies": [
+            "C1.2",
+            "C1.3"
+          ],
+          "practice": "Full 4-product schedule"
+        }
+      ]
+    },
+    {
+      "number": 15,
+      "title": "Product Quality",
+      "project": "projects/m15-quality-panel.md",
+      "quiz": "assessments/module-15-quiz.md",
+      "lessons": [
+        {
+          "running": 83,
+          "id": "15.1",
+          "file": "lessons/module-15/lesson-01.md",
+          "title": "Exterior Quality",
+          "competencies": [
+            "C3.2"
+          ],
+          "practice": "Rate exterior of your bakes"
+        },
+        {
+          "running": 84,
+          "id": "15.2",
+          "file": "lessons/module-15/lesson-02.md",
+          "title": "Interior Quality: Crumb and Alveolation",
+          "competencies": [
+            "C3.2"
+          ],
+          "practice": "Cut and rate crumb"
+        },
+        {
+          "running": 85,
+          "id": "15.3",
+          "file": "lessons/module-15/lesson-03.md",
+          "title": "Taste and Sensory Analysis",
+          "competencies": [
+            "C3.2",
+            "S4.1"
+          ],
+          "practice": "Run a blind tasting"
+        },
+        {
+          "running": 86,
+          "id": "15.4",
+          "file": "lessons/module-15/lesson-04.md",
+          "title": "Checking Weights and Quantities",
+          "competencies": [
+            "C3.2",
+            "C4.4"
+          ],
+          "practice": "Weight-control sheet"
+        },
+        {
+          "running": 87,
+          "id": "15.5",
+          "file": "lessons/module-15/lesson-05.md",
+          "title": "Presenting Products in the Shop",
+          "competencies": [
+            "C2.8",
+            "C2.4"
+          ],
+          "practice": "Plan a display"
+        }
+      ]
+    },
+    {
+      "number": 16,
+      "title": "Troubleshooting",
+      "project": "projects/m16-fault-file.md",
+      "quiz": "assessments/module-16-quiz.md",
+      "lessons": [
+        {
+          "running": 88,
+          "id": "16.1",
+          "file": "lessons/module-16/lesson-01.md",
+          "title": "A Method for Diagnosis",
+          "competencies": [
+            "C4.4"
+          ],
+          "practice": "Diagnose a past bake"
+        },
+        {
+          "running": 89,
+          "id": "16.2",
+          "file": "lessons/module-16/lesson-02.md",
+          "title": "Volume and Shape Faults",
+          "competencies": [
+            "C4.4",
+            "S3.1"
+          ],
+          "practice": "Fault-matching drill"
+        },
+        {
+          "running": 90,
+          "id": "16.3",
+          "file": "lessons/module-16/lesson-03.md",
+          "title": "Crust and Colour Faults",
+          "competencies": [
+            "C4.4",
+            "S3.1"
+          ],
+          "practice": "Fault-matching drill"
+        },
+        {
+          "running": 91,
+          "id": "16.4",
+          "file": "lessons/module-16/lesson-04.md",
+          "title": "Crumb Faults",
+          "competencies": [
+            "C4.4"
+          ],
+          "practice": "Fault-matching drill"
+        },
+        {
+          "running": 92,
+          "id": "16.5",
+          "file": "lessons/module-16/lesson-05.md",
+          "title": "Viennoiserie Faults",
+          "competencies": [
+            "C4.4",
+            "S3.4"
+          ],
+          "practice": "Fault-matching drill"
+        }
+      ]
+    },
+    {
+      "number": 17,
+      "title": "Hygiene and Food Safety",
+      "project": "projects/m17-hygiene-audit.md",
+      "quiz": "assessments/module-17-quiz.md",
+      "lessons": [
+        {
+          "running": 93,
+          "id": "17.1",
+          "file": "lessons/module-17/lesson-01.md",
+          "title": "Microorganisms in the Bakery",
+          "competencies": [
+            "S4.2",
+            "C2.6"
+          ],
+          "practice": "Hand-print agar-free swab demo (bread slice test)"
+        },
+        {
+          "running": 94,
+          "id": "17.2",
+          "file": "lessons/module-17/lesson-02.md",
+          "title": "Food Poisoning and the Pathogens to Know",
+          "competencies": [
+            "S4.2",
+            "C2.6"
+          ],
+          "practice": "Hazard list for 3 products"
+        },
+        {
+          "running": 95,
+          "id": "17.3",
+          "file": "lessons/module-17/lesson-03.md",
+          "title": "Personal Hygiene and Cross-Contamination",
+          "competencies": [
+            "C2.6",
+            "S4.2"
+          ],
+          "practice": "Scenario drill"
+        },
+        {
+          "running": 96,
+          "id": "17.4",
+          "file": "lessons/module-17/lesson-04.md",
+          "title": "Cleaning, Disinfection and Pests",
+          "competencies": [
+            "C2.6",
+            "S4.2"
+          ],
+          "practice": "Write a cleaning plan"
+        },
+        {
+          "running": 97,
+          "id": "17.5",
+          "file": "lessons/module-17/lesson-05.md",
+          "title": "HACCP, the PMS and the Guide of Good Practice",
+          "competencies": [
+            "C2.6",
+            "S4.2"
+          ],
+          "practice": "Hazard analysis of croissant production"
+        },
+        {
+          "running": 98,
+          "id": "17.6",
+          "file": "lessons/module-17/lesson-06.md",
+          "title": "Allergens and Labelling",
+          "competencies": [
+            "C2.6",
+            "C4.2",
+            "S4.3"
+          ],
+          "practice": "Allergen matrix for 6 products"
+        },
+        {
+          "running": 99,
+          "id": "17.7",
+          "file": "lessons/module-17/lesson-07.md",
+          "title": "Receiving a Delivery",
+          "competencies": [
+            "C2.1",
+            "C3.1",
+            "C4.1"
+          ],
+          "practice": "Accept/reject/report on 4 delivery notes"
+        },
+        {
+          "running": 100,
+          "id": "17.8",
+          "file": "lessons/module-17/lesson-08.md",
+          "title": "Storage, Stock Rotation and the Cold Chain",
+          "competencies": [
+            "C1.1",
+            "C2.1",
+            "S4.2",
+            "S5.4"
+          ],
+          "practice": "Reorganise your fridge and dry store"
+        },
+        {
+          "running": 101,
+          "id": "17.9",
+          "file": "lessons/module-17/lesson-09.md",
+          "title": "Occupational Health and Safety",
+          "competencies": [
+            "C2.5"
+          ],
+          "practice": "Risk assessment of your home workstation"
+        }
+      ]
+    },
+    {
+      "number": 18,
+      "title": "Environmental Responsibility",
+      "project": "projects/m18-green-audit.md",
+      "quiz": "assessments/module-18-quiz.md",
+      "lessons": [
+        {
+          "running": 102,
+          "id": "18.1",
+          "file": "lessons/module-18/lesson-01.md",
+          "title": "Energy and Water",
+          "competencies": [
+            "C2.7",
+            "S4.3"
+          ],
+          "practice": "Energy plan for a bake day"
+        },
+        {
+          "running": 103,
+          "id": "18.2",
+          "file": "lessons/module-18/lesson-02.md",
+          "title": "Waste, Food Waste and Unsold Bread",
+          "competencies": [
+            "C2.7",
+            "S1.1"
+          ],
+          "practice": "Waste log and reuse plan"
+        },
+        {
+          "running": 104,
+          "id": "18.3",
+          "file": "lessons/module-18/lesson-03.md",
+          "title": "Packaging and Cleaning Products",
+          "competencies": [
+            "C2.7",
+            "C2.4"
+          ],
+          "practice": "Packaging choice exercise"
+        }
+      ]
+    },
+    {
+      "number": 19,
+      "title": "Communication and Sales",
+      "project": "projects/m19-role-play-scripts.md",
+      "quiz": "assessments/module-19-quiz.md",
+      "lessons": [
+        {
+          "running": 105,
+          "id": "19.1",
+          "file": "lessons/module-19/lesson-01.md",
+          "title": "Talking to Your Manager and Team",
+          "competencies": [
+            "C4.3",
+            "C4.1",
+            "C4.4"
+          ],
+          "practice": "Write three reports"
+        },
+        {
+          "running": 106,
+          "id": "19.2",
+          "file": "lessons/module-19/lesson-02.md",
+          "title": "Briefing Sales Staff on a Product",
+          "competencies": [
+            "C4.2"
+          ],
+          "practice": "Write a product pitch card"
+        },
+        {
+          "running": 107,
+          "id": "19.3",
+          "file": "lessons/module-19/lesson-03.md",
+          "title": "Allergens, Storage and Pairing Questions",
+          "competencies": [
+            "C4.2",
+            "C2.6"
+          ],
+          "practice": "Answer 6 customer questions"
+        },
+        {
+          "running": 108,
+          "id": "19.4",
+          "file": "lessons/module-19/lesson-04.md",
+          "title": "Professional Vocabulary in Use",
+          "competencies": [
+            "C4.3",
+            "S1.3"
+          ],
+          "practice": "Vocabulary drill in context"
+        }
+      ]
+    },
+    {
+      "number": 20,
+      "title": "The Bakery as a Workplace and a Business",
+      "project": "projects/m20-job-ready-file.md",
+      "quiz": "assessments/module-20-quiz.md",
+      "lessons": [
+        {
+          "running": 109,
+          "id": "20.1",
+          "file": "lessons/module-20/lesson-01.md",
+          "title": "The Bakery Sector and Its Businesses",
+          "competencies": [
+            "S5.1",
+            "S1.2"
+          ],
+          "practice": "Profile three local bakeries"
+        },
+        {
+          "running": 110,
+          "id": "20.2",
+          "file": "lessons/module-20/lesson-02.md",
+          "title": "Law, Contracts and Responsibility",
+          "competencies": [
+            "S5.1"
+          ],
+          "practice": "Analyse a contract"
+        },
+        {
+          "running": 111,
+          "id": "20.3",
+          "file": "lessons/module-20/lesson-03.md",
+          "title": "Finding a Job and Getting Hired",
+          "competencies": [
+            "S5.2"
+          ],
+          "practice": "CV and cover letter"
+        },
+        {
+          "running": 112,
+          "id": "20.4",
+          "file": "lessons/module-20/lesson-04.md",
+          "title": "Working Time, Pay and Rights",
+          "competencies": [
+            "S5.2",
+            "S5.3"
+          ],
+          "practice": "Read a payslip"
+        },
+        {
+          "running": 113,
+          "id": "20.5",
+          "file": "lessons/module-20/lesson-05.md",
+          "title": "Costs, Prices, VAT and Results",
+          "competencies": [
+            "S5.5",
+            "S5.4"
+          ],
+          "practice": "Price a product line"
+        }
+      ]
+    },
+    {
+      "number": 21,
+      "title": "EP1 Practice",
+      "project": "projects/m21-ep1-mock-paper.md",
+      "quiz": "assessments/module-21-quiz.md",
+      "lessons": [
+        {
+          "running": 114,
+          "id": "21.1",
+          "file": "lessons/module-21/lesson-01.md",
+          "title": "How EP1 Works and How to Answer",
+          "competencies": [
+            "—"
+          ],
+          "practice": "Plan your timing"
+        },
+        {
+          "running": 115,
+          "id": "21.2",
+          "file": "lessons/module-21/lesson-02.md",
+          "title": "EP1 Round: Professional Culture and Raw Materials",
+          "competencies": [
+            "S1",
+            "S2"
+          ],
+          "practice": "Timed written round"
+        },
+        {
+          "running": 116,
+          "id": "21.3",
+          "file": "lessons/module-21/lesson-03.md",
+          "title": "EP1 Round: Techniques and Equipment",
+          "competencies": [
+            "S3"
+          ],
+          "practice": "Timed written round"
+        },
+        {
+          "running": 117,
+          "id": "21.4",
+          "file": "lessons/module-21/lesson-04.md",
+          "title": "EP1 Round: Applied Sciences",
+          "competencies": [
+            "S4"
+          ],
+          "practice": "Timed written round"
+        },
+        {
+          "running": 118,
+          "id": "21.5",
+          "file": "lessons/module-21/lesson-05.md",
+          "title": "EP1 Round: Applied Management",
+          "competencies": [
+            "S5"
+          ],
+          "practice": "Timed written round"
+        },
+        {
+          "running": 119,
+          "id": "21.6",
+          "file": "lessons/module-21/lesson-06.md",
+          "title": "EP1 Round: Supplies, Hygiene and Communication",
+          "competencies": [
+            "C1.1",
+            "C2.1",
+            "C3.1",
+            "C4.1",
+            "C4.2"
+          ],
+          "practice": "Timed written round"
+        }
+      ]
+    },
+    {
+      "number": 22,
+      "title": "EP2 Practice and Production Day",
+      "project": "projects/m22-production-day.md",
+      "quiz": "assessments/module-22-quiz.md",
+      "lessons": [
+        {
+          "running": 120,
+          "id": "22.1",
+          "file": "lessons/module-22/lesson-01.md",
+          "title": "How EP2 Works",
+          "competencies": [
+            "—"
+          ],
+          "practice": "Read the marking grid"
+        },
+        {
+          "running": 121,
+          "id": "22.2",
+          "file": "lessons/module-22/lesson-02.md",
+          "title": "The Written Phase: Technical Sheet and Organigramme",
+          "competencies": [
+            "C1.2",
+            "C1.3"
+          ],
+          "practice": "30-minute written phase drill"
+        },
+        {
+          "running": 122,
+          "id": "22.3",
+          "file": "lessons/module-22/lesson-03.md",
+          "title": "Rehearsal: Bread Products",
+          "competencies": [
+            "C2.3"
+          ],
+          "practice": "Half-day bread rehearsal"
+        },
+        {
+          "running": 123,
+          "id": "22.4",
+          "file": "lessons/module-22/lesson-04.md",
+          "title": "Rehearsal: Viennoiserie and Pâte Levée",
+          "competencies": [
+            "C2.3"
+          ],
+          "practice": "Half-day viennoiserie rehearsal"
+        },
+        {
+          "running": 124,
+          "id": "22.5",
+          "file": "lessons/module-22/lesson-05.md",
+          "title": "Production Day and What You Still Need",
+          "competencies": [
+            "all BC02"
+          ],
+          "practice": "Full production day + readiness checklist"
+        }
+      ]
+    }
+  ]
+}
