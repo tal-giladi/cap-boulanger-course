@@ -1,0 +1,90 @@
+- id: q1
+  question: >-
+    Baguettes are pale and dull with flat cuts and a sour smell. The oven thermometer read 250 °C at
+    loading, as on the sheet. The dough was 27 °C (TPV 24 °C) and the times were not adapted. Why is the
+    crust pale?
+  options:
+    - >-
+      The oven was too cool, so the crust could not colour
+    - >-
+      Too much steam stayed in the oven after loading
+    - >-
+      Over-fermentation used up the sugars needed for colour
+    - >-
+      The salt was weighed twice, which slows browning
+  correct: 2
+  explanation: >-
+    The oven is ruled out by the thermometer. A warm dough left to the sheet's times over-ferments: the
+    yeast consumes the sugars that Maillard browning needs, and the flat cuts and sour smell agree.
+
+- id: q2
+  question: >-
+    Several bâtards have a burnt, hard base while their tops are golden. They baked on a tray on the
+    lowest shelf of a home oven. Which défaut is this?
+  options:
+    - >-
+      Pain ferré, from too much heat from below
+    - >-
+      Pain cloqué, from too much steam at loading
+    - >-
+      Croûte terne, from a skin formed in the proof
+    - >-
+      Pain cintré, from loading the pieces too early
+  correct: 0
+  explanation: >-
+    A burnt base with a normal top is the pain ferré: sole or bottom heat too strong for the vault.
+    Prevention: middle shelf, a second tray underneath, lower bottom heat.
+
+- id: q3
+  question: >-
+    Two dull crusts: piece B had a leathery skin before loading; piece C was smooth but baked with the fan
+    on and no water in the steam tray. Which statement is right?
+  options:
+    - >-
+      Both are pain cloqué, caused by too little humidity in the oven
+    - >-
+      B is croûte terne from pâte croûtée; C is croûte terne from no steam
+    - >-
+      Both are over-fermented, because a dull crust always means old dough
+    - >-
+      B is pain ferré from the skin; C is under-baked from the fan
+  correct: 1
+  explanation: >-
+    Same symptom, two causes: a skin dried in the proof (B) or a surface that met no steam (C). The
+    evidence that separates them is the skin felt before loading and the steam record.
+
+- id: q4
+  question: >-
+    Retarded baguettes come out of a 25 °C, 92 % RH warming phase covered in droplets and are loaded at
+    once. The crust is blistered. What do you change?
+  options:
+    - >-
+      Double the steam so the blisters smooth out
+    - >-
+      Raise the oven by 20 °C to set the crust faster
+    - >-
+      Shorten the overnight blocking to under 4 hours
+    - >-
+      Humidity 75-80 % and a dry surface before loading
+  correct: 3
+  explanation: >-
+    Blisters come from water on the skin: here condensation on cold pieces in a too-humid cabinet. Lower
+    humidity and letting the surface dry stop it; more steam would make it worse.
+
+- id: q5
+  question: >-
+    The first load of the morning is pale and under-risen; the next loads are normal. The baker loaded
+    when the oven's "ready" light went off. What is the most likely cause?
+  options:
+    - >-
+      The first dough was over-proofed while the oven heated
+    - >-
+      The steam was vented too late on the first load
+    - >-
+      The oven was not yet at its real temperature
+    - >-
+      The first pieces were scored too deep
+  correct: 2
+  explanation: >-
+    Only the first load, and loaded at the signal: the oven's preheat signal often comes before the oven
+    is really at temperature. Preheat by an oven thermometer and write the real preheat time.

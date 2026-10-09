@@ -1,0 +1,90 @@
+- id: q1
+  question: >-
+    A pain de campagne has a well-coloured crust but a sticky crumb near the base. The log says: core
+    temperature 97 °C at the end of the bake; loaf cut 15 minutes later for a customer. What is the
+    probable cause?
+  options:
+    - >-
+      Under-baked: the crust coloured before the centre was done
+    - >-
+      Too much water in the dough for a rye-containing flour
+    - >-
+      Over-fermented: the crumb collapsed while it was baking
+    - >-
+      Cut warm: the starch had not yet set during cooling
+  correct: 3
+  explanation: >-
+    The core reading rules out under-baking. A crumb with rye sets slowly and needs 1-2 hours of cooling;
+    cut after 15 minutes it is sticky whatever the bake.
+
+- id: q2
+  question: >-
+    Two traditions both have a tight, regular crumb. Loaf X is white and bland; loaf Y is cream-coloured
+    and aromatic. Which diagnosis fits?
+  options:
+    - >-
+      X over-oxidised at mixing; Y degassed at shaping
+    - >-
+      X degassed at shaping; Y over-oxidised at mixing
+    - >-
+      Both under-fermented, since both crumbs are tight
+    - >-
+      Both over-fermented, since both lost their holes
+  correct: 0
+  explanation: >-
+    Only over-oxidation (long second speed, late salt) bleaches the carotenoid pigments and dulls the
+    aroma. A tight crumb that keeps its cream colour comes from punching or tight shaping.
+
+- id: q3
+  question: >-
+    Baguettes show a single long tunnel just under the top crust, along the seam; the rest of the crumb
+    is normal and the bread is not sour. Where was the fault made?
+  options:
+    - >-
+      At pointage: the dough over-fermented
+    - >-
+      At shaping: air or flour was trapped in the fold
+    - >-
+      In the oven: too much steam lifted the crust
+    - >-
+      At mixing: the dough was over-oxidised
+  correct: 1
+  explanation: >-
+    One tunnel along the seam in an otherwise normal crumb is a shaping fault: a bubble left at flattening
+    or flour in the fold. Over-fermentation gives many large holes under the crust and a sour taste.
+
+- id: q4
+  question: >-
+    A 100 % whole wheat loaf is a heavy brick with a tight crumb. Formula: hydration 68 %, no rest of flour
+    and water, dough "firm" at the end of mixing. What do you change first?
+  options:
+    - >-
+      Bake 10 minutes longer so the centre dries out
+    - >-
+      Add 1 % yeast so the dough rises faster
+    - >-
+      More water (74 % or more) and a 20-30 minute rest
+    - >-
+      Mix longer in second speed to develop the gluten
+  correct: 2
+  explanation: >-
+    Bran absorbs much more water; at 68 % the dough is too firm to expand. Pain complet starts at about
+    74 % with a rest before the water is judged. Longer baking or more yeast do not fix a dry dough.
+
+- id: q5
+  question: >-
+    A customer says your bread "goes hard in a day". She keeps it in the fridge in a plastic bag. What do
+    you explain?
+  options:
+    - >-
+      Bread needs more salt to keep longer in the fridge
+    - >-
+      The crumb stales fastest at fridge temperature
+    - >-
+      Plastic dries the crumb out faster than paper does
+    - >-
+      Fridge cold kills the yeast, which keeps bread soft
+  correct: 1
+  explanation: >-
+    Staling is starch retrogradation, which is fastest at about 4 °C. Keep bread at room temperature for
+    the day, or freeze it; the yeast is long dead after baking.

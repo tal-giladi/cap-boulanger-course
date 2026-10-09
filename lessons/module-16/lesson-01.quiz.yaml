@@ -1,0 +1,88 @@
+- id: q1
+  question: >-
+    Of 40 baguettes, the 8 shaped last are flat with pale crusts; the first 32 are fine. Same dough,
+    same oven load. Where do you look first for the cause?
+  options:
+    - >-
+      The formula and the weighing sheet of the whole batch
+    - >-
+      The order and speed of dividing and shaping
+    - >-
+      The flour: a new bag may be weaker than usual
+    - >-
+      The dough temperature right after mixing
+  correct: 1
+  explanation: >-
+    Only some pieces, and the last ones shaped: the cause differs between pieces, so it is order and
+    waiting time. Formula, flour and dough temperature are shared by all 40 pieces.
+
+- id: q2
+  question: >-
+    A loaf has a pale crust. Which piece of evidence best separates "over-fermented" from "oven too cool"?
+  options:
+    - >-
+      The colour of the crust compared with the quality rubric
+    - >-
+      The weight of the loaf after cooling compared with the order
+    - >-
+      The oven thermometer reading and the poke-test result at loading
+    - >-
+      The number of cuts made on the loaf before loading
+  correct: 2
+  explanation: >-
+    Both causes give a pale crust, so the look cannot decide. The thermometer shows whether the oven was
+    below its dial; the poke test (and a sour smell, flat cuts) shows whether the dough was over-proofed.
+
+- id: q3
+  question: >-
+    You find two proven causes for bready croissants: butter smeared in during tourage, and a proof at
+    28 °C. What do you correct first?
+  options:
+    - >-
+      The tourage temperature, because it is the earlier stage
+    - >-
+      The proof temperature, because the customer sees leaking first
+    - >-
+      Both at once, so the next batch is right
+    - >-
+      Neither; bake 10 °C hotter to set the layers faster
+  correct: 0
+  explanation: >-
+    Correct the earliest stage first and change one thing at a time: layers lost at tourage cannot be
+    recovered by a better proof, and two changes at once hide which one worked.
+
+- id: q4
+  question: >-
+    Which line is the best "constat" (description of the facts) for a report?
+  options:
+    - >-
+      "Les pains étaient ratés ce matin, comme la semaine dernière."
+    - >-
+      "Pâte trop chaude, c'est la faute du refroidisseur d'eau."
+    - >-
+      "Il faudra calculer l'eau tous les jours à partir de demain."
+    - >-
+      "30 bâtards, fournée de 6:15: plats, croûte pâle, grignes fermées."
+  correct: 3
+  explanation: >-
+    The constat gives what was seen, on which product, how many and when, in measurable terms. The
+    second line is a cause, the third a prevention, the first an impression.
+
+- id: q5
+  question: >-
+    Your log for a dense, small loaf shows: dough 24 °C (TPV 24 °C), pointage and apprêt as on the sheet,
+    poke test "springs back at once" at loading, oven checked at 245 °C. What is the probable cause?
+  options:
+    - >-
+      Dough too warm after mixing, so it ran ahead of the sheet
+    - >-
+      Under-proofed: loaded while the dent still sprang back
+    - >-
+      Oven too cool, so the loaf could not rise in the oven
+    - >-
+      Over-fermented: the yeast ran out of sugar before baking
+  correct: 1
+  explanation: >-
+    The record that differs from a good bake is the poke test: a dent springing back at once means a
+    young piece. Temperature and oven were on target, and over-fermentation gives a flat, not a dense,
+    small loaf.

@@ -1,0 +1,89 @@
+- id: q1
+  question: >-
+    Bâtards come out flat and wide. The crumb is tight and even, not sour. The dough was "sticky and
+    hard to shape" and the poke test at loading was "fills slowly". What is the most likely cause?
+  options:
+    - >-
+      Over-proofed at apprêt, so the gluten had no strength left
+    - >-
+      Dough too soft or weak, shaped with too little tension
+    - >-
+      Under-proofed, so the loaf could not rise in the oven
+    - >-
+      Oven too hot, so the crust set before the loaf could rise
+  correct: 1
+  explanation: >-
+    A flat loaf with a tight, non-sour crumb and a correct poke test points to the dough and the shaping,
+    not to fermentation: over-proofing would give a coarse crumb, holes under the crust and a dent that stays.
+
+- id: q2
+  question: >-
+    Every baguette bursts along the side. Poke test, steam and oven are as usual. Since the new flour
+    arrived, the pieces shrink back when rolled out. Which défaut is this, and what do you do now?
+  options:
+    - >-
+      Manque de force: add a fold during pointage and shape tighter
+    - >-
+      Pâte trop douce: contre-frasage with extra flour in the mixer
+    - >-
+      Under-proofing: double the apprêt time for every batch
+    - >-
+      Excès de force: longer détente and a looser pre-shape
+  correct: 3
+  explanation: >-
+    A springy dough that shrinks back and bursts in the oven has too much strength. Rest relaxes the
+    gluten; prevention is more water or an autolyse and checking the flour's additives.
+
+- id: q3
+  question: >-
+    Bakery record: load 1 (18 bâtards) fine; load 2 (12 bâtards, proofed in the same 25 °C cabinet,
+    loaded 25 minutes later) flat with closed cuts. What prevention do you write?
+  options:
+    - >-
+      Proof the second group about 3-4 °C cooler, or shape it later
+    - >-
+      Add 1 % more yeast to the whole batch to make it stronger
+    - >-
+      Raise the oven by 20 °C for the second load only
+    - >-
+      Score the second load deeper so the cuts open
+  correct: 0
+  explanation: >-
+    Only load 2 is faulty and it waited longer at the same temperature: it over-proofed. With about 7 %
+    per °C, 3-4 °C cooler slows it by about a quarter, matching the wait.
+
+- id: q4
+  question: >-
+    A pain de mie tin holds 1,800 cm³. The loaf came out with rounded corners and a gap under the lid.
+    The pâton weighed 560 g. Which pâton weight would fill the tin?
+  options:
+    - >-
+      About 510 g, because a smaller piece rises more freely
+    - >-
+      About 560 g, but proofed 30 minutes longer
+    - >-
+      About 630 g, from 1,800 × 0.35
+    - >-
+      About 900 g, from half the tin volume
+  correct: 2
+  explanation: >-
+    The course rule is pâton = tin volume × 0.35 = 630 g. 560 g is too little dough, which gives
+    rounded corners; proofing longer would weaken it instead of filling the corners.
+
+- id: q5
+  question: >-
+    Baguettes show symmetrical grooves with no ear. Proof was correct (dent filled slowly). What changes
+    on the next batch?
+  options:
+    - >-
+      A longer apprêt so the cuts have more gas behind them
+    - >-
+      More steam and a longer time before venting
+    - >-
+      A shallower, shorter cut made with the blade held upright
+    - >-
+      The blade held flat at about 30°, about 5 mm deep
+  correct: 3
+  explanation: >-
+    An upright blade opens a symmetrical groove; a blade held flat lifts a flap that becomes the ear.
+    Proof was right, so changing it or adding steam would create a new fault.

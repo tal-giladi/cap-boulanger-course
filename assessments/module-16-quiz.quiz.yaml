@@ -1,0 +1,188 @@
+- id: q1
+  question: >-
+    Temperature log, 14 July: "PC-02, TPV 24 °C, fournil 29 °C, water used 20 °C, dough after mixing
+    28 °C. Pointage 45 min, apprêt 1 h 15 as on the sheet." The shop reports flat baguettes, pale crust,
+    cuts closed, large holes under the crust, sour smell. Which diagnosis fits the evidence?
+  options:
+    - >-
+      Excès de force from the flour, which made the dough burst in the oven
+    - >-
+      Oven too cool for the load, which left the crust pale and flat
+    - >-
+      Dough too warm and times not adapted, so it over-fermented
+    - >-
+      Under-proofed pieces loaded early because the oven was free
+  correct: 2
+  explanation: >-
+    4 °C above the TPV is about 1.07⁴ ≈ 1.3 times faster; the sheet's times then over-ferment the dough.
+    Flat, pale, closed cuts, holes under the crust and sourness all point the same way; nothing in the log
+    points to the oven.
+
+- id: q2
+  question: >-
+    Production notes, Monday: "Nouvelle farine T55 (ingrédients: farine de blé, acide ascorbique,
+    enzymes). Pâte nerveuse, se rétracte au façonnage. Hydratation 64 %, détente 15 min." All baguettes
+    are burst along the side; the poke test was "fills slowly". Which diagnosis is most likely?
+  options:
+    - >-
+      Excès de force: strong, improved flour with a short détente
+    - >-
+      Manque de force: the enzymes weakened the gluten network
+    - >-
+      Under-proofed: the poke test was misread at loading
+    - >-
+      Pâte trop douce: the new flour absorbed less water
+  correct: 0
+  explanation: >-
+    A springy dough that shrinks back, a flour with ascorbic acid and bursts despite a correct poke test
+    point to too much strength. Longer détente, a looser pre-shape and 1-2 points more water help.
+
+- id: q3
+  question: >-
+    Oven log, two-deck oven: "Deck 1: sole 270 °C, voûte 240 °C. Deck 2: sole 245 °C, voûte 245 °C."
+    Bâtards on deck 1 have black, hard bases and golden tops; deck 2 is normal. Same dough, same proof.
+    What do you write as the probable cause?
+  options:
+    - >-
+      Croûte terne: no steam was injected on deck 1
+    - >-
+      Pain cloqué: the pieces on deck 1 were wet at loading
+    - >-
+      Over-fermentation of the pieces loaded onto deck 1
+    - >-
+      Pain ferré: deck 1's sole too hot for its voûte
+  correct: 3
+  explanation: >-
+    Only one deck, burnt base, normal top: bottom heat out of balance with top heat. The deck readings
+    prove it; the dough and proof were the same for both decks.
+
+- id: q4
+  question: >-
+    Cabinet record, blocking programme: "set 3 °C from 20:00; actual 9 °C at 23:00, 10 °C at 3:00;
+    condenser dusty; cabinet installed next to the oven last week." At 5:00 the pieces are over-proofed
+    and sagging. What is the probable cause?
+  options:
+    - >-
+      Too much humidity in the cabinet during the warming phase
+    - >-
+      The cabinet never reached blocking temperature overnight
+    - >-
+      The dough was mixed far too cold the evening before
+    - >-
+      The yeast was weighed short, so the pieces collapsed
+  correct: 1
+  explanation: >-
+    At 9-10 °C the pieces kept fermenting all night. A dirty condenser next to the oven cannot remove the
+    heat; clean it, move the cabinet and read its record each morning.
+
+- id: q5
+  question: >-
+    Non-conformity report: "Croissants, fournée de 6:30, 40 pièces: flaque de beurre sur plaque,
+    croissants plats et gras. Apprêt dans l'armoire avec les baguettes, réglée à 30 °C." What is the
+    probable cause?
+  options:
+    - >-
+      Proof above about 27 °C: the butter melted out of the layers
+    - >-
+      Under-proofed: loaded before the croissants had almost doubled
+    - >-
+      Too many turns: the butter layers were too thin to hold
+    - >-
+      Butter too cold at the lock-in, so it broke into plates
+  correct: 0
+  explanation: >-
+    Laminated dough must stay below about 27 °C (24-26 °C for the proof). A cabinet set for bread at 30 °C
+    melts the butter: pool on the tray, flat greasy croissants.
+
+- id: q6
+  question: >-
+    Weighing sheet, 1 kg flour batch: "Water 640 g at 18 °C + 150 g crushed ice to cool it." The dough
+    was sticky at dividing and the bâtards spread flat, with a tight, not sour crumb. Which diagnosis is
+    right?
+  options:
+    - >-
+      Over-fermented: the ice made the yeast work faster
+    - >-
+      Under-proofed: the cold dough was loaded too early
+    - >-
+      Pâte trop douce: the ice was added on top of the water
+    - >-
+      Excès de force: the cold made the gluten too tight
+  correct: 2
+  explanation: >-
+    Ice is part of the water weight. 640 + 150 = 790 g of water is 79 % instead of 64 %: a dough far too
+    soft, which spreads with a tight, not sour, crumb.
+
+- id: q7
+  question: >-
+    Technical sheet TR-01 says "autolyse 30 min, 1st speed only, salt at the start". Mixing record today:
+    "no autolyse, 1st speed 4 min + 2nd speed 6 min, salt at the end; dough 25.5 °C". The crumb is white,
+    regular and tasteless. What is the probable cause?
+  options:
+    - >-
+      Degassing at shaping, which made the crumb tight and regular
+    - >-
+      Under-fermentation, because the dough was mixed too briefly
+    - >-
+      An additive in the flour, which bleached the crumb white
+    - >-
+      Over-oxidation from intensive mixing and late salt
+  correct: 3
+  explanation: >-
+    Long second speed with salt added late over-oxidises the dough and bleaches the carotenoid pigments:
+    white, bland crumb. Degassing gives a tight but cream-coloured crumb.
+
+- id: q8
+  question: >-
+    Quality check, pains de campagne of 1 kg: "crust dark brown, crumb sticky at the centre and the base;
+    core temperature at unloading 88 °C; cut after 2 h; bake 35 min at 250 °C." Which diagnosis fits?
+  options:
+    - >-
+      Cut warm: the crumb had no time to set
+    - >-
+      Under-baked: too hot for the size, centre not done
+    - >-
+      Over-fermented: the crumb collapsed in the oven
+    - >-
+      Too little water in the dough for the rye flour
+  correct: 1
+  explanation: >-
+    88 °C is below the 93 °C minimum, and the loaf was cut after 2 hours, so cutting warm is ruled out.
+    The oven was too hot for a 1 kg loaf: the crust coloured before the centre baked.
+
+- id: q9
+  question: >-
+    Bake log: "Retarded bâtards, fridge 4 °C overnight, out at 6:00, covered with droplets, loaded at
+    6:02 with normal steam." The crust is covered with small blisters. What is the probable cause?
+  options:
+    - >-
+      Condensation on the cold pieces, loaded while still wet
+    - >-
+      Too little steam, so the surface dried too early
+    - >-
+      Over-fermentation in the fridge during the night
+    - >-
+      Sole too hot for the voûte at the start of the bake
+  correct: 0
+  explanation: >-
+    Pain cloqué: water on the skin blisters in the oven. Cold pieces in warm air collect condensation;
+    let the surface dry before loading and use less steam on retarded pieces.
+
+- id: q10
+  question: >-
+    Sheeter note: "Bloc CR-01, 3 tours simples, beurre 13 °C. Abaisse finale: écartement réduit de 12 mm
+    à 4 mm en deux passages." Cut section: layers crushed and smeared, little lift. What is the probable
+    cause?
+  options:
+    - >-
+      Butter too cold at the lock-in, so it broke into plates
+    - >-
+      Too many turns, so the butter layers became too thin
+    - >-
+      Gap reduced in big jumps, which crushed the layers
+    - >-
+      Proof too warm, so the butter melted into the dough
+  correct: 2
+  explanation: >-
+    Butter temperature and turns are on target. Going from 12 to 4 mm in two passes crushes and smears the
+    layers; reduce the gap in small steps.

@@ -1,0 +1,89 @@
+- id: q1
+  question: >-
+    Croissants have a thin ring of butter on the paper, are small and tight, and split along a turn. The
+    cabinet read 25 °C with a probe; the trays proofed 1 hour (sheet: 1 h 30-2 h 30). What is the cause?
+  options:
+    - >-
+      Proof too warm: the butter melted out in the cabinet
+    - >-
+      Too many turns: the butter layers were too thin
+    - >-
+      Under-proofed: loaded before they had almost doubled
+    - >-
+      Butter too cold at the lock-in, so it broke into plates
+  correct: 2
+  explanation: >-
+    The probe rules out a warm proof. One hour against 1 h 30-2 h 30, small tight pieces split along a
+    turn: under-proofing. Lowering the cabinet temperature would make it worse.
+
+- id: q2
+  question: >-
+    Cut section: thick, uneven layers with greasy patches. The tourage log says "tour 2: beurre cassant,
+    bords fendus". Which correction belongs on the next sheet?
+  options:
+    - >-
+      Proof at 22 °C instead of 25 °C to keep the butter firm
+    - >-
+      Butter at about 13 °C at the lock-in and timed rests
+    - >-
+      Add a fourth single turn to break the thick layers
+    - >-
+      Bake 10 °C hotter so the layers separate better
+  correct: 1
+  explanation: >-
+    Brittle butter (too cold) breaks into plates during the turns. Keeping it plastic, about 13 °C, with
+    rests of 20-45 minutes, prevents it; a fourth turn would fuse the layers instead.
+
+- id: q3
+  question: >-
+    Croissants are bready inside with hardly any layers, no butter on the tray. Butter was 13 °C, the room
+    20 °C. Which record do you check next?
+  options:
+    - >-
+      The turns marked on the sheet
+    - >-
+      The humidity of the proof cabinet
+    - >-
+      The thickness of the egg wash
+    - >-
+      The weight of each triangle
+  correct: 0
+  explanation: >-
+    Temperatures rule out melted butter, so the other cause of fused layers is too many turns: four single
+    turns give 81 butter layers, too thin to stay separate.
+
+- id: q4
+  question: >-
+    Pains au chocolat come out unrolled with the seam on the side, and chocolate shows at both ends. What
+    happened at shaping?
+  options:
+    - >-
+      The sheet was too thick, so the dough could not close
+    - >-
+      The proof was too warm, so the seam melted open
+    - >-
+      The batons were too short for the rectangles
+    - >-
+      Seam not underneath; rectangle stretched too narrow
+  correct: 3
+  explanation: >-
+    The last edge must sit underneath in the middle, and the rectangle must be a few millimetres wider
+    than the batons; stretching it while rolling narrows it and pulls the seam round.
+
+- id: q5
+  question: >-
+    Raw croissants frozen six weeks in a domestic freezer bake flat and slack. They were frozen on a plate
+    over several hours. What explains it?
+  options:
+    - >-
+      Too few turns were given before the croissants were frozen
+    - >-
+      Slow freezing and long storage damaged gluten and yeast
+    - >-
+      The croissants were thawed in the fridge overnight
+    - >-
+      Freezing turns the butter into margarine-like fat
+  correct: 1
+  explanation: >-
+    Ice crystals damage the gluten and kill part of the yeast, more with slow freezing and long storage.
+    Freeze fast right after shaping, respect the storage limit, thaw slowly in the cold.

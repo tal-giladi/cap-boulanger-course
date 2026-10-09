@@ -1,0 +1,151 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 640" width="960" height="640" role="img" aria-labelledby="t d">
+  <title id="t">Fault map: which production stage causes which family of faults</title>
+  <desc id="d">A grid. Rows are the production stages from weighing to cooling; columns are the four fault families of Module 16: volume and shape, crust and colour, crumb and taste, viennoiserie. Each cell names the typical faults that stage causes in that family. Weighing and formula: dough too soft or too firm, salt forgotten, pale or dark colour from sugar errors, bland or salty taste, wrong butter. Mixing and dough temperature: excès or manque de force, over-oxidised white crumb, flour specks, warm détrempe. Pointage: over-fermented flat bread, pale crust, sour taste. Dividing and shaping: uneven sizes, loose shaping that spreads, seam opening, tunnels, triangles shrinking or unrolling. Lamination: butter breaking or melting in, bready croissants. Apprêt: under-proofed burst bread, over-proofed flat bread, skin and dull crust, butter leaking. Scoring and steam: cuts not opening, dull crust, blisters. Baking: pain ferré, pale or burnt crust, gummy crumb, pale creases. Cooling and storage: soft crust, gummy crumb when cut warm, fast staling, frozen croissants flat.</desc>
+  <rect x="0" y="0" width="960" height="640" fill="#ffffff"/>
+  <g font-family="Arial, Helvetica, sans-serif" fill="#222222">
+    <text x="480" y="30" text-anchor="middle" font-size="21" font-weight="bold">Fault map: the stage that makes the fault, by family</text>
+
+    <!-- header -->
+    <g font-size="15" font-weight="bold" text-anchor="middle">
+      <rect x="10" y="44" width="170" height="40" fill="#5a3a1a"/>
+      <rect x="182" y="44" width="190" height="40" fill="#8a5a2a"/>
+      <rect x="374" y="44" width="190" height="40" fill="#a8743a"/>
+      <rect x="566" y="44" width="190" height="40" fill="#c08f52"/>
+      <rect x="758" y="44" width="192" height="40" fill="#d3a868"/>
+      <text x="95" y="69" fill="#ffffff">Stage</text>
+      <text x="277" y="62" fill="#ffffff">Volume and shape</text>
+      <text x="277" y="78" fill="#ffffff" font-size="12" font-weight="normal">lesson 16.2</text>
+      <text x="469" y="62" fill="#ffffff">Crust and colour</text>
+      <text x="469" y="78" fill="#ffffff" font-size="12" font-weight="normal">lesson 16.3</text>
+      <text x="661" y="62">Crumb and taste</text>
+      <text x="661" y="78" font-size="12" font-weight="normal">lesson 16.4</text>
+      <text x="854" y="62">Viennoiserie</text>
+      <text x="854" y="78" font-size="12" font-weight="normal">lesson 16.5</text>
+    </g>
+
+    <!-- row backgrounds -->
+    <g stroke="#cccccc" stroke-width="1">
+      <rect x="10" y="86" width="940" height="58" fill="#fbf6ec"/>
+      <rect x="10" y="144" width="940" height="58" fill="#ffffff"/>
+      <rect x="10" y="202" width="940" height="58" fill="#fbf6ec"/>
+      <rect x="10" y="260" width="940" height="58" fill="#ffffff"/>
+      <rect x="10" y="318" width="940" height="58" fill="#fbf6ec"/>
+      <rect x="10" y="376" width="940" height="58" fill="#ffffff"/>
+      <rect x="10" y="434" width="940" height="58" fill="#fbf6ec"/>
+      <rect x="10" y="492" width="940" height="58" fill="#ffffff"/>
+      <rect x="10" y="550" width="940" height="58" fill="#fbf6ec"/>
+    </g>
+    <g stroke="#cccccc" stroke-width="1">
+      <line x1="181" y1="86" x2="181" y2="608"/>
+      <line x1="373" y1="86" x2="373" y2="608"/>
+      <line x1="565" y1="86" x2="565" y2="608"/>
+      <line x1="757" y1="86" x2="757" y2="608"/>
+    </g>
+
+    <!-- stage labels -->
+    <g font-size="14" font-weight="bold">
+      <text x="20" y="111">Weighing, formula</text>
+      <text x="20" y="169">Mixing, dough °C</text>
+      <text x="20" y="227">Pointage</text>
+      <text x="20" y="285">Dividing, shaping</text>
+      <text x="20" y="343">Lamination</text>
+      <text x="20" y="401">Apprêt (proof)</text>
+      <text x="20" y="459">Scoring, steam</text>
+      <text x="20" y="517">Baking</text>
+      <text x="20" y="575">Cooling, storage</text>
+    </g>
+    <g font-size="11.5" font-style="italic" fill="#555555">
+      <text x="20" y="128">pesée, formule</text>
+      <text x="20" y="186">pétrissage, TPV</text>
+      <text x="20" y="244">pointage</text>
+      <text x="20" y="302">division, façonnage</text>
+      <text x="20" y="360">tourage</text>
+      <text x="20" y="418">apprêt</text>
+      <text x="20" y="476">grignage, buée</text>
+      <text x="20" y="534">cuisson</text>
+      <text x="20" y="592">ressuage, stockage</text>
+    </g>
+
+    <!-- cells: two lines each -->
+    <g font-size="12.5">
+      <text x="190" y="110">too soft: spreads;</text>
+      <text x="190" y="127">too firm: small, tight</text>
+      <text x="382" y="110">too much sugar or malt:</text>
+      <text x="382" y="127">dark; salt forgotten: pale</text>
+      <text x="574" y="110">salt forgotten: bland;</text>
+      <text x="574" y="127">salt twice: salty</text>
+      <text x="766" y="110">spread or low-fat butter:</text>
+      <text x="766" y="127">no layers, flat</text>
+
+      <text x="190" y="168">excès de force: tears,</text>
+      <text x="190" y="185">bursts; manque: spreads</text>
+      <text x="382" y="168">warm, fast dough:</text>
+      <text x="382" y="185">pale, flat flavour</text>
+      <text x="574" y="168">over-oxidised: white,</text>
+      <text x="574" y="185">cottony; flour specks</text>
+      <text x="766" y="168">over-mixed or warm</text>
+      <text x="766" y="185">détrempe: shrinks</text>
+
+      <text x="190" y="226">over: flat, sags;</text>
+      <text x="190" y="243">under: small, dense</text>
+      <text x="382" y="226">over: pale, dull (sugars</text>
+      <text x="382" y="243">used up); under: reddish</text>
+      <text x="574" y="226">over: sour, coarse;</text>
+      <text x="574" y="243">under: tight, heavy</text>
+      <text x="766" y="226">brioche dough warm:</text>
+      <text x="766" y="243">greasy, slumps</text>
+
+      <text x="190" y="284">loose: spreads; seam</text>
+      <text x="190" y="301">opens; uneven sizes</text>
+      <text x="382" y="284">uncovered pieces:</text>
+      <text x="382" y="301">skin (pâte croûtée)</text>
+      <text x="574" y="284">trapped air or flour:</text>
+      <text x="574" y="301">tunnels, streaks</text>
+      <text x="766" y="284">sheet not rested: shrinks;</text>
+      <text x="766" y="301">tip on top: unrolls</text>
+
+      <text x="190" y="342">—</text>
+      <text x="382" y="342">—</text>
+      <text x="574" y="342">—</text>
+      <text x="766" y="342">butter cold: breaks;</text>
+      <text x="766" y="359">warm or 4 turns: bready</text>
+
+      <text x="190" y="400">under: pain cintré;</text>
+      <text x="190" y="417">over: pain plat</text>
+      <text x="382" y="400">dry: croûte terne;</text>
+      <text x="382" y="417">wet: pain cloqué</text>
+      <text x="574" y="400">over: holes under</text>
+      <text x="574" y="417">the crust, sour</text>
+      <text x="766" y="400">above about 27 °C:</text>
+      <text x="766" y="417">butter leaks</text>
+
+      <text x="190" y="458">blade upright: no ear;</text>
+      <text x="190" y="475">too shallow: bursts</text>
+      <text x="382" y="458">no steam: dull, thick;</text>
+      <text x="382" y="475">too much: blisters</text>
+      <text x="574" y="458">—</text>
+      <text x="766" y="458">steam on egg wash:</text>
+      <text x="766" y="475">streaky, dull</text>
+
+      <text x="190" y="516">oven too cool: weak</text>
+      <text x="190" y="533">oven spring, flat</text>
+      <text x="382" y="516">sole too hot: pain ferré;</text>
+      <text x="382" y="533">dial wrong: pale</text>
+      <text x="574" y="516">core under 93 °C:</text>
+      <text x="574" y="533">gummy crumb</text>
+      <text x="766" y="516">too hot, too short:</text>
+      <text x="766" y="533">pale creases, collapse</text>
+
+      <text x="190" y="574">tin loaf left in tin:</text>
+      <text x="190" y="591">sides cave in</text>
+      <text x="382" y="574">bagged warm or humid air:</text>
+      <text x="382" y="591">soft, leathery crust</text>
+      <text x="574" y="574">cut warm: gummy;</text>
+      <text x="574" y="591">fridge: stales fast</text>
+      <text x="766" y="574">slow freezing, long</text>
+      <text x="766" y="591">storage: flat on baking</text>
+    </g>
+
+    <text x="480" y="630" text-anchor="middle" font-size="12.5">Read a column top to bottom: the earlier the stage, the earlier you must correct it. A fault made at mixing cannot be fixed in the oven.</text>
+  </g>
+</svg>

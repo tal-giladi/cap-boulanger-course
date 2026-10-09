@@ -123,3 +123,17 @@
   - [81 · Oven, Mixer and Space Constraints](/lessons/module-14/lesson-03.md)
   - [82 · An EP2-Style Schedule](/lessons/module-14/lesson-04.md)
   - [Module 14 quiz](/assessments/module-14-quiz.md)
+- **Module 15 — Product Quality**
+  - [83 · Exterior Quality](/lessons/module-15/lesson-01.md)
+  - [84 · Interior Quality: Crumb and Alveolation](/lessons/module-15/lesson-02.md)
+  - [85 · Taste and Sensory Analysis](/lessons/module-15/lesson-03.md)
+  - [86 · Checking Weights and Quantities](/lessons/module-15/lesson-04.md)
+  - [87 · Presenting Products in the Shop](/lessons/module-15/lesson-05.md)
+  - [Module 15 quiz](/assessments/module-15-quiz.md)
+- **Module 16 — Troubleshooting**
+  - [88 · A Method for Diagnosis](/lessons/module-16/lesson-01.md)
+  - [89 · Volume and Shape Faults](/lessons/module-16/lesson-02.md)
+  - [90 · Crust and Colour Faults](/lessons/module-16/lesson-03.md)
+  - [91 · Crumb Faults](/lessons/module-16/lesson-04.md)
+  - [92 · Viennoiserie Faults](/lessons/module-16/lesson-05.md)
+  - [Module 16 quiz](/assessments/module-16-quiz.md)

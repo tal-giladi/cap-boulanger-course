@@ -34,8 +34,8 @@ Goal: build "CAP Boulanger Preparation" per `curriculum/plan.md`, following
 - [x] Module 12 — Viennoiserie: Pain au Chocolat, Pain aux Raisins and Brioche Doughs
 - [x] Module 13 — Professional Equipment
 - [x] Module 14 — Production Planning
-- [ ] Module 15 — Product Quality
-- [ ] Module 16 — Troubleshooting
+- [x] Module 15 — Product Quality
+- [x] Module 16 — Troubleshooting
 - [ ] Module 17 — Hygiene and Food Safety
 - [ ] Module 18 — Environmental Responsibility
 - [ ] Module 19 — Communication and Sales
@@ -47,7 +47,7 @@ Goal: build "CAP Boulanger Preparation" per `curriculum/plan.md`, following
 
 ## Agents now
 
-- PAUSED after modules 13 and 14 (2026-10-09). Next: modules 15 and 16.
+- PAUSED after modules 15 and 16 (2026-10-09). Next: modules 17 and 18.
 
 ## Decisions and open questions
 
@@ -77,3 +77,5 @@ Goal: build "CAP Boulanger Preparation" per `curriculum/plan.md`, following
 - CR-01 croissant (module 11): détrempe T45 100 / water 26 / milk 26 / sugar 11 / salt 2.0 / fresh yeast 4.0 / butter 8 = 177 %; beurrage 50 (≥ 82 % fat) → 227 %; TPV 20 °C; butter ~13 °C; 3 tours simples (warm kitchen: 1 double + 1 simple); sheet 3.5 mm; triangles 11 × 30 cm, 60 g; proof 24–26 °C, 75–80 % RH, < 27 °C, 1 h 30–2 h 30; bake 190–200 °C (fan 175–180), no steam; loss 12–15 %; batch rule pieces ÷ 0.90 × 1.02 ÷ 2.27. Module 12 sheets PL-01, PB-01, BR-01, CP-01 (see curriculum/matrix/module-12.md). Crème pâtissière: 63→10 °C in ≤ 2 h, 0–3 °C, 24 h course rule. Viennoiserie salt 2.0 % (outside the salt agreement). Final QA: modules 11/12 troubleshooting rows, sources, formulas.md CR-01/PL/PB/BR/CP labels, quality-rubric notes; Module 13 must source sheeter safety (INRS).
 - Module 14: cooler-proof rule ΔT = ln(t2/t1) ÷ ln 1.07; TR-01 retarded total 187.2 %; 14.4 practice order (TR-01, VI-01, CR-01 + CP-01, PL-01; croissant dough is the ~8 h critical path); oven/cabinet setup and cooling allowances in curriculum/matrix/module-14.md. Production-schedule simulation should use module 14's numbers as presets and be linked from 14.3/14.4. Final QA: organigramme template suggestions (hands column, proofing/cold-space columns), planning troubleshooting rows, 14.4 → Module 22 link.
 - Module 13: convection ovens set 15–20 °C below a still oven; CNBPF energy figures (empty 5 m² deck 2 h/day ≈ 12 kWh/day; 230 vs 250 °C saves ~10 %; steam up to 15 % of bake energy) — reuse in Module 18; electrical safety = read rating plate only; sheeter safety sourced (RONDO manual, INRS ED 4473; added to 11.4). Optional templates equipment-card / maintenance-log. Final QA: module 13 sources and troubleshooting rows; 13.3/13.6 mention Module 17 in plain text.
+- Module 16: references/troubleshooting.md replaced with the merged version (all module 3–14 rows, 10 sections, Lesson column) — the Final QA troubleshooting items for modules 3–14 are done. Troubleshooting simulation: build from that page + decision trees in 16.2–16.5. Final QA: links 16.x → 15.x and troubleshooting intro → 15.1/15.2; optional back-links 04.7/11.7 → 16.1, 08.5 → 16.2–16.4, 13.4 → 16.3; optional "Evidence" field in non-conformity template.
+- Module 15 conventions: crust colour scale 1–5 with product targets; crumb record = holes ≥ 5 mm in a 4 × 4 cm window + press test + tracing; house weight tolerance ±3 %, salt checked on the lightest piece; trade scales verified every 2 years (yearly for prepackages); cooling before the shop ~30 min bread / ~20 min viennoiserie. Final QA: quality-rubric template changes (pain courant + tradition crumb lines, croissant /18, colour scale pointer, exterior subtotal /12, weight target definition, expected crumb table); optional weight-control and tasting templates; module 15 troubleshooting rows (check against new page); 15.4/15.5 mention Module 17 and 19 in plain text; INRAE OPALINE host has TLS errors.

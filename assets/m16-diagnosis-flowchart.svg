@@ -1,0 +1,114 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 620" width="960" height="620" role="img" aria-labelledby="t d">
+  <title id="t">The five-step diagnosis method for a bakery fault</title>
+  <desc id="d">Five boxes in a row joined by arrows. Step 1, describe: what, where on the product, how many pieces, when it was first seen. Step 2, locate: every piece of the batch points to the dough, the formula or the fermentation; only some pieces point to the order of work, a tray or an oven position. Step 3, evidence: compare the records with the sheet: dough temperature against the target, times, poke test, oven readings, weights. Step 4, cause: keep the one cause that explains every symptom and is proved by the records. Step 5, act and report: correct what can still be corrected, write a non-conformity report, change one thing for the next batch. An arrow returns from step 5 to step 1: check the next batch with the same method.</desc>
+  <rect x="0" y="0" width="960" height="620" fill="#ffffff"/>
+  <g font-family="Arial, Helvetica, sans-serif" fill="#222222">
+    <text x="480" y="34" text-anchor="middle" font-size="22" font-weight="bold">Diagnosing a fault: five steps, in this order</text>
+    <text x="480" y="60" text-anchor="middle" font-size="14">Symptom first, records second, cause last. Never start with the fix.</text>
+
+    <g stroke="#5a3a1a" stroke-width="2">
+      <rect x="20" y="90" width="168" height="300" rx="10" fill="#fbf1dc"/>
+      <rect x="208" y="90" width="168" height="300" rx="10" fill="#f6e7c8"/>
+      <rect x="396" y="90" width="168" height="300" rx="10" fill="#efdcb3"/>
+      <rect x="584" y="90" width="168" height="300" rx="10" fill="#e8d09d"/>
+      <rect x="772" y="90" width="168" height="300" rx="10" fill="#dfc387"/>
+    </g>
+
+    <g font-size="17" font-weight="bold" text-anchor="middle">
+      <text x="104" y="122">1 · Describe</text>
+      <text x="292" y="122">2 · Locate</text>
+      <text x="480" y="122">3 · Evidence</text>
+      <text x="668" y="122">4 · Cause</text>
+      <text x="856" y="122">5 · Act, report</text>
+    </g>
+    <g font-size="12" font-style="italic" text-anchor="middle">
+      <text x="104" y="142">le constat</text>
+      <text x="292" y="142">l'étape en cause</text>
+      <text x="480" y="142">les relevés</text>
+      <text x="668" y="142">la cause probable</text>
+      <text x="856" y="142">corriger, rendre compte</text>
+    </g>
+
+    <g font-size="13">
+      <text x="32" y="172">What exactly?</text>
+      <text x="32" y="190">(flat, pale, gummy…)</text>
+      <text x="32" y="214">Where on the piece?</text>
+      <text x="32" y="232">(base, side, top,</text>
+      <text x="32" y="250">centre, under crust)</text>
+      <text x="32" y="274">How many pieces?</text>
+      <text x="32" y="292">(all, one tray, a few)</text>
+      <text x="32" y="316">When first seen?</text>
+      <text x="32" y="334">(dough, apprêt,</text>
+      <text x="32" y="352">oven, after cooling)</text>
+
+      <text x="220" y="172">Which family?</text>
+      <text x="220" y="190">volume and shape,</text>
+      <text x="220" y="208">crust and colour,</text>
+      <text x="220" y="226">crumb and taste,</text>
+      <text x="220" y="244">viennoiserie</text>
+      <text x="220" y="272">Which stage could</text>
+      <text x="220" y="290">have made it?</text>
+      <text x="220" y="314">Walk the chain</text>
+      <text x="220" y="332">backwards from</text>
+      <text x="220" y="350">the oven</text>
+
+      <text x="408" y="172">Sheet vs record:</text>
+      <text x="408" y="194">• dough °C vs TPV</text>
+      <text x="408" y="214">• room, cabinet °C</text>
+      <text x="408" y="234">• pointage, apprêt</text>
+      <text x="408" y="254">• poke-test result</text>
+      <text x="408" y="274">• oven: thermometer,</text>
+      <text x="408" y="292">   not the dial</text>
+      <text x="408" y="312">• steam, bake time</text>
+      <text x="408" y="332">• weights, ticks,</text>
+      <text x="408" y="350">   new flour bag?</text>
+
+      <text x="596" y="172">List 2-4 causes,</text>
+      <text x="596" y="190">then test them:</text>
+      <text x="596" y="214">keep the cause</text>
+      <text x="596" y="232">that explains</text>
+      <text x="596" y="250">EVERY symptom</text>
+      <text x="596" y="268">and that the</text>
+      <text x="596" y="286">records prove.</text>
+      <text x="596" y="314">Two causes? Fix</text>
+      <text x="596" y="332">the earlier stage</text>
+      <text x="596" y="350">first.</text>
+
+      <text x="784" y="172">Now: rescue,</text>
+      <text x="784" y="190">set aside, sell</text>
+      <text x="784" y="208">as decided</text>
+      <text x="784" y="232">Report: facts,</text>
+      <text x="784" y="250">quantity, action,</text>
+      <text x="784" y="268">cause, prevention</text>
+      <text x="784" y="292">Next batch:</text>
+      <text x="784" y="310">ONE change,</text>
+      <text x="784" y="328">written on the</text>
+      <text x="784" y="346">sheet and the log</text>
+    </g>
+
+    <g fill="#5a3a1a">
+      <path d="M 190 240 L 206 240 L 199 233 M 206 240 L 199 247" stroke="#5a3a1a" stroke-width="3" fill="none"/>
+      <path d="M 378 240 L 394 240 L 387 233 M 394 240 L 387 247" stroke="#5a3a1a" stroke-width="3" fill="none"/>
+      <path d="M 566 240 L 582 240 L 575 233 M 582 240 L 575 247" stroke="#5a3a1a" stroke-width="3" fill="none"/>
+      <path d="M 754 240 L 770 240 L 763 233 M 770 240 L 763 247" stroke="#5a3a1a" stroke-width="3" fill="none"/>
+    </g>
+
+    <path d="M 856 392 L 856 425 L 104 425 L 104 398" fill="none" stroke="#5a3a1a" stroke-width="2.5" stroke-dasharray="7 5"/>
+    <path d="M 97 404 L 104 393 L 111 404" fill="none" stroke="#5a3a1a" stroke-width="2.5"/>
+    <text x="480" y="418" text-anchor="middle" font-size="13">check the next batch with the same five steps: did the one change work?</text>
+
+    <rect x="20" y="450" width="920" height="150" rx="10" fill="#f4f4f4" stroke="#888888" stroke-width="1.5"/>
+    <text x="480" y="476" text-anchor="middle" font-size="16" font-weight="bold">Step 2 shortcut: how many pieces show the fault?</text>
+    <g font-size="14">
+      <text x="44" y="506" font-weight="bold">Every piece of the batch</text>
+      <text x="44" y="528">→ a cause shared by the whole dough: formula, weighing,</text>
+      <text x="44" y="548">   flour, dough temperature, pointage, cold room overnight,</text>
+      <text x="44" y="568">   oven setting for the whole load</text>
+
+      <text x="500" y="506" font-weight="bold">Only some pieces</text>
+      <text x="500" y="528">→ a cause that differs between pieces: order of dividing</text>
+      <text x="500" y="548">   and shaping, one tray or cabinet shelf, an oven zone,</text>
+      <text x="500" y="568">   the second load, one baker's shaping</text>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,23 @@
+- **Action corrective** (*ak-SYOHN kor-ek-TEEV*) — correction: what is done at once to save or limit a faulty batch (bake at once, wait, set aside).
+- **Action préventive** (*ak-SYOHN pray-vahn-TEEV*) — prevention: the change that stops a fault from coming back, written on the sheet; one change at a time.
+- **Aspect brioché** (*as-PEH bree-o-SHAY*) — bready, brioche-like interior of a croissant: layers fused by warm butter or too many turns.
+- **Beurre cassant** (*BUHR ka-SAHN*) — butter too cold and brittle for lamination: it breaks into plates and gives thick, uneven, greasy layers.
+- **Beurre qui graisse** (*BUHR kee GRESS*) — butter too warm, smearing into the dough during tourage; the layers fuse.
+- **Cause probable** (*KOHZ proh-BAH-bluh*) — probable cause: the cause that explains every symptom and that the records support.
+- **Coloration** (*ko-lo-ra-SYOHN*) — crust colour, from Maillard reactions and caramelisation; depends on the sugars fermentation left and on the oven.
+- **Constat** (*kohn-STAH*) — the facts observed about a fault: what, where on the product, how many pieces, when first seen; written before any cause.
+- **Croûte décollée** (*KROOT day-ko-LAY*) — crust lifted from the crumb by a large hole just under it; usually over-fermentation or air trapped at shaping.
+- **Croûte épaisse** (*KROOT ay-PESS*) — thick, hard crust: long bake at too low a temperature, no steam or a drying fan.
+- **Défaut** (*day-FOH*) — fault or defect in a dough or a finished product; the référentiel lists dough defects (S3.1.4) and bread defects (S3.1.6).
+- **Dysfonctionnement** (*dees-fohnk-syon-MAHN*) — malfunction of equipment or of the organisation, reported during production with the non-conformities (C4.4).
+- **Empois d'amidon** (*ahn-PWAH da-mee-DOHN*) — starch paste: starch gelatinised from about 76 °C in the oven, which sets the crumb as it cools.
+- **Feuilletage irrégulier** (*fuh-yuh-TAHZH ee-ray-gü-LYAY*) — uneven layering in laminated dough: thick and thin layers, gaps, butter missing in the corners.
+- **Manque de volume** (*MAHNK duh vo-LÜM*) — lack of volume: small, heavy bread, usually under-fermented, too firm or under-developed dough.
+- **Mie collante / pâteuse** (*mee ko-LAHNT / pah-TUHZ*) — sticky, gummy crumb: core below about 93 °C, cut warm, or too much water.
+- **Mie sèche / friable** (*mee SESH / free-AH-bluh*) — dry, crumbly crumb: too little water, over-baked, seeds added dry, or stale.
+- **Mie serrée** (*mee seh-RAY*) — tight, dense crumb with small holes: under-fermented, too firm, under-developed or degassed at shaping.
+- **Pied brûlé** (*pyay brü-LAY*) — burnt base of a viennoiserie piece: tray too low, or leaked butter frying the base.
+- **Se dérouler** (*suh day-roo-LAY*) — to unroll in the oven (croissant tip, pain au chocolat seam or pain aux raisins tail not underneath).
+- **Se rétracter** (*suh ray-trak-TAY*) — to shrink back after cutting or rolling: the sheet or dough was still elastic, not rested.
+- **Traçabilité** (*tra-sa-bee-lee-TAY*) — traceability: being able to find which lot, batch and day a product or ingredient came from; makes faults traceable to their records.
+- **Trou / tunnel** (*TROO / tü-NEL*) — large hole or tunnel in the crumb, usually air or flour trapped at shaping or a seam not sealed.
