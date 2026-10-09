@@ -1,0 +1,188 @@
+- id: q1
+  question: >-
+    Production order: 36 baguettes PC-02 for the shop at 7:00. Two-deck oven, 12 baguettes per deck, so
+    two loads (24, then 12), 22 min each with 5 min between loads; cooling 30 min. Sheet: weighing 15,
+    mixing 15, pointage 45, dividing 20, détente 20, shaping (all 36) 25, apprêt 75 min. The second group
+    will proof cooler. What is the latest start for weighing?
+  options:
+    - >-
+      About 2:35, with all 36 baguettes in one load at 6:08
+    - >-
+      About 1:35, with 30 min of preheat added before weighing
+    - >-
+      About 2:05, with the first load in at 5:41
+    - >-
+      About 3:05, with the cooling and second load left out
+  correct: 2
+  explanation: >-
+    Load 2 out 6:30, in 6:08; load 1 out 6:03, in 5:41. Apprêt 75 → shaping done 4:26 → shaping from
+    4:01 → détente 3:41 → dividing 3:21 → pointage 2:36 → mixing 2:21 → weighing 2:06. The preheat runs
+    alongside the dough; 36 baguettes do not fit one load.
+
+- id: q2
+  question: >-
+    Temperature log, 2:50: "PC-02, TPV 24 °C, dough after mixing 21 °C." The organigramme has a 45-minute
+    pointage ending at 3:35 and the oven switched on at 4:35. With the 7 % per °C rule, what do you write?
+  options:
+    - >-
+      Pointage about 55 min: divide about 3:45 and move the oven 10 min later
+    - >-
+      Pointage about 37 min: divide about 3:27 and switch the oven on earlier
+    - >-
+      Pointage 45 min as printed: the sheet is the bakery's standard
+    - >-
+      Pointage about 1 h 05: divide about 3:55 and add 20 min to everything
+  correct: 0
+  explanation: >-
+    3 °C too cold: 45 × 1.07³ = 45 × 1.225 ≈ 55 min, so about 10 minutes later for every following stage.
+    Dividing (not multiplying) makes it shorter, which is the warm-dough case; confirm by the dough.
+
+- id: q3
+  question: >-
+    Extract from a candidate's organigramme: "9:30-9:50 divide tradition (35 pieces) — 9:40-9:50 croissant
+    turn 3 — 9:50-10:00 divide pain au lait — 10:20 shape tradition." Turn 2 ended at 9:20. What is wrong
+    and how do you fix it?
+  options:
+    - >-
+      Nothing: the turn happens on the sheeter, the dividing on the bench.
+    - >-
+      The pain au lait is divided too early; move it after the tradition shaping.
+    - >-
+      The tradition détente is too short; move its shaping to 10:40.
+    - >-
+      Turn 3 overlaps the dividing; give it at 9:50, after a 30-min rest.
+  correct: 3
+  explanation: >-
+    One baker cannot divide and laminate at once. Turn 3 at 9:50 gives a 30-minute rest after turn 2,
+    inside the 20-45 minutes of the sheet, and the pain au lait moves to 10:00-10:10.
+
+- id: q4
+  question: >-
+    Oven plan: 30 pain courant baguettes (22 min) and 20 rolls (15 min) at 250 °C; two decks, each taking
+    12 baguettes or 20 rolls; 5 min between loads; first load in at 5:30. When is the last product out of
+    the oven at the earliest?
+  options:
+    - >-
+      6:12, when the rolls come out of the bottom deck
+    - >-
+      6:19, with 6 baguettes on top and the rolls below at 5:57
+    - >-
+      6:46, with three loads of baguettes and one of rolls
+    - >-
+      5:52, since 30 baguettes and 20 rolls fit two decks
+  correct: 1
+  explanation: >-
+    Load 1: 24 baguettes on both decks, 5:30-5:52. Load 2 at 5:57: 6 baguettes on top (out 6:19) and 20
+    rolls below (out 6:12). The last product is the top deck's at 6:19.
+
+- id: q5
+  question: >-
+    One proofing cabinet for the morning: pains au chocolat (laminated, keep below about 27 °C, 24-26 °C)
+    and baguettes viennoises (sheet: 1 h-1 h 30 at 26-28 °C). Which setting do you choose?
+  options:
+    - >-
+      28 °C, because the viennois has the longer apprêt
+    - >-
+      25-26 °C, giving the viennois a longer apprêt
+    - >-
+      27 °C, the exact middle of the two ranges
+    - >-
+      30 °C for 30 minutes, then 25 °C for the rest
+  correct: 1
+  explanation: >-
+    A cabinet has one setting for everything inside. The laminated dough sets the ceiling (below about
+    27 °C or the butter melts out); the viennois simply takes a little longer at 25-26 °C.
+
+- id: q6
+  question: >-
+    A same-day tradition (TR-01, about 4 h 50 from autolyse to oven) must be baked at 5:00; that means a
+    start around 0:10. The owner wants nobody in before 2:00. Which change keeps the bread legally
+    "tradition" and meets the request?
+  options:
+    - >-
+      Double the yeast so the pointage takes half as long.
+    - >-
+      Shape it on Saturday, freeze it and bake it from frozen on Sunday.
+    - >-
+      Proof it at 32 °C to save an hour on the apprêt.
+    - >-
+      Mix on Saturday afternoon for a 12-16 h retarded pointage at 2-6 °C.
+  correct: 3
+  explanation: >-
+    Retarded pointage in positive cold (21-22 °C dough, about 0.4 % yeast, 12-16 h at 2-6 °C) keeps the
+    tradition name; freezing does not (lesson 09.1). Doubling yeast or proofing hot spoils flavour.
+
+- id: q7
+  question: >-
+    Draft: "bottom deck, 250 °C, baguettes out 6:12 — pains au lait in at 6:15 at 180 °C." The bakery
+    measured 40 min for a deck to fall from 250 to 180 °C. A 5-tray fan oven is free all morning. Which
+    correction is best?
+  options:
+    - >-
+      Bake the pains au lait in the fan oven at about 175-180 °C.
+    - >-
+      Load them at 6:15 anyway and shorten the bake by two minutes.
+    - >-
+      Hold them in the cabinet until 6:52, when the deck is at 180 °C.
+    - >-
+      Bake them at 250 °C for half the time on the bottom deck.
+  correct: 0
+  explanation: >-
+    Another resource removes the temperature conflict: the decks stay at 250 °C for bread, the fan oven
+    bakes the enriched dough. Waiting 40 minutes over-proofs them; 250 °C burns sugar-rich dough.
+
+- id: q8
+  question: >-
+    Pains aux raisins will be shaped at 11:00 on Saturday. Which crème pâtissière plan is acceptable?
+  options:
+    - >-
+      Cook at 10:40 and spread it while still warm so it is soft.
+    - >-
+      Cook at 6:35 and let it cool in a deep covered bowl on the bench.
+    - >-
+      Cook at 6:35, 2 cm tray, blast chiller, log 63 and 10 °C, keep at 0-3 °C.
+    - >-
+      Cook on Friday at 10:00 so Saturday morning is free.
+  correct: 2
+  explanation: >-
+    The cream must go from 63 °C to 10 °C in 2 hours or less (shallow tray, rapid cooling, both times
+    logged), then stay at 0-3 °C; the course keeps it 24 hours at most, so Friday 10:00 is too early.
+
+- id: q9
+  question: >-
+    Sunday 4:00: the bottom deck will not heat. With the top deck alone, 20 tradition and 12 baguettes can
+    be cooled for 7:00, 12 more at 7:20, 6 at 7:45, and the restaurant's rolls about 8:05. What is the
+    right report to the chef (C4.4)?
+  options:
+    - >-
+      None yet: try again at 5:30, the deck may still heat up.
+    - >-
+      "Bottom deck broken, everything will be late," sent at 6:55.
+    - >-
+      None: bake faster at 270 °C to catch up the lost deck.
+    - >-
+      At 4:00: the fault, what is late and by how much, and the options.
+  correct: 3
+  explanation: >-
+    Report at once with facts: equipment, time, products affected, new times and options (call the
+    restaurant, use the fan oven, call the technician), plus a non-conformity report. Waiting removes
+    the chef's choices; a hotter oven burns the crust before the crumb is baked.
+
+- id: q10
+  question: >-
+    Home plan in Tel Aviv in August (kitchen about 31 °C at 14:00, about 25 °C in the bedroom with the air
+    conditioner): "14:00 switch the oven on to 250 °C for the baguettes; 14:15 laminate croissant dough
+    on the kitchen counter; proof the croissants next to the oven." What do you change?
+  options:
+    - >-
+      Nothing, as long as the butter was frozen at the lock-in.
+    - >-
+      Laminate at dawn before the preheat; proof in the 25 °C bedroom.
+    - >-
+      Laminate at 14:15 but give four turns instead of three.
+    - >-
+      Proof them by the oven so they are ready sooner.
+  correct: 1
+  explanation: >-
+    Laminated dough must stay below about 27 °C: work in the cool morning hours, before the oven heats
+    the kitchen, and proof in the coolest room. Frozen butter shatters; more turns merge the layers.

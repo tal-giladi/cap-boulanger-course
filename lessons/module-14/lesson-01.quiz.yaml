@@ -1,0 +1,92 @@
+- id: q1
+  question: >-
+    Order: 24 baguettes PC-02 in the shop at 7:00, one load on two decks. Sheet times: weighing 15 min,
+    mixing 15 min, pointage 45 min, dividing 15 min, détente 20 min, shaping 20 min, apprêt 75 min,
+    baking 22 min, cooling 30 min. What is the latest time to start weighing?
+  options:
+    - >-
+      2:58, counting every stage back from 7:00 except the cooling
+    - >-
+      2:38, counting every stage back from 7:00 including the cooling
+    - >-
+      3:08, counting every stage back from 7:00 except the baking
+    - >-
+      2:16, counting every stage back from 7:00 plus a 22-minute preheat
+  correct: 1
+  explanation: >-
+    Backwards from 7:00: cooling 30 → out 6:30; bake 22 → in 6:08; apprêt 75 → 4:53; shaping 20 → 4:33;
+    détente 20 → 4:13; dividing 15 → 3:58; pointage 45 → 3:13; mixing 15 → 2:58; weighing 15 → 2:38.
+    The preheat runs alongside the dough, so it moves the oven's switch-on time, not the weighing.
+
+- id: q2
+  question: >-
+    A colleague's organigramme for 40 baguettes in two oven loads shapes all 40 at 4:55-5:30 and puts
+    them all in the cabinet at 25 °C; load 1 goes in at 6:05, load 2 at 6:35. What will happen and what
+    is the professional correction?
+  options:
+    - >-
+      Nothing: the cabinet holds both groups and the apprêt time on the sheet is a range.
+    - >-
+      Load 1 will be under-proofed; shape it 30 minutes earlier than load 2.
+    - >-
+      Load 2 will over-proof; proof it about 4 °C cooler so it is ready 30 minutes later.
+    - >-
+      Load 2 will over-proof; bake both loads at 6:05 by putting 40 baguettes on two decks.
+  correct: 2
+  explanation: >-
+    Load 2 waits about 30 minutes more for the oven. Shaped at the same time, it must ferment more slowly:
+    with about 7 % per °C, 65 instead of 50 minutes needs about 4 °C less. The decks take only 24.
+
+- id: q3
+  question: >-
+    Which list contains only hands time (stages that take the baker's attention and grow with the
+    quantity)?
+  options:
+    - >-
+      Dividing, shaping, loading, cleaning
+    - >-
+      Autolyse rest, pointage, détente, apprêt
+    - >-
+      Mixing, pointage, shaping, cooling
+    - >-
+      Weighing, détente, baking, cleaning
+  correct: 0
+  explanation: >-
+    Dividing, shaping, scoring and loading, and cleaning need your hands and take longer for more pieces.
+    Rests, fermentation, baking and cooling are dough time: set by temperature, and free time for you.
+
+- id: q4
+  question: >-
+    The plan assumes a TR-01 dough at 23 °C and a pointage of 2 h from 2:05 to 4:05. The dough comes off
+    the mixer at 25 °C. With the 7 % per °C rule, what do you write on the organigramme?
+  options:
+    - >-
+      Pointage about 2 h 17, divide at about 4:22, oven on 17 minutes later
+    - >-
+      Pointage about 1 h 53, divide at about 3:58, oven unchanged
+    - >-
+      Pointage 2 h as printed, since the sheet is the standard
+    - >-
+      Pointage about 1 h 45, divide at about 3:50, oven on 15 minutes earlier
+  correct: 3
+  explanation: >-
+    120 ÷ 1.07² ≈ 105 minutes, about 1 h 45, so the dough will be ready about 15 minutes early. Every later
+    stage moves with it, including the oven's switch-on time; confirm the end of pointage by the dough.
+
+- id: q5
+  question: >-
+    You check a finished organigramme forwards. Which line is the one most often missing from beginners'
+    plans and causes a late first load even when every dough stage is right?
+  options:
+    - >-
+      The time the pâte fermentée was made the day before
+    - >-
+      The cleaning of the mixer during pointage
+    - >-
+      The "oven on" line, 45-60 min before load 1
+    - >-
+      The number of folds during pointage
+  correct: 2
+  explanation: >-
+    A deck oven needs about an hour to reach baking temperature. If switching it on is not written as a
+    timed line, the dough is ready before the oven and has to be held back.

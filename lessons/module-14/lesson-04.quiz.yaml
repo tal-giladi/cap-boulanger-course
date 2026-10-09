@@ -1,0 +1,91 @@
+- id: q1
+  question: >-
+    A one-day practice order: tradition (TR-01), pain viennois (VI-01), a croissant lamination (CR-01)
+    cut into croissants, pains au chocolat and pains aux raisins, and a pain au lait (PL-01). All made the
+    same day from 6:00. Which dough do you mix first, and why?
+  options:
+    - >-
+      The tradition, because its autolyse and 2-hour pointage are the longest of the breads.
+    - >-
+      The pain au lait, because enriched doughs ferment slowly and need a head start.
+    - >-
+      The croissant détrempe, because the lamination chain is about 8 hours long.
+    - >-
+      The pain viennois, because it bakes first and frees the oven for the others.
+  correct: 2
+  explanation: >-
+    Détrempe chill (2 h), three turns with rests, a final rest of 1 h, shaping and a 1 h 30-2 h 30 proof
+    make the laminated dough the critical path; every other dough fits into its waits.
+
+- id: q2
+  question: >-
+    The plan for 10 pains aux raisins needs 200 g of CP-01 plus 10 %. The yield is about 1.40 times the
+    milk, and the milk batch is rounded up to the next 100 g. Which milk weight goes on the requisition?
+  options:
+    - >-
+      200 g of milk, giving about 280 g of cream
+    - >-
+      300 g of milk, since 220 g of cream is needed
+    - >-
+      100 g of milk, giving about 140 g of cream
+    - >-
+      160 g of milk, from 220 g divided by 1.40
+  correct: 0
+  explanation: >-
+    10 × 20 = 200 g; with 10 %: 220 g; ÷ 1.40 = 157 g of milk, rounded up to the next 100 g: 200 g,
+    which gives about 280 g of cream. Taking the cream weight as the milk weight overshoots.
+
+- id: q3
+  question: >-
+    CP-01 cooking log: "boiled 6:54 — 63 °C at 7:00 in a 2 cm tray in the blast chiller — 8:15: 6 °C —
+    cold room 2 °C". The pains aux raisins are shaped at 11:00. What is the right entry?
+  options:
+    - >-
+      Non-conforming: the cream must be used within 2 hours of boiling.
+    - >-
+      Conforming: 63 to 10 °C within 2 h; kept 0-3 °C; leftovers out within 24 h.
+    - >-
+      Conforming only if it is brought back to room temperature before spreading.
+    - >-
+      Non-conforming: the time at 10 °C is missing, so the cream is discarded.
+  correct: 1
+  explanation: >-
+    The 2-hour rule runs from 63 °C to 10 °C; 6 °C at 8:15 shows it was met within 1 h 15. Stored at
+    0-3 °C it can be used at 11:00, cold, and what is left is discarded within 24 hours.
+
+- id: q4
+  question: >-
+    Home version of the day, one-tray oven: tradition (250 °C with steam), croissants and pains au
+    chocolat (about 200 °C), pains aux raisins (about 200 °C), pain au lait (180-190 °C). Which loading
+    order is best?
+  options:
+    - >-
+      Pain au lait first, so the oven heats up gradually through the day.
+    - >-
+      Croissants first, since viennoiserie is the most fragile product.
+    - >-
+      Whatever tray is ready first, at 220 °C for all of them.
+    - >-
+      Tradition first, then the viennoiserie, then the pain au lait last.
+  correct: 3
+  explanation: >-
+    A home oven drops in temperature much faster than it heats back up, so loads go hottest first. Trays
+    that are ready early are slowed in a cooler place; a single compromise temperature suits none.
+
+- id: q5
+  question: >-
+    Your plan's last product (croissants) is cooled at 14:18 for a 14:30 deadline, and the croissant proof
+    is the stage most likely to run slow. Which reading of the plan is correct?
+  options:
+    - >-
+      Fine: 12 minutes spare is more than enough for any proof.
+    - >-
+      Proof the croissants at 30 °C to build a safer margin.
+    - >-
+      Tight: watch the proof, and warn early if the croissants will be late.
+    - >-
+      Bake the croissants unproofed to be sure of the deadline.
+  correct: 2
+  explanation: >-
+    Twelve minutes is less than the 15 the template asks, on the stage most likely to slip. Above about
+    27 °C laminated dough leaks butter, so the honest answer is to watch it and report early.

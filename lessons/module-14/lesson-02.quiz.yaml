@@ -1,0 +1,92 @@
+- id: q1
+  question: >-
+    Saturday order for 7:00: pain courant baguettes (PC-02, about 3 h 10 from mixing to oven), croissants
+    (CR-01, about 7-8 h) and pains au lait (PL-01, about 3 h). One baker who wants to start at 2:30. How
+    do you organise the croissants?
+  options:
+    - >-
+      Mix the détrempe first at 2:30, so it has the longest time before the oven.
+    - >-
+      Laminate and shape them on Friday afternoon and block them overnight in the cabinet.
+    - >-
+      Mix the détrempe at 2:30 and skip the 2-hour chill to save time.
+    - >-
+      Bake them on Friday afternoon and sell them on Saturday morning.
+  correct: 1
+  explanation: >-
+    A 7-8 hour process cannot fit between 2:30 and 7:00. The cold moves it in time: lamination and
+    shaping the afternoon before, blocking overnight, proof by programme, bake fresh in the morning.
+
+- id: q2
+  question: >-
+    A two-deck oven, both decks independent, must bake 24 baguettes at 250 °C with steam and 3 trays of
+    croissants at 200 °C without steam before 7:00. Which oven plan avoids waiting for a deck to change
+    temperature?
+  options:
+    - >-
+      Both decks at 250 °C for the bread, then both down to 200 °C for the croissants.
+    - >-
+      Both decks at 200 °C for the croissants first, then both up to 250 °C for the bread.
+    - >-
+      Top deck held at 250 °C for bread, bottom deck held at 200 °C for croissants.
+    - >-
+      Both decks at 225 °C, a compromise that suits both products.
+  correct: 2
+  explanation: >-
+    Giving each temperature its own deck removes the slow change of temperature. The bread then goes in
+    two loads of 12 on one deck, which the plan must allow for. 225 °C suits neither product.
+
+- id: q3
+  question: >-
+    In a home plan, the tradition's third fold falls at 15:00, exactly when you start mixing butter into
+    a pain au lait dough by hand. What is the best correction?
+  options:
+    - >-
+      Skip the third fold; two are enough for any dough.
+    - >-
+      Fold the tradition at 14:55, wash your hands, then start the pain au lait.
+    - >-
+      Start the pain au lait at 15:30 and shorten its pointage to stay on time.
+    - >-
+      Ask the tradition to wait: fold it at 15:30 after the mixing.
+  correct: 1
+  explanation: >-
+    Small tasks such as a fold can move a few minutes; a mixing block cannot be split. A fold five
+    minutes early changes nothing, while skipping it or shifting it 30 minutes weakens the dough plan.
+
+- id: q4
+  question: >-
+    Baguettes group 1 goes into the oven after 75 min of apprêt at 25 °C. Group 2 is shaped 10 minutes
+    later but goes in 25 minutes after group 1, so it needs 90 min of apprêt. With about 7 % per °C,
+    where should group 2 proof?
+  options:
+    - >-
+      In the cabinet at 25 °C with group 1, since 15 minutes make no difference.
+    - >-
+      In a warmer place at about 28 °C so it catches up with group 1.
+    - >-
+      In the cold room at 3 °C until the oven is free, then back to the cabinet.
+    - >-
+      On a covered rack in the fournil at about 22 °C, about 3 °C cooler.
+  correct: 3
+  explanation: >-
+    90 ÷ 75 = 1.2, and ln 1.2 ÷ ln 1.07 ≈ 2.7 °C: proofing about 3 °C cooler makes group 2 ready 15
+    minutes later. Warmer would make it ready earlier; the cold room would nearly stop it.
+
+- id: q5
+  question: >-
+    Two products for 19:00 at home, one oven tray: tradition baguettes (250 °C with steam, cool 1 h) and
+    pains au lait (190 °C, cool 30 min). Which order of baking is right?
+  options:
+    - >-
+      Baguettes first, then the rolls once the oven has dropped to 190 °C.
+    - >-
+      Rolls first at 190 °C, then heat to 250 °C for the baguettes.
+    - >-
+      Both together at 220 °C to save oven time.
+    - >-
+      Rolls first, since the shorter product should always bake first.
+  correct: 0
+  explanation: >-
+    The baguettes need the hotter oven and the longer cooling, and a home oven falls in temperature much
+    faster than it heats back up. Baking both at 220 °C would suit neither.

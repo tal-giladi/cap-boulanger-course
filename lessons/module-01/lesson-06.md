@@ -58,7 +58,7 @@ flowchart LR
 - The **order** comes from the manager, a customer or the shop. It fixes what and when, never how.
 - The **technical sheet** fixes how: the bakery's formula in baker's percentages, the weights for this batch, the temperatures and every stage with its time and target. It is the bakery's standard, so the bread is the same whoever makes it.
 - The **requisition** (bon d'économat) lists what you take from the store, so stock is known and the right batch numbers are used.
-- The **organigramme** places every stage on a timeline so the mixer, the bench and the oven are never needed twice at the same time. Module 14 teaches it in full; here you only read one.
+- The **organigramme** places every stage on a timeline so the mixer, the bench and the oven are never needed twice at the same time. [Module 14](../module-14/lesson-01.md) teaches it in full; here you only read one.
 
 ### The order
 

@@ -93,7 +93,7 @@ Saturday, PC-02 batch (lesson [01.6](../module-01/lesson-06.md)): the baguettes 
 3. **Slow them down.** Move the boards to a cooler place at about 20 °C (the fournil, away from the oven). With the rule of thumb from lesson [04.2](lesson-02.md), 5 °C cooler ≈ 1.07⁵ ≈ 1.4 times slower: the 30 minutes of progress now take about 42 minutes, so the pieces are ready at about 6:12 (a little earlier in reality, because the pieces cool gradually rather than at once).
 4. **Decide.** Loading at 6:20 means about 8 minutes past ready: acceptable if you score a little shallower and load at once. Leaving them in the 25 °C cabinet would have meant 20 minutes past ready, with real risk of flat, pale baguettes.
 5. **Do not open-and-close the cabinet** to check repeatedly; poke-test one piece at 6:05 and 6:15.
-6. **Record it.** Write the delay and what you did on the production sheet. If it caused a defect, report it with the [non-conformity report](../../templates/non-conformity-report.md). The real fix is upstream: plan oven loads so they do not collide (organigramme, Module 14), or start the batch later.
+6. **Record it.** Write the delay and what you did on the production sheet. If it caused a defect, report it with the [non-conformity report](../../templates/non-conformity-report.md). The real fix is upstream: plan oven loads so they do not collide (organigramme, [Module 14](../module-14/lesson-03.md)), or start the batch later.
 
 ## Practice
 

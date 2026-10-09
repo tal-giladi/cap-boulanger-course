@@ -1,0 +1,92 @@
+- id: q1
+  question: >-
+    Order: 36 tradition baguettes, 25 min bake at 250 °C, in a two-deck oven taking 12 baguettes per
+    deck; allow 5 min between loads; cooling 30 min; shop at 7:30. When must the first load go in at the
+    latest?
+  options:
+    - >-
+      6:35, since one load of 36 fits the two decks
+    - >-
+      6:05, for two loads of 24 and 12
+    - >-
+      5:35, for three loads of 12 on the top deck only
+    - >-
+      6:00, for two loads plus 5 min of preheat
+  correct: 1
+  explanation: >-
+    36 ÷ 24 per load = 2 loads. Last load out by 7:00 (30 min cooling), in at 6:35; first load in at
+    6:35 − 25 − 5 = 6:05. Both decks bake at once, so a single-deck plan wastes an hour.
+
+- id: q2
+  question: >-
+    A draft puts pains au lait at 180 °C on the bottom deck at 6:15; the same deck baked baguettes at
+    250 °C until 6:12. The bakery measured 40 minutes for that deck to fall from 250 to 180 °C. Which
+    correction is sound?
+  options:
+    - >-
+      Open the deck door at 6:12 and load at 6:15 as planned; the pieces will cope.
+    - >-
+      Bake the pains au lait at 250 °C for 8 minutes instead of 12.
+    - >-
+      Bake the pains au lait first on a deck preheated only to 180 °C, then heat it to 250 °C.
+    - >-
+      Leave the pains au lait in the cabinet until about 6:52 when the deck is ready.
+  correct: 2
+  explanation: >-
+    Swap the order: the 180 °C product goes first on a deck brought only to 180 °C, which then rises
+    to 250 °C (faster than falling). Waiting 40 minutes over-proofs them; 250 °C burns enriched dough.
+
+- id: q3
+  question: >-
+    One proofing cabinet. In it: croissants proofing (keep below about 27 °C, 75-80 % RH) and pain
+    courant baguettes. The commis wants to set it to 29 °C to speed up the baguettes. What do you tell
+    him?
+  options:
+    - >-
+      Fine, as long as the croissants are covered with a plastic sheet.
+    - >-
+      Fine for 20 minutes, then lower it again before the croissants suffer.
+    - >-
+      Set 29 °C and move the croissants to the bottom level, which is cooler.
+    - >-
+      No: everything in the cabinet shares one setting; keep 24-26 °C.
+  correct: 3
+  explanation: >-
+    A cabinet has one temperature and humidity for every level. Above about 27 °C the butter of laminated
+    dough melts out of the layers, so the bread must wait or proof elsewhere, not the croissants.
+
+- id: q4
+  question: >-
+    A draft has you shaping 24 baguettes from 4:10 to 4:35 and dividing 40 pains au lait from 4:10 to
+    4:25. Both doughs are on time by their sheets. What kind of conflict is this and what is a good fix?
+  options:
+    - >-
+      A hands conflict: move the pains au lait to Friday, shaped and blocked in the cabinet.
+    - >-
+      A mixer conflict: mix the pains au lait on Friday so the mixer is free.
+    - >-
+      An oven conflict: bake the pains au lait in a second load after the bread.
+    - >-
+      No conflict: dividing and shaping happen on different parts of the bench.
+  correct: 0
+  explanation: >-
+    One baker cannot divide and shape at the same time, whatever the bench space. Taking the pains au
+    lait's hands work out of the busy hour with blocking removes the overlap without delaying the bread.
+
+- id: q5
+  question: >-
+    After checking every lane you find the tradition can only be cooled at 7:20 for a 7:00 shop, unless
+    you start 30 minutes earlier, which the manager has not agreed. What do you do (C4.4)?
+  options:
+    - >-
+      Bake it 5 minutes shorter and send it out warm to save time.
+    - >-
+      Report now: tradition at 7:20, or 7:00 with a 30-minute earlier start.
+    - >-
+      Say nothing; the shop can sell the pain courant first.
+    - >-
+      Shorten the tradition's pointage by 30 minutes to catch up.
+  correct: 1
+  explanation: >-
+    A conflict that cannot be solved is reported when you plan, with the new time and the options.
+    Cutting fermentation or baking spoils the product, and silence leaves the shop without a choice.

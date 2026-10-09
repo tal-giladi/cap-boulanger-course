@@ -107,3 +107,19 @@
   - [71 · Braids, Navettes and Animals](lessons/module-12/lesson-04.md)
   - [72 · Freezing, Storing and Packaging Viennoiserie](lessons/module-12/lesson-05.md)
   - [Module 12 quiz](assessments/module-12-quiz.md)
+
+- Part 4 — Organisation, Quality and Equipment
+- **Module 13 — Professional Equipment**
+  - [73 · Mixers](lessons/module-13/lesson-01.md)
+  - [74 · Dividers, Moulders and the Sheeter](lessons/module-13/lesson-02.md)
+  - [75 · Proofers, Retarders and Cold Rooms](lessons/module-13/lesson-03.md)
+  - [76 · Ovens and Heat Transfer](lessons/module-13/lesson-04.md)
+  - [77 · Energy, Gas and Electrical Safety](lessons/module-13/lesson-05.md)
+  - [78 · Small Equipment, Cleaning and Care](lessons/module-13/lesson-06.md)
+  - [Module 13 quiz](assessments/module-13-quiz.md)
+- **Module 14 — Production Planning**
+  - [79 · The Work Organigramme](lessons/module-14/lesson-01.md)
+  - [80 · Planning Several Products at Once](lessons/module-14/lesson-02.md)
+  - [81 · Oven, Mixer and Space Constraints](lessons/module-14/lesson-03.md)
+  - [82 · An EP2-Style Schedule](lessons/module-14/lesson-04.md)
+  - [Module 14 quiz](assessments/module-14-quiz.md)

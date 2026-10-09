@@ -1,0 +1,120 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 560" width="900" height="560" role="img" aria-labelledby="t d">
+  <title id="t">Organigramme for 40 tradition baguettes, planned backwards from the 7:30 deadline</title>
+  <desc id="d">Timeline from 1:00 to 7:30 with one bar per stage. Dark bars are hands time, when the baker is busy: weighing 1:00-1:15, autolyse mixing 1:15-1:20, final mixing 1:50-2:05, two folds at 2:45 and 3:25, dividing 4:05-4:25, shaping group 1 from 4:55 to 5:15 and group 2 from 5:15 to 5:30. Light bars are dough time, when the dough works alone: autolyse rest 1:20-1:50, pointage 2:05-4:05, détente 4:25-4:55, apprêt of group 1 in the cabinet at 25 degrees 5:15-6:05, apprêt of group 2 in the fournil at about 21 degrees 5:30-6:35. Orange bars are the oven: preheat 5:05-6:05, load 1 of 24 baguettes 6:05-6:30, load 2 of 16 baguettes 6:35-7:00. Green bars are cooling, 30 minutes after each load, ending 7:30. Grey bars are cleaning at 2:05, 5:30 and 7:00. An arrow runs from the deadline at 7:30 back to the start at 1:00: the plan is built from right to left.</desc>
+  <rect x="0" y="0" width="900" height="560" fill="#ffffff"/>
+  <g font-family="Arial, Helvetica, sans-serif" fill="#222222">
+    <text x="450" y="28" text-anchor="middle" font-size="20" font-weight="bold">Organigramme built backwards: 40 tradition baguettes for 7:30</text>
+    <text x="450" y="50" text-anchor="middle" font-size="13">TR-01, one two-deck oven (12 baguettes per deck), one baker. Read it from the deadline (right) to the start (left).</text>
+
+    <!-- time axis: x = 150 + 1.8 * minutes after 1:00 -->
+    <g stroke="#e3e3e3" stroke-width="1">
+      <line x1="150" y1="66" x2="150" y2="452"/>
+      <line x1="258" y1="66" x2="258" y2="452"/>
+      <line x1="366" y1="66" x2="366" y2="452"/>
+      <line x1="474" y1="66" x2="474" y2="452"/>
+      <line x1="582" y1="66" x2="582" y2="452"/>
+      <line x1="690" y1="66" x2="690" y2="452"/>
+      <line x1="798" y1="66" x2="798" y2="452"/>
+    </g>
+    <line x1="852" y1="62" x2="852" y2="456" stroke="#c0392b" stroke-width="2.5"/>
+    <text x="852" y="474" text-anchor="middle" font-size="12" fill="#c0392b" font-weight="bold">7:30 shop</text>
+    <g font-size="12" text-anchor="middle">
+      <text x="150" y="474">1:00</text>
+      <text x="258" y="474">2:00</text>
+      <text x="366" y="474">3:00</text>
+      <text x="474" y="474">4:00</text>
+      <text x="582" y="474">5:00</text>
+      <text x="690" y="474">6:00</text>
+      <text x="798" y="474">7:00</text>
+    </g>
+
+    <!-- row labels -->
+    <g font-size="12" text-anchor="end">
+      <text x="140" y="86">Weighing</text>
+      <text x="140" y="112">Autolyse</text>
+      <text x="140" y="138">Final mixing</text>
+      <text x="140" y="164">Pointage + folds</text>
+      <text x="140" y="190">Dividing</text>
+      <text x="140" y="216">Détente</text>
+      <text x="140" y="242">Shaping</text>
+      <text x="140" y="268">Apprêt group 1</text>
+      <text x="140" y="294">Apprêt group 2</text>
+      <text x="140" y="320">Oven preheat</text>
+      <text x="140" y="346">Baking</text>
+      <text x="140" y="372">Cooling</text>
+      <text x="140" y="398">Cleaning</text>
+    </g>
+
+    <!-- hands time (dark blue) -->
+    <g fill="#1f4e79">
+      <rect x="150" y="74" width="27" height="16"/>
+      <rect x="177" y="100" width="9" height="16"/>
+      <rect x="240" y="126" width="27" height="16"/>
+      <rect x="337" y="152" width="5" height="16"/>
+      <rect x="409" y="152" width="5" height="16"/>
+      <rect x="483" y="178" width="36" height="16"/>
+      <rect x="573" y="230" width="36" height="16"/>
+      <rect x="609" y="230" width="27" height="16" fill="#2e75b6"/>
+    </g>
+    <!-- dough time (light blue) -->
+    <g fill="#9dc3e6">
+      <rect x="186" y="100" width="54" height="16"/>
+      <rect x="267" y="152" width="70" height="16"/>
+      <rect x="342" y="152" width="67" height="16"/>
+      <rect x="414" y="152" width="69" height="16"/>
+      <rect x="519" y="204" width="54" height="16"/>
+      <rect x="609" y="256" width="90" height="16"/>
+      <rect x="636" y="282" width="117" height="16"/>
+    </g>
+    <g font-size="10" fill="#222222">
+      <text x="300" y="164">2 h at 23 °C</text>
+      <text x="612" y="268">50 min, cabinet 25 °C</text>
+      <text x="640" y="294">65 min, fournil ~21 °C</text>
+      <text x="577" y="242" fill="#ffffff">24</text>
+      <text x="613" y="242" fill="#ffffff">16</text>
+    </g>
+    <!-- oven (orange) -->
+    <g fill="#f4b183">
+      <rect x="591" y="308" width="108" height="16"/>
+    </g>
+    <g fill="#e07b39">
+      <rect x="699" y="334" width="45" height="16"/>
+      <rect x="753" y="334" width="45" height="16"/>
+    </g>
+    <g font-size="10" fill="#222222">
+      <text x="600" y="320">60 min to 250 °C</text>
+      <text x="702" y="364">24</text>
+      <text x="756" y="364">16</text>
+    </g>
+    <!-- cooling (green) -->
+    <g fill="#a9d18e">
+      <rect x="744" y="360" width="54" height="16"/>
+      <rect x="798" y="360" width="54" height="16" opacity="0.75"/>
+    </g>
+    <!-- cleaning (grey) -->
+    <g fill="#a6a6a6">
+      <rect x="267" y="386" width="27" height="16"/>
+      <rect x="636" y="386" width="27" height="16"/>
+      <rect x="798" y="386" width="54" height="16"/>
+    </g>
+
+    <!-- backward arrow -->
+    <defs>
+      <marker id="ah" markerWidth="10" markerHeight="8" refX="9" refY="4" orient="auto">
+        <path d="M0,0 L10,4 L0,8 z" fill="#c0392b"/>
+      </marker>
+    </defs>
+    <line x1="848" y1="432" x2="156" y2="432" stroke="#c0392b" stroke-width="2" marker-end="url(#ah)"/>
+    <text x="500" y="426" text-anchor="middle" font-size="12" fill="#c0392b">plan from the deadline backwards: cooling, bake, apprêt, shaping, détente, dividing, pointage, mixing, weighing</text>
+
+    <!-- legend -->
+    <g font-size="12">
+      <rect x="60" y="500" width="16" height="12" fill="#1f4e79"/><text x="82" y="510">hands time (you are busy)</text>
+      <rect x="260" y="500" width="16" height="12" fill="#9dc3e6"/><text x="282" y="510">dough time (you are free)</text>
+      <rect x="455" y="500" width="16" height="12" fill="#e07b39"/><text x="477" y="510">oven</text>
+      <rect x="530" y="500" width="16" height="12" fill="#a9d18e"/><text x="552" y="510">cooling</text>
+      <rect x="625" y="500" width="16" height="12" fill="#a6a6a6"/><text x="647" y="510">cleaning</text>
+      <text x="60" y="538">Group 2 is shaped 15 minutes after group 1 but must wait 30 minutes more for the oven, so it proofs about 4 °C cooler (7 % rule).</text>
+    </g>
+  </g>
+</svg>

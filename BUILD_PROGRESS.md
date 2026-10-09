@@ -32,8 +32,8 @@ Goal: build "CAP Boulanger Preparation" per `curriculum/plan.md`, following
 - [x] Module 10 — Other Breads
 - [x] Module 11 — Viennoiserie: The Croissant
 - [x] Module 12 — Viennoiserie: Pain au Chocolat, Pain aux Raisins and Brioche Doughs
-- [ ] Module 13 — Professional Equipment
-- [ ] Module 14 — Production Planning
+- [x] Module 13 — Professional Equipment
+- [x] Module 14 — Production Planning
 - [ ] Module 15 — Product Quality
 - [ ] Module 16 — Troubleshooting
 - [ ] Module 17 — Hygiene and Food Safety
@@ -47,7 +47,7 @@ Goal: build "CAP Boulanger Preparation" per `curriculum/plan.md`, following
 
 ## Agents now
 
-- PAUSED after modules 11 and 12 (2026-10-08). Next: modules 13 and 14.
+- PAUSED after modules 13 and 14 (2026-10-09). Next: modules 15 and 16.
 
 ## Decisions and open questions
 
@@ -75,3 +75,5 @@ Goal: build "CAP Boulanger Preparation" per `curriculum/plan.md`, following
 - Module 9: sheet TR-01 (T65 tradition 100 / water 70 = 68 autolyse + 2 bassinage / salt 1.8 / fresh yeast 0.6 / tradition pâte fermentée 15; TPV 23 °C; ~2 h pointage with folds; salt 1.044 % of dough) + retarded variant; home tradition pâte fermentée = mini dough from the same additive-free flour, never PC-02; bakery friction factor 14 for autolyse + slow mix; tradition salt ≤ 1.4 g/100 g as good practice. Freezing ban (décret 93-1074 art. 2, Code conso L122-17) taught in 09.1/09.4 — 07.5 can link to 09.1. Campagne/complet are free names (QE 11049, 2024). Final QA: module 9 sources and troubleshooting rows, tradition crumb line in quality rubric (see matrix).
 - Module 10 sheets CO-01, PM-01, VI-01, SE-01 (full formulas in curriculum/matrix/module-10.md item 3). Salt as % of dough: PC-02 1.076, CA-01 1.048, CO-01 0.958, PM-01 0.879, VI-01 1.004, SE-01 0.840. formulas.md salt ranges lowered to stay under the 2023/2025 limits (bread 1.6-1.8, pain de mie 1.5-1.6, viennois 1.8). No steam for pain de mie, egg-washed viennois, tin loaves. Final QA: module 10 troubleshooting rows, sources, unsourced shaping statements (fendu, tabatière, viennois cuts) — find INBP/ANMF source; 10.7 mentions 17.6 in plain text.
 - CR-01 croissant (module 11): détrempe T45 100 / water 26 / milk 26 / sugar 11 / salt 2.0 / fresh yeast 4.0 / butter 8 = 177 %; beurrage 50 (≥ 82 % fat) → 227 %; TPV 20 °C; butter ~13 °C; 3 tours simples (warm kitchen: 1 double + 1 simple); sheet 3.5 mm; triangles 11 × 30 cm, 60 g; proof 24–26 °C, 75–80 % RH, < 27 °C, 1 h 30–2 h 30; bake 190–200 °C (fan 175–180), no steam; loss 12–15 %; batch rule pieces ÷ 0.90 × 1.02 ÷ 2.27. Module 12 sheets PL-01, PB-01, BR-01, CP-01 (see curriculum/matrix/module-12.md). Crème pâtissière: 63→10 °C in ≤ 2 h, 0–3 °C, 24 h course rule. Viennoiserie salt 2.0 % (outside the salt agreement). Final QA: modules 11/12 troubleshooting rows, sources, formulas.md CR-01/PL/PB/BR/CP labels, quality-rubric notes; Module 13 must source sheeter safety (INRS).
+- Module 14: cooler-proof rule ΔT = ln(t2/t1) ÷ ln 1.07; TR-01 retarded total 187.2 %; 14.4 practice order (TR-01, VI-01, CR-01 + CP-01, PL-01; croissant dough is the ~8 h critical path); oven/cabinet setup and cooling allowances in curriculum/matrix/module-14.md. Production-schedule simulation should use module 14's numbers as presets and be linked from 14.3/14.4. Final QA: organigramme template suggestions (hands column, proofing/cold-space columns), planning troubleshooting rows, 14.4 → Module 22 link.
+- Module 13: convection ovens set 15–20 °C below a still oven; CNBPF energy figures (empty 5 m² deck 2 h/day ≈ 12 kWh/day; 230 vs 250 °C saves ~10 %; steam up to 15 % of bake energy) — reuse in Module 18; electrical safety = read rating plate only; sheeter safety sourced (RONDO manual, INRS ED 4473; added to 11.4). Optional templates equipment-card / maintenance-log. Final QA: module 13 sources and troubleshooting rows; 13.3/13.6 mention Module 17 in plain text.

@@ -1,0 +1,106 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 520" width="900" height="520" role="img" aria-labelledby="t d">
+  <title id="t">A draft organigramme drawn as resource lanes, with its five conflicts marked</title>
+  <desc id="d">The draft for Saturday (24 pain courant baguettes, 24 tradition baguettes, 40 pains au lait, one baker, one mixer, a two-deck oven, one proofing cabinet) is redrawn with one lane per resource, from 1:30 to 7:30. Lane "You": tradition weighing 1:45, autolyse mixing 2:00, pain courant weighing 2:15, then two mixings at 2:30 at once (conflict 1), pain courant dividing 3:30, pain courant shaping 4:10-4:35 overlapping pain au lait dividing 4:10-4:25 (conflict 2), tradition dividing 4:45, pain au lait shaping 5:00, tradition shaping 5:30. Lane "Mixer": the tradition final mix and the pain courant mix both 2:30-2:45 (conflict 1). Lanes "Deck top" and "Deck bottom": preheat starts only at 5:30 for a 5:50 load (conflict 3); pain courant 5:50-6:12 on both decks; pains au lait at 180 degrees on the bottom deck at 6:15, three minutes after a 250 degree load (conflict 4); tradition 6:40-7:05 on both decks, out after the 7:00 deadline (conflict 5). Lane "Cabinet": pain courant, pain au lait and tradition at 25 degrees, never more than 6 of 16 levels: this check passes.</desc>
+  <rect x="0" y="0" width="900" height="520" fill="#ffffff"/>
+  <g font-family="Arial, Helvetica, sans-serif" fill="#222222">
+    <text x="450" y="28" text-anchor="middle" font-size="20" font-weight="bold">One lane per resource: where the draft breaks</text>
+    <text x="450" y="50" text-anchor="middle" font-size="13">Blue = pain courant PC-02 · Brown = tradition TR-01 · Yellow = pain au lait PL-01 · red frame = conflict</text>
+
+    <!-- axis: x = 170 + 1.9 * minutes after 1:30 -->
+    <g stroke="#e3e3e3" stroke-width="1">
+      <line x1="227" y1="66" x2="227" y2="410"/>
+      <line x1="341" y1="66" x2="341" y2="410"/>
+      <line x1="455" y1="66" x2="455" y2="410"/>
+      <line x1="569" y1="66" x2="569" y2="410"/>
+      <line x1="683" y1="66" x2="683" y2="410"/>
+    </g>
+    <line x1="797" y1="62" x2="797" y2="414" stroke="#c0392b" stroke-width="2.5"/>
+    <g font-size="12" text-anchor="middle">
+      <text x="227" y="430">2:00</text>
+      <text x="341" y="430">3:00</text>
+      <text x="455" y="430">4:00</text>
+      <text x="569" y="430">5:00</text>
+      <text x="683" y="430">6:00</text>
+      <text x="797" y="430" fill="#c0392b" font-weight="bold">7:00 shop</text>
+    </g>
+
+    <!-- lane labels and separators -->
+    <g font-size="13" font-weight="bold" text-anchor="end">
+      <text x="160" y="100">You (hands)</text>
+      <text x="160" y="170">Mixer</text>
+      <text x="160" y="240">Deck top</text>
+      <text x="160" y="310">Deck bottom</text>
+      <text x="160" y="380">Cabinet 25 °C</text>
+    </g>
+    <g stroke="#bbbbbb" stroke-width="1">
+      <line x1="170" y1="130" x2="860" y2="130"/>
+      <line x1="170" y1="200" x2="860" y2="200"/>
+      <line x1="170" y1="270" x2="860" y2="270"/>
+      <line x1="170" y1="340" x2="860" y2="340"/>
+    </g>
+
+    <!-- You lane -->
+    <rect x="198" y="82" width="29" height="14" fill="#8c5a2b"/>
+    <rect x="227" y="82" width="10" height="14" fill="#8c5a2b"/>
+    <rect x="256" y="82" width="28" height="14" fill="#2e75b6"/>
+    <rect x="284" y="82" width="29" height="14" fill="#8c5a2b"/>
+    <rect x="284" y="100" width="29" height="14" fill="#2e75b6"/>
+    <rect x="398" y="82" width="38" height="14" fill="#2e75b6"/>
+    <rect x="474" y="82" width="48" height="14" fill="#2e75b6"/>
+    <rect x="474" y="100" width="29" height="14" fill="#e2b43b"/>
+    <rect x="541" y="82" width="28" height="14" fill="#8c5a2b"/>
+    <rect x="569" y="82" width="48" height="14" fill="#e2b43b"/>
+    <rect x="626" y="82" width="38" height="14" fill="#8c5a2b"/>
+
+    <!-- Mixer lane -->
+    <rect x="227" y="152" width="10" height="14" fill="#8c5a2b"/>
+    <rect x="284" y="152" width="29" height="14" fill="#8c5a2b"/>
+    <rect x="284" y="170" width="29" height="14" fill="#2e75b6"/>
+
+    <!-- Deck top -->
+    <rect x="626" y="222" width="38" height="14" fill="#f4b183"/>
+    <rect x="664" y="222" width="42" height="14" fill="#2e75b6"/>
+    <rect x="759" y="222" width="48" height="14" fill="#8c5a2b"/>
+    <!-- Deck bottom -->
+    <rect x="626" y="292" width="38" height="14" fill="#f4b183"/>
+    <rect x="664" y="292" width="42" height="14" fill="#2e75b6"/>
+    <rect x="712" y="292" width="23" height="14" fill="#e2b43b"/>
+    <rect x="759" y="292" width="48" height="14" fill="#8c5a2b"/>
+
+    <!-- Cabinet -->
+    <rect x="522" y="352" width="142" height="14" fill="#2e75b6" opacity="0.55"/>
+    <rect x="617" y="370" width="95" height="14" fill="#e2b43b" opacity="0.7"/>
+    <rect x="664" y="388" width="95" height="14" fill="#8c5a2b" opacity="0.55"/>
+    <text x="760" y="366" font-size="11" fill="#2e7d32" font-weight="bold">at most 6 of 16 levels, one</text>
+    <text x="760" y="380" font-size="11" fill="#2e7d32" font-weight="bold">temperature for all: OK</text>
+
+    <!-- conflict frames -->
+    <g fill="none" stroke="#c0392b" stroke-width="2.5">
+      <rect x="279" y="77" width="39" height="42"/>
+      <rect x="279" y="147" width="39" height="42"/>
+      <rect x="469" y="77" width="39" height="42"/>
+      <rect x="621" y="217" width="48" height="24"/>
+      <rect x="621" y="287" width="48" height="24"/>
+      <rect x="701" y="287" width="39" height="24"/>
+      <rect x="792" y="217" width="20" height="24"/>
+      <rect x="792" y="287" width="20" height="24"/>
+    </g>
+    <g font-size="12" font-weight="bold" fill="#c0392b">
+      <text x="322" y="96">C1</text>
+      <text x="322" y="166">C1</text>
+      <text x="512" y="96">C2</text>
+      <text x="610" y="214">C3</text>
+      <text x="610" y="284">C3</text>
+      <text x="712" y="326">C4</text>
+      <text x="816" y="236">C5</text>
+      <text x="816" y="306">C5</text>
+    </g>
+
+    <!-- key -->
+    <g font-size="12">
+      <text x="40" y="460"><tspan font-weight="bold" fill="#c0392b">C1</tspan> one mixer, two doughs at 2:30. <tspan font-weight="bold" fill="#c0392b">C2</tspan> one baker shaping and dividing at 4:10. <tspan font-weight="bold" fill="#c0392b">C3</tspan> oven on at 5:30 for a 5:50 load: 20 of 60 min.</text>
+      <text x="40" y="482"><tspan font-weight="bold" fill="#c0392b">C4</tspan> pains au lait at 180 °C on a deck that left 250 °C three minutes earlier, after only 50 of 80 min of apprêt.</text>
+      <text x="40" y="504"><tspan font-weight="bold" fill="#c0392b">C5</tspan> tradition out at 7:05: cooled at 7:35, 35 minutes late. The cabinet check passes: not every lane has a problem.</text>
+    </g>
+  </g>
+</svg>

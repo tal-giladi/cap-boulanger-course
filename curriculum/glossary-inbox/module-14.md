@@ -1,0 +1,20 @@
+- **Capacité (du four, de l'armoire)** (*ka-pa-see-TAY*) — how much one oven load or one proofing cabinet holds: baguettes per deck, trays per level; counted before any oven plan.
+- **Chemin critique** (*shuh-MAN kree-TEEK*) — critical path: the longest chain of stages in a production, which sets the earliest finish; in a one-day order with croissants it is the laminated dough.
+- **Conflit** (*kohn-FLEE*) — two jobs needing the same resource (hands, mixer, deck, cabinet, cold space) at the same time, or a resource asked for a setting it is not at.
+- **Créneau** (*kray-NOH*) — time slot on an organigramme, usually 15 minutes.
+- **Décaler** (*day-ka-LAY*) — to shift a stage earlier or later in the plan; every later stage moves with it.
+- **Enchaînement des tâches** (*ahn-shen-MAHN day TAHSH*) — the sequence of tasks: what follows what and what can run at the same time; the référentiel expects it to be coherent (C1.3).
+- **Goulot d'étranglement** (*goo-LOH day-trahn-gluh-MAHN*) — bottleneck: the resource that limits the whole production, often the oven.
+- **Hands time / dough time** — the two kinds of time in a plan: hands time needs the baker and grows with quantity (weighing, mixing, dividing, shaping, loading, cleaning); dough time is set by temperature and leaves the baker free (rests, fermentation, baking, cooling).
+- **Heure limite** (*uhr lee-MEET*) — deadline: the time a product must be in the shop or delivered; the organigramme is planned backwards from it.
+- **La veille** (*lah VAY*) — the day before: work done in the afternoon (lamination, shaping, retarded doughs) for the next morning's bake.
+- **Mise en route du four** (*meez ahn ROOT dü FOOR*) — switching the oven on so it is at temperature for the first load; about an hour for a deck oven in the course's examples.
+- **Montée / descente en température** (*mohn-TAY / day-SAHNT ahn tahn-pay-rah-TÜR*) — an oven heating up or cooling down between two settings; measured for each oven and written on the oven plan.
+- **Ordonnancement** (*or-doh-nahns-MAHN*) — scheduling: deciding the order and timing of all the jobs of a production.
+- **Plan de cuisson** (*plahn duh kwee-SOHN*) — oven plan: which product goes in which deck or oven, at what temperature, at what time; written before the dough plans.
+- **Présentation** (*pray-zahn-tah-SYOHN*) — setting out finished products on display with the sales staff (C2.8); it needs its own time on the plan.
+- **Rendre compte** (*rahndr KOHNT*) — to report to the manager, for example a schedule that cannot meet its deadline or an equipment failure (C4.4).
+- **Rétroplanning** (*ray-troh-plah-NEENG*) — backward plan: built from the deadline back to the start time, cooling first.
+- **Sole** (*SOL*) — deck: one baking floor of a deck oven, often with its own thermostat.
+- **Temps de pousse** (*tahn duh POOSS*) — proof time, set by the dough and its temperature (about 7 % faster or slower per °C).
+- **Temps mort** (*tahn MOR*) — waiting time for the baker while the dough or the oven works; on a good plan it is used for cleaning, set-up or another product.
