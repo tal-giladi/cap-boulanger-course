@@ -62,6 +62,10 @@ To find conflicts, redraw the plan with one horizontal lane per resource instead
 
 ![A draft organigramme redrawn as five resource lanes from 1:30 to 7:30 (you, mixer, top deck, bottom deck, cabinet), showing two mixings at 2:30, dividing and shaping at 4:10, a 20-minute preheat, pains au lait at 180 °C straight after a 250 °C load and tradition coming out after 7:00, each framed in red; the cabinet lane passes](../../assets/m14-resource-conflicts.svg)
 
+The simulation opens on the draft of the worked example below with the same lanes. Find its five conflicts, then fix them by moving stages, moving a proof to a cooler place, swapping the oven order and switching the decks on earlier.
+
+[Simulation: Find and fix the conflicts of a draft organigramme](../../simulations/production-schedule/index.html?preset=m14-conflicts)
+
 ### Oven arithmetic
 
 The oven is usually the bottleneck, so count it first:

@@ -1,0 +1,149 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Production schedule: the organigramme</title>
+<link rel="stylesheet" href="../common/sim.css">
+<link rel="stylesheet" href="production-schedule.css">
+</head>
+<body>
+<main>
+  <p class="sim-label" role="note">Educational model: the organigramme method of Module 14 with the course sheets' times. Real doughs and ovens have the final say.</p>
+  <h1>Production schedule: build and check an organigramme</h1>
+
+  <div class="preset-bar">
+    <label for="preset">Example</label>
+    <select id="preset"></select>
+    <button type="button" id="reset" class="secondary">Reset example</button>
+  </div>
+  <div id="preset-note" class="preset-note"></div>
+
+  <section class="panel" aria-labelledby="h-timeline">
+    <div class="tl-toolbar">
+      <h2 id="h-timeline">Organigramme</h2>
+      <label class="check"><input type="checkbox" id="with-after" checked> Moving a stage moves the stages after it</label>
+      <label for="zoom" class="zoom-label">Zoom</label>
+      <select id="zoom">
+        <option value="1">1 h = 60 px</option>
+        <option value="1.5">1 h = 90 px</option>
+        <option value="2" selected>1 h = 120 px</option>
+        <option value="3">1 h = 180 px</option>
+      </select>
+    </div>
+    <p class="muted small" id="tl-help">Top rows: one lane per product. Bottom rows: one lane per resource (your hands, mixer, ovens, proofing cabinet, cold). Select a bar, then drag it or use the arrow keys (5 min; with Shift 15 min). Dough-time bars stretch between the stages around them.</p>
+    <ul class="legend" aria-label="Legend">
+      <li><span class="sw k-hands"></span> hands time</li>
+      <li><span class="sw k-dough"></span> dough time</li>
+      <li><span class="sw k-cold"></span> in the cold</li>
+      <li><span class="sw k-oven"></span> baking</li>
+      <li><span class="sw k-heat"></span> oven heating or cooling</li>
+      <li><span class="sw k-cool"></span> cooling</li>
+      <li><span class="sw sw-bad"></span> conflict</li>
+      <li><span class="sw sw-warn"></span> to check</li>
+    </ul>
+    <div class="tl-scroll" id="tl-scroll">
+      <div id="timeline" class="tl" role="group" aria-labelledby="h-timeline" aria-describedby="tl-help"></div>
+    </div>
+  </section>
+
+  <div class="grid side">
+    <form id="form" class="panel" novalidate aria-label="Order and settings">
+      <fieldset>
+        <legend>Order</legend>
+        <div class="field">
+          <label for="deadline">Deadline: products cooled by</label>
+          <input id="deadline" type="time" step="300">
+        </div>
+        <button type="button" id="plan-back">Plan every product backwards from the deadline</button>
+        <div class="field">
+          <label for="start">Start time</label>
+          <input id="start" type="time" step="300">
+        </div>
+        <button type="button" id="plan-fwd" class="secondary">Plan every product forwards from the start</button>
+      </fieldset>
+
+      <fieldset>
+        <legend>Products</legend>
+        <ul id="products" class="products"></ul>
+        <div class="add-row">
+          <div class="field">
+            <label for="add-sheet">Course sheet</label>
+            <select id="add-sheet"></select>
+          </div>
+          <div class="field">
+            <label for="add-qty" id="add-qty-label">Quantity</label>
+            <input id="add-qty" type="number" min="1" step="1" inputmode="numeric">
+          </div>
+          <button type="button" id="add">Add</button>
+        </div>
+      </fieldset>
+
+      <fieldset>
+        <legend>Equipment</legend>
+        <div class="field" id="equip-field">
+          <label for="equipment">Kitchen</label>
+          <select id="equipment">
+            <option value="bakery">Bakery: spiral mixer, two-deck oven, fan oven, proofing cabinet</option>
+            <option value="home">Home: by hand, one-tray oven, fridge</option>
+          </select>
+          <span class="hint" id="equip-hint">Changing it rebuilds every product from its sheet.</span>
+        </div>
+        <p id="equip-text" class="muted"></p>
+        <div id="ovens"></div>
+      </fieldset>
+
+      <fieldset>
+        <legend>Temperatures</legend>
+        <div class="field">
+          <label for="kitchen" id="kitchen-label">Fournil / kitchen (°C)</label>
+          <input id="kitchen" type="number" step="0.5" inputmode="decimal" aria-describedby="temp-hint">
+        </div>
+        <div class="field" data-show="cabinet">
+          <label for="cabinet">Proofing cabinet, one setting (°C)</label>
+          <input id="cabinet" type="number" step="0.5" inputmode="decimal" aria-describedby="temp-hint">
+        </div>
+        <div class="field" data-show="ac">
+          <label for="ac">Air-conditioned room (°C)</label>
+          <input id="ac" type="number" step="0.5" inputmode="decimal" aria-describedby="temp-hint">
+        </div>
+        <div class="field">
+          <label for="dough-off">Doughs off their target temperature (°C, + warmer)</label>
+          <input id="dough-off" type="number" step="0.5" inputmode="decimal" aria-describedby="temp-hint">
+        </div>
+        <span class="hint" id="temp-hint">Fermentation about 7 % faster or slower per °C (lesson 04.2). The checks update at once; plan again to move the stages.</span>
+      </fieldset>
+    </form>
+
+    <div class="results">
+      <section class="panel" aria-labelledby="h-summary">
+        <h2 id="h-summary">The plan</h2>
+        <p id="summary" aria-live="polite" aria-atomic="true"></p>
+      </section>
+
+      <section class="panel" aria-labelledby="h-detail">
+        <h2 id="h-detail">Selected stage</h2>
+        <div id="detail"><p class="muted">Select a bar in the organigramme.</p></div>
+      </section>
+
+      <section class="panel" aria-labelledby="h-issues">
+        <h2 id="h-issues">Conflicts and checks</h2>
+        <div id="issues"></div>
+      </section>
+    </div>
+  </div>
+
+  <details class="panel list-panel">
+    <summary>The plan as a list</summary>
+    <div class="table-wrap">
+      <table id="list">
+        <caption class="visually-hidden">Every stage with its clock times</caption>
+        <thead><tr><th scope="col">Product</th><th scope="col">Stage</th><th scope="col">From</th><th scope="col">To</th><th scope="col">Length</th><th scope="col">Where</th></tr></thead>
+        <tbody></tbody>
+      </table>
+    </div>
+  </details>
+</main>
+<script type="module" src="production-schedule.js"></script>
+</body>
+</html>

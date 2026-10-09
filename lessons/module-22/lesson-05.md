@@ -54,6 +54,10 @@ The day joins lessons 22.3 and 22.4 with one change: the détrempe is mixed in t
 
 ![Home production day timeline from 5:30 to 15:00: croissant lane as critical path, cream, bread, viennois and pain au lait lanes, and a one-tray oven lane with seven loads](../../assets/m22-production-day-timeline.svg)
 
+The simulation holds the reference plan below, with the seven loads in the one-tray oven's lane. Change the kitchen temperature, move a stage or the oven's switch-on time, and see which lane turns red before you write your own organigramme.
+
+[Simulation: The home production day with a one-tray oven](../../simulations/production-schedule/index.html?preset=home-day)
+
 Three principles carry the day:
 
 1. **Critical path first, everything else in its gaps.** The détrempe is mixed at 5:30 and the cream at 5:45; the bread is mixed while the détrempe chills, shaped between the turns, and baked during the final rest.

@@ -47,7 +47,7 @@ Goal: build "CAP Boulanger Preparation" per `curriculum/plan.md`, following
 
 ## Agents now
 
-- Simulations in order, one agent each, commit after each: water-temperature (done) → production-schedule (running) → troubleshooting. Then final QA in small chunks.
+- Simulations in order, one agent each, commit after each: water-temperature (done) → production-schedule (done) → troubleshooting (running). Then final QA in small chunks.
 
 ## Decisions and open questions
 
