@@ -1,6 +1,6 @@
 # TODO for Tal
 
-- Course complete (2026-10-09): ready to import from `tal-giladi/cap-boulanger-course` (main, the Final QA 6 commit). check-course: 0 problems.
+- Course complete (2026-10-09): ready to import from `tal-giladi/cap-boulanger-course` (main, commit c13cd72 or later). check-course: 0 problems.
 
 ## Before import
 
