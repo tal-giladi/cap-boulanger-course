@@ -105,7 +105,7 @@ Saturday, 4:00, Boulangerie du Marché. Two détrempe slabs of about 3.2 kg each
 3. **Size of the plaque.** Butter density is about 0.91 g/cm³: 900 ÷ 0.91 ≈ 990 cm³. For a sheet about 1.2 cm thick: 990 ÷ 1.2 ≈ 825 cm² → a square of about **29 × 29 cm** (29 × 29 = 841). The détrempe square for an envelope lock-in: 1.5 × 29 ≈ **43 × 43 cm**.
 4. **Temperature.** The plaques read 4 °C from the cold room. Beaten between two sheets of paper and rolled to 29 × 29 cm, they rise to about 9 °C; 10 minutes on the bench at 23 °C bring them to 12-13 °C. The bend test passes: corner folds over without cracking.
 5. **Check before lock-in.** Détrempe at 4 °C, firm, does not spring back; butter at 13 °C. Finger test: similar resistance. Lock-in at 4:20; first turn at once (lesson 11.4).
-6. **Record.** On the production sheet: "Beurre de tourage 84 %, lot n° …, 2 × 900 g, 13 °C à l'enfermage, 4:20." The lot number keeps traceability if a customer complains (Module 17).
+6. **Record.** On the production sheet: "Beurre de tourage 84 %, lot n° …, 2 × 900 g, 13 °C à l'enfermage, 4:20." The lot number keeps traceability if a customer complains ([Module 17](../module-17/lesson-07.md)).
 
 ## Practice
 

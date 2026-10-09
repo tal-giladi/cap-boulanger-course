@@ -108,7 +108,7 @@ A typical "mix multicéréales" label lists: wheat flour, seeds, rye flour, **wh
 
 ### Allergens and order of work
 
-Sesame, nuts, mustard, lupin, soy, milk and all gluten cereals (wheat including spelt, rye, barley, oats) are among the 14 allergens of [Regulation (EU) No 1169/2011, Annex II](https://www.legislation.gov.uk/eur/2011/1169/annex/II) (lesson [02.11](../module-02/lesson-11.md)). Seeds jump: they stick to hands, scrapers, couches and trays. Mix and shape plain doughs **before** seeded ones, keep seeds in closed, labelled containers, clean the mixer, bench and tools after a seeded batch, and declare every allergen on the label or the shop's allergen information. Lesson 17.6 develops the cleaning plan.
+Sesame, nuts, mustard, lupin, soy, milk and all gluten cereals (wheat including spelt, rye, barley, oats) are among the 14 allergens of [Regulation (EU) No 1169/2011, Annex II](https://www.legislation.gov.uk/eur/2011/1169/annex/II) (lesson [02.11](../module-02/lesson-11.md)). Seeds jump: they stick to hands, scrapers, couches and trays. Mix and shape plain doughs **before** seeded ones, keep seeds in closed, labelled containers, clean the mixer, bench and tools after a seeded batch, and declare every allergen on the label or the shop's allergen information. Lesson [17.6](../module-17/lesson-06.md) develops the cleaning plan.
 
 ## Worked example
 

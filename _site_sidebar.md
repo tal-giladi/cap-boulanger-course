@@ -137,3 +137,21 @@
   - [91 · Crumb Faults](/lessons/module-16/lesson-04.md)
   - [92 · Viennoiserie Faults](/lessons/module-16/lesson-05.md)
   - [Module 16 quiz](/assessments/module-16-quiz.md)
+
+- Part 5 — Hygiene, Environment and the Workplace
+- **Module 17 — Hygiene and Food Safety**
+  - [93 · Microorganisms in the Bakery](/lessons/module-17/lesson-01.md)
+  - [94 · Food Poisoning and the Pathogens to Know](/lessons/module-17/lesson-02.md)
+  - [95 · Personal Hygiene and Cross-Contamination](/lessons/module-17/lesson-03.md)
+  - [96 · Cleaning, Disinfection and Pests](/lessons/module-17/lesson-04.md)
+  - [97 · HACCP, the PMS and the Guide of Good Practice](/lessons/module-17/lesson-05.md)
+  - [98 · Allergens and Labelling](/lessons/module-17/lesson-06.md)
+  - [99 · Receiving a Delivery](/lessons/module-17/lesson-07.md)
+  - [100 · Storage, Stock Rotation and the Cold Chain](/lessons/module-17/lesson-08.md)
+  - [101 · Occupational Health and Safety](/lessons/module-17/lesson-09.md)
+  - [Module 17 quiz](/assessments/module-17-quiz.md)
+- **Module 18 — Environmental Responsibility**
+  - [102 · Energy and Water](/lessons/module-18/lesson-01.md)
+  - [103 · Waste, Food Waste and Unsold Bread](/lessons/module-18/lesson-02.md)
+  - [104 · Packaging and Cleaning Products](/lessons/module-18/lesson-03.md)
+  - [Module 18 quiz](/assessments/module-18-quiz.md)

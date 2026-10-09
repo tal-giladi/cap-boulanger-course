@@ -10,6 +10,7 @@ French bakery terms with a simple pronunciation and their English meaning, plus 
 - **Action préventive** (*ak-SYOHN pray-vahn-TEEV*) — prevention: the change that stops a fault from coming back, written on the sheet; one change at a time.
 - **Adjuvant** (*ad-zhew-VAHN*) — ingredient added to correct a flour: gluten, bean, soy or malt flour, deactivated yeast.
 - **Agent de fermentation** (*ah-ZHAHN duh fair-mahn-tah-SYOHN*) — fermenting agent: baker's yeast, levain or a pre-ferment.
+- **Allergène** (*ah-lair-ZHEN*) — allergen: one of the 14 substances listed in Annex II of Regulation (EU) 1169/2011 (gluten cereals, crustaceans, eggs, fish, peanuts, soy, milk, nuts, celery, mustard, sesame, sulphites above 10 mg/kg, lupin, molluscs).
 - **Allongement** (*ah-lohnzh-MAHN*) — lengthening: rolling a shaped cylinder out to its final baguette length.
 - **Alvéographe** (*al-vay-o-GRAHF*) — Chopin alveograph: blows a dough bubble to measure flour strength (W) and the balance tenacity/extensibility (P/L).
 - **Alvéolage** (*al-vay-o-LAHZH*) — crumb structure: the size and spread of the holes in the crumb.
@@ -33,10 +34,12 @@ French bakery terms with a simple pronunciation and their English meaning, plus 
 - **Aspect brioché** (*as-PEH bree-o-SHAY*) — bready, brioche-like interior of a croissant: layers fused by warm butter or too many turns.
 - **Aspect extérieur** (*ass-PAY eks-tay-RYUHR*) — exterior appearance of a product: shape, volume, colour, crust, scoring, bottom.
 - **Aspirateur à farine** (*as-pee-rah-TUHR ah fah-REEN*) — vacuum cleaner suited to flour dust; flour is vacuumed, never swept or blown.
+- **Asthme du boulanger** (*ASM dü boo-lahn-ZHAY*) — baker's asthma: occupational asthma caused by flour dust; flour is the first cause of occupational asthma in France (INRS).
 - **Au levain** (*oh luh-VAN*) — mention allowed only on bread whose crumb has a pH of 4.3 or less and at least 900 ppm of acetic acid (décret 93-1074, art. 3); yeast only at the final mixing, at most 0.2 % of that flour (art. 4).
 - **Autolyse** (*oh-toh-LEEZ*) — rest of flour and water only (20–60 minutes) after a brief mix and before kneading; gluten forms without work and the dough becomes more extensible (Calvel, 1974).
 - **Auxiliaire technologique** (*ok-see-LYAIR tek-no-lo-ZHEEK*) — processing aid: acts during manufacture, inactive in the finished product (e.g. fungal amylase).
 - **Bac à pâte** (*bak ah PAHT*) — dough tub used for pointage.
+- **Bactérie** (*bak-tay-REE*) — bacterium: single-celled microorganism that multiplies by dividing in two; useful (lactic bacteria) or harmful (pathogens, spoilage).
 - **Baguette** (*bah-GET*) — long, thin loaf; in pain courant usually a 250-350 g pâton shaped to about 55-65 cm in a bakery.
 - **Baking loss** — weight lost by a piece of dough during baking and cooling, as a percentage of its dough weight.
 - **Balance / bascule** (*bah-LAHNSS / bahs-KÜL*) — scale / platform scale for heavy loads such as sacks and bowls.
@@ -54,16 +57,20 @@ French bakery terms with a simple pronunciation and their English meaning, plus 
 - **Beurre qui graisse** (*BUHR kee GRESS*) — butter too warm, smearing into the dough during tourage; the layers fuse.
 - **Beurre sec** (*buhr SEK*) — "dry" butter: laminating butter with slightly more fat (about 84 %) and less water, firmer and plastic over a wider range.
 - **Bien cuit** (*byan KWEE*) — well baked: the deep golden-brown crust usually wanted on tradition.
+- **Biodéchets** (*bee-oh-day-SHAY*) — biowaste: food and kitchen waste (dough scraps, spoiled bread, eggshells) and garden waste; every professional must sort it at source since 1 January 2024.
+- **Biosourcé / compostable en compostage domestique** (*bee-oh-soor-SAY / kohm-pos-TAHBL*) — made partly from plant material / breaks down in a home compost; the only thin single-use plastic bags still allowed are both (at least 60 % biosourced, NF T51-800).
 - **Blanchiment de la mie** (*blahn-shee-MAHN duh lah MEE*) — whitening of the crumb caused by over-oxidation during mixing; goes with a loss of aroma.
 - **Blanchir** (*blahn-SHEER*) — to whisk egg yolks and sugar until pale and thick, the first step of a crème pâtissière.
 - **Blé dur / blé tendre** (*blay DOOR / blay TAHN-druh*) — durum wheat (semolina, pasta) / soft wheat (bread flour).
 - **Bon d'économat** (*bohn day-koh-noh-MAH*) — requisition: the list of raw materials taken from the store for a production.
 - **Bon de commande** (*bohn duh koh-MAHND*) — order form: the products and quantities to deliver; finished products are counted against it.
+- **Bon de livraison (BL)** (*BOHN duh lee-vray-ZOHN*) — delivery note: what the supplier says it delivered; checked against the order and signed, with reservations written before signing.
 - **Boulage** (*boo-LAHZH*) — rounding a piece of dough into a ball; used as pre-shaping or to shape rolls.
 - **Boulage à deux mains** (*boo-LAHZH ah duh MAN*) — rounding two rolls at once, one under each hand, on a bench that grips the dough.
 - **Boulanger / boulangère** (*boo-lahn-ZHAY / boo-lahn-ZHAIR*) — baker who makes bread and viennoiserie.
 - **Boulangerie (enseigne)** (*boo-lahn-zhuh-REE*) — sign reserved for businesses that knead, ferment, shape and bake on the site of sale, with dough and bread never frozen at any stage (Code de la consommation L122-17).
 - **Boule** (*BOOL*) — round loaf, shaped with tension in every direction and scored symmetrically.
+- **BPH (bonnes pratiques d'hygiène)** (*bay-pay-ASH*) — good hygiene practice, the prerequisites of a PMS: staff, cleaning, pests, premises, cold chain.
 - **Branche (brin)** (*BRAHNSH (BRAN)*) — strand of a braid: a "tresse à trois branches" is a three-strand braid.
 - **Brioche** (*bree-OSH*) — rich pâte levée in which eggs replace most of the liquid and butter is about half the flour weight; mixed by machine, the butter added after the gluten has formed.
 - **Brioche à tête** (*bree-OSH ah TET*) — brioche with a "head": a small ball pressed into a larger one in a fluted mould.
@@ -71,6 +78,7 @@ French bakery terms with a simple pronunciation and their English meaning, plus 
 - **Brûlure de congélation** (*brü-LÜR duh kohn-zhay-lah-SYOHN*) — freezer burn: dry, pale patches on a frozen product whose surface lost water.
 - **Buée** (*bü-AY*) — steam put into the oven at loading so the dough can expand and the crust becomes thin and shiny.
 - **Cahier d'entretien** (*kah-YAY dahn-truh-TYAN*) — maintenance log: dated checks of scales, thermometers, guards and repairs.
+- **Cahier des charges** (*kah-YAY day SHARZH*) — specification agreed with a supplier, for example a minimum shelf life left at delivery.
 - **Calot / charlotte** (*kah-LOH / shar-LOT*) — baker's cap / disposable hair net; must cover all the hair.
 - **Candidat individuel (candidat libre)** (*kahn-dee-DAH an-dee-vee-dü-EL*) — someone who registers for the CAP exam alone, without a school or training centre.
 - **CAP** (*say-ah-PAY*) — Certificat d'aptitude professionnelle, the French national vocational diploma at level 3.
@@ -80,10 +88,14 @@ French bakery terms with a simple pronunciation and their English meaning, plus 
 - **Carnet métrologique** (*kar-NAY may-troh-loh-ZHEEK*) — logbook of a trade scale, kept with it, recording periodic verifications and repairs.
 - **Caroténoïdes** (*ka-ro-tay-no-EED*) — yellow-cream flour pigments linked to bread aroma; destroyed by over-oxidation.
 - **Cause probable** (*KOHZ proh-BAH-bluh*) — probable cause: the cause that explains every symptom and that the records support.
+- **CCP (point critique pour la maîtrise)** (*say-say-PAY*) — critical control point: a step where control is essential and measurable, e.g. cooling crème pâtissière from 63 to 10 °C in 2 hours or less.
 - **Cellule de refroidissement rapide** (*say-LÜL duh ruh-frwah-dees-MAHN rah-PEED*) — blast chiller: cools hot preparations such as crème pâtissière from +63 °C to +10 °C quickly.
+- **Cercle de Sinner** (*SAIR-kluh duh SEE-nair*) — Sinner's circle: temperature, mechanical action, concentration and contact time together decide how well a cleaning or disinfecting product works.
 - **Chaîne du froid** (*SHEN doo FRWAH*) — cold chain: chilled and frozen products kept cold without a break from delivery to use.
+- **Chaleur tombante** (*sha-LUHR tom-BAHNT*) — falling heat: the heat stored in an oven, used for cooler bakes after it is turned down or off.
 - **Chambre de pousse** (*shahm-bruh duh POOSS*) — proofing cabinet: a warm, humid cabinet used for the apprêt.
 - **Chambre froide positive** (*SHAHM-bruh FRWAHD po-zee-TEEV*) — cold room above 0 °C (about 0-4 °C).
+- **Chapelure** (*shap-LÜR*) — dried breadcrumbs, a way to reuse unsold plain bread.
 - **Chaussures de sécurité** (*shoh-SÜR duh say-kü-ree-TAY*) — safety shoes with a non-slip sole and toe protection.
 - **Chemin critique** (*shuh-MAN kree-TEEK*) — critical path: the longest chain of stages in a production, which sets the earliest finish; in a one-day order with croissants it is the laminated dough.
 - **Chiffre d'affaires** (*SHEE-fruh dah-FAIR*) — turnover: quantity sold × price before VAT.
@@ -98,16 +110,21 @@ French bakery terms with a simple pronunciation and their English meaning, plus 
 - **Coloration** (*koh-loh-rah-SYOHN*) — crust colour; this course rates it on a 1-5 scale (pale, blond, golden, golden-brown, dark brown).
 - **Combustion (incomplète)** (*kohn-büs-TYOHN (an-kohm-PLET)*) — burning of a fuel with the oxygen of the air; when air is short it is incomplete and produces carbon monoxide.
 - **Commande** (*koh-MAHND*) — order: the products, quantities, weights and deadline for a production.
+- **Compostage / méthanisation** (*kohm-pos-TAHZH / may-ta-nee-za-SYOHN*) — composting / anaerobic digestion producing biogas: the last levels of the food-waste hierarchy before disposal.
 - **Compresseur** (*kohm-preh-SUHR*) — compressor of a refrigeration unit: raises the pressure of the refrigerant vapour; the part that uses the electricity.
+- **Compteur** (*kohnt-UHR*) — meter (electricity, gas, water); read at night with nothing running, it reveals leaks.
 - **Condenseur** (*kohn-dahn-SUHR*) — condenser: outside part of a refrigeration unit where the refrigerant gives its heat to the air; kept clean and away from ovens.
 - **Conditionnement** (*kohn-dee-syon-MAHN*) — packaging finished products for sale or delivery (paper bag, plastic bag, box), competency C2.4.
 - **Conduction / convection / rayonnement** (*kohn-dük-SYOHN / kohn-vek-SYOHN / ray-yon-MAHN*) — the three ways heat reaches the dough: by contact (sole, tray), by moving air (forced by a fan), by radiation from hot surfaces.
 - **Conflit** (*kohn-FLEE*) — two jobs needing the same resource (hands, mixer, deck, cabinet, cold space) at the same time, or a resource asked for a setting it is not at.
 - **Conservateur** (*kohn-sair-vah-TUHR*) — storage freezer that keeps frozen products at about −18 °C.
 - **Conservation** (*kohn-sair-vah-SYOHN*) — keeping and storing the products: paper, plastic, freezer; never the fridge for bread.
+- **Consigne (de température)** (*kohn-SEEN-yuh*) — set point of a thermostat; every degree colder than needed on a cold unit costs over 5 % more energy.
 - **Consistance** (*kohn-sees-TAHNSS*) — consistency: how firm or soft a dough feels; mostly decided by the water.
 - **Constat** (*kohn-STAH*) — the facts observed about a fault: what, where on the product, how many pieces, when first seen; written before any cause.
+- **Contact croisé (allergènes)** (*kohn-TAKT krwah-ZAY*) — allergen cross-contact: an allergen reaching a product that should not contain it, through tools, benches, hands or air.
 - **Contamination croisée** (*kohn-tah-mee-nah-SYOHN krwah-ZAY*) — cross-contamination: microbes or allergens carried from one product, surface or person to another.
+- **Contenant du client** (*kohnt-NAHN dü klee-YAHN*) — the customer's own container or bag; a shop must accept it if it is clean and suits the product.
 - **Contre-frasage** (*KOHN-truh frah-ZAHZH*) — adding flour at the end of mixing to firm up a dough that is too soft.
 - **Contrôle de fin de pétrissage** (*kohn-TROLL duh fan duh pay-tree-SAHZH*) — end-of-mixing check: consistency, development (window test) and dough temperature.
 - **Contrôle qualité** (*kohn-TROHL kah-lee-TAY*) — quality check of finished products: count, weight, look, crumb and taste.
@@ -135,10 +152,13 @@ French bakery terms with a simple pronunciation and their English meaning, plus 
 - **Croûte décollée** (*KROOT day-ko-LAY*) — crust lifted from the crumb by a large hole just under it; usually over-fermentation or air trapped at shaping.
 - **Croûte épaisse** (*KROOT ay-PESS*) — thick, hard crust: long bake at too low a temperature, no steam or a drying fan.
 - **Croûte terne** (*KROOT TAIRN*) — dull crust: no steam, skinned dough, over-fermented dough or an oven too cool.
+- **Croûtons** (*kroo-TOHN*) — small cubes of bread toasted or fried; a reuse of unsold bread.
 - **Cru surgelé** (*KRÜ sür-zhuh-LAY*) — frozen raw: viennoiserie shaped, not proofed, and frozen at once; thawed in the cold, then proofed and baked.
 - **Cuisson** (*kwee-SOHN*) — baking.
 - **Cuve** (*KÜV*) — mixer bowl.
+- **Danger (HACCP)** (*dahn-ZHAY*) — hazard: a biological, chemical, physical or allergenic agent that can make food unsafe.
 - **DDM** (*day-day-EM*) — date de durabilité minimale: best-before date (quality).
+- **DDPP** (*day-day-pay-PAY*) — Direction départementale de la protection des populations: the local state office that inspects food businesses for hygiene.
 - **DDT (desired dough temperature)** — American name for the target dough temperature (TPV).
 - **Décaler** (*day-ka-LAY*) — to shift a stage earlier or later in the plan; every later stage moves with it.
 - **Décongélation** (*day-kohn-zhay-lah-SYOHN*) — thawing, done in the cold (0-4 °C) for raw viennoiserie; a thawed product is not refrozen.
@@ -146,13 +166,17 @@ French bakery terms with a simple pronunciation and their English meaning, plus 
 - **Défournement** (*day-foorn-MAHN*) — unloading the baked bread; checked by colour, sound, weight and core temperature.
 - **Dégazage** (*day-gah-ZAHZH*) — degassing: pushing gas out of the dough when handling it; kept to a minimum for tradition.
 - **Dégivrage** (*day-zhee-VRAHZH*) — defrosting the evaporator of a cold room or freezer so ice does not block the air.
+- **Démarche environnementale** (*day-MARSH ahn-vee-ron-mahn-TAL*) — the company's environmental approach and its written instructions on energy, water, waste and products (C2.7).
 - **Démoulage** (*day-moo-LAHZH*) — unmoulding: taking a tin loaf out of its tin, at once after baking for pain de mie.
 - **Dépôt de pain / point chaud** (*day-POH duh PAN / pwan SHOH*) — shop that sells bread made elsewhere or baked off from bought-in dough; it may not use the word boulangerie.
 - **Descripteur** (*deh-skreep-TUHR*) — descriptor: an agreed word for one sensation in a tasting (grillé, céréales, acide, levure).
+- **Désinfectant** (*day-zan-fek-TAHN*) — disinfectant: kills microbes on a cleaned surface when used at its dose and for its contact time.
 - **Détaillage** (*day-tah-YAHZH*) — cutting a sheet of dough into pieces (triangles for croissants).
 - **Détailler** (*day-tah-YAY*) — to cut a sheet of dough into pieces (triangles, rectangles).
 - **Détendeur** (*day-tahn-DUHR*) — expansion valve of a refrigeration unit: drops the pressure of the liquid refrigerant before the evaporator.
 - **Détente** (*day-TAHNT*) — bench rest between dividing/pre-shaping and final shaping, which lets the gluten relax.
+- **Détergent** (*day-tair-ZHAHN*) — detergent: lifts soil (fat, protein, starch, sugar) off a surface; cleaning, not disinfecting.
+- **Détergent-désinfectant** (*day-tair-ZHAHN day-zan-fek-TAHN*) — combined product that cleans and disinfects in one pass on lightly soiled surfaces.
 - **Détrempe** (*day-TRAHMP*) — the dough of a laminated product before the butter is folded in; kept cool (about 18-22 °C).
 - **Développement** (*day-vlop-MAHN*) — the volume and rise a piece reaches in the oven.
 - **DGCCRF** (*day-zhay-say-say-air-EF*) — Direction générale de la concurrence, de la consommation et de la répression des fraudes: the French authority that checks product names and labels.
@@ -162,18 +186,24 @@ French bakery terms with a simple pronunciation and their English meaning, plus 
 - **Diviseuse-bouleuse** (*dee-vee-ZUHZ boo-LUHZ*) — divider-rounder: divides a load into small pieces and rounds them, for rolls.
 - **Division** (*dee-vee-ZYOHN*) — dividing the dough into pieces of set weight.
 - **DLC** (*day-el-SAY*) — date limite de consommation: use-by date (safety).
+- **DLC secondaire** (*day-el-SAY suh-gohn-DAIR*) — the new, shorter use-by written on a product once opened or prepared (3 days after opening by default, CNBPF, unless the label says otherwise).
 - **Document unique (DUERP)** (*doh-kü-MAHN ü-NEEK*) — the employer's written assessment of occupational risks and the measures against them.
+- **Doigtier** (*dwah-TYAY*) — finger cot worn over a dressed cut when handling food.
+- **Don alimentaire** (*DOHN ah-lee-mahn-TAIR*) — food donation to a food-aid association; gifts valued at cost give a tax reduction.
 - **Dorure** (*do-ROOR*) — egg wash brushed on before baking.
 - **Doseur d'eau** (*doh-ZUR DOH*) — water meter that delivers a set weight of water at a set temperature to the mixer.
 - **Dysfonctionnement** (*dees-fohnk-syon-MAHN*) — malfunction of equipment or of the organisation, reported during production with the non-conformities (C4.4).
+- **Eau chaude sanitaire (ECS)** (*oh SHOHD sa-nee-TAIR*) — domestic hot water for sinks, hand basins and showers; stored at about 55 °C.
 - **Eau de coulage** (*OH duh koo-LAHZH*) — the water weighed into the dough; its temperature is calculated for each batch.
 - **Eau de réserve** (*oh duh ray-ZAIRV*) — part of the water held back at the start of mixing and added later by bassinage if the dough needs it.
 - **Écartement des rouleaux** (*ay-kart-MAHN day roo-LOH*) — roller gap of a sheeter or moulder; on the sheeter it is reduced in small steps.
 - **Échantillon** (*ay-shahn-tee-YOHN*) — sample: the pieces weighed to check a batch.
 - **Échauffement** (*ay-shohf-MAHN*) — temperature rise of the dough during mixing, from friction.
+- **Écolabel européen / NF Environnement** (*ay-ko-lah-BEL*) — the official EU and French environmental labels, found on some cleaning products.
 - **Écriteau / étiquette prix** (*ay-kree-TOH / ay-tee-KET PREE*) — price placard on the shelf: product name and price for each category of bread on display.
 - **Effet Joule** (*eh-FAY ZHOOL*) — Joule effect: a current heats the resistance it flows through; how electric ovens, proofer heaters and kettles make heat.
 - **Élasticité / extensibilité** (*ay-las-tee-see-TAY / ex-tahn-see-bee-lee-TAY*) — elasticity (dough springs back) / extensibility (dough stretches without tearing).
+- **Emballage** (*ahn-bah-LAHZH*) — packaging; chosen first for the product's quality, then for the least, most sortable material.
 - **Empois d'amidon** (*ahn-PWAH da-mee-DOHN*) — starch paste: starch gelatinised from about 76 °C in the oven, which sets the crumb as it cools.
 - **Enchaînement des tâches** (*ahn-shen-MAHN day TAHSH*) — the sequence of tasks: what follows what and what can run at the same time; the référentiel expects it to be coherent (C1.3).
 - **Enfermage** (*ahn-fair-MAHZH*) — the lock-in: closing the détrempe around the butter plaque (en enveloppe or by folding over); gives one butter layer.
@@ -185,6 +215,7 @@ French bakery terms with a simple pronunciation and their English meaning, plus 
 - **Épreuve** (*ay-PRUHV*) — a test of the exam; EP1 and EP2 are the two professional tests of the CAP Boulanger.
 - **Épreuve par paire** (*ay-PRUHV par PAIR*) — paired test: two coded samples; "which is saltier?" or "which do you prefer?".
 - **Épreuve triangulaire** (*ay-PRUHV tree-ahn-gü-LAIR*) — triangle test: three coded samples, two identical; the taster finds the odd one; answers "is there a perceptible difference?".
+- **Estampille sanitaire** (*es-tahm-PEE-yuh sah-nee-TAIR*) — health mark: the oval mark with an approval number on products of animal origin; checked at reception and kept for traceability.
 - **Étapes de la panification** (*ay-TAHP duh lah pah-nee-fee-kah-SYOHN*) — the stages of bread-making; this course counts 18, from the order to the clean bench.
 - **Étirage / soufflage** (*ay-tee-RAHZH / soo-FLAHZH*) — stretching / the mixing phase in which the dough traps air and becomes smooth and elastic.
 - **Étuve** (*ay-TOOV*) — proofing cabinet (another name for the chambre de pousse).
@@ -208,6 +239,7 @@ French bakery terms with a simple pronunciation and their English meaning, plus 
 - **Feuilletage** (*fuh-yuh-TAHZH*) — lamination; also puff pastry, laminated without yeast.
 - **Feuilletage irrégulier** (*fuh-yuh-TAHZH ee-ray-gü-LYAY*) — uneven layering in laminated dough: thick and thin layers, gaps, butter missing in the corners.
 - **Fiche de contrôle des poids** (*feesh duh kohn-TROHL day PWAH*) — weight-control sheet: target, sample weights, average, spread, pieces outside tolerance, loss, salt and decision for a batch.
+- **Fiche de données de sécurité (FDS)** (*FEESH duh doh-NAY duh say-kü-ree-TAY*) — safety data sheet of a chemical product: dangers, protective equipment, first aid.
 - **Fiche de fabrication** (*feesh duh fah-bree-kah-SYOHN*) — process sheet: every stage of one product with its time, target and check.
 - **Fiche de poste** (*FEESH duh POST*) — workstation sheet: how to use one machine safely, written from the maker's manual and displayed beside it.
 - **Fiche technique** (*feesh tek-NEEK*) — technical sheet: the bakery's formula, process and targets for one product.
@@ -215,6 +247,7 @@ French bakery terms with a simple pronunciation and their English meaning, plus 
 - **Filmer au contact** (*feel-MAY oh kohn-TAKT*) — to press film directly onto a cream's surface so no skin forms.
 - **Flancs affaissés** (*FLAHN ah-fay-SAY*) — caved-in sides of a tin loaf, from unmoulding too late or under-baking.
 - **Fleurage** (*fluh-RAHZH*) — dusting flour (often rice flour) on the bench, couche or dough.
+- **Fluides** (*flü-EED*) — the "fluids" of a building: water, electricity, gas, heating, compressed air.
 - **Force boulangère (W)** (*FORSS boo-lahn-ZHAIR*) — flour strength measured with the alveograph.
 - **Formule globale** (*for-MÜL glo-BAHL*) — overall formula: every ingredient as a % of all the flour, pre-ferment flour included.
 - **Four à bois** (*FOOR ah BWAH*) — wood-fired oven: heat from a wood fire stored in the masonry.
@@ -224,8 +257,11 @@ French bakery terms with a simple pronunciation and their English meaning, plus 
 - **Fournil** (*foor-NEEL*) — the bakehouse, the production room of a bakery.
 - **Frais généraux** (*fray zhay-nay-ROH*) — overheads: rent, sales staff, packaging, insurance, administration.
 - **Frasage** (*frah-ZAHZH*) — first phase of mixing, at slow speed, in which flour and water come together into a rough dough.
+- **Fuite (d'eau)** (*FWEET*) — water leak; a dripping tap wastes about 15 m³ a year.
 - **Fuite de beurre** (*FWEET duh BUHR*) — butter leaking from croissants in the proof or oven, from a warm proof, under-proof or torn layers.
+- **Gaspillage alimentaire** (*gas-pee-YAHZH ah-lee-mahn-TAIR*) — food waste: food meant for people that is lost, thrown away or degraded.
 - **Gaz carbonique (CO₂)** (*gahz kar-bo-NEEK*) — carbon dioxide, the gas that raises the dough.
+- **GBPH (guide de bonnes pratiques d'hygiène)** (*zhay-bay-pay-ASH*) — a sector's voluntary hygiene guide, validated by the administration; the 1997 bakery guide was withdrawn in 2025 and no new one was validated as of October 2026.
 - **Générateur de buée** (*zhay-nay-rah-TUHR duh bü-AY*) — steam generator of a deck oven; scale reduces its efficiency, so it is descaled.
 - **Germe** (*ZHAIRM*) — germ of the wheat grain (about 2.5–3 %): fat, enzymes, vitamins.
 - **Glace pilée** (*GLASS pee-LAY*) — crushed ice, added with the mixing water to cool it.
@@ -237,6 +273,7 @@ French bakery terms with a simple pronunciation and their English meaning, plus 
 - **Grigne** (*GREEN-yuh*) — the ear: the raised, browned flap along a cut.
 - **Grosse pièce / petite pièce** (*GROHSS pyess / puh-TEET pyess*) — large piece (a loaf, such as a 300 g braid) / small piece (an individual roll or shape).
 - **Groupe frigorifique** (*GROOP free-go-ree-FEEK*) — refrigeration unit: expansion valve, evaporator, compressor and condenser in a closed loop of refrigerant.
+- **HACCP** (*ash-ah-say-say-PAY*) — Hazard Analysis Critical Control Point: method of seven principles (hazards, CCPs, critical limits, monitoring, corrective actions, verification, records) required by Regulation (EC) 852/2004.
 - **Hands time / dough time** — the two kinds of time in a plan: hands time needs the baker and grows with quantity (weighing, mixing, dividing, shaping, loading, cleaning); dough time is set by temperature and leaves the baker free (rests, fermentation, baking, cooling).
 - **Hérisson** (*ay-ree-SOHN*) — hedgehog: a pointed ball of pâte levée whose spines are snipped with scissors after the egg wash.
 - **Heure limite** (*uhr lee-MEET*) — deadline: the time a product must be in the shop or delivered; the organigramme is planned backwards from it.
@@ -247,6 +284,7 @@ French bakery terms with a simple pronunciation and their English meaning, plus 
 - **Indice de chute (Hagberg)** (*an-DEESS duh SHOOT*) — falling number: a measure of the flour's amylase activity (bread flour above 220 s).
 - **Inertie thermique** (*ee-nair-SEE tair-MEEK*) — thermal mass: heat stored in an oven's sole and walls; strong bottom heat, slow to change temperature.
 - **Inox (acier inoxydable)** (*ee-NOX*) — stainless steel: smooth, corrosion-resistant material of benches, bowls and machines.
+- **Intoxication alimentaire** (*an-tok-see-kah-SYOHN ah-lee-mahn-TAIR*) — food poisoning: illness after eating food containing microbes or their toxins.
 - **Invendus** (*an-vahn-DÜ*) — unsold products at closing; counted and recorded to size the next loads.
 - **IP code** — two digits on a rating plate: the first (0-6) protection against contact and dust, the second (0-8) against water.
 - **La veille** (*lah VAY*) — the day before: work done in the afternoon (lamination, shaping, retarded doughs) for the next morning's bake.
@@ -262,10 +300,12 @@ French bakery terms with a simple pronunciation and their English meaning, plus 
 - **Levure désactivée** (*luh-VOOR day-zak-tee-VAY*) — deactivated yeast: a dough relaxer.
 - **Levure pressée** (*luh-VOOR preh-SAY*) — fresh pressed (compressed) baker's yeast, about 68 % water, stored at 0–4 °C.
 - **Levure sèche instantanée** (*luh-VÜR sesh an-stahn-tah-NAY*) — instant dry yeast: about one third of the fresh yeast weight.
+- **Limite critique** (*lee-MEET kree-TEEK*) — critical limit: the measurable value at a CCP that separates acceptable from unacceptable.
 - **Lipoxygénase** (*lee-pok-see-zhay-NAHZ*) — flour enzyme that uses oxygen and bleaches the pigments; also brought by bean and soy flour.
 - **Lot / fournée** (*LO / foor-NAY*) — batch of dough / one oven load.
 - **Manquant** (*mahn-KAHN*) — shortfall: how much a prepackage weighs less than its nominal quantity; limited by a maximum tolerated value (15 g at 500 g).
 - **Manque de volume** (*MAHNK duh vo-LÜM*) — lack of volume: small, heavy bread, usually under-fermented, too firm or under-developed dough.
+- **Manutention manuelle** (*mah-nü-tahn-SYOHN mah-nü-EL*) — manual handling of loads; avoided with aids; women not above 25 kg, men above 55 kg only with medical fitness and never above 105 kg (Code du travail).
 - **Marche en avant** (*marsh ahn ah-VAHN*) — forward flow: organising rooms or operations so that dirty and clean products and operations never cross, in space or in time.
 - **Margarine de tourage** (*mar-gah-REEN duh too-RAHZH*) — vegetable laminating fat made to stay plastic; products made with it cannot be called pur beurre.
 - **Marge** (*MARZH*) — margin: selling price before VAT − full cost.
@@ -273,6 +313,7 @@ French bakery terms with a simple pronunciation and their English meaning, plus 
 - **Maturation** (*mah-tew-rah-SYOHN*) — the slow change in dough strength and flavour during fermentation.
 - **Méthode directe (non différé)** (*may-TOD dee-REKT*) — direct method: all ingredients mixed at once, fermented the same day.
 - **Meunier / minoterie** (*muh-NYAY / mee-noh-TREE*) — miller / flour mill.
+- **Micro-organisme** (*mee-kroh-or-gah-NEESM*) — microorganism: bacterium, yeast, mould or virus, too small to see without a microscope.
 - **Mie collante / pâteuse** (*mee ko-LAHNT / pah-TUHZ*) — sticky, gummy crumb: core below about 93 °C, cut warm, or too much water.
 - **Mie crème** (*mee KREM*) — cream-coloured crumb, from carotenoid pigments kept by gentle mixing and an autolyse.
 - **Mie élastique** (*mee ay-lah-STEEK*) — springy crumb that comes back after being pressed.
@@ -283,9 +324,11 @@ French bakery terms with a simple pronunciation and their English meaning, plus 
 - **Mise en place** (*meez ahn PLASS*) — everything cleaned, weighed and set out before production starts.
 - **Mise en route du four** (*meez ahn ROOT dü FOOR*) — switching the oven on so it is at temperature for the first load; about an hour for a deck oven in the course's examples.
 - **Mise en tension** (*meez ahn tahn-SYOHN*) — building surface tension: a taut skin over the shaped piece.
+- **Moisissure** (*mwah-zee-SÜR*) — mould: a fungus that grows as threads and visible spots on bread and damp equipment.
 - **Monoxyde de carbone (CO)** (*mo-nok-SEED duh kar-BONN*) — carbon monoxide: colourless, odourless, toxic gas from incomplete combustion; headache, nausea, dizziness in several people at once.
 - **Montée / descente en température** (*mohn-TAY / day-SAHNT ahn tahn-pay-rah-TÜR*) — an oven heating up or cooling down between two settings; measured for each oven and written on the oven plan.
 - **Moule à pain de mie** (*MOOL ah pan duh MEE*) — pain de mie tin with a sliding lid (couvercle), the Pullman tin; dough about 0.35 g per cm³ of tin.
+- **Mousseur / limiteur de débit** (*moo-SUHR / lee-mee-TUHR duh day-BEE*) — tap aerator / flow limiter; brings a 12 L/min tap to about 6-8 L/min.
 - **Mouture** (*moo-TOOR*) — milling: turning grain into flour.
 - **Moyenne / écart** (*mwah-YEN / ay-KAR*) — average / spread between the lightest and heaviest piece of a sample.
 - **Nanterre** (*nahn-TAIR*) — brioche loaf made of several balls side by side in a tin.
@@ -293,6 +336,7 @@ French bakery terms with a simple pronunciation and their English meaning, plus 
 - **Navette** (*nah-VET*) — "shuttle": a small spindle-shaped roll of pâte levée with pointed ends.
 - **Nettoyage du poste** (*neh-twah-YAHZH dü POST*) — cleaning the workstation; done in the gaps and at the end.
 - **Non-conformité** (*nohn kohn-for-mee-TAY*) — non-conformity: a product, delivery or result that does not match what was specified; it must be reported.
+- **Nuisibles** (*nwee-ZEE-bluh*) — pests: rodents, cockroaches, flies, flour moths and beetles; controlled by a written pest-control plan.
 - **Numéro de lot** (*nü-may-RO duh LO*) — batch number on a sack or pack, written down for traceability.
 - **Nutri-Score** — voluntary A-to-E front-of-pack nutrition logo; new calculation official in France since the arrêté of 14 March 2025.
 - **Ordonnancement** (*or-doh-nahns-MAHN*) — scheduling: deciding the order and timing of all the jobs of a production.
@@ -317,6 +361,7 @@ French bakery terms with a simple pronunciation and their English meaning, plus 
 - **Pain courant (français)** (*pan koo-RAHN*) — everyday French wheat bread not sold under a protected name such as tradition; additives allowed; at most 1.4 g of salt per 100 g of bread since October 2023.
 - **Pain d'épeautre** (*pan day-POH-truh*) — spelt bread; spelt is a wheat with weaker, more extensible gluten and contains gluten.
 - **Pain de campagne** (*pan duh kahm-PAHN-yuh*) — country bread; no legal recipe, usually wheat with some rye, often on levain; the name must not mislead.
+- **Pain de la veille** (*pan duh lah VAY*) — yesterday's bread; may be sold as such or reused, but a tradition may not be frozen to be sold the next day.
 - **Pain de mie** (*pan duh MEE*) — soft sandwich loaf baked in a lidded tin, without steam; enriched with milk, sugar and butter; at most 1.1 g of salt per 100 g of bread since October 2025.
 - **Pain de mie à chapeau** (*pan duh MEE ah shah-POH*) — pain de mie baked without a lid, with a domed top.
 - **Pain de tradition française** (*pan duh trah-dee-SYOHN frahn-SEZ*) — bread of wheat flour, drinking water and salt fermented with yeast and/or levain, with only bean, soy and malt flours as extras, no additive and no freezing during making (décret 93-1074, art. 2).
@@ -324,9 +369,11 @@ French bakery terms with a simple pronunciation and their English meaning, plus 
 - **Pain ferré** (*pan feh-RAY*) — bread with a burnt, hard base from a sole that is too hot.
 - **Pain maison** (*pan meh-ZOHN*) — bread kneaded, shaped and baked entirely at the place where it is sold (décret 93-1074, art. 1).
 - **Pain moulé** (*pan moo-LAY*) — tin loaf: bread proofed and baked in a mould.
+- **Pain perdu** (*pan pair-DÜ*) — stale bread soaked in milk, egg and sugar, then cooked (French toast); a new product with new allergens.
 - **Pain plat** (*pan PLAH*) — flat, spread bread: over-proofed, weak or loosely shaped dough, or an oven too cool.
 - **Pain spécial** (*pan spay-SYAL*) — special bread: bread with added ingredients or other flours (seeds, cereals, nuts, rye, spelt).
 - **Pain viennois / baguette viennoise** (*pan vyeh-NWAH / bah-GET vyeh-NWAZ*) — soft milk bread with sugar and butter, a firm dough usually shaped as a baguette, egg-washed, cut obliquely and baked at about 180-200 °C without steam.
+- **Paquet hygiène** (*pah-KEH ee-ZHYEN*) — the EU hygiene package (Regulations 178/2002, 852/2004, 853/2004 and official-control rules), applied since 1 January 2006.
 - **Pâte croûtée** (*paht kroo-TAY*) — dough with a dry skin from being left uncovered.
 - **Pâte ferme / bâtarde / douce** (*paht FAIRM / bah-TARD / DOOSS*) — firm / medium / soft dough.
 - **Pâte fermentée** (*paht fair-mahn-TAY*) — fermented dough kept from an earlier batch and added to a new one.
@@ -340,6 +387,7 @@ French bakery terms with a simple pronunciation and their English meaning, plus 
 - **Pâte surpétrie / sous-pétrie** (*paht sewr-pay-TREE / soo-pay-TREE*) — over-mixed / under-mixed dough.
 - **Pâton** (*pah-TOHN*) — a divided piece of dough before shaping.
 - **Pekar (test de)** (*peh-KAR*) — comparing flours' colour and bran specks wet on a board.
+- **PEPS (premier entré, premier sorti)** (*PEPS*) — FIFO stock rotation; for perishables the rule is first expired, first out (premier périssable, premier utilisé).
 - **Personnel de vente** (*pair-soh-NEL duh VAHNT*) — sales staff; the baker sets out products with them (C2.8) and briefs them at each hand-over.
 - **Perte au four / à la cuisson** (*pairt oh FOOR / ah lah kwee-SOHN*) — baking loss: water driven off in the oven and while cooling; about 20 % for baguettes as a planning figure.
 - **Pertes** (*pairt*) — losses: dough left in the bowl or on tools and trimmings from dividing; usually allowed for at 2-3%.
@@ -357,6 +405,8 @@ French bakery terms with a simple pronunciation and their English meaning, plus 
 - **Pinceau** (*pan-SOH*) — pastry brush for egg wash; washed and dried after each use.
 - **Piqûres** (*pee-KOOR*) — specks: small bran particles visible in flour.
 - **Plan de cuisson** (*plahn duh kwee-SOHN*) — oven plan: which product goes in which deck or oven, at what temperature, at what time; written before the dough plans.
+- **Plan de lutte contre les nuisibles** (*PLAHN duh LÜT kohntr lay nwee-ZEE-bluh*) — pest-control plan: devices and baits, their map, product sheets, check frequency, visit reports.
+- **Plan de nettoyage et de désinfection** (*PLAHN duh net-wah-YAHZH ay duh day-zan-fek-SYOHN*) — cleaning and disinfection plan: zone, item, product and dose, method, frequency, who does it, who checks it.
 - **Planchette (à baguettes)** (*plahn-SHET*) — narrow transfer board used to roll a baguette out of the couche onto the loader.
 - **Planchette (de transfert)** (*plahn-SHET*) — transfer board for moving a baguette from the couche to the loader.
 - **Plaque de beurre** (*PLAHK duh BUHR*) — flat square or rectangle of butter ready to lock in; about 15 × 15 × 1.2 cm for 250 g.
@@ -364,6 +414,7 @@ French bakery terms with a simple pronunciation and their English meaning, plus 
 - **Plaque signalétique** (*PLAHK see-nyah-lay-TEEK*) — rating plate: maker, model, voltage, frequency, power or current, class, IP code, CE mark.
 - **Plasticité** (*plas-tee-see-TAY*) — plasticity: the ability of cold butter or dough to bend and spread without breaking or melting (butter about 13 °C).
 - **Plonge** (*plonzh*) — washing-up area for bowls, trays and tools.
+- **PMS (plan de maîtrise sanitaire)** (*pay-em-ESS*) — food-safety management plan: good hygiene practice, HACCP procedures, traceability and non-conformity handling, with their records; compulsory for every food business.
 - **Poids annoncé** (*pwah ah-nohn-SAY*) — announced weight: a weight written on a placard, label or order; it must be delivered.
 - **Poids cuit** (*pwah KWEE*) — baked weight, after cooling.
 - **Pointage** (*pwan-TAHZH*) — bulk fermentation: the first rise of the whole dough before dividing.
@@ -378,6 +429,7 @@ French bakery terms with a simple pronunciation and their English meaning, plus 
 - **Pousse lente** (*pooss LAHNT*) — slow proof of shaped pieces at a cool temperature over several hours.
 - **Pratique commerciale trompeuse** (*prah-TEEK koh-mair-SYAL trohm-PUHZ*) — misleading commercial practice, e.g. a false claim about composition or method (Code de la consommation L121-2).
 - **Pré-fermentation** (*pray-fair-mahn-tah-SYOHN*) — part of the flour and water fermented in advance (pâte fermentée, poolish, levain).
+- **Préchauffage** (*pray-sho-FAHZH*) — preheating the oven; started from the oven's real preheat time, not from habit.
 - **Préemballage** (*pray-ahn-bah-LAHZH*) — prepackage: a product packed before sale, without the buyer, with a fixed quantity printed on it; its lots must average at least that quantity.
 - **Préfaçonnage** (*pray-fah-so-NAHZH*) — pre-shaping: giving divided pieces a first loose ball or cylinder shape.
 - **Prémix (mix céréales)** (*pray-MEEKS*) — ready-made blend of flours, seeds and often adjuvants and additives for cereal breads; its label must be read and its allergens declared.
@@ -387,6 +439,7 @@ French bakery terms with a simple pronunciation and their English meaning, plus 
 - **Prise de force** (*preez duh FORSS*) — the dough gaining strength (tenacity) during pointage.
 - **Prise de terre** (*PREEZ duh TAIR*) — earth connection: carries a fault current from a metal casing to earth so a protective device trips.
 - **Prix de vente HT / TTC** (*pree duh vahnt ash-TAY / tay-tay-SAY*) — selling price before VAT (hors taxes) / with VAT (toutes taxes comprises).
+- **Produit d'entretien / dosage** (*pro-DWEE dahn-truh-TYAN / doh-ZAHZH*) — cleaning product / its dose per litre of water, read on the label; more does not clean better.
 - **Profil sensoriel** (*proh-FEEL sahn-sor-YEL*) — sensory profile: the intensity of each descriptor of a product, scored on a scale by trained tasters.
 - **Programmation de la température** (*pro-grah-mah-SYOHN*) — setting the oven temperature for each product: bigger, denser or richer products bake cooler and longer.
 - **Protéases** (*pro-tay-AHZ*) — flour enzymes that cut proteins and relax the gluten, notably during an autolyse.
@@ -396,6 +449,7 @@ French bakery terms with a simple pronunciation and their English meaning, plus 
 - **Rafraîchi** (*rah-freh-SHEE*) — refreshment (feeding) of a levain with fresh flour and water.
 - **Raisins secs réhydratés** (*ray-ZAN SEK ray-ee-drah-TAY*) — raisins soaked and drained before use so they do not burn or dry the cream; check the label for sulphites.
 - **Rancissement** (*rahn-sees-MAHN*) — rancidity: off-taste from oxidised fats, a risk with wholemeal flour and seeds kept warm or too long.
+- **Rappel / retrait** (*rah-PEL / ruh-TREH*) — recall (customers asked to return a product) / withdrawal (product taken off sale); official notices on RappelConso.
 - **Rassissement** (*rah-sees-MAHN*) — staling: the crumb firms (starch retrogradation) and the crust softens (water moves out to it).
 - **Réassort** (*ray-ah-SOR*) — refilling the shop shelves during the day, timed from the oven plan and the sales rhythm.
 - **Réchauffage / remontée** (*ray-sho-FAHZH / ruh-mohn-TAY*) — gradual warm-up phase after blocking in a controlled-proof cycle.
@@ -409,6 +463,7 @@ French bakery terms with a simple pronunciation and their English meaning, plus 
 - **Repos au froid** (*ruh-POH oh FRWAH*) — rest in the cold between turns (20-45 minutes in the fridge for a home block).
 - **Repose-pâtons** (*ruh-POHZ pah-TOHN*) — resting cabinet or rack for pieces during the détente.
 - **Réseau glutineux** (*ray-ZOH glew-tee-NUH*) — the gluten network: the continuous web of linked proteins that holds gas.
+- **Réserves (sur le bon de livraison)** (*ray-ZAIRV*) — written reservations on the delivery note before signing (missing items, wrong reference, damaged outer packaging).
 - **Ressuage** (*ruh-sü-AHZH*) — cooling of bread after baking, when steam and heat leave the loaf.
 - **Reste de pâte** (*rest duh PAHT*) — dough left over after dividing.
 - **Rétrogradation de l'amidon** (*ray-tro-grah-dah-SYOHN*) — starch retrogradation: gelatinised starch recrystallises and firms the crumb; fastest around 4 °C.
@@ -418,13 +473,15 @@ French bakery terms with a simple pronunciation and their English meaning, plus 
 - **Roulette** (*roo-LET*) — pastry or pizza wheel for cutting dough.
 - **Rupture (de stock)** (*rüp-TÜR*) — running out of an ingredient.
 - **Sac de farine** (*sak duh fah-REEN*) — flour sack; 25 kg is the usual size in French bakeries.
-- **Sachet** (*sah-SHAY*) — bag for finished products: paper for crisp viennoiserie, plastic for soft pâte levée once cool.
+- **Sachet** (*sah-SHAY*) — bag for finished products: paper for crisp viennoiserie, a closed bag for soft pâte levée once cool (in France, thin single-use plastic bags must be home-compostable and partly plant-based).
 - **Salage différé** (*sah-LAHZH dee-fay-RAY*) — delayed salting: salt added late in mixing; shortens mixing but increases oxidation.
+- **Salissure** (*sah-lee-SÜR*) — soil to be cleaned: organic (flour, fat, protein, sugar), mineral (scale) or microbial.
 - **Salt agreement (accord sel)** — 3 March 2022 agreement between the state and the bakery sector: 1.4 g salt per 100 g of pain courant since October 2023, 1.1 g for pain de mie since October 2025.
 - **Saveur** (*sah-VUHR*) — a taste perceived on the tongue: sweet, salty, sour, bitter (and umami).
 - **Se dérouler** (*suh day-roo-LAY*) — to unroll in the oven (croissant tip, pain au chocolat seam or pain aux raisins tail not underneath).
 - **Se rétracter** (*suh ray-trak-TAY*) — to shrink back after cutting or rolling: the sheet or dough was still elastic, not rested.
 - **Semelle** (*suh-MEL*) — the bottom of a bread, checked for colour and bake (a burnt one is pain ferré).
+- **Sobriété énergétique** (*so-bree-ay-TAY ay-nair-zhay-TEEK*) — energy sufficiency: using only the energy the job needs.
 - **Sole** (*SOL*) — deck: one baking floor of a deck oven, often with its own thermostat.
 - **Sole / voûte** (*SOLL / VOOT*) — the floor (sole) and the crown (voûte) of an oven deck; the sole heats the base by conduction, the voûte the top by radiation.
 - **Son / enveloppes** (*SOHN / ahn-VLOP*) — bran: the outer layers of the grain (about 13–17 %).
@@ -454,24 +511,32 @@ French bakery terms with a simple pronunciation and their English meaning, plus 
 - **Thermocouple** (*tair-mo-KOO-pluh*) — flame-failure sensor on a gas burner: the flame keeps the gas valve open; if the flame goes out, the valve closes.
 - **Thermomètre à sonde** (*tair-mo-MET-ruh ah SOHND*) — probe thermometer for dough, water, flour and the core of the bread.
 - **Thermomètre de four** (*tair-mo-MET-ruh duh FOOR*) — oven thermometer left inside the oven to check its real temperature.
+- **TIAC (toxi-infection alimentaire collective)** (*tee-AK*) — collective food-borne outbreak: at least two people with similar, usually digestive, symptoms traced to the same food.
+- **TMS (troubles musculosquelettiques)** (*tay-em-ESS*) — musculoskeletal disorders of the back, shoulders and wrists from loads and postures.
 - **Tolérance** (*to-lay-RAHNSS*) — how long a dough stays usable before it over-ferments.
 - **Tolérance de poids** (*to-lay-RAHNSS duh PWAH*) — allowed weight difference for a divided piece, e.g. ±5 g on 350 g.
 - **Tour double** (*toor DOO-bluh*) — double turn (pli en quatre, en portefeuille): both ends folded to the middle and closed like a book; butter layers × 4.
 - **Tour simple** (*toor SAN-pluh*) — single turn (pli en trois): the sheet folded in three like a letter; butter layers × 3.
 - **Tourage** (*too-RAHZH*) — giving the turns: rolling out and folding laminated dough, with rests in the cold, to multiply the layers.
 - **Tourier** (*too-RYAY*) — baker who specialises in laminated doughs such as croissant dough.
+- **Toxinogénèse** (*tok-see-noh-zhay-NEZ*) — toxin production by a microbe in the food; staphylococcal toxins resist cooking.
 - **TPV (température de pâte visée)** (*tay-pay-VAY*) — target dough temperature written on the technical sheet.
 - **Traçabilité** (*tra-sa-bee-lee-TAY*) — traceability: being able to find which lot, batch and day a product or ingredient came from; makes faults traceable to their records.
 - **Trempage** (*trahm-PAHZH*) — soaker: seeds or grains soaked in water before going into the dough.
 - **Tresse** (*TRESS*) — braid of one, two or three strands (or more) of pâte levée, braided without tension.
+- **Tri sélectif / tri à la source** (*TREE say-lek-TEEF*) — separate sorting of waste where it is produced: biowaste, paper/cardboard, plastic, metal, glass, wood, textiles.
+- **Triman** (*tree-MAHN*) — French logo on packaging, with sorting information, telling the consumer that it is to be sorted.
 - **Tromperie (sur la quantité)** (*trohm-PREE*) — the offence of deceiving a customer, for example about the quantity delivered (Code de la consommation L441-1).
 - **Trou / tunnel** (*TROO / tü-NEL*) — large hole or tunnel in the crumb, usually air or flour trapped at shaping or a seam not sealed.
 - **Tunnel** (*tü-NEL*) — a long hole under the crust, usually from air or flour trapped in a fold at shaping.
 - **TVA (taxe sur la valeur ajoutée)** (*tay-vay-AH*) — VAT: 5.5 % on bread sold to take away, 10 % on food prepared for immediate consumption.
 - **Type (T45 … T150)** (*teep*) — French flour type: ash content × 100 on dry matter; T45 white to T150 wholemeal.
+- **Usage unique** (*ü-ZAHZH ü-NEEK*) — single-use; many single-use plastic items (cutlery, plates, straws, thin bags) are banned.
+- **Vaisselle réemployable** (*veh-SELL ray-ahn-plwah-YAHBL*) — reusable tableware, required for meals eaten on site where 20 or more people can be served at once.
 - **Vanne d'arrêt (de gaz)** (*VAHN dah-RAY*) — gas shut-off valve, at the entrance of the premises and before each appliance.
 - **Viennoiserie** (*vyen-wahz-REE*) — yeast-raised sweet or enriched products such as croissants, pains au chocolat and brioche.
 - **Viennoiserie maison** (*vyen-wahz-REE meh-ZOHN*) — viennoiserie made on site from the raw ingredients; no decree, but calling bought-in products "maison" is misleading.
 - **Vignette verte / rouge** (*vee-NYET VAIRT / ROOZH*) — green / red sticker on a trade scale after its periodic verification: valid, or must not be used.
 - **Vitesse (1re / 2e)** (*vee-TESS*) — mixer speed: first (slow) for frasage, second (fast) for development.
 - **Vitrine** (*vee-TREEN*) — shop window; also the glass display counter for viennoiserie.
+- **Zone de danger** (*zohn duh dahn-ZHAY*) — +10 to +63 °C, the temperature band where bacteria multiply; cooked preparations cross it in 2 hours or less.

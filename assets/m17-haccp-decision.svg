@@ -1,0 +1,101 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 660" width="960" height="660" role="img" aria-labelledby="t d">
+  <title id="t">Simplified HACCP decision path: is this step a critical control point?</title>
+  <desc id="d">A flow of four yes-or-no questions asked for each hazard at each step of the flow diagram. Question 1: is there a significant hazard at this step? If no, the step is covered by good hygiene practice, the prerequisites. If yes, question 2: does a control measure exist at this step? If no, change the step, the process or the product. If yes, question 3: is this step designed to eliminate the hazard or reduce it to an acceptable level, or does a later step do that? If a later step eliminates it, the step is not a critical control point. If this step is the one that controls it, question 4: can it be measured against a critical limit and corrected in time? If yes, it is a critical control point: set the limit, monitor it, write the corrective action and keep a record. Examples on the right: cooking crème pâtissière and cooling it from 63 to 10 degrees in 2 hours are critical control points; handling of shaped dough is covered by prerequisites because baking destroys vegetative bacteria later.</desc>
+  <rect x="0" y="0" width="960" height="660" fill="#ffffff"/>
+  <g font-family="Arial, Helvetica, sans-serif" fill="#222222">
+    <text x="480" y="34" text-anchor="middle" font-size="22" font-weight="bold">For each hazard at each step: is it a critical control point (CCP)?</text>
+    <text x="480" y="58" text-anchor="middle" font-size="14">A simplified decision path. Prerequisites (good hygiene practice) come first; CCPs are the few steps where control is essential.</text>
+
+    <g stroke="#5a3a1a" stroke-width="2">
+      <rect x="40" y="90" width="420" height="70" rx="10" fill="#fbf1dc"/>
+      <rect x="40" y="210" width="420" height="70" rx="10" fill="#fbf1dc"/>
+      <rect x="40" y="330" width="420" height="90" rx="10" fill="#fbf1dc"/>
+      <rect x="40" y="470" width="420" height="70" rx="10" fill="#fbf1dc"/>
+      <rect x="40" y="580" width="420" height="60" rx="10" fill="#e8d09d"/>
+      <rect x="520" y="90" width="190" height="70" rx="10" fill="#e6f0e6"/>
+      <rect x="520" y="210" width="190" height="70" rx="10" fill="#f6dede"/>
+      <rect x="520" y="345" width="190" height="60" rx="10" fill="#e6f0e6"/>
+      <rect x="520" y="470" width="190" height="70" rx="10" fill="#f6dede"/>
+    </g>
+
+    <g font-size="15">
+      <text x="56" y="118" font-weight="bold">1 · Is there a significant hazard here?</text>
+      <text x="56" y="140">(biological, chemical, physical, allergen)</text>
+      <text x="56" y="238" font-weight="bold">2 · Is there a control measure at this step?</text>
+      <text x="56" y="260">(temperature, time, cleaning, separation…)</text>
+      <text x="56" y="358" font-weight="bold">3 · Does THIS step eliminate the hazard</text>
+      <text x="56" y="378" font-weight="bold">or reduce it to an acceptable level?</text>
+      <text x="56" y="400">(or will a later step, such as baking, do it?)</text>
+      <text x="56" y="498" font-weight="bold">4 · Can it be measured against a limit</text>
+      <text x="56" y="520" font-weight="bold">and corrected in time?</text>
+      <text x="56" y="606" font-weight="bold">CCP: critical limit, monitoring,</text>
+      <text x="56" y="626" font-weight="bold">corrective action, records</text>
+    </g>
+    <g font-size="14">
+      <text x="532" y="118" font-weight="bold">No → prerequisites</text>
+      <text x="532" y="140">good hygiene practice</text>
+      <text x="532" y="238" font-weight="bold">No → change the step,</text>
+      <text x="532" y="260">process or product</text>
+      <text x="532" y="372" font-weight="bold">Later step → not a CCP</text>
+      <text x="532" y="392">here (prerequisites)</text>
+      <text x="532" y="498" font-weight="bold">No → redesign the step</text>
+      <text x="532" y="520">(add a measurable control)</text>
+    </g>
+
+    <g stroke="#333333" stroke-width="2" fill="none">
+      <line x1="250" y1="160" x2="250" y2="204"/>
+      <line x1="250" y1="280" x2="250" y2="324"/>
+      <line x1="250" y1="420" x2="250" y2="464"/>
+      <line x1="250" y1="540" x2="250" y2="574"/>
+      <line x1="460" y1="125" x2="514" y2="125"/>
+      <line x1="460" y1="245" x2="514" y2="245"/>
+      <line x1="460" y1="375" x2="514" y2="375"/>
+      <line x1="460" y1="505" x2="514" y2="505"/>
+    </g>
+    <g fill="#333333">
+      <polygon points="244,204 256,204 250,212"/>
+      <polygon points="244,324 256,324 250,332"/>
+      <polygon points="244,464 256,464 250,472"/>
+      <polygon points="244,574 256,574 250,582"/>
+      <polygon points="514,119 514,131 522,125"/>
+      <polygon points="514,239 514,251 522,245"/>
+      <polygon points="514,369 514,381 522,375"/>
+      <polygon points="514,499 514,511 522,505"/>
+    </g>
+    <g font-size="13" font-weight="bold" fill="#5a3a1a">
+      <text x="258" y="188">yes</text>
+      <text x="258" y="308">yes</text>
+      <text x="258" y="448">this step</text>
+      <text x="258" y="562">yes</text>
+    </g>
+
+    <g font-size="14">
+      <text x="735" y="104" font-weight="bold">Bakery examples</text>
+      <text x="735" y="130">Shaping baguettes:</text>
+      <text x="735" y="148">hands, bench → baking</text>
+      <text x="735" y="166">destroys bacteria later:</text>
+      <text x="735" y="184">prerequisites.</text>
+      <text x="735" y="222">Crème pâtissière, cooking:</text>
+      <text x="735" y="240">CCP, above 81 °C 1 min</text>
+      <text x="735" y="258">(course: boil 1 min).</text>
+      <text x="735" y="296">Crème pâtissière, cooling:</text>
+      <text x="735" y="314">CCP, 63 → 10 °C</text>
+      <text x="735" y="332">in 2 h or less, probe</text>
+      <text x="735" y="350">and time recorded.</text>
+      <text x="735" y="388">Sandwich assembly:</text>
+      <text x="735" y="406">no later kill step;</text>
+      <text x="735" y="424">cold chain 0 to +3/+4 °C</text>
+      <text x="735" y="442">and time are the controls.</text>
+      <text x="735" y="480">Allergen in a seeded loaf:</text>
+      <text x="735" y="498">order of production,</text>
+      <text x="735" y="516">cleaning, written</text>
+      <text x="735" y="534">allergen table.</text>
+    </g>
+    <g font-size="12" fill="#555555">
+      <text x="735" y="600">HACCP principles:</text>
+      <text x="735" y="616">Regulation (EC) 852/2004, art. 5.</text>
+      <text x="735" y="632">Crème pâtissière values: CNBPF (2026),</text>
+      <text x="735" y="648">arrêté of 21 December 2009.</text>
+    </g>
+  </g>
+</svg>

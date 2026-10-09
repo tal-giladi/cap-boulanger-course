@@ -1,0 +1,90 @@
+- id: q1
+  question: >-
+    A baker has 20 edible baguettes left at closing. Following the legal order of priority against
+    food waste, which option comes first among these?
+  options:
+    - >-
+      Put them in the biowaste bin for methanisation
+    - >-
+      Give them to an association that collects tonight
+    - >-
+      Give them to a neighbouring farmer for his pigs
+    - >-
+      Compost them in the bakery's garden bin
+  correct: 1
+  explanation: >-
+    After prevention, the hierarchy puts use for people (donation or processing) first, then animal
+    feed, then composting or methanisation. Next time, the first lever is prevention: a smaller last
+    load.
+
+- id: q2
+  question: >-
+    A small craft bakery (60 m² shop) uses the municipal collection. Which obligation applies to it?
+  options:
+    - >-
+      Signing a donation agreement with an approved food-aid association
+    - >-
+      Producing a donation quality plan with staff training each year
+    - >-
+      Carrying out a waste diagnosis like collective catering over 3,000 meals
+    - >-
+      Sorting its biowaste at source, as all professionals must since 2024
+  correct: 3
+  explanation: >-
+    Donation agreements and quality plans are for distributors over 400 m² and large operators. Biowaste
+    sorting at source has applied to all professionals, with no minimum quantity, since 1 January 2024.
+
+- id: q3
+  question: >-
+    To use up unsold traditions, the commis proposes soaking them and mixing them into tomorrow's
+    tradition dough at 5 %. What do you tell him?
+  options:
+    - >-
+      Not in tradition: its dough is only flour, water and salt, with yeast or levain.
+    - >-
+      Fine, as long as the soaked bread was itself tradition, made without additives.
+    - >-
+      Fine up to 2 % of the flour, the same limit the decree sets for bean flour.
+    - >-
+      Fine, as long as the bread was never frozen at any stage of production.
+  correct: 0
+  explanation: >-
+    Article 2 of décret 93-1074 says the tradition dough is composed exclusively of wheat flours,
+    drinking water and salt (fermented with yeast and/or levain, plus three small flours). Old bread
+    in the dough makes it pain courant.
+
+- id: q4
+  question: >-
+    The bakery turns unsold seeded loaves (sesame) and pains viennois (milk) into croûtons for its plain
+    salad. What must happen first?
+  options:
+    - >-
+      Nothing, because toasting at 175 °C destroys the allergens in the bread.
+    - >-
+      The croûtons must be sold within 24 hours of the bread being baked.
+    - >-
+      The salad's allergen list must add sesame and milk, or the breads kept apart.
+    - >-
+      The croûtons must be labelled "pain de la veille" on the shelf and the till.
+  correct: 2
+  explanation: >-
+    Allergens follow the bread into any reuse; baking does not remove them. Either the new product's
+    written allergen information covers what the old bread brings, or each bread is reused separately.
+
+- id: q5
+  question: >-
+    A bakery gives 10 baguettes a day (production cost €0.60, price €1.30) to a food-aid association
+    for 300 days. What is the value of the tax reduction?
+  options:
+    - >-
+      About €1,080: 60 % of €1,800 valued at cost
+    - >-
+      About €2,340: 60 % of €3,900 valued at the selling price
+    - >-
+      About €1,800: the full cost value of the bread given
+    - >-
+      About €720: 40 % of €1,800 valued at cost
+  correct: 0
+  explanation: >-
+    Gifts in kind are valued at cost: 10 × 300 × €0.60 = €1,800. Gifts to organisations providing free
+    meals give a 60 % reduction: about €1,080, within the ceiling.

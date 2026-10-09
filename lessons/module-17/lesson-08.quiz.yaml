@@ -1,0 +1,88 @@
+- id: q1
+  question: >-
+    Cold-room log: Mon +2 °C, Tue +2 °C, Wed +3 °C, Thu +6 °C "door ajar", Fri +3 °C. The room
+    holds dairy and crème pâtissière. What should have been done on Thursday?
+  options:
+    - >-
+      Nothing, because the Friday reading was back to normal.
+    - >-
+      Turn the thermostat down and write "OK" in the log.
+    - >-
+      Discard everything in the room without checking any of it.
+    - >-
+      Probe products, act by their limits, fix the door, report.
+  correct: 3
+  explanation: >-
+    A break is handled product by product: chilled products above +7 °C at the core are
+    discarded, creams above their limit are assessed, the cause is fixed and a report written.
+
+- id: q2
+  question: >-
+    Where does an opened pack of cooked ham go in a bakery fridge, and how is it labelled?
+  options:
+    - >-
+      Bottom shelf, under the raw eggs, with no label needed.
+    - >-
+      Upper shelf above raw products, with opening date and new use-by.
+    - >-
+      In the door, where it is easy to reach, with the original date.
+    - >-
+      On the floor of the cold room in its carton, dated on delivery.
+  correct: 1
+  explanation: >-
+    Ready-to-eat products go above raw ones and never on the floor or in the warm door; an opened
+    DLC product gets a shorter use-by (3 days by default per the CNBPF unless the label says otherwise).
+
+- id: q3
+  question: >-
+    After a power cut, the frozen croissant dough reads −10 °C at the core. According to the CNBPF
+    guidance, what do you do with it?
+  options:
+    - >-
+      Thaw it in the cold and use it as a fresh product.
+    - >-
+      Refreeze it to −18 °C and keep its original use-by date.
+    - >-
+      Discard it, because any rise above −18 °C means discarding.
+    - >-
+      Bake it straight away from −10 °C without proofing.
+  correct: 0
+  explanation: >-
+    Frozen products whose core is between −15 °C and +4 °C are thawed in the cold and treated as
+    fresh, with a fresh product's shelf life; they are never refrozen.
+
+- id: q4
+  question: >-
+    Two packs of the same butter are in the cold room: one delivered Monday with DLC on the 20th,
+    one delivered Wednesday with DLC on the 18th. Which do you use first and why?
+  options:
+    - >-
+      Monday's, because the first one in is always the first one out.
+    - >-
+      Either, because butter keeps well in the cold.
+    - >-
+      Wednesday's, because the one that expires first is used first.
+    - >-
+      Wednesday's, because newer deliveries are always fresher.
+  correct: 2
+  explanation: >-
+    For perishables the rule is first expired, first out (first perishable, first used). Wednesday's
+    pack expires two days earlier, whatever the arrival date.
+
+- id: q5
+  question: >-
+    A shop assistant puts warm quiches straight into the refrigerated display at 11:00 "so they
+    cool faster". What is the problem?
+  options:
+    - >-
+      Quiches must be sold warm, so they must never be refrigerated.
+    - >-
+      A display cabinet only keeps products cold; it cannot cool them safely.
+    - >-
+      The quiches will lose their colour under the cabinet lights.
+    - >-
+      The cabinet's defrost cycle will make the quiches soggy.
+  correct: 1
+  explanation: >-
+    Display cabinets are designed to hold chilled products at temperature, not to cool hot ones;
+    the quiches stay too long in the danger zone and warm the products around them.

@@ -32,7 +32,7 @@ The last of the 18 stages is a clean bench, and the first condition of the next 
 
 ## Why it matters
 
-A scale that reads 6 g heavy per kilogram shifts every formula; a thermometer 2 °C out shifts every water temperature (lesson [01.4](../module-01/lesson-04.md)); a banneton put away damp grows mould; a sheeter wiped with a hose fails electrically. Cleaning is also when machine accidents happen: the INRS bakery prevention sheet insists that equipment be made safe before cleaning and maintenance. The référentiel asks you to apply health-and-safety and food-hygiene measures at your workstation (C2.5, C2.6) and to know the properties and care of the materials of bakery equipment (S4.3; see [The CAP Boulanger Exam](../../references/cap-exam.md)). The full hygiene method (cleaning versus disinfection, products, the cleaning plan, HACCP) is Module 17's subject; this lesson covers the equipment side.
+A scale that reads 6 g heavy per kilogram shifts every formula; a thermometer 2 °C out shifts every water temperature (lesson [01.4](../module-01/lesson-04.md)); a banneton put away damp grows mould; a sheeter wiped with a hose fails electrically. Cleaning is also when machine accidents happen: the INRS bakery prevention sheet insists that equipment be made safe before cleaning and maintenance. The référentiel asks you to apply health-and-safety and food-hygiene measures at your workstation (C2.5, C2.6) and to know the properties and care of the materials of bakery equipment (S4.3; see [The CAP Boulanger Exam](../../references/cap-exam.md)). The full hygiene method (cleaning versus disinfection, products, the cleaning plan, HACCP) is [Module 17](../module-17/lesson-04.md)'s subject; this lesson covers the equipment side.
 
 ## Key terms
 
@@ -119,7 +119,7 @@ Saturday 13:00, end of production at Boulangerie Au Pain de la Halle. The appren
 1. **Order.** Machines first (they take longest to dry), then small equipment, then benches, then the floor last. Dry before wet everywhere.
 2. **Spiral mixer.** STOP, plug pulled, bowl scraped with the corne, the hook and the lid scraped, dried dough flakes vacuumed; then wiped with a damp cloth and the product on the cleaning plan; dried; plug back.
 3. **Sheeter.** STOP, plug pulled; belts scraped dry with plastic scrapers, flour duster emptied as the manual says, flour vacuumed from under the belts. The apprentice reaches for the compressed-air gun to "blow the flour out of the rollers": stopped by the head baker. Vacuum only; no air, no water.
-4. **Bannetons.** One banneton shows a grey-green spot inside: it was stacked damp yesterday. It is taken out of use and shown to the head baker (whether it can be saved is a hygiene decision, Module 17). The others are shaken out and set on a rack to dry, not stacked.
+4. **Bannetons.** One banneton shows a grey-green spot inside: it was stacked damp yesterday. It is taken out of use and shown to the head baker (whether it can be saved is a hygiene decision, [Module 17](../module-17/lesson-04.md)). The others are shaken out and set on a rack to dry, not stacked.
 5. **Maintenance log.** Weekly scale check: the 1 kg test weight reads 1,006 g. The scale is not used for salt and yeast until it is recalibrated or replaced; a non-conformity report is written. Probe in iced water: 0.3 °C, pass.
 6. **Floor.** Vacuumed, then washed and left to dry with the wet-floor sign out.
 
@@ -194,5 +194,5 @@ Your bench, tools and floor are clean and dry, nothing was put away damp, and yo
 - Every tool has a job, a care and a check: dry is the rule for cane, linen and wood; blades covered and changed; scale and thermometer checked on a rhythm.
 - Machines are cleaned only stopped and isolated; dry before wet; flour vacuumed, never brushed or blown; no hose on machines; guards back and tested.
 - A maintenance log turns checks into evidence; a failed check is reported and the equipment held back.
-- Cleaning versus disinfection, products and the cleaning plan are Module 17's subject.
+- Cleaning versus disinfection, products and the cleaning plan are [Module 17](../module-17/lesson-04.md)'s subject.
 - Exam-relevant (C2.5, C2.6, S4.3 materials): see [the CAP exam reference](../../references/cap-exam.md).

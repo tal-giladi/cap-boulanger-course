@@ -1,0 +1,86 @@
+- id: q1
+  question: >-
+    Four customers vomit violently about 3 hours after eating cream éclairs; none has a fever. Which
+    pathogen best fits, and why?
+  options:
+    - >-
+      Listeria, because it grows in the fridge where the éclairs were kept.
+    - >-
+      Salmonella, because the cream was made with egg yolks.
+    - >-
+      Clostridium botulinum, because the cream was covered without air.
+    - >-
+      Staphylococcus aureus, because its toxin acts within hours.
+  correct: 3
+  explanation: >-
+    A short incubation (30 min-8 h) with violent vomiting points to staphylococcal toxin made in a
+    handled cream. Salmonella and Listeria infections take longer to show.
+
+- id: q2
+  question: >-
+    A baker says: "If a cream has been contaminated, I just boil it again and it is safe." Why is
+    this wrong for Staphylococcus aureus?
+  options:
+    - >-
+      Its toxin resists heat: boiling kills the cells, not the toxin.
+    - >-
+      Its spores survive boiling and germinate again in the cold room.
+    - >-
+      Boiling a cream twice makes it grainy, lumpy and unsellable.
+    - >-
+      Staphylococci multiply faster after a second heating.
+  correct: 0
+  explanation: >-
+    S. aureus itself is destroyed by heat, but the enterotoxins it has already produced are
+    heat-stable. Prevention must stop growth before toxin forms.
+
+- id: q3
+  question: >-
+    Why is a clean, cold fridge not enough to control Listeria in sandwich fillings?
+  options:
+    - >-
+      Listeria survives only on dry surfaces, which fridges do not have.
+    - >-
+      Listeria grows slowly even at fridge temperature, so dates count too.
+    - >-
+      Listeria is destroyed only by freezing, never by cooking.
+    - >-
+      Listeria comes only from customers' hands at the counter.
+  correct: 1
+  explanation: >-
+    Listeria can multiply from about −2 °C. Cold slows it, so use-by dates, opening dates and the
+    cleaning of cold rooms and drains are part of the control.
+
+- id: q4
+  question: >-
+    Which product in a bakery is the most sensitive to food-poisoning bacteria?
+  options:
+    - >-
+      A baguette cooled on a rack and sold the same morning.
+    - >-
+      A bag of flour stored on a pallet in the dry store.
+    - >-
+      A ham-and-butter sandwich assembled by hand and sold cold.
+    - >-
+      A croissant baked from frozen raw dough at 6:00.
+  correct: 2
+  explanation: >-
+    The sandwich is moist, rich and not cooked after assembly, and its ham can carry Listeria and
+    the hands S. aureus. Baked bread and croissants are dry and baked after handling; flour is dry.
+
+- id: q5
+  question: >-
+    In the contamination chain, what does a plaster plus a disposable glove on a cut finger act on?
+  options:
+    - >-
+      The multiplication stage, by keeping the food colder.
+    - >-
+      The consumer stage, by reducing their sensitivity.
+    - >-
+      The destruction stage, by killing bacteria in the cream.
+    - >-
+      The reservoir and vector: wound bacteria stay off food.
+  correct: 3
+  explanation: >-
+    An infected or open wound is a reservoir of S. aureus and the hand is the vector. Covering it
+    with a dressing and a glove breaks the chain before the food is contaminated.

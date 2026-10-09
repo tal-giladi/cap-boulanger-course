@@ -100,7 +100,7 @@ The salt % of dough for the course's sheets: PC-02 1.076 %, TR-01 1.044 %, CA-01
 
 - **Scales used for sale are regulated.** A scale used to sell by weight or to make prepackages must be a certified trade model (not a kitchen or bathroom scale), have a **carnet métrologique** within a month of being put into service, and pass a **periodic verification** by an approved body: every 2 years for scales up to 30 kg used only for direct sale, every year when you make prepackages. A green sticker shows a valid verification; a red sticker means the scale must not be used. The tare (paper, bag, tray) is always deducted. Production scales that weigh ingredients are not trade scales, but check them yourself with a known weight (lesson [01.4](../module-01/lesson-04.md)).
 
-What to write on the shelf and the label (name, price, allergens) is covered in lesson [02.11](../module-02/lesson-11.md) and in Module 17.
+What to write on the shelf and the label (name, price, allergens) is covered in lesson [02.11](../module-02/lesson-11.md) and in [Module 17](../module-17/lesson-06.md).
 
 ## Worked example
 

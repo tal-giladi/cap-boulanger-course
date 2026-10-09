@@ -1,0 +1,88 @@
+- id: q1
+  question: >-
+    In the HACCP study of crème pâtissière, which step is a critical control point with a clear
+    critical limit?
+  options:
+    - >-
+      Weighing the sugar, with a limit of ±2 g on the scale.
+    - >-
+      Cooling, with the core from 63 °C to 10 °C in 2 hours or less.
+    - >-
+      Washing the whisk, with a limit of one wash per batch.
+    - >-
+      Ordering the milk, with a limit of two deliveries a week.
+  correct: 1
+  explanation: >-
+    Nothing destroys bacteria after cooling, multiplication there leads to toxin, and the limit can
+    be measured with a probe and a timer and corrected (discard) in time.
+
+- id: q2
+  question: >-
+    A trainee marks "shaping the baguettes" as a CCP because hands touch the dough. Why is this
+    wrong?
+  options:
+    - >-
+      Hands never carry bacteria when they are washed once per shift.
+    - >-
+      Shaping is a quality step, so hygiene rules do not apply to it.
+    - >-
+      Baking comes later and destroys the bacteria, so good practice suffices.
+    - >-
+      Only steps involving cold or hot equipment can ever be CCPs.
+  correct: 2
+  explanation: >-
+    A later step (baking) eliminates the hazard, so shaping is controlled by prerequisites such as
+    hand washing and clean benches, not as a CCP.
+
+- id: q3
+  question: >-
+    An inspector asks which validated guide of good hygiene practice (GBPH) your bakery follows, in
+    October 2026. What is the accurate answer?
+  options:
+    - >-
+      The 1997 bakery GBPH, which is still the official reference.
+    - >-
+      The 2026 CNBPF Essentiel, which replaced the GBPH as a validated guide.
+    - >-
+      No guide is needed, because HACCP does not apply to small bakeries.
+    - >-
+      None is validated now; our PMS rests on our own hazard analysis and good practice.
+  correct: 3
+  explanation: >-
+    The 1997 guide was withdrawn in 2025 and no new bakery GBPH had been validated; the CNBPF's
+    Essentiel is guidance, not a validated guide. The HACCP-based PMS is still compulsory.
+
+- id: q4
+  question: >-
+    Which three parts make up a bakery's plan de maîtrise sanitaire (PMS)?
+  options:
+    - >-
+      Good hygiene practice, HACCP procedures, traceability.
+    - >-
+      The menu, the price list and the weekly staff timetable.
+    - >-
+      The fire plan, the electrical check, the gas certificate.
+    - >-
+      The order book, the invoices and the bank statements.
+  correct: 0
+  explanation: >-
+    The PMS gathers the prerequisites (staff, cleaning, pests, cold chain), the HACCP-based
+    procedures and the traceability and non-conformity procedures, with their records.
+
+- id: q5
+  question: >-
+    The cooling log shows a cream reaching 10 °C after 2 h 40 min. Which HACCP principle tells you
+    what to do now?
+  options:
+    - >-
+      Principle 1, hazard analysis: list the hazards of the cream again.
+    - >-
+      Principle 6, verification: send the cream to a laboratory first.
+    - >-
+      Principle 5, corrective action: discard the cream and record it.
+    - >-
+      Principle 7, records: write the time and use the cream as planned.
+  correct: 2
+  explanation: >-
+    Monitoring showed the critical limit was missed; the corrective action written in advance
+    applies: the cream is discarded and a non-conformity is recorded.

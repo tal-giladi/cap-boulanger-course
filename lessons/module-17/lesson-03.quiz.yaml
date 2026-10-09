@@ -1,0 +1,89 @@
+- id: q1
+  question: >-
+    An employee answers his phone at the bench, puts it back in his pocket and reaches for the
+    shaped baguettes. What should he do first?
+  options:
+    - >-
+      Wipe his hands on his apron so they look clean again.
+    - >-
+      Rub his hands with hand gel and carry on shaping.
+    - >-
+      Wash his hands with soap before touching the dough again.
+    - >-
+      Put on gloves over his hands without washing them.
+  correct: 2
+  explanation: >-
+    A phone is a dirty object. Hands are washed before going back to food; gel does not replace
+    washing on dirty hands, and gloves put on dirty hands carry the dirt with them.
+
+- id: q2
+  question: >-
+    The apprentice has a clean cut on her finger and must pipe crème pâtissière into éclairs. What
+    is the correct protection?
+  options:
+    - >-
+      A waterproof dressing covered by a glove or finger cot.
+    - >-
+      A plaster alone, changed at the end of the shift.
+    - >-
+      Nothing, as long as the cut has stopped bleeding.
+    - >-
+      Alcohol gel on the cut before every batch of éclairs.
+  correct: 0
+  explanation: >-
+    Wounds can carry Staphylococcus aureus, and the cream is not cooked again. A dressing plus a
+    glove or finger cot keeps the wound away from food; an infected wound means no cream work.
+
+- id: q3
+  question: >-
+    One bench serves the sandwiches, the éclair filling and cracking eggs for tomorrow's quiche.
+    Which order follows the marche en avant in time?
+  options:
+    - >-
+      Eggs, then sandwiches, then éclairs, wiping the bench quickly between them.
+    - >-
+      Éclairs and sandwiches first, clean and disinfect, then the eggs, then clean.
+    - >-
+      All three together, each at one end of the bench, to save time.
+    - >-
+      Sandwiches, then eggs, then éclairs, washing hands once at the end.
+  correct: 1
+  explanation: >-
+    The cleanest, ready-to-eat jobs come first and the dirty job (raw egg) last, with cleaning and
+    disinfection between, and again afterwards.
+
+- id: q4
+  question: >-
+    A new sales and production assistant asks whether she must hold the 14-hour hygiene training
+    certificate to work in your bakery. What is the correct answer?
+  options:
+    - >-
+      Yes, every person who touches food in France must hold one.
+    - >-
+      Yes, as soon as the bakery sells sandwiches or quiches.
+    - >-
+      No, food hygiene training only ever applies to managers.
+    - >-
+      No, it is for restaurants; she gets in-house hygiene training.
+  correct: 3
+  explanation: >-
+    The 14-hour training is compulsory in commercial catering. Bakers are not concerned, even with
+    sandwiches, but every food handler must receive hygiene instructions or training suited to the job.
+
+- id: q5
+  question: >-
+    Which item of the 5M does a dirty cleaning cloth carried from the egg-wash spill to the
+    cooling rack belong to?
+  options:
+    - >-
+      Matières (the raw materials).
+    - >-
+      Milieu (the surroundings).
+    - >-
+      Matériel (equipment, tools).
+    - >-
+      Main-d'œuvre (people).
+  correct: 2
+  explanation: >-
+    The cloth is a tool that carries raw egg to a clean surface: equipment. The barrier is a cloth
+    or paper reserved for dirty jobs and a cleaned, disinfected rack.

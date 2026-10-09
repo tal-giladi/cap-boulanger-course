@@ -106,7 +106,7 @@ A bakery that freezes its own croissants, made on site from its own raw material
 |---|---|---|---|
 | Croissant, pain au chocolat | best within a few hours; sold the day they are baked | dry, ambient, out of the sun; never in the fridge (staling, lesson [07.5](../module-07/lesson-05.md)) | paper bag (sachet papier): lets steam out, crust stays crisp |
 | Pain aux raisins | the day it is baked (it carries a cream) | as above; unsold ones are not kept for the next day | paper bag or pastry box |
-| Pain au lait, pain brioché, brioche, braids | 2-3 days in a closed bag (fat and sugar slow staling) | ambient, closed | plastic bag or film once completely cool, or a box; braids on a board for orders |
+| Pain au lait, pain brioché, brioche, braids | 2-3 days in a closed bag (fat and sugar slow staling) | ambient, closed | closed bag once completely cool (in France a thin plastic bag must be home-compostable and partly plant-based: [lesson 18.3](../module-18/lesson-03.md)), or a box; braids on a board for orders |
 | Frozen raw pieces | as set by the bakery (home about 2 weeks) | −18 °C, in closed, labelled bags or boxes | food-grade freezer bags or lidded boxes |
 
 **Packing hygiene (C2.4, C2.6):** finished products are handled with tongs or a clean sheet of paper, not bare hands, and only once they are cool enough not to sweat in their bag.

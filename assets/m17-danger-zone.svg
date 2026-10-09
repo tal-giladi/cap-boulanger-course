@@ -1,0 +1,75 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 640" width="960" height="640" role="img" aria-labelledby="t d">
+  <title id="t">Temperature and microorganisms: the bakery's key temperatures</title>
+  <desc id="d">A vertical thermometer scale from minus 20 to plus 100 degrees Celsius with bands. Minus 18 degrees and colder: frozen storage, microorganisms do not multiply but are not killed. 0 to plus 4 degrees: very perishable products and fillings, multiplication slowed but Listeria can still grow slowly; 0 to plus 3 degrees for prepared dishes and crème pâtissière. Up to plus 8 degrees: other perishable products. Plus 10 to plus 63 degrees: the danger zone where bacteria multiply fast, around 35 to 40 degrees fastest; cooked preparations must cross from 63 to 10 degrees in 2 hours or less. Above plus 63 degrees: hot holding, most bacteria stop multiplying. Above about 80 degrees in the core for a minute or more, as when crème pâtissière boils: vegetative bacteria are destroyed, but spores and heat-stable toxins such as staphylococcal enterotoxins can survive.</desc>
+  <rect x="0" y="0" width="960" height="640" fill="#ffffff"/>
+  <g font-family="Arial, Helvetica, sans-serif" fill="#222222">
+    <text x="480" y="34" text-anchor="middle" font-size="22" font-weight="bold">Temperature decides what microorganisms do</text>
+    <text x="480" y="58" text-anchor="middle" font-size="14">Cold slows or stops them, heat kills most of them, the middle feeds them.</text>
+
+    <!-- scale: y = 600 - (T + 20) * 4.4  ; T=-20 -> 600, T=100 -> 72 -->
+    <g stroke="#555555" stroke-width="1">
+      <rect x="150" y="72" width="60" height="528" fill="#f4f4f4"/>
+    </g>
+    <!-- bands -->
+    <rect x="150" y="512" width="60" height="88" fill="#9cc3e6"/>   <!-- -20 to 0 -->
+    <rect x="150" y="494" width="60" height="18" fill="#bcd8ee"/>   <!-- 0 to 4 -->
+    <rect x="150" y="477" width="60" height="17" fill="#dcebf6"/>   <!-- 4 to 8 -->
+    <rect x="150" y="248" width="60" height="220" fill="#e89a8c"/>  <!-- 10 to 60 approx (468..248) -->
+    <rect x="150" y="235" width="60" height="13" fill="#e89a8c"/>   <!-- to 63 -->
+    <rect x="150" y="72" width="60" height="163" fill="#f2c98f"/>   <!-- 63 to 100 -->
+
+    <!-- tick labels -->
+    <g font-size="13" text-anchor="end">
+      <text x="140" y="595">−18 °C</text>
+      <text x="140" y="518">0 °C</text>
+      <text x="140" y="500">+4 °C</text>
+      <text x="140" y="470">+10 °C</text>
+      <text x="140" y="341">+40 °C</text>
+      <text x="140" y="240">+63 °C</text>
+      <text x="140" y="160">+81 °C</text>
+      <text x="140" y="78">+100 °C</text>
+    </g>
+    <g stroke="#333333" stroke-width="1">
+      <line x1="144" y1="591" x2="216" y2="591"/>
+      <line x1="144" y1="512" x2="216" y2="512"/>
+      <line x1="144" y1="494" x2="216" y2="494"/>
+      <line x1="144" y1="477" x2="216" y2="477"/>
+      <line x1="144" y1="468" x2="216" y2="468"/>
+      <line x1="144" y1="336" x2="216" y2="336"/>
+      <line x1="144" y1="235" x2="216" y2="235"/>
+      <line x1="144" y1="156" x2="216" y2="156"/>
+    </g>
+
+    <!-- annotations -->
+    <g font-size="14">
+      <text x="240" y="100" font-weight="bold">Cooking, boiling</text>
+      <text x="240" y="120">Vegetative bacteria destroyed (crème pâtissière: above 81 °C for 1 min;</text>
+      <text x="240" y="138">the course boils it 1 min). Spores and heat-stable toxins can survive:</text>
+      <text x="240" y="156">a cream already full of staphylococcal toxin is not made safe by reheating.</text>
+
+      <text x="240" y="208" font-weight="bold">Hot holding: +63 °C or more</text>
+      <text x="240" y="226">Most bacteria stop multiplying.</text>
+
+      <text x="240" y="282" font-weight="bold" fill="#8a1c0c">DANGER ZONE: +10 to +63 °C</text>
+      <text x="240" y="302">Bacteria multiply; fastest around body temperature (35-41 °C for S. aureus).</text>
+      <text x="240" y="322">A cooked preparation must cross 63 → 10 °C at the core in 2 hours or less,</text>
+      <text x="240" y="342">then be stored at 0 to +3 °C (arrêté of 21 December 2009, annex IV).</text>
+      <text x="240" y="362">A bakery kitchen in summer (26-32 °C) sits inside this zone:</text>
+      <text x="240" y="382">fillings and creams never wait on the bench.</text>
+
+      <text x="240" y="440" font-weight="bold">Perishable: up to +8 °C</text>
+      <text x="240" y="458">Butter, some cheeses: the label's temperature, +8 °C at most in the shop.</text>
+
+      <text x="240" y="488" font-weight="bold">Very perishable: 0 to +4 °C (prepared dishes, creams 0 to +3 °C)</text>
+      <text x="240" y="506">Growth slowed, not stopped: Listeria grows from about −2 °C.</text>
+
+      <text x="240" y="548" font-weight="bold">Frozen: −18 °C</text>
+      <text x="240" y="566">No multiplication, but no killing: thawed food is as alive as fresh.</text>
+      <text x="240" y="584">Thaw at 0 to +4 °C, never on the bench; never refreeze.</text>
+    </g>
+
+    <g font-size="12" fill="#555555">
+      <text x="480" y="628" text-anchor="middle">Sources: arrêté of 21 December 2009 (annexes I, IV, VI); CNBPF, L'essentiel des bonnes pratiques d'hygiène (2026); ANSES hazard sheets (S. aureus, L. monocytogenes).</text>
+    </g>
+  </g>
+</svg>

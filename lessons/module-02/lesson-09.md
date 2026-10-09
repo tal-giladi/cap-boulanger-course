@@ -85,7 +85,7 @@ The full legal text and the other bread names (maison, levain, campagne) are tau
 A **soaker** (*trempage*) is seeds + water (often equal weights, more for flax, which forms a gel) left for several hours or overnight in the fridge. Soaked seeds bring moisture into the bread instead of stealing it. Toasting seeds before soaking adds flavour. [Lesson 10.7](../module-10/lesson-07.md) bakes a seeded loaf with a soaker.
 
 > [!IMPORTANT]
-> Sesame, mustard, lupin, nuts and all gluten cereals (wheat including spelt, rye, barley, oats) are among the 14 regulated allergens. A seeded dough can contaminate the next batch through the mixer, the bench and the trays: plan the order of work and cleaning (lesson 17.6).
+> Sesame, mustard, lupin, nuts and all gluten cereals (wheat including spelt, rye, barley, oats) are among the 14 regulated allergens. A seeded dough can contaminate the next batch through the mixer, the bench and the trays: plan the order of work and cleaning ([lesson 17.6](../module-17/lesson-06.md)).
 
 ## Worked example
 

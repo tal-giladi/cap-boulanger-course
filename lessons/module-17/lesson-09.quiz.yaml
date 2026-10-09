@@ -1,0 +1,89 @@
+- id: q1
+  question: >-
+    A baker has a runny nose and wheezing at work that get better during holidays. He empties 25 kg
+    sacks into an open mixer and sweeps the floor each evening. Which first actions fit the order
+    of prevention?
+  options:
+    - >-
+      Give him a dust mask to wear all day and keep the method unchanged.
+    - >-
+      Ask him to work faster so he spends less time near the mixer.
+    - >-
+      Move him to the shop permanently without changing the fournil.
+    - >-
+      Covered mixer, water first, gentle pouring, vacuum instead of broom.
+  correct: 3
+  explanation: >-
+    Flour dust is reduced at its source first (INRS); a mask is personal protection and comes last.
+    He should also report the symptoms to the occupational doctor.
+
+- id: q2
+  question: >-
+    Which statement about manual handling limits in France is correct?
+  options:
+    - >-
+      A man may carry up to 105 kg at any time if he feels able to.
+    - >-
+      Women may not carry loads above 25 kg; aids are preferred anyway.
+    - >-
+      There is no limit, as long as the employee lifts with a straight back.
+    - >-
+      The limit is 15 kg for everyone, set by the Code du travail.
+  correct: 1
+  explanation: >-
+    The Code du travail asks employers to avoid manual handling with aids; men above 55 kg only
+    with medical fitness and never above 105 kg; women not above 25 kg. 15 kg is an INRS guide value for aids.
+
+- id: q3
+  question: >-
+    In the risk assessment of a fournil, "taking trays out of the deck oven" is rated severity 3 and
+    likelihood 3; "sweeping flour" is severity 3 and likelihood 4. Which is the higher priority?
+  options:
+    - >-
+      Sweeping flour, with a score of 12 against 9.
+    - >-
+      The oven, because burns are always the first priority.
+    - >-
+      Both equal, because both have severity 3.
+    - >-
+      Neither, because both are everyday tasks of the trade.
+  correct: 0
+  explanation: >-
+    Severity × likelihood gives 12 for sweeping and 9 for the oven, so sweeping is acted on first
+    (a suitable vacuum replaces the broom); both get actions in the plan.
+
+- id: q4
+  question: >-
+    An apprentice who starts at 3:00 says he often nods off on the drive home at 13:00. What does
+    INRS say about this situation?
+  options:
+    - >-
+      Night work has no proven effect if the worker is young and fit.
+    - >-
+      Drowsiness only matters inside the bakery, not on the road.
+    - >-
+      Night work cuts sleep by 1-2 h a day and raises commuting accidents.
+    - >-
+      Coffee before driving removes the risk, so no action is needed.
+  correct: 2
+  explanation: >-
+    Night work causes a chronic sleep deficit and drowsiness that increase accidents, especially on
+    the journeys to and from work; it should be reported and the schedule and sleep reviewed.
+
+- id: q5
+  question: >-
+    Why does personal protective equipment (oven gloves, goggles) come last in the order of
+    prevention?
+  options:
+    - >-
+      It is the most expensive measure, so it is bought last.
+    - >-
+      It protects only the wearer, and only when worn correctly.
+    - >-
+      The law forbids PPE until all other measures have failed.
+    - >-
+      PPE is meant only for apprentices, not for qualified bakers.
+  correct: 1
+  explanation: >-
+    Removing or reducing the hazard protects everyone, all the time. PPE is still required where
+    the risk remains, but it depends on each person wearing it correctly.

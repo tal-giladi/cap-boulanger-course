@@ -1,0 +1,92 @@
+- id: q1
+  question: >-
+    A 5 m² deck oven is switched on at 2:00 every day, but its card shows a real preheat of 1 h 30 and
+    the first load goes in at 5:30. Using the CNBPF figure for empty running, about how much does
+    switching on at 4:00 save in a year at 0.20 € per kWh?
+  options:
+    - >-
+      About 2.40 € a year, from 12 kWh × 0.20 €
+    - >-
+      About 6,600 € a year, from 3,300 kWh × 2 h
+    - >-
+      About 660 € a year, from 3,300 kWh × 0.20 €
+    - >-
+      About 330 € a year, from half of 3,300 kWh
+  correct: 2
+  explanation: >-
+    Two hours of empty running on a 5 m² deck is about 12 kWh a day, over 3,300 kWh a year; × 0.20 €
+    ≈ 660 €. Counting one day only, or multiplying the yearly figure by the hours again, are the
+    usual slips.
+
+- id: q2
+  question: >-
+    Today's oven plan: baguettes at 250 °C with steam, pains au lait at 180 °C, tradition at 250 °C
+    with steam, croissants. Which order uses the oven's energy best?
+  options:
+    - >-
+      Baguettes and tradition first, then pains au lait on the falling heat
+    - >-
+      Pains au lait first while the oven heats up, then the breads
+    - >-
+      Croissants first with steam, then the breads, then pains au lait
+    - >-
+      Each product on its own preheat so every load starts on a stable deck
+  correct: 0
+  explanation: >-
+    Group the bakes and go from the hottest to the coolest: the 180 °C product then uses heat already
+    stored in the deck. Heating back up after a cool bake costs time and energy, and croissants need
+    no steam.
+
+- id: q3
+  question: >-
+    The cold room is set to −1 °C although the house sheet asks for 0-4 °C. The apprentice resets it
+    to +3 °C. What does the CNBPF guide say about this kind of change?
+  options:
+    - >-
+      Nothing changes, since a cold room uses the same energy at any set point.
+    - >-
+      It is unsafe, since a cold room must always be kept below 0 °C.
+    - >-
+      It saves only on lighting, since the compressor runs at a fixed rate.
+    - >-
+      Each degree colder than needed adds over 5 %, so four degrees warmer saves a lot.
+  correct: 3
+  explanation: >-
+    Set points decide the compressor's work: every degree colder than needed adds more than 5 % to
+    consumption. +3 °C is inside the house range, so the saving costs nothing in safety.
+
+- id: q4
+  question: >-
+    The plonge tap fills a 1 L jug in 5 seconds and runs about an hour a day. An aerator would bring
+    it to 6-8 L/min. About how much water does it save each day?
+  options:
+    - >-
+      About 4-6 L a day, the difference in L/min
+    - >-
+      About 240-360 L a day, from 720 L down to 360-480 L
+    - >-
+      About 720 L a day, since an aerator stops the flow
+    - >-
+      About 12 L a day, from one litre every five seconds
+  correct: 1
+  explanation: >-
+    60 ÷ 5 = 12 L/min, so one hour uses 720 L. At 6-8 L/min the same hour uses 360-480 L: 240-360 L
+    saved. Forgetting to multiply by 60 minutes gives the tiny answers.
+
+- id: q5
+  question: >-
+    On a busy morning the steam generator injects steam on every deck, including the one baking
+    croissants. Which statement is correct?
+  options:
+    - >-
+      Steam helps croissants rise, so it should stay on every deck.
+    - >-
+      Steam costs almost nothing, so leaving it on saves the time of switching.
+    - >-
+      Steam is up to 15 % of a bread bake's energy; switch it off on viennoiserie decks.
+    - >-
+      Steam only matters for gas ovens; electric decks use no extra energy for it.
+  correct: 2
+  explanation: >-
+    Croissants are baked without steam (lesson 07.4 and Module 11), and the CNBPF counts steam as up
+    to 15 % of a bread bake's energy. Steam on the bread decks only; descaled generators work better.

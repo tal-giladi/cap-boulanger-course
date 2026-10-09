@@ -1,0 +1,28 @@
+- **Biodéchets** (*bee-oh-day-SHAY*) — biowaste: food and kitchen waste (dough scraps, spoiled bread, eggshells) and garden waste; every professional must sort it at source since 1 January 2024.
+- **Biosourcé / compostable en compostage domestique** (*bee-oh-soor-SAY / kohm-pos-TAHBL*) — made partly from plant material / breaks down in a home compost; the only thin single-use plastic bags still allowed are both (at least 60 % biosourced, NF T51-800).
+- **Chaleur tombante** (*sha-LUHR tom-BAHNT*) — falling heat: the heat stored in an oven, used for cooler bakes after it is turned down or off.
+- **Chapelure** (*shap-LÜR*) — dried breadcrumbs, a way to reuse unsold plain bread.
+- **Compostage / méthanisation** (*kohm-pos-TAHZH / may-ta-nee-za-SYOHN*) — composting / anaerobic digestion producing biogas: the last levels of the food-waste hierarchy before disposal.
+- **Compteur** (*kohnt-UHR*) — meter (electricity, gas, water); read at night with nothing running, it reveals leaks.
+- **Consigne (de température)** (*kohn-SEEN-yuh*) — set point of a thermostat; every degree colder than needed on a cold unit costs over 5 % more energy.
+- **Contenant du client** (*kohnt-NAHN dü klee-YAHN*) — the customer's own container or bag; a shop must accept it if it is clean and suits the product.
+- **Croûtons** (*kroo-TOHN*) — small cubes of bread toasted or fried; a reuse of unsold bread.
+- **Démarche environnementale** (*day-MARSH ahn-vee-ron-mahn-TAL*) — the company's environmental approach and its written instructions on energy, water, waste and products (C2.7).
+- **Don alimentaire** (*DOHN ah-lee-mahn-TAIR*) — food donation to a food-aid association; gifts valued at cost give a tax reduction.
+- **Eau chaude sanitaire (ECS)** (*oh SHOHD sa-nee-TAIR*) — domestic hot water for sinks, hand basins and showers; stored at about 55 °C.
+- **Écolabel européen / NF Environnement** (*ay-ko-lah-BEL*) — the official EU and French environmental labels, found on some cleaning products.
+- **Emballage** (*ahn-bah-LAHZH*) — packaging; chosen first for the product's quality, then for the least, most sortable material.
+- **Fiche de données de sécurité (FDS)** (*FEESH duh doh-NAY duh say-kü-ree-TAY*) — safety data sheet of a chemical product: dangers, protective equipment, first aid.
+- **Fluides** (*flü-EED*) — the "fluids" of a building: water, electricity, gas, heating, compressed air.
+- **Fuite (d'eau)** (*FWEET*) — water leak; a dripping tap wastes about 15 m³ a year.
+- **Gaspillage alimentaire** (*gas-pee-YAHZH ah-lee-mahn-TAIR*) — food waste: food meant for people that is lost, thrown away or degraded.
+- **Mousseur / limiteur de débit** (*moo-SUHR / lee-mee-TUHR duh day-BEE*) — tap aerator / flow limiter; brings a 12 L/min tap to about 6-8 L/min.
+- **Pain de la veille** (*pan duh lah VAY*) — yesterday's bread; may be sold as such or reused, but a tradition may not be frozen to be sold the next day.
+- **Pain perdu** (*pan pair-DÜ*) — stale bread soaked in milk, egg and sugar, then cooked (French toast); a new product with new allergens.
+- **Préchauffage** (*pray-sho-FAHZH*) — preheating the oven; started from the oven's real preheat time, not from habit.
+- **Produit d'entretien / dosage** (*pro-DWEE dahn-truh-TYAN / doh-ZAHZH*) — cleaning product / its dose per litre of water, read on the label; more does not clean better.
+- **Sobriété énergétique** (*so-bree-ay-TAY ay-nair-zhay-TEEK*) — energy sufficiency: using only the energy the job needs.
+- **Tri sélectif / tri à la source** (*TREE say-lek-TEEF*) — separate sorting of waste where it is produced: biowaste, paper/cardboard, plastic, metal, glass, wood, textiles.
+- **Triman** (*tree-MAHN*) — French logo on packaging, with sorting information, telling the consumer that it is to be sorted.
+- **Usage unique** (*ü-ZAHZH ü-NEEK*) — single-use; many single-use plastic items (cutlery, plates, straws, thin bags) are banned.
+- **Vaisselle réemployable** (*veh-SELL ray-ahn-plwah-YAHBL*) — reusable tableware, required for meals eaten on site where 20 or more people can be served at once.

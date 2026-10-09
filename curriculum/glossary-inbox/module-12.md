@@ -31,6 +31,6 @@
 - **Prêt à cuire (pré-poussé)** (*pret ah KWEER*) — viennoiserie frozen after proofing and baked straight from the freezer; needs formulas made for it.
 - **Raisins secs réhydratés** (*ray-ZAN SEK ray-ee-drah-TAY*) — raisins soaked and drained before use so they do not burn or dry the cream; check the label for sulphites.
 - **Rouler en boudin** (*roo-LAY ahn boo-DAN*) — to roll a piece of dough into an even strand.
-- **Sachet** (*sah-SHAY*) — bag for finished products: paper for crisp viennoiserie, plastic for soft pâte levée once cool.
+- **Sachet** (*sah-SHAY*) — bag for finished products: paper for crisp viennoiserie, a closed bag for soft pâte levée once cool (in France, thin single-use plastic bags must be home-compostable and partly plant-based).
 - **Surgélateur (cellule de surgélation)** (*sür-zhay-lah-TUHR*) — blast freezer: very cold, fast-moving air that freezes products quickly, keeping ice crystals small.
 - **Tresse** (*TRESS*) — braid of one, two or three strands (or more) of pâte levée, braided without tension.

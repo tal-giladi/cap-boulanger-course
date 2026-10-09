@@ -175,4 +175,4 @@ After the second wash there is no colour on thumbs, nails, fingertips or wrists,
 - Wash hands at the start of work, after breaks, toilets, nose-blowing and every dirty operation, before sensitive ones; rub at least 15 seconds and dry with single-use paper.
 - Gloves and gel never replace hand washing.
 - Flour dust causes occupational asthma: pour low, never shake sacks, put water in first, vacuum instead of sweeping.
-- Hygiene, safety and protective equipment are marked in the exam; see [The CAP Boulanger Exam](../../references/cap-exam.md). Module 17 covers food safety in full.
+- Hygiene, safety and protective equipment are marked in the exam; see [The CAP Boulanger Exam](../../references/cap-exam.md). [Module 17](../module-17/lesson-01.md) covers food safety in full.

@@ -96,7 +96,7 @@ So everything the room loses comes out of the condenser, plus the compressor's w
 > [!CAUTION]
 > A walk-in cold room or freezer can trap someone and chill them fast. Know where the inside release and the alarm are and check that they work; limit the time you spend inside and wear warm clothing and gloves for longer jobs; keep the floor dry and free of ice. Never block the door open with product, never lock it with someone possibly inside (INRS ED 4473).
 
-A cabinet that drifts (display or probe outside its setting) is reported on a [non-conformity report](../../templates/non-conformity-report.md), and the products are checked: a crème pâtissière stored too warm is a food-safety question for Module 17, not only a quality one.
+A cabinet that drifts (display or probe outside its setting) is reported on a [non-conformity report](../../templates/non-conformity-report.md), and the products are checked: a crème pâtissière stored too warm is a food-safety question for [Module 17](../module-17/lesson-08.md), not only a quality one.
 
 ## Worked example
 

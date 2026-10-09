@@ -1,0 +1,87 @@
+- id: q1
+  question: >-
+    A supplier offers cheap 20 µm plastic bags "for brioche and pain au lait" with no other marking.
+    Can the bakery hand them out at the counter?
+  options:
+    - >-
+      Yes, because the ban covers only bags given at the till.
+    - >-
+      Yes, if the bakery charges the customer a few cents per bag.
+    - >-
+      No: under 50 µm only home-compostable, 60 % biosourced bags are allowed.
+    - >-
+      No: every plastic bag of any thickness is banned in food shops.
+  correct: 2
+  explanation: >-
+    Single-use plastic bags under 50 µm may not be sold or given anywhere in the shop, unless they are
+    home-compostable (NF T51-800) with at least 60 % biosourced material. Charging does not change it.
+
+- id: q2
+  question: >-
+    The floor detergent's label says 20 mL per litre. The bucket is filled to 8 L. How much product
+    goes in?
+  options:
+    - >-
+      160 mL, from 20 mL × 8 L
+    - >-
+      2.5 mL, from 20 mL ÷ 8 L
+    - >-
+      16 mL, from 2 % of 8 L read as 2 per mille
+    - >-
+      200 mL, a full cap whatever the volume
+  correct: 0
+  explanation: >-
+    Dose × volume: 20 mL per litre × 8 L = 160 mL. More does not clean better; it costs money, leaves
+    residues and raises the exposure of the person cleaning.
+
+- id: q3
+  question: >-
+    A bakery adds a snack area with 26 seats. Which rule applies to sandwiches eaten on site?
+  options:
+    - >-
+      Paper plates and wooden cutlery are enough for meals eaten on site.
+    - >-
+      Single-use plastic plates are allowed if they are recycled afterwards.
+    - >-
+      The rule applies only to restaurants with table service, not bakeries.
+    - >-
+      Reusable plates, cups and cutlery, since 20 or more can be served at once.
+  correct: 3
+  explanation: >-
+    Where 20 or more people can be served at the same time, meals eaten on site use reusable tableware.
+    Single-use plastic plates and cutlery are banned in any case.
+
+- id: q4
+  question: >-
+    Which packaging keeps a baguette sold in the morning at its best for the customer?
+  options:
+    - >-
+      A closed plastic bag, so the crumb does not dry out
+    - >-
+      A paper bag or the customer's cloth bag, so steam escapes
+    - >-
+      Cling film, so the crust is protected from handling
+    - >-
+      A closed cardboard box, so the shape is protected
+  correct: 1
+  explanation: >-
+    A crusty bread keeps its crust only if moisture can escape; plastic or film turns it leathery within
+    hours (lesson 07.5). Paper or a reusable cloth bag also produces the least waste.
+
+- id: q5
+  question: >-
+    The plonge sink smells of chlorine after the commis used a descaler and then poured in bleach "to
+    be sure". What happened and what must he do?
+  options:
+    - >-
+      Nothing serious: the smell shows the bleach is working, so carry on.
+    - >-
+      The products neutralised each other, so pour in more bleach and rinse.
+    - >-
+      Bleach and acid released chlorine: leave, ventilate, first aid, report.
+    - >-
+      The descaler was too old, so replace it and repeat the same order.
+  correct: 2
+  explanation: >-
+    INRS warns that bleach mixed with an acid descaler gives off chlorine, a toxic gas. Leave the room,
+    ventilate, follow the first-aid procedure and report; one product at a time, rinsed between.

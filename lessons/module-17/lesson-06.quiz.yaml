@@ -1,0 +1,89 @@
+- id: q1
+  question: >-
+    A customer asks whether your unwrapped baguettes and croissants contain milk. What does French
+    law require you to have for these loose products?
+  options:
+    - >-
+      Nothing, because unwrapped bakery products are exempt from allergen rules.
+    - >-
+      A full printed label with a nutrition table on every croissant.
+    - >-
+      Written allergen information that the customer can consult in the shop.
+    - >-
+      A verbal answer from the baker, as long as it is given politely.
+  correct: 2
+  explanation: >-
+    Allergen information is mandatory for non-prepacked food (INCO article 44), and France
+    requires it in writing (décret 2015-447), usually as an allergen table at the till.
+
+- id: q2
+  question: >-
+    Which of these bakery ingredients brings one of the 14 regulated allergens that is easy to
+    miss?
+  options:
+    - >-
+      Soy lecithin in baking chocolate sticks.
+    - >-
+      Sunflower seeds in the seeded loaf.
+    - >-
+      Fresh yeast in the baguette dough.
+    - >-
+      Grey sea salt from Guérande marshes.
+  correct: 0
+  explanation: >-
+    Soy is one of the 14 allergens and most baking chocolate contains soy lecithin. Sunflower
+    seeds, yeast and salt are not on the Annex II list.
+
+- id: q3
+  question: >-
+    A prepacked brioche label lists "farine de blé, œufs, beurre, sucre, levure, sel". What is
+    wrong with it under EU rules?
+  options:
+    - >-
+      The ingredients must be in alphabetical order, not by weight.
+    - >-
+      Salt and yeast must not appear on a brioche label.
+    - >-
+      The word "brioche" is a protected name and needs a licence.
+    - >-
+      The allergens (wheat, eggs, butter) must stand out, e.g. in bold.
+  correct: 3
+  explanation: >-
+    Article 21 requires the Annex II allergens to stand out in the ingredient list by their
+    typeset. Ingredients are listed in descending order of weight.
+
+- id: q4
+  question: >-
+    You make plain rolls, croissants and a sesame loaf on the same bench this morning. Which plan
+    best limits allergen cross-contact?
+  options:
+    - >-
+      Sesame loaf first so the seeds are used while fresh, then the rest.
+    - >-
+      Plain rolls, then croissants, sesame loaf last, then clean bench and tools.
+    - >-
+      All three at once, each on its own part of the bench.
+    - >-
+      Any order, as long as a "may contain" sign is posted in the shop.
+  correct: 1
+  explanation: >-
+    Products without the allergen come first and the allergen batch last, followed by cleaning.
+    A precautionary statement does not replace controlling cross-contact.
+
+- id: q5
+  question: >-
+    Your raisin supplier changes and the new raisins' label lists "anhydride sulfureux". What
+    must you do before selling pains aux raisins made with them?
+  options:
+    - >-
+      Nothing, because sulphites are a preservative, not an allergen.
+    - >-
+      Soak the raisins longer so the sulphites are washed out.
+    - >-
+      Add sulphites to the allergen table if above the 10 mg/kg threshold.
+    - >-
+      Stop using raisins, because sulphites are banned in bread.
+  correct: 2
+  explanation: >-
+    Sulphur dioxide and sulphites above 10 mg/kg are one of the 14 allergens. Every supplier change
+    is checked and the table updated before sale; when in doubt, declare them.

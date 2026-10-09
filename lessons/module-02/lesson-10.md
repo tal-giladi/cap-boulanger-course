@@ -26,7 +26,7 @@ Most French bakeries sell more than bread: sandwiches, quiches, croque-monsieur,
 
 ## Why it matters
 
-Flour, salt and sugar are dry and stable; a filling is wet, protein-rich and often eaten without further cooking, which is exactly what bacteria such as *Listeria*, *Salmonella* and *Staphylococcus aureus* need. One mistake in temperature or dating can make customers ill and close a business. The CAP expects you to cite storage rules and precautions for ready-to-use products (S2.3) and to apply food-safety measures in production (C2.6). Module 17 covers hygiene and HACCP in depth; this lesson focuses on the products.
+Flour, salt and sugar are dry and stable; a filling is wet, protein-rich and often eaten without further cooking, which is exactly what bacteria such as *Listeria*, *Salmonella* and *Staphylococcus aureus* need. One mistake in temperature or dating can make customers ill and close a business. The CAP expects you to cite storage rules and precautions for ready-to-use products (S2.3) and to apply food-safety measures in production (C2.6). [Module 17](../module-17/lesson-05.md) covers hygiene and HACCP in depth; this lesson focuses on the products.
 
 ## Key terms
 
@@ -103,7 +103,7 @@ flowchart LR
 
 ### Allergens in fillings
 
-Fillings bring many of the 14 regulated allergens: milk (cheese, cream, béchamel), eggs, fish, crustaceans, mustard, celery, sesame, nuts. For products sold unwrapped in the shop, French rules (décret n° 2015-447) require the allergen information to be available in writing to customers. Keep the label or technical sheet of every bought-in product so you know what each filling contains (lesson 17.6).
+Fillings bring many of the 14 regulated allergens: milk (cheese, cream, béchamel), eggs, fish, crustaceans, mustard, celery, sesame, nuts. For products sold unwrapped in the shop, French rules (décret n° 2015-447) require the allergen information to be available in writing to customers. Keep the label or technical sheet of every bought-in product so you know what each filling contains ([lesson 17.6](../module-17/lesson-06.md)).
 
 ## Worked example
 

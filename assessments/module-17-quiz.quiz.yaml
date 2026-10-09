@@ -1,0 +1,195 @@
+- id: q1
+  question: >-
+    Delivery note, Laiterie du Val, 6:20: "Crème liquide 35 % UHT 12 × 1 L | Lait entier pasteurisé
+    10 × 1 L, DLC J+6 | Beurre de tourage 84 % 10 × 2 kg, à conserver +2/+8 °C". Your checks: UHT
+    cream cartons intact; milk 9 °C between two packs; butter 7 °C, health mark present, cartons
+    intact. Which decision is correct?
+  options:
+    - >-
+      Accept all three lines, then put the milk at the back of the cold room to cool.
+    - >-
+      Refuse the whole delivery because one line is out of temperature.
+    - >-
+      Accept cream and butter; refuse the milk and write "9 °C, limite +7 °C" on the note.
+    - >-
+      Accept the milk with a reservation and use it first this morning.
+  correct: 2
+  explanation: >-
+    Pasteurised milk is very perishable (0 to +4 °C target, +7 °C critical limit at reception),
+    so 9 °C is refused with the measurement written. Butter is perishable (up to +8 °C, limit
+    +11 °C) and UHT cream is stable until opened.
+
+- id: q2
+  question: >-
+    Freezer log, conservateur 2: "Lun −19 °C | Mar −19 °C | Mer −9 °C (coupure de courant la nuit)
+    | Jeu −18 °C". It holds raw frozen croissants. On Wednesday morning the croissants read −11 °C
+    at the core. What should have been done?
+  options:
+    - >-
+      Thaw them in the cold and use them as fresh products, then report.
+    - >-
+      Leave them in the freezer, since the reading was back to −18 °C on Thursday.
+    - >-
+      Discard every product in the freezer whatever its temperature.
+    - >-
+      Refreeze them quickly in the blast freezer and keep their date.
+  correct: 0
+  explanation: >-
+    Frozen products whose core is between −15 °C and +4 °C are thawed in the cold and used as fresh
+    products (CNBPF); they are never refrozen. The break is recorded and its cause dealt with.
+
+- id: q3
+  question: >-
+    Cooling log, crème pâtissière CP-01, Friday: "Cuisson ébullition 1 min 8:58 | 63 °C à 9:05 |
+    35 °C à 9:50 | 18 °C à 10:40 | 10 °C à 11:20 | cellule pleine, refroidie sur le plan de
+    travail". What happens to this cream and why?
+  options:
+    - >-
+      It is used today, because it was boiled and so contains no bacteria.
+    - >-
+      It goes back on the heat for a minute, then is cooled properly on ice.
+    - >-
+      It is used, because it reached 10 °C before 12:00, within the rule.
+    - >-
+      It is discarded, because 63 → 10 °C took 2 h 15 min, over the 2-hour limit.
+  correct: 3
+  explanation: >-
+    Cooling is a critical control point: the core must go from +63 °C to +10 °C in 2 hours or
+    less. Missed limit means the planned corrective action, discard and record; re-boiling cannot
+    remove toxins already formed.
+
+- id: q4
+  question: >-
+    Label on a bag of 6 pains au lait made and sealed in your bakery: "Pains au lait. Ingrédients :
+    farine de blé, lait, sucre, beurre, œufs, levure, sel. 6 × 45 g. À consommer de préférence
+    avant le 14/10." No other information. What does it need to comply?
+  options:
+    - >-
+      Nothing more: a bakery's own products are exempt from labelling.
+    - >-
+      Allergens shown in bold, plus the bakery's name and address.
+    - >-
+      Only a Nutri-Score logo, because the bag counts as prepacked.
+    - >-
+      Only a "may contain traces of nuts" warning, to be safe.
+  correct: 1
+  explanation: >-
+    A prepacked product carries the INCO particulars: the allergens must stand out in the
+    ingredient list, and the operator's name and address must appear. The Nutri-Score is voluntary;
+    "may contain" is not a substitute.
+
+- id: q5
+  question: >-
+    Extract of the shop's allergen table: "Pain au chocolat : gluten ✓ lait ✓ œufs ✓ soja — ". The
+    new chocolate sticks' technical sheet reads: "pâte de cacao, sucre, beurre de cacao, émulsifiant
+    : lécithine de soja; peut contenir des traces de lait et de fruits à coque". What is the error
+    and the fix?
+  options:
+    - >-
+      Soy is missing: tick soja and note the nut traces from the sheet.
+    - >-
+      Nothing: lecithin is an additive, so it is never an allergen.
+    - >-
+      Milk must be removed, because the chocolate only "may contain" it.
+    - >-
+      Eggs must be removed, because chocolate contains no egg.
+  correct: 0
+  explanation: >-
+    Soy lecithin brings soy, one of the 14 allergens. The milk and egg of the pastry stay; the
+    supplier's nut warning goes in the traces column so staff can answer honestly.
+
+- id: q6
+  question: >-
+    Extract of a cleaning plan: "Plan de travail viennoiserie — eau de Javel diluée dans l'eau
+    chaude du robinet — pulvériser et essuyer aussitôt — après chaque production — apprenti." Which
+    correction makes it effective and safe?
+  options:
+    - >-
+      Use the bleach undiluted so that it works faster in a short time.
+    - >-
+      Add a descaler to the bleach to remove the hard-water marks too.
+    - >-
+      Clean first, cold water at the label's dose, full contact time, rinse.
+    - >-
+      Keep it as written, because bleach kills everything on contact.
+  correct: 2
+  explanation: >-
+    A disinfectant works on a cleaned surface, at its dose and for its contact time; hot water
+    decomposes bleach; bleach is never mixed with an acid descaler (toxic gas).
+
+- id: q7
+  question: >-
+    Note from the manager, Monday: "Trois clients d'une même entreprise ont eu des vomissements
+    violents 2 à 4 h après avoir mangé nos éclairs. Pas de fièvre." Which pathogen and which
+    weak point should you look at first?
+  options:
+    - >-
+      Listeria, from the cold room; check the drains.
+    - >-
+      Salmonella, from raw flour; check the flour supplier.
+    - >-
+      Clostridium botulinum, from the cream; check the vacuum packs.
+    - >-
+      Staphylococcus aureus toxin; check hands, wounds, cooling.
+  correct: 3
+  explanation: >-
+    Violent vomiting after a few hours without fever fits a staphylococcal toxin made in a handled
+    cream. Wounds, hand hygiene and slow cooling are the usual causes; the cooling log is the
+    evidence.
+
+- id: q8
+  question: >-
+    One worker's plan for the finishing bench, Tuesday: "6:00 casser 30 œufs pour l'appareil à
+    quiche | 6:20 garnir 24 éclairs | 6:50 monter 40 sandwichs | 7:30 nettoyage et désinfection".
+    What is wrong with this plan?
+  options:
+    - >-
+      Nothing: all tasks are on one bench, so one cleaning at the end is enough.
+    - >-
+      The dirty job comes first; do the éclairs and sandwiches first, clean, then the eggs.
+    - >-
+      The sandwiches should come before the éclairs because they are sold first.
+    - >-
+      Eggs must never be cracked in a bakery that sells sandwiches.
+  correct: 1
+  explanation: >-
+    The marche en avant in time goes from the cleanest job to the dirtiest, with cleaning and
+    disinfection between. Raw egg first contaminates the bench for the ready-to-eat products.
+
+- id: q9
+  question: >-
+    RappelConso notice: "Beurre doux 82 % 250 g, lot L2410-03, DLC 30/10, présence possible de
+    Listeria monocytogenes." Your delivery file shows the lot was received on 18/10 and used in
+    croissants and sandwiches. What does the bakery do first?
+  options:
+    - >-
+      Withdraw and destroy the lot and its products; inform customers.
+    - >-
+      Keep selling the croissants, because baking destroys Listeria.
+    - >-
+      Wait for a customer complaint before doing anything at all.
+    - >-
+      Return the butter to the supplier and keep the sandwiches on sale.
+  correct: 0
+  explanation: >-
+    The records show the lot was used: products made from it are withdrawn and destroyed, and
+    customers informed with a notice. Sandwiches are not cooked after the butter is added.
+
+- id: q10
+  question: >-
+    Extract of a bakery's document unique: "Vidage des sacs de 25 kg dans le pétrin ouvert, sacs
+    posés au sol — poussière de farine, dos — gravité 4, probabilité 4." Which action plan follows
+    the order of prevention?
+  options:
+    - >-
+      Provide dust masks and back belts; keep the method unchanged.
+    - >-
+      Ask staff to lift faster to shorten the time of exposure.
+    - >-
+      Raise sacks to waist height, cover the mixer, pour gently; mask last.
+    - >-
+      Remove the task from the document so the score disappears.
+  correct: 2
+  explanation: >-
+    Prevention starts at the source (lifting height, covered mixer, pouring method, INRS) and
+    personal protection comes last. The risk scores 16, so it is the top priority.

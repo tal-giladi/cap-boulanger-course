@@ -76,7 +76,7 @@ A programmable cabinet runs four phases: **cooling** the pieces quickly, **block
 | Longer apprêt after the cold | the pieces must warm before fermenting at full speed | plan it; check with the poke test |
 | Dry skin or condensation | cabinet humidity wrong, pieces uncovered | cover in the cold room; set humidity |
 
-Food-safety note: dough is a food. In the cold room keep it covered, labelled (product, date, time) and away from raw products, like any other preparation (Module 17).
+Food-safety note: dough is a food. In the cold room keep it covered, labelled (product, date, time) and away from raw products, like any other preparation ([Module 17](../module-17/lesson-08.md)).
 
 ## Worked example
 

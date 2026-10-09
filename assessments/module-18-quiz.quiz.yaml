@@ -1,0 +1,191 @@
+- id: q1
+  question: >-
+    Oven log, Boulangerie Au Pain de la Halle: "Four à soles 3 étages, 5 m² par étage. Mise en route
+    habituelle 1:45. Premier enfournement 5:30. Temps de chauffe réel (carte du four) 1 h 30. Électricité
+    0,20 € le kWh." Using the CNBPF figure for a 5 m² deck running empty, what is the right decision and
+    its order of saving?
+  options:
+    - >-
+      Keep 1:45, since a longer preheat stores heat and saves energy later
+    - >-
+      Start at 4:00; about 2 h empty saved, roughly 12 kWh a day and 660 € a year
+    - >-
+      Start at 5:00; the oven heats faster when it starts closer to the load
+    - >-
+      Start at 4:00; about 12 kWh saved a year, roughly 2.40 € in total
+  correct: 1
+  explanation: >-
+    5:30 − 1 h 30 = 4:00. Two hours of empty running on a 5 m² deck is about 12 kWh a day, over 3,300
+    kWh a year, about 660 € at 0.20 €. Starting at 5:00 cuts below the real preheat; the last option
+    counts one day as a year.
+
+- id: q2
+  question: >-
+    Draft oven plan for one deck: "6:00 pains au lait 180 °C; 6:30 baguettes 250 °C buée; 7:15
+    tradition 250 °C buée; 8:00 croissants 190 °C buée." Which corrected plan follows the energy rules
+    without harming the products?
+  options:
+    - >-
+      Keep the order and add steam to the pains au lait for a softer crust
+    - >-
+      Bake every product at 250 °C so the deck never changes temperature
+    - >-
+      Keep the order but switch the oven off between each load to save energy
+    - >-
+      Baguettes and tradition first with steam, then croissants and pains au lait, no steam
+  correct: 3
+  explanation: >-
+    Hottest first lets the cooler products use stored, falling heat instead of reheating the deck after
+    a 180 °C bake. Steam is for the breads only: viennoiserie is baked without it, and steam is up to
+    15 % of a bread bake's energy.
+
+- id: q3
+  question: >-
+    Temperature log, Monday: "Chambre froide positive: consigne −1 °C, relevé 0 °C. Congélateur:
+    consigne −24 °C, relevé −23 °C." The house sheet says cold room 0-4 °C, freezer −18 °C. What do you
+    recommend?
+  options:
+    - >-
+      Reset both to the house values: each degree colder than needed costs over 5 %
+    - >-
+      Keep both colder settings, since colder is always safer for food
+    - >-
+      Lower the cold room further to −4 °C so it can be opened more often
+    - >-
+      Keep the freezer and raise only the cold room, since freezers use little energy
+  correct: 0
+  explanation: >-
+    The CNBPF gives −18 °C and +4 °C as the right temperatures and over 5 % more consumption per degree
+    colder. The house sheet's values are safe; extra cold is paid for every hour.
+
+- id: q4
+  question: >-
+    Water meter, Saturday 20:00 after cleaning: 1,245.300 m³. Sunday 6:00, shop closed, nothing used:
+    1,245.315 m³. What does this show?
+  options:
+    - >-
+      Normal evaporation in the pipes, which no meter can avoid
+    - >-
+      A 15 m³ leak overnight that must be reported to the water company
+    - >-
+      About 15 L in 10 hours, a leak of 1.5 L/h, around 13 m³ a year
+    - >-
+      A reading error, since meters only move when a tap is opened
+  correct: 2
+  explanation: >-
+    0.015 m³ = 15 L in 10 hours = 1.5 L/h, the size of a dripping tap (about 15 m³ a year in the CCI
+    table). The overnight reading is exactly the test for hidden leaks; reading m³ as litres gives the
+    huge answer.
+
+- id: q5
+  question: >-
+    Sales sheet, one week: "Baguettes invendues: 28/jour en moyenne, dont 22 de la fournée de 16:00
+    (60 pièces)." Following the legal order of priority, what is the first action?
+  options:
+    - >-
+      Reduce the 16:00 load and add a small later load if the shelf empties
+    - >-
+      Sign a donation agreement so all 28 baguettes go to an association
+    - >-
+      Turn all 28 baguettes into chapelure for the snack counter each day
+    - >-
+      Order a biowaste collection large enough for the daily unsold bread
+  correct: 0
+  explanation: >-
+    Prevention comes first: the unsold counts show the 16:00 load is too large. Donation and processing
+    (level 2) and biowaste (level 4) handle what remains after the load is resized.
+
+- id: q6
+  question: >-
+    Two businesses in one street: a craft bakery with a 70 m² shop using the municipal collection, and
+    a supermarket of 1,500 m² with an in-store bake-off. Which statement is correct?
+  options:
+    - >-
+      Both must offer a donation agreement, since both sell bread every day
+    - >-
+      Neither must sort biowaste, since bread is not classed as kitchen waste
+    - >-
+      Only the craft bakery must sort biowaste, since it bakes from raw dough
+    - >-
+      Only the supermarket must offer a donation agreement; both sort biowaste
+  correct: 3
+  explanation: >-
+    Donation agreements apply to food distributors over 400 m² (and large operators), not to a craft
+    bakery. Biowaste sorting at source has applied to every professional, whatever the quantity, since
+    1 January 2024.
+
+- id: q7
+  question: >-
+    Draft technical sheet: "TR-02 Tradition de récupération: farine T65 95 %, pain de tradition de la
+    veille séché et broyé 5 %, eau 70 %, sel 1,8 %, levure 0,6 %. Étiquette: baguette de tradition."
+    What is your verdict?
+  options:
+    - >-
+      Allowed, because the recycled bread was itself a tradition without additives
+    - >-
+      Allowed up to 2 % of the flour, the decree's limit for added flours
+    - >-
+      Not a tradition: the dough may contain only flour, water, salt, yeast or levain
+    - >-
+      Not a tradition only because the recycled bread was dried in the oven
+  correct: 2
+  explanation: >-
+    Article 2 of décret 93-1074 composes the tradition dough exclusively of wheat flours, drinking water
+    and salt, fermented with yeast and/or levain (plus small amounts of bean, soy and malt flour). With
+    bread in it, the loaf is a pain courant and must be named so.
+
+- id: q8
+  question: >-
+    Delivery note, packaging supplier: "1) Sacs plastique 12 µm 'biodégradables', sans autre marquage;
+    2) Sachets papier kraft baguette; 3) Couverts plastique jetables; 4) Boîtes carton pâtisserie."
+    Which lines must the bakery refuse?
+  options:
+    - >-
+      Lines 2 and 4, because paper and cardboard cannot be recycled once greasy
+    - >-
+      Lines 1 and 3: thin bags not home-compostable and plastic cutlery are banned
+    - >-
+      Line 3 only, because any bag marked biodegradable is allowed at the counter
+    - >-
+      Line 1 only, because plastic cutlery is allowed when given free of charge
+  correct: 1
+  explanation: >-
+    A bag under 50 µm needs to be home-compostable (NF T51-800) with at least 60 % biosourced material;
+    "biodegradable" alone is not that. Single-use plastic cutlery is banned from sale and free giving.
+
+- id: q9
+  question: >-
+    Cleaning product label: "Détergent sols. Dosage: 1 % (10 mL par litre d'eau). Gants. Ne pas
+    mélanger." The bucket holds 12 L. How much product goes in?
+  options:
+    - >-
+      120 mL, from 10 mL × 12 L
+    - >-
+      12 mL, from 1 % read as 1 mL per litre
+    - >-
+      1,200 mL, from 10 % of 12 L
+    - >-
+      10 mL, the dose whatever the volume
+  correct: 0
+  explanation: >-
+    10 mL per litre × 12 L = 120 mL (1 % of 12,000 mL). Under-dosing fails to clean; overdosing wastes
+    product and rinsing water and raises exposure.
+
+- id: q10
+  question: >-
+    Donation register: "15 viennoiseries par jour données à l'épicerie solidaire, 300 jours. Coût de
+    revient 0,25 €, prix de vente 1,20 €." The association provides free meals to people in difficulty.
+    What tax reduction can the bakery claim?
+  options:
+    - >-
+      About 3,240 €: 60 % of 5,400 € at the selling price
+    - >-
+      About 450 €: 40 % of 1,125 € at cost
+    - >-
+      About 675 €: 60 % of 1,125 € valued at cost
+    - >-
+      About 1,125 €: the full cost of the products given
+  correct: 2
+  explanation: >-
+    Gifts in kind are valued at cost: 15 × 300 × 0.25 € = 1,125 €. For organisations providing free
+    meals the reduction is 60 %: about 675 €, within the ceiling of 20,000 € or 0.5 % of turnover.

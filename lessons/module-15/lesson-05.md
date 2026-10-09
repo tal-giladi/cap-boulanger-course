@@ -67,7 +67,7 @@ Products go out **cooled and checked**, never straight from the oven: a warm bag
 |---|---|
 | **Clean** | baskets, shelves, trays, tongs and glass cleaned before opening; no flour dust or crumbs on the viennoiserie trays |
 | **By family** | breads together (baguettes, traditions, shaped pieces, special breads), viennoiserie together, sweet apart from savoury; the same product always in the same place, so customers and staff find it |
-| **Labelled** | a placard for each category of bread on display with its name and price, and a window poster of the main breads and prices; legal names used only when true (tradition, maison, au levain: lesson [09.1](../module-09/lesson-01.md)); written allergen information available for unwrapped products (lesson [02.11](../module-02/lesson-11.md); detail in Module 17) |
+| **Labelled** | a placard for each category of bread on display with its name and price, and a window poster of the main breads and prices; legal names used only when true (tradition, maison, au levain: lesson [09.1](../module-09/lesson-01.md)); written allergen information available for unwrapped products (lesson [02.11](../module-02/lesson-11.md); detail in [Module 17](../module-17/lesson-06.md)) |
 | **Visible and tidy** | large pieces at the back, small at the front; baguettes upright in baskets, scores facing the customer; viennoiserie in straight rows, all turned the same way; full shelves that are not crammed |
 | **Protected** | products out of customers' reach, behind the counter or under glass, served with tongs or paper, never by hand |
 | **In the right conditions** | away from the oven door, radiators and direct sun; each product held the way it keeps best (table below) |
@@ -81,7 +81,7 @@ Products go out **cooled and checked**, never straight from the oven: a warm bag
 | Large loaves (campagne, complet) | on the shelf, whole; cut to order or as halves on request | a large loaf keeps longer whole; a cut face dries |
 | Pain de mie | in its bag once fully cool, or whole and sliced to order | it is meant to stay soft ([10.5](../module-10/lesson-05.md)) |
 | Croissant, pain au chocolat | single layer on clean trays, not stacked | weight crushes the layers; sold the same day ([12.5](../module-12/lesson-05.md)) |
-| Pain aux raisins | single layer, sold the same day | its cream is part of the product's food-safety rules ([12.2](../module-12/lesson-02.md); Module 17) |
+| Pain aux raisins | single layer, sold the same day | its cream is part of the product's food-safety rules ([12.2](../module-12/lesson-02.md); [Module 17](../module-17/lesson-08.md)) |
 | Brioche, pain au lait | trays or bags; 2-3 days in a closed bag | enriched doughs stay soft longer ([12.5](../module-12/lesson-05.md)) |
 
 ### Timing and refills

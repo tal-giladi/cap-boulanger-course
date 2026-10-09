@@ -1,0 +1,87 @@
+- id: q1
+  question: >-
+    A detergent-disinfectant label says "2 %, bactericidal in 5 minutes at 20 °C". How much product
+    goes into a 4 L bucket?
+  options:
+    - >-
+      8 mL, because 2 % of 4 L is 8 mL.
+    - >-
+      80 mL, because 2 % of 4,000 mL is 80 mL.
+    - >-
+      200 mL, because a bucket needs about 50 mL per litre.
+    - >-
+      20 mL, because the label means 20 mL whatever the volume.
+  correct: 1
+  explanation: >-
+    4,000 mL × 0.02 = 80 mL (20 mL per litre). Too little gives a partial result; too much wastes
+    product and leaves residues even after rinsing.
+
+- id: q2
+  question: >-
+    The apprentice sprays disinfectant on the shaping bench, still floury from the last batch, and
+    wipes it off 10 seconds later. Which two factors of Sinner's circle are missing?
+  options:
+    - >-
+      Temperature and concentration of the solution.
+    - >-
+      Concentration and the type of cloth used.
+    - >-
+      Mechanical action (clearing first) and contact time.
+    - >-
+      Water hardness and the temperature of the room.
+  correct: 2
+  explanation: >-
+    Soil must be scraped and cleaned off before disinfecting, and the disinfectant needs its full
+    contact time. A floury surface shields microbes and uses up the product.
+
+- id: q3
+  question: >-
+    A cleaner wants to remove limescale around the tap with an acid descaler right after
+    disinfecting the sink with bleach, "to do both at once". What is the danger?
+  options:
+    - >-
+      Bleach and acid together release a toxic gas.
+    - >-
+      The descaler cancels the bleach, so the sink stays dirty.
+    - >-
+      The mixture leaves white streaks that look unprofessional.
+    - >-
+      Bleach makes the descaler too weak to remove scale.
+  correct: 0
+  explanation: >-
+    Bleach releases a toxic gas in contact with acids (INRS). Products are never mixed; each is
+    used on its own, rinsed off, with the protective equipment its label asks for.
+
+- id: q4
+  question: >-
+    Which item is NOT part of a pest-control plan?
+  options:
+    - >-
+      A map showing where the bait stations and traps are placed.
+    - >-
+      The technical and safety sheets of the products used.
+    - >-
+      The reports of each inspection or treatment visit.
+    - >-
+      The dilution and contact time of the bench disinfectant.
+  correct: 3
+  explanation: >-
+    The pest-control plan lists the devices, their locations, the product sheets, the check
+    frequency and the visit reports. Disinfectant doses belong in the cleaning plan.
+
+- id: q5
+  question: >-
+    Why must cleaning come before disinfection on a bench covered with dough and butter?
+  options:
+    - >-
+      Disinfectants work only on surfaces at room temperature.
+    - >-
+      Dough and fat shield microbes and use up the disinfectant.
+    - >-
+      The disinfectant would otherwise make the dough too salty.
+    - >-
+      Cleaning products are cheaper, so they should be used up first.
+  correct: 1
+  explanation: >-
+    Soil protects microbes and neutralises part of the disinfectant. A clean surface lets the
+    disinfectant reach the microbes for its full contact time.

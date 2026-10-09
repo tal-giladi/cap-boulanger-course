@@ -28,7 +28,7 @@ A pain au lait, a brioche or a pain de mie is still bread, but sugar, fat, milk 
 
 ## Why it matters
 
-[Module 12](../module-12/lesson-03.md) (pâte levée: pain au lait, pain brioché, brioche) and [Module 11](../module-11/lesson-03.md) (croissant) depend on these ingredients. Each one changes gluten, fermentation and colour in a predictable way, so you can adjust: more yeast for sugar, more mixing for butter, lower oven for colour. They are also perishable and allergenic (milk and eggs are two of the 14 regulated allergens), so receiving and storing them correctly is part of food safety (Module 17).
+[Module 12](../module-12/lesson-03.md) (pâte levée: pain au lait, pain brioché, brioche) and [Module 11](../module-11/lesson-03.md) (croissant) depend on these ingredients. Each one changes gluten, fermentation and colour in a predictable way, so you can adjust: more yeast for sugar, more mixing for butter, lower oven for colour. They are also perishable and allergenic (milk and eggs are two of the 14 regulated allergens), so receiving and storing them correctly is part of food safety ([Module 17](../module-17/lesson-07.md)).
 
 ## Key terms
 

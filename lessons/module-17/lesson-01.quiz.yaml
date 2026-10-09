@@ -1,0 +1,86 @@
+- id: q1
+  question: >-
+    A tray of crème pâtissière, boiled at 7:00, is found on a 28 °C bench at 10:30. It smells and
+    looks normal. What should happen to it?
+  options:
+    - >-
+      Put it in the cold room now and use it this afternoon as planned.
+    - >-
+      Boil it again for one minute, cool it on ice and use it today.
+    - >-
+      Discard it and record why, because it spent hours in the danger zone.
+    - >-
+      Taste a little first and decide from the flavour whether to keep it.
+  correct: 2
+  explanation: >-
+    Three hours between +63 °C and +10 °C breaks the 2-hour cooling rule. Smell does not reveal
+    pathogens, cooling only stops growth, and re-boiling does not destroy staphylococcal toxin.
+
+- id: q2
+  question: >-
+    Which statement about freezing a cream filling at −18 °C is correct?
+  options:
+    - >-
+      It stops microbes multiplying but does not kill them.
+    - >-
+      It kills the bacteria, so the thawed cream is safer than fresh.
+    - >-
+      It kills moulds and yeasts but not bacteria or their spores.
+    - >-
+      It works only if the cream is first vacuum-packed without air.
+  correct: 0
+  explanation: >-
+    Cold, freezing and drying only stop growth; only heat (and chemicals, for equipment) destroys
+    microbes. A thawed product is treated like a fresh one and is never refrozen.
+
+- id: q3
+  question: >-
+    Why does a dry sack of flour not grow bacteria even though it contains starch and proteins?
+  options:
+    - >-
+      Its pH is too acidic for any bacterium to survive.
+    - >-
+      It has too little available water for microbes to multiply.
+    - >-
+      Milling heats the flour enough to sterilise it.
+    - >-
+      Flour contains natural preservatives added at the mill.
+  correct: 1
+  explanation: >-
+    Microbes need available water (aw). Flour is too dry, so microbes in it stay dormant; once
+    water is added in the dough, the conditions change.
+
+- id: q4
+  question: >-
+    In the bread-slice test, the slice touched with a gloved hand after handling a phone moulds as
+    much as the unwashed-hand slice. What is the right conclusion?
+  options:
+    - >-
+      Disposable gloves are useless and should never be worn in a bakery.
+    - >-
+      The glove probably had a hole, so the test should be ignored.
+    - >-
+      Gloves protect food only when they are thicker, reusable ones.
+    - >-
+      A glove that touched a dirty object is dirty and must be changed.
+  correct: 3
+  explanation: >-
+    Gloves carry whatever they touch. They never replace hand washing and must be changed after
+    any dirty contact, such as a phone, money or a bin lid.
+
+- id: q5
+  question: >-
+    Which microorganism is useful in a bakery and which family does it belong to?
+  options:
+    - >-
+      Listeria, a bacterium that gives levain its sour taste.
+    - >-
+      Saccharomyces cerevisiae, a yeast that ferments sugars in dough.
+    - >-
+      Staphylococcus aureus, a bacterium that helps crust browning.
+    - >-
+      Penicillium, a mould that improves bread keeping.
+  correct: 1
+  explanation: >-
+    Baker's yeast, Saccharomyces cerevisiae, makes carbon dioxide and ethanol (panary fermentation).
+    Lactic bacteria, not Listeria, flavour levain; moulds and staphylococci are harmful in bread.

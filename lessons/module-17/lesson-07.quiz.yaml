@@ -1,0 +1,89 @@
+- id: q1
+  question: >-
+    Delivery note line: "Ovoproduit œuf entier pasteurisé, 6 × 1 L, à conserver à +4 °C max."
+    Your probe between two packs reads 8.5 °C. What do you do?
+  options:
+    - >-
+      Accept it and put it straight into the cold room to cool down.
+    - >-
+      Refuse it and write the temperature on the delivery note.
+    - >-
+      Accept it with a reservation and use it first tomorrow.
+    - >-
+      Accept it, because the tolerance for very perishables is +10 °C.
+  correct: 1
+  explanation: >-
+    Very perishable goods target 0 to +4 °C with a critical limit of +7 °C at reception. At
+    8.5 °C the line is refused, the reason and measurement written on the note and reported.
+
+- id: q2
+  question: >-
+    Ten sacks of T45 arrive instead of the T55 you ordered; the sacks are dry and intact. What is
+    the correct reaction?
+  options:
+    - >-
+      Accept with a written reservation and tell the manager at once.
+    - >-
+      Refuse the whole delivery, including the correct flours.
+    - >-
+      Sign without remark and use the T45 in the T55 formulas.
+    - >-
+      Accept and correct the order form so it matches the delivery.
+  correct: 0
+  explanation: >-
+    The goods are safe but not what was ordered: write it on the delivery note before signing and
+    inform the manager, who decides whether to keep or return them.
+
+- id: q3
+  question: >-
+    Frozen pains au chocolat arrive at −12 °C at the core, with ice crystals inside the bag and a
+    soft carton corner. What does this show?
+  options:
+    - >-
+      Normal frost from the supplier's freezer; accept the carton.
+    - >-
+      A packaging fault only; accept and repack the dough pieces.
+    - >-
+      A broken cold chain above the −15 °C limit; refuse the carton.
+    - >-
+      Nothing serious, as long as you bake them the same day.
+  correct: 2
+  explanation: >-
+    The critical limit for frozen goods at reception is −15 °C. Ice crystals in the bag and a soft
+    carton show partial thawing and refreezing; the carton is refused and reported.
+
+- id: q4
+  question: >-
+    A supplier warns of a recall on butter lot 2409-B. What lets you know within minutes whether
+    you used it?
+  options:
+    - >-
+      The cleaning plan and the pest-control reports of that week.
+    - >-
+      The till receipts showing how many croissants were sold.
+    - >-
+      Asking the bakers whether they remember the butter wrappers.
+    - >-
+      Delivery records with the lots and labels kept at reception.
+  correct: 3
+  explanation: >-
+    Traceability one step back relies on the delivery notes and the lot and health-mark numbers
+    kept at reception, by keeping or photographing labels. Memory and sales figures cannot prove it.
+
+- id: q5
+  question: >-
+    In what order should a mixed delivery of flour, butter, cream and frozen croissants be put
+    away?
+  options:
+    - >-
+      Flour first because it is heaviest, then the rest in any order.
+    - >-
+      Frozen croissants, then butter and cream, then flour.
+    - >-
+      Butter and cream first, then flour, then the frozen croissants.
+    - >-
+      In the order printed on the delivery note, line by line.
+  correct: 1
+  explanation: >-
+    Frozen goods first, then chilled, then dry goods, so the cold chain is not broken while the
+    rest of the delivery is handled.

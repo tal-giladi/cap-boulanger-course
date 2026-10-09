@@ -36,7 +36,7 @@ The pain aux raisins is the third product of the croissant dough: a sheet spread
 
 ## Why it matters
 
-The référentiel lists pains aux raisins with croissants and pains au chocolat, and crème pâtissière as their filling (C2.3); how the production test treats the cream is in [The CAP Boulanger Exam](../../references/cap-exam.md). In a bakery, the cream is the most dangerous thing the viennoiserie bench handles. Eggs and egg-based foods, creams among them, are behind nearly half of the collective food-poisoning outbreaks caused by *Salmonella* in France (ANSES), and a cream handled after cooking, cooled slowly or kept too long can also grow bacteria brought by hands and tools. Lesson [02.10](../module-02/lesson-10.md) promised it: the cooling rule (+63 °C to +10 °C in 2 hours or less) applies here, every time. Hygiene in depth comes in Module 17.
+The référentiel lists pains aux raisins with croissants and pains au chocolat, and crème pâtissière as their filling (C2.3); how the production test treats the cream is in [The CAP Boulanger Exam](../../references/cap-exam.md). In a bakery, the cream is the most dangerous thing the viennoiserie bench handles. Eggs and egg-based foods, creams among them, are behind nearly half of the collective food-poisoning outbreaks caused by *Salmonella* in France (ANSES), and a cream handled after cooking, cooled slowly or kept too long can also grow bacteria brought by hands and tools. Lesson [02.10](../module-02/lesson-10.md) promised it: the cooling rule (+63 °C to +10 °C in 2 hours or less) applies here, every time. Hygiene in depth comes in [Module 17](../module-17/lesson-02.md).
 
 ## Key terms
 
@@ -82,7 +82,7 @@ flowchart LR
 
 1. **Cook to a full boil**, whisking constantly, with a clean whisk and pan.
 2. **Cool fast**: core not between +63 °C and +10 °C for more than 2 hours, then 0 to +3 °C (arrêté of 21 December 2009, annex IV, as in lesson 02.10). A deep bowl of cream takes hours; a layer 2-3 cm deep in a cold tray, filmed on the surface, in a blast chiller (or on ice at home) takes well under an hour. Record the time at 63 °C and at 10 °C.
-3. **Keep cold and short**: covered, labelled with product, date and time of cooking, at 0 to +3 °C. ANSES advises eating raw-egg preparations at once or keeping them cold and eating them within 24 hours; this cream is cooked, but because it is handled after cooking, the course uses the same **24-hour** limit. A bakery's own hazard analysis (its HACCP plan, Module 17) sets its limit; home recipes that keep pastry cream for several days are not a professional standard.
+3. **Keep cold and short**: covered, labelled with product, date and time of cooking, at 0 to +3 °C. ANSES advises eating raw-egg preparations at once or keeping them cold and eating them within 24 hours; this cream is cooked, but because it is handled after cooking, the course uses the same **24-hour** limit. A bakery's own hazard analysis (its HACCP plan, [Module 17](../module-17/lesson-05.md)) sets its limit; home recipes that keep pastry cream for several days are not a professional standard.
 
 When you use it, beat it smooth with a clean whisk, take only what you need, and never pour unused cream back into the stock.
 

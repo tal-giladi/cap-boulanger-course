@@ -36,8 +36,8 @@ Goal: build "CAP Boulanger Preparation" per `curriculum/plan.md`, following
 - [x] Module 14 — Production Planning
 - [x] Module 15 — Product Quality
 - [x] Module 16 — Troubleshooting
-- [ ] Module 17 — Hygiene and Food Safety
-- [ ] Module 18 — Environmental Responsibility
+- [x] Module 17 — Hygiene and Food Safety
+- [x] Module 18 — Environmental Responsibility
 - [ ] Module 19 — Communication and Sales
 - [ ] Module 20 — The Bakery as a Workplace and a Business
 - [ ] Module 21 — EP1 Practice
@@ -47,7 +47,7 @@ Goal: build "CAP Boulanger Preparation" per `curriculum/plan.md`, following
 
 ## Agents now
 
-- PAUSED after modules 15 and 16 (2026-10-09). Next: modules 17 and 18.
+- Agent A: module 19 (running)
 
 ## Decisions and open questions
 
@@ -57,7 +57,7 @@ Goal: build "CAP Boulanger Preparation" per `curriculum/plan.md`, following
   (Légifrance consolidated text). Reasons in `curriculum/research/sources.md`.
 - Modules are added to `_sidebar.md` only when finished, so check-course stays at 0 problems.
 - Repo is public (Tal, 2026-10-08). All three simulations to be built (Tal, 2026-10-08).
-- Module 17 must re-check the bakery GBPH: CNBPF 2026 guide says the 1997 GBPH was withdrawn in 2025 and the new one was not yet validated (as of 2026-10-08).
+- GBPH (checked 2026-10-09 by module 17): official agriculture.gouv.fr list (6 Feb 2026) has no bakery guide; 1997 guide withdrawn 2025, new draft not validated; CNBPF "Essentiel" (2026) is guidance only. Re-check at final QA.
 - Module 5 should refer back to the simple hand-mix water estimate in 01.7 (3 × target − flour − room − 2 °C).
 - Technical sheets defined in 01.6 for reuse: PC-02 (T55 100 / water 64 / salt 1.8 / fresh yeast 1.5 / pâte fermentée 15) and PD-01 (direct, by hand: water 65 / salt 1.8 / yeast 1.5).
 - Final QA: turn plain-text forward references into links (02.2 and 02.9 → 09.1; module 2 mentions of 03.5, 07.5, 10.7, 17.6). Check every module's matrix file for similar requests.
@@ -79,3 +79,5 @@ Goal: build "CAP Boulanger Preparation" per `curriculum/plan.md`, following
 - Module 13: convection ovens set 15–20 °C below a still oven; CNBPF energy figures (empty 5 m² deck 2 h/day ≈ 12 kWh/day; 230 vs 250 °C saves ~10 %; steam up to 15 % of bake energy) — reuse in Module 18; electrical safety = read rating plate only; sheeter safety sourced (RONDO manual, INRS ED 4473; added to 11.4). Optional templates equipment-card / maintenance-log. Final QA: module 13 sources and troubleshooting rows; 13.3/13.6 mention Module 17 in plain text.
 - Module 16: references/troubleshooting.md replaced with the merged version (all module 3–14 rows, 10 sections, Lesson column) — the Final QA troubleshooting items for modules 3–14 are done. Troubleshooting simulation: build from that page + decision trees in 16.2–16.5. Final QA: links 16.x → 15.x and troubleshooting intro → 15.1/15.2; optional back-links 04.7/11.7 → 16.1, 08.5 → 16.2–16.4, 13.4 → 16.3; optional "Evidence" field in non-conformity template.
 - Module 15 conventions: crust colour scale 1–5 with product targets; crumb record = holes ≥ 5 mm in a 4 × 4 cm window + press test + tracing; house weight tolerance ±3 %, salt checked on the lightest piece; trade scales verified every 2 years (yearly for prepackages); cooling before the shop ~30 min bread / ~20 min viennoiserie. Final QA: quality-rubric template changes (pain courant + tradition crumb lines, croissant /18, colour scale pointer, exterior subtotal /12, weight target definition, expected crumb table); optional weight-control and tasting templates; module 15 troubleshooting rows (check against new page); 15.4/15.5 mention Module 17 and 19 in plain text; INRAE OPALINE host has TLS errors.
+- Module 18: energy price 0.20 €/kWh (CNBPF example); bakery energy split heat 65 / cold 22 / motors 8 / lighting 5 %; craft bakery has no donation-agreement duty (only distributors > 400 m²); biowaste sorting for all professionals since 2024-01-01; old bread allowed in pain courant dough, never in tradition; donation tax reduction 60 % (ceiling €20,000 or 0.5 % turnover); AGEC thin bags < 50 µm only if home-compostable ≥ 60 % bio-based. Final QA: re-check those volatile items; ADEME/gov.il pages blocked; S4.3.2.5 waste-water devices not covered; optional back-links 13.4→18.1, 15.5/09.1/07.5/06.5→18.2, 13.6→18.3.
+- Module 17 numbers: CNBPF reception limits very perishable +7 °C, perishable +11 °C, frozen −15 °C; chilled > +7 °C core → discard; frozen warmed to −15…+4 °C → thaw cold, treat as fresh; opened products 3 days unless label says otherwise; temperature records 12 months. Final QA: module 17 sources (see matrix), ANSES sources for E. coli / C. botulinum / B. cereus, optional templates (cold-unit temperature log, cleaning plan, allergen table); 17.6 → module 19 link after merge.

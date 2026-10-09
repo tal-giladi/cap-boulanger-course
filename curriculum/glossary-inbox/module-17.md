@@ -1,0 +1,37 @@
+- **Allergène** (*ah-lair-ZHEN*) — allergen: one of the 14 substances listed in Annex II of Regulation (EU) 1169/2011 (gluten cereals, crustaceans, eggs, fish, peanuts, soy, milk, nuts, celery, mustard, sesame, sulphites above 10 mg/kg, lupin, molluscs).
+- **Asthme du boulanger** (*ASM dü boo-lahn-ZHAY*) — baker's asthma: occupational asthma caused by flour dust; flour is the first cause of occupational asthma in France (INRS).
+- **Bactérie** (*bak-tay-REE*) — bacterium: single-celled microorganism that multiplies by dividing in two; useful (lactic bacteria) or harmful (pathogens, spoilage).
+- **Bon de livraison (BL)** (*BOHN duh lee-vray-ZOHN*) — delivery note: what the supplier says it delivered; checked against the order and signed, with reservations written before signing.
+- **BPH (bonnes pratiques d'hygiène)** (*bay-pay-ASH*) — good hygiene practice, the prerequisites of a PMS: staff, cleaning, pests, premises, cold chain.
+- **Cahier des charges** (*kah-YAY day SHARZH*) — specification agreed with a supplier, for example a minimum shelf life left at delivery.
+- **CCP (point critique pour la maîtrise)** (*say-say-PAY*) — critical control point: a step where control is essential and measurable, e.g. cooling crème pâtissière from 63 to 10 °C in 2 hours or less.
+- **Cercle de Sinner** (*SAIR-kluh duh SEE-nair*) — Sinner's circle: temperature, mechanical action, concentration and contact time together decide how well a cleaning or disinfecting product works.
+- **Contact croisé (allergènes)** (*kohn-TAKT krwah-ZAY*) — allergen cross-contact: an allergen reaching a product that should not contain it, through tools, benches, hands or air.
+- **Danger (HACCP)** (*dahn-ZHAY*) — hazard: a biological, chemical, physical or allergenic agent that can make food unsafe.
+- **DDPP** (*day-day-pay-PAY*) — Direction départementale de la protection des populations: the local state office that inspects food businesses for hygiene.
+- **Désinfectant** (*day-zan-fek-TAHN*) — disinfectant: kills microbes on a cleaned surface when used at its dose and for its contact time.
+- **Détergent** (*day-tair-ZHAHN*) — detergent: lifts soil (fat, protein, starch, sugar) off a surface; cleaning, not disinfecting.
+- **Détergent-désinfectant** (*day-tair-ZHAHN day-zan-fek-TAHN*) — combined product that cleans and disinfects in one pass on lightly soiled surfaces.
+- **DLC secondaire** (*day-el-SAY suh-gohn-DAIR*) — the new, shorter use-by written on a product once opened or prepared (3 days after opening by default, CNBPF, unless the label says otherwise).
+- **Doigtier** (*dwah-TYAY*) — finger cot worn over a dressed cut when handling food.
+- **Estampille sanitaire** (*es-tahm-PEE-yuh sah-nee-TAIR*) — health mark: the oval mark with an approval number on products of animal origin; checked at reception and kept for traceability.
+- **GBPH (guide de bonnes pratiques d'hygiène)** (*zhay-bay-pay-ASH*) — a sector's voluntary hygiene guide, validated by the administration; the 1997 bakery guide was withdrawn in 2025 and no new one was validated as of October 2026.
+- **HACCP** (*ash-ah-say-say-PAY*) — Hazard Analysis Critical Control Point: method of seven principles (hazards, CCPs, critical limits, monitoring, corrective actions, verification, records) required by Regulation (EC) 852/2004.
+- **Intoxication alimentaire** (*an-tok-see-kah-SYOHN ah-lee-mahn-TAIR*) — food poisoning: illness after eating food containing microbes or their toxins.
+- **Limite critique** (*lee-MEET kree-TEEK*) — critical limit: the measurable value at a CCP that separates acceptable from unacceptable.
+- **Manutention manuelle** (*mah-nü-tahn-SYOHN mah-nü-EL*) — manual handling of loads; avoided with aids; women not above 25 kg, men above 55 kg only with medical fitness and never above 105 kg (Code du travail).
+- **Micro-organisme** (*mee-kroh-or-gah-NEESM*) — microorganism: bacterium, yeast, mould or virus, too small to see without a microscope.
+- **Moisissure** (*mwah-zee-SÜR*) — mould: a fungus that grows as threads and visible spots on bread and damp equipment.
+- **Nuisibles** (*nwee-ZEE-bluh*) — pests: rodents, cockroaches, flies, flour moths and beetles; controlled by a written pest-control plan.
+- **Paquet hygiène** (*pah-KEH ee-ZHYEN*) — the EU hygiene package (Regulations 178/2002, 852/2004, 853/2004 and official-control rules), applied since 1 January 2006.
+- **PEPS (premier entré, premier sorti)** (*PEPS*) — FIFO stock rotation; for perishables the rule is first expired, first out (premier périssable, premier utilisé).
+- **Plan de lutte contre les nuisibles** (*PLAHN duh LÜT kohntr lay nwee-ZEE-bluh*) — pest-control plan: devices and baits, their map, product sheets, check frequency, visit reports.
+- **Plan de nettoyage et de désinfection** (*PLAHN duh net-wah-YAHZH ay duh day-zan-fek-SYOHN*) — cleaning and disinfection plan: zone, item, product and dose, method, frequency, who does it, who checks it.
+- **PMS (plan de maîtrise sanitaire)** (*pay-em-ESS*) — food-safety management plan: good hygiene practice, HACCP procedures, traceability and non-conformity handling, with their records; compulsory for every food business.
+- **Rappel / retrait** (*rah-PEL / ruh-TREH*) — recall (customers asked to return a product) / withdrawal (product taken off sale); official notices on RappelConso.
+- **Réserves (sur le bon de livraison)** (*ray-ZAIRV*) — written reservations on the delivery note before signing (missing items, wrong reference, damaged outer packaging).
+- **Salissure** (*sah-lee-SÜR*) — soil to be cleaned: organic (flour, fat, protein, sugar), mineral (scale) or microbial.
+- **TIAC (toxi-infection alimentaire collective)** (*tee-AK*) — collective food-borne outbreak: at least two people with similar, usually digestive, symptoms traced to the same food.
+- **TMS (troubles musculosquelettiques)** (*tay-em-ESS*) — musculoskeletal disorders of the back, shoulders and wrists from loads and postures.
+- **Toxinogénèse** (*tok-see-noh-zhay-NEZ*) — toxin production by a microbe in the food; staphylococcal toxins resist cooking.
+- **Zone de danger** (*zohn duh dahn-ZHAY*) — +10 to +63 °C, the temperature band where bacteria multiply; cooked preparations cross it in 2 hours or less.
