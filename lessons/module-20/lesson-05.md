@@ -62,7 +62,7 @@ Lesson [06.5](../module-06/lesson-05.md) built the price of a baguette: material
 | Bread, viennoiserie, pastries to take away | **5.5 %** | food for human consumption |
 | Sandwiches, hot snacks, food prepared for immediate consumption, to take away | **10 %** | food prepared for immediate consumption |
 | Food eaten in the tea room | **10 %** | as in a restaurant |
-| Confectionery and chocolate products (e.g. chocolate bars sold at the counter) | **20 %** | exceptions to the reduced rate |
+| Confectionery (sweets, caramels, nougats) and most chocolate products (milk or white chocolate, filled chocolates) | **20 %** | exceptions to the reduced rate; plain chocolate (category « chocolat ») stays at 5.5 % |
 
 Source: BOFiP BOI-TVA-LIQ-30-10-10, in force from 19 November 2025, checked 2026-10-09. TTC → HT: divide by 1.055 (or 1.10, 1.20); never subtract the percentage.
 

@@ -134,8 +134,8 @@
 - id: q8
   question: >-
     The price board shows: "Baguette 1,30 € — Croissant 1,25 € — Sandwich jambon-beurre à emporter 4,40 €
-    — Tablette de chocolat 3,00 €". The till applies 5.5 % VAT to all four. Which correction gives the
-    right prices before VAT for the sandwich and the chocolate bar?
+    — Sachet de bonbons 3,00 €". The till applies 5.5 % VAT to all four. Which correction gives the
+    right prices before VAT for the sandwich and the bag of sweets?
   options:
     - >-
       €4.17 and €2.84, since 5.5 % is right for all food
@@ -147,8 +147,8 @@
       €4.00 at 10 % and €2.84 at 5.5 %
   correct: 1
   explanation: >-
-    Food prepared for immediate consumption to take away is at 10 % (4.40 ÷ 1.10 = €4.00); chocolate
-    products are an exception to the reduced rate, at 20 % (3.00 ÷ 1.20 = €2.50). Bread and croissants
+    Food prepared for immediate consumption to take away is at 10 % (4.40 ÷ 1.10 = €4.00); confectionery
+    is an exception to the reduced rate, at 20 % (3.00 ÷ 1.20 = €2.50). Bread and croissants
     stay at 5.5 %.
 
 - id: q9

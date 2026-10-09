@@ -58,7 +58,7 @@ Labour, energy and overheads per piece come from the bakery's accounts: the mana
 
 ### VAT on bakery products (France)
 
-Food for human consumption is taxed at the reduced rate of **5.5 %**, with exceptions such as confectionery, chocolate products, margarine and alcoholic drinks. Food **prepared for immediate consumption** and sold to take away or delivered (a sandwich, a hot pizza) is taxed at **10 %**, like food served on the premises. Bread, which the customer keeps to eat later, is at 5.5 % ([BOFiP, BOI-TVA-LIQ-30-10-10](https://bofip.impots.gouv.fr/bofip/2033-PGP.html), version in force from 19/11/2025). The same baguette sold plain is at 5.5 %; filled as a jambon-beurre for lunch it is at 10 %. VAT is collected for the State: it is never part of the bakery's margin.
+Food for human consumption is taxed at the reduced rate of **5.5 %**, with exceptions such as confectionery, most chocolate products, margarine and alcoholic drinks. Food **prepared for immediate consumption** and sold to take away or delivered (a sandwich, a hot pizza) is taxed at **10 %**, like food served on the premises. Bread, which the customer keeps to eat later, is at 5.5 % ([BOFiP, BOI-TVA-LIQ-30-10-10](https://bofip.impots.gouv.fr/bofip/2033-PGP.html), version in force from 19/11/2025). The same baguette sold plain is at 5.5 %; filled as a jambon-beurre for lunch it is at 10 %. VAT is collected for the State: it is never part of the bakery's margin.
 
 $$\text{HT} = \frac{\text{TTC}}{1 + \text{rate}} \qquad \text{TVA} = \text{TTC} - \text{HT}$$
 

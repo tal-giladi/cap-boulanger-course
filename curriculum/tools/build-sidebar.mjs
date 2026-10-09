@@ -4,7 +4,7 @@ import fs from "node:fs";
 const manifest = JSON.parse(fs.readFileSync("curriculum/manifest.json", "utf8"));
 const head = [
   "- [Home](/)",
-  "- [The CAP Boulanger Exam (RNCP42115, checked 2026-10-08)](references/cap-exam.md)",
+  "- [The CAP Boulanger Exam (RNCP42115, checked 2026-10-09)](references/cap-exam.md)",
   "- [Glossary](glossary.md)",
   "- [Base Formulas](references/formulas.md)",
   "- [Flour in Israel](references/flour-in-israel.md)",

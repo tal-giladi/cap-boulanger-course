@@ -1,6 +1,6 @@
 # The CAP Boulanger Exam
 
-Curriculum version: RNCP42115, checked 2026-10-08. This page is the only place in the course that states exam rules; lessons link here. Rules can change, so confirm every detail with your académie's exam office and your convocation before you sit the exam.
+Curriculum version: RNCP42115, checked 2026-10-09. This page is the only place in the course that states exam rules; lessons link here. Rules can change, so confirm every detail with your académie's exam office and your convocation before you sit the exam.
 
 > [!IMPORTANT]
 > This free course prepares you for the CAP Boulanger. It is not the CAP itself and does not award the French national diploma. The CAP is a French national diploma awarded by the Ministry of Education (Ministère de l'Éducation nationale) after the official examination.
@@ -100,7 +100,8 @@ Sources: [RNCP42115](https://www.francecompetences.fr/recherche/rncp/42115) and 
 
 Rules are set by each académie. Example from the Île-de-France exam service (SIEC) for the 2027 session:
 
-- Registration online (Cyclades) from 14 October to 18 November 2026, with the signed file sent by 23 November 2026; no late registration.
+- Only residents of the académies of Créteil, Paris or Versailles register with the SIEC (checked 2026-10-09).
+- Registration online on Cyclades, the exam services' candidate portal (choose "SIEC"), from 14 October to 18 November 2026, with the signed file sent by 23 November 2026; no late registration.
 - One CAP specialty per year, in one académie.
 - You must be an adult (18) by 31 December of the exam year; under-25s add their Journée défense et citoyenneté certificate.
 - Some CAP specialties require signed workplace training certificates at registration. Check whether your académie asks this for the CAP Boulanger and which model certificate it uses.
