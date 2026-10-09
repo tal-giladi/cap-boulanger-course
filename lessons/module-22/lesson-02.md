@@ -55,9 +55,26 @@ Speed in a written phase comes from never deciding what to do next. Use the same
 5. **Work backwards and fill the gaps (about 10 minutes).** Place each dough so it reaches its oven slot ready; fit mixing, dividing and shaping into the rests of the critical path; hands blocks never overlap; small tasks (folds, egg wash, loading) in between.
 6. **Check (2 minutes).** The five checks of the [organigramme template](../../templates/organigramme.md): oven conflicts, longest process first, laminated dough resting while bread is in pointage, cleaning in the plan, finish before the deadline with spare time.
 
-### Where the time comes from when the window is short
+### Two croissant chains: standard and shortened
 
-The course sheet CR-01 asks for a détrempe chilled at least 2 hours and a final rest of at least 1 hour (lessons [11.2](../module-11/lesson-02.md), [11.4](../module-11/lesson-04.md)). With those minimums, the same-day chain from détrempe to cooled croissants is about 8 hours (lesson 14.4). A practice window shorter than that needs the time to come from somewhere, and it must never come from proofing above about 27 °C. Three moves, each with a reason:
+Learn both. The **standard chain** is the course sheet CR-01 as written: détrempe chilled at least 2 hours, three single turns with a rest between each, a final rest of at least 1 hour (lessons [11.2](../module-11/lesson-02.md), [11.4](../module-11/lesson-04.md)). From détrempe to cooled croissants it takes about 8 hours ([lesson 14.4](../module-14/lesson-04.md)). Use it whenever the window allows: it gives the most layers and the most relaxed dough.
+
+```mermaid
+flowchart LR
+  A["Détrempe 7:10<br>20 °C, 2 cm slab"] --> B["Cold room 2 h<br>centre below 10 °C"]
+  B --> C["Lock-in + single turn<br>9:10"]
+  C --> D["Cold room 35 min"]
+  D --> E["Single turn<br>9:55"]
+  E --> F["Cold room 35 min"]
+  F --> G["Single turn<br>10:40"]
+  G --> H["Final rest 1 h"]
+  H --> I["Sheet 3.5 mm, shape<br>11:50-12:25"]
+  I --> J["Proof 25 °C<br>1 h 45-2 h 10"]
+  J --> K["Bake fan 175 °C<br>14:20"]
+  K --> L["Cooled 15:00"]
+```
+
+The **shortened chain** is for a window shorter than 8 hours. The time must come from somewhere, and it must never come from proofing above about 27 °C. Three moves, each with a reason:
 
 | Move | Saves | Why it works | Limit |
 |---|---|---|---|
@@ -65,7 +82,18 @@ The course sheet CR-01 asks for a détrempe chilled at least 2 hours and a final
 | One single and one double turn instead of three singles | one rest (about 30-45 min) | Two turns and two rests instead of three; the course already uses this in warm kitchens (lesson 11.4), and Elle & Vire uses a simple then a double turn | Fewer layers (3 × 4 = 12 butter layers instead of 27): a slightly more bready honeycomb; practise it so you know the result |
 | Final rest of 40-50 minutes in the cold room | 10-20 min | The block must be cold and relaxed enough to roll to 3.5 mm without shrinking; Elle & Vire rests 30-40 minutes in the fridge before shaping | If the cut triangles shrink, rest the sheet 10 minutes more |
 
-With these, the chain in the practice order below runs from 7:10 to cooled croissants at about 13:25, about 6 h 15. The moves are this course's planning choices, consistent with the CR-01 temperature targets; your training centre may teach other ones. Whatever the method, rehearse it before the exam, never for the first time on the day.
+With these, the chain in the practice order below runs from 7:10 to cooled croissants at about 13:25, about 6 h 15.
+
+| | Standard chain (CR-01) | Shortened chain |
+|---|---|---|
+| Détrempe chill | at least 2 h in the cold room | about 40 min in a blast chiller or freezer, then the cold room |
+| Turns | 3 single turns (27 butter layers) | 1 single + 1 double (12 butter layers) |
+| Rests between turns | 2 rests of 30-45 min | 1 rest of about 45 min |
+| Final rest | at least 1 h | 40-55 min |
+| Détrempe to cooled croissants | about 8 h | about 6 h 15 |
+| Result | finest honeycomb, most relaxed sheet | slightly more bready honeycomb; needs practice |
+| Use it | whenever the window allows | when the window is shorter than 8 h |
+ The moves are this course's planning choices, consistent with the CR-01 temperature targets; your training centre may teach other ones. Whatever the method, rehearse it before the exam, never for the first time on the day.
 
 ```mermaid
 flowchart LR
@@ -293,5 +321,5 @@ gantt
 
 - Use a fixed routine: read, sheet, critical path, oven plan, backwards, check; budget the time of each step.
 - The four classic slips are a missing pre-ferment in the sum, forgotten losses, percentages of the dough instead of the flour, and three factors with a cold pre-ferment.
-- When a same-day croissant chain must fit a short window, the time comes from the cold (blast chiller), from one double turn and from a shorter final rest, never from a warm proof; rehearse it before the exam.
+- Know both croissant chains: the standard CR-01 chain (about 8 h, three single turns) when the window allows, and the shortened chain (about 6 h 15: blast chiller, one single + one double turn, shorter final rest) when it does not. Time never comes from a warm proof; rehearse whichever you will use.
 - The written phase's time, points and allowed documents are in [The CAP Boulanger Exam](../../references/cap-exam.md); drill until you finish with time to check.
