@@ -47,7 +47,7 @@ Goal: build "CAP Boulanger Preparation" per `curriculum/plan.md`, following
 
 ## Agents now
 
-- PAUSED after all 22 modules (2026-10-09). Next: simulations, then final QA.
+- Simulations in order, one agent each, commit after each: water-temperature (running) → production-schedule → troubleshooting. Then final QA in small chunks.
 
 ## Decisions and open questions
 
