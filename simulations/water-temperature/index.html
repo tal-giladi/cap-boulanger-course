@@ -1,0 +1,128 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Water temperature: base-temperature method</title>
+<link rel="stylesheet" href="../common/sim.css">
+<link rel="stylesheet" href="water-temperature.css">
+</head>
+<body>
+<main>
+  <p class="sim-label" role="note">Educational model: the base-temperature method of lessons 05.2 and 05.3. Your thermometer and your dough have the final say.</p>
+  <h1>Water temperature for a target dough temperature</h1>
+
+  <div class="preset-bar">
+    <label for="preset">Example</label>
+    <select id="preset"></select>
+    <button type="button" id="reset" class="secondary">Reset example</button>
+  </div>
+  <div id="preset-note" class="preset-note"></div>
+
+  <div class="grid side">
+    <form id="form" class="panel" novalidate aria-label="Inputs">
+      <fieldset>
+        <legend>What the sheet gives</legend>
+        <div class="radio-row" role="radiogroup" aria-label="Calculation">
+          <label><input type="radio" name="mode" value="tpv" checked> TPV + friction factor</label>
+          <label><input type="radio" name="mode" value="tb"> Printed TB</label>
+        </div>
+        <div class="field">
+          <label for="tpv">Target dough temperature, TPV (°C)</label>
+          <input id="tpv" type="number" step="0.5" inputmode="decimal">
+          <span class="hint" id="tpv-hint" hidden>With a printed TB, the TPV is only used for the fermentation hint.</span>
+        </div>
+        <div class="field" data-show="tb">
+          <label for="tb">Base temperature on the sheet, TB (°C)</label>
+          <input id="tb" type="number" step="1" inputmode="decimal" aria-describedby="tb-hint">
+          <span class="hint" id="tb-hint">Friction is already inside the TB.</span>
+        </div>
+      </fieldset>
+
+      <fieldset>
+        <legend>Today's readings</legend>
+        <div class="field">
+          <label for="flour">Flour (°C)</label>
+          <input id="flour" type="number" step="0.5" inputmode="decimal">
+        </div>
+        <div class="field">
+          <label for="room">Room / fournil (°C)</label>
+          <input id="room" type="number" step="0.5" inputmode="decimal">
+        </div>
+        <div class="check">
+          <input id="preferment" type="checkbox">
+          <label for="preferment">Pre-ferment in the dough (4 factors)</label>
+        </div>
+        <div class="field" data-show="preferment">
+          <label for="prefermentTemp">Pre-ferment (°C)</label>
+          <input id="prefermentTemp" type="number" step="0.5" inputmode="decimal">
+        </div>
+      </fieldset>
+
+      <fieldset data-show="tpv">
+        <legend>Mixing</legend>
+        <div class="field">
+          <label for="method">Mixing method</label>
+          <select id="method" aria-describedby="method-hint"></select>
+          <span class="hint" id="method-hint"></span>
+        </div>
+        <div class="field" data-show="custom">
+          <label for="friction">Your friction factor</label>
+          <input id="friction" type="number" step="0.5" inputmode="decimal" aria-describedby="friction-hint">
+          <span class="hint" id="friction-hint"></span>
+        </div>
+      </fieldset>
+
+      <fieldset>
+        <legend>Water supply</legend>
+        <div class="field">
+          <label for="waterWeight">Total water on the sheet (g)</label>
+          <input id="waterWeight" type="number" step="1" min="0" inputmode="numeric">
+        </div>
+        <div class="field">
+          <label for="tap">Tap water (°C)</label>
+          <input id="tap" type="number" step="0.5" inputmode="decimal">
+        </div>
+        <div class="field">
+          <label for="cold">Cold water: cooler or fridge bottle (°C)</label>
+          <input id="cold" type="number" step="0.5" inputmode="decimal">
+        </div>
+      </fieldset>
+
+      <fieldset>
+        <legend>Fermentation hint</legend>
+        <div class="field">
+          <label for="reading">Dough read after mixing (°C)</label>
+          <input id="reading" type="number" step="0.1" inputmode="decimal">
+        </div>
+        <div class="field">
+          <label for="pointage">Pointage on the sheet (min)</label>
+          <input id="pointage" type="number" step="5" min="0" inputmode="numeric">
+        </div>
+      </fieldset>
+    </form>
+
+    <div class="results">
+      <section class="panel" aria-labelledby="h-result">
+        <h2 id="h-result">Water temperature</h2>
+        <p class="big" id="answer" aria-live="polite" aria-atomic="true"></p>
+        <div id="flags"></div>
+        <p id="error" class="flag bad" role="alert" hidden></p>
+      </section>
+
+      <section class="panel" aria-labelledby="h-steps">
+        <h2 id="h-steps">The working, step by step</h2>
+        <ol id="steps" class="steps"></ol>
+      </section>
+
+      <section class="panel" aria-labelledby="h-ferm">
+        <h2 id="h-ferm">Fermentation speed: about 7 % per °C</h2>
+        <div id="ferm"></div>
+        <p class="muted small">Rule of thumb from lesson 04.2 for planning only: judge pointage by the dough (volume, feel, poke test).</p>
+      </section>
+    </div>
+  </div>
+</main>
+<script type="module" src="water-temperature.js"></script>
+</body>
+</html>

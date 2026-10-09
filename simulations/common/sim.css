@@ -1,0 +1,142 @@
+/* Shared look for the CAP Boulanger simulations. System fonts only, no network; light and dark. */
+:root {
+  --bg: #f8f6f2;
+  --panel: #ffffff;
+  --ink: #23201b;
+  --muted: #615b52;
+  --line: #ddd6cb;
+  --accent: #9a4a12;
+  --accent-ink: #ffffff;
+  --good: #1f6f3f;
+  --bad: #a8251c;
+  --warn: #7d5300;
+  --good-bg: #e7f3ea;
+  --bad-bg: #fbeae7;
+  --warn-bg: #fff3d4;
+  --cold: #1d5fa8;
+  --cold-bg: #e6f0fb;
+  --focus: #e08a00;
+  --radius: 8px;
+  color-scheme: light dark;
+}
+@media (prefers-color-scheme: dark) {
+  :root {
+    --bg: #17150f;
+    --panel: #221f19;
+    --ink: #ece7de;
+    --muted: #b0a899;
+    --line: #3d382f;
+    --accent: #f0a066;
+    --accent-ink: #1a1208;
+    --good: #79d39b;
+    --bad: #ff8f84;
+    --warn: #f0c45a;
+    --good-bg: #183324;
+    --bad-bg: #3e1d1a;
+    --warn-bg: #3a3012;
+    --cold: #8cc0ff;
+    --cold-bg: #172a40;
+  }
+}
+
+* { box-sizing: border-box; }
+html { -webkit-text-size-adjust: 100%; }
+body {
+  margin: 0;
+  padding: 12px 16px 32px;
+  background: var(--bg);
+  color: var(--ink);
+  font: 16px/1.5 system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+}
+main { max-width: 1040px; margin: 0 auto; }
+h1 { font-size: 1.3rem; margin: 6px 0 4px; line-height: 1.3; }
+h2 { font-size: 1.05rem; margin: 0 0 8px; }
+h3 { font-size: 0.95rem; margin: 12px 0 6px; }
+p { margin: 6px 0; }
+small, .muted { color: var(--muted); }
+
+.sim-label {
+  display: inline-block;
+  margin: 0 0 6px;
+  padding: 2px 10px;
+  border: 1px solid var(--warn);
+  border-radius: 12px;
+  background: var(--warn-bg);
+  color: var(--warn);
+  font-size: 0.8rem;
+  font-weight: 600;
+}
+
+.preset-note {
+  border-left: 4px solid var(--accent);
+  background: var(--panel);
+  padding: 8px 12px;
+  margin: 8px 0 12px;
+  border-radius: 0 var(--radius) var(--radius) 0;
+}
+.preset-note:empty { display: none; }
+
+.panel {
+  background: var(--panel);
+  border: 1px solid var(--line);
+  border-radius: var(--radius);
+  padding: 12px 14px;
+  min-width: 0;
+}
+
+.grid { display: grid; gap: 12px; }
+@media (min-width: 760px) {
+  .grid.side { grid-template-columns: minmax(280px, 380px) 1fr; align-items: start; }
+}
+
+fieldset { border: 1px solid var(--line); border-radius: var(--radius); margin: 0 0 10px; padding: 8px 10px 10px; min-width: 0; }
+legend { font-weight: 600; padding: 0 4px; }
+.field { display: grid; gap: 2px; margin: 6px 0; }
+.field > label { font-weight: 500; }
+.field .hint { font-size: 0.85rem; color: var(--muted); }
+.check { display: flex; gap: 8px; align-items: center; margin: 6px 0; }
+.radio-row { display: flex; flex-wrap: wrap; gap: 4px 16px; }
+.radio-row label { display: flex; gap: 6px; align-items: center; }
+
+input[type="number"], select {
+  font: inherit;
+  color: var(--ink);
+  background: var(--bg);
+  border: 1px solid var(--line);
+  border-radius: 6px;
+  padding: 6px 8px;
+  min-height: 40px;
+  width: 100%;
+  max-width: 100%;
+}
+input[type="checkbox"], input[type="radio"] { width: 20px; height: 20px; accent-color: var(--accent); }
+
+button {
+  font: inherit;
+  min-height: 40px;
+  padding: 6px 14px;
+  border-radius: 6px;
+  border: 1px solid var(--accent);
+  background: var(--accent);
+  color: var(--accent-ink);
+  cursor: pointer;
+}
+button.secondary { background: transparent; color: var(--accent); }
+
+:focus-visible { outline: 3px solid var(--focus); outline-offset: 2px; }
+
+.flag { border-radius: var(--radius); padding: 8px 12px; margin: 8px 0; border: 1px solid; }
+.flag.good { color: var(--good); background: var(--good-bg); border-color: var(--good); }
+.flag.bad { color: var(--bad); background: var(--bad-bg); border-color: var(--bad); }
+.flag.warn { color: var(--warn); background: var(--warn-bg); border-color: var(--warn); }
+.flag.cold { color: var(--cold); background: var(--cold-bg); border-color: var(--cold); }
+.flag p { color: var(--ink); }
+
+.visually-hidden {
+  position: absolute; width: 1px; height: 1px; padding: 0; margin: -1px;
+  overflow: hidden; clip: rect(0 0 0 0); white-space: nowrap; border: 0;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  * { transition: none !important; animation: none !important; }
+}

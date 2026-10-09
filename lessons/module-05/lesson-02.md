@@ -80,6 +80,10 @@ French bakeries and exam papers usually give the second form: each bakery knows 
 
 To turn one form into the other: TB = n × (TPV − heating). A mixer that heats 5 °C, TPV 24, 3 factors: TB = 3 × (24 − 5) = 57.
 
+Try both forms in the simulation: it opens on the EP1 2019 brioche sheet (printed TB); switch to "TPV + friction factor" or pick the 05.2 worked example and compare the working with the steps above.
+
+[Simulation: Water temperature with the base-temperature method](../../simulations/water-temperature/index.html?preset=ep1-brioche)
+
 ### Limits of the water
 
 - Water cannot be colder than about 1-2 °C in practice; if the calculation gives less, the water alone cannot do it (ice, colder flour or a shorter mix, lesson 05.3).
@@ -131,6 +135,10 @@ PD-01, by hand:
 - **Flour:** use white flour for PD-01 (see [Flour in Israel](../../references/flour-in-israel.md) for the label and the water adjustment).
 - **Summer:** with a 30 °C kitchen and flour at 29 °C, 72 − 29 − 30 − 6 = 7 °C: tap water at 26-30 °C cannot do it. Keep a bottle of water in the fridge (about 4-5 °C) and blend it with tap water using the formula above, or mix in the air-conditioned room with flour kept there.
 - **Winter:** with an 18 °C kitchen and 17 °C flour, 72 − 17 − 18 − 6 = 31 °C: warm part of the water in a kettle and blend, checking with the probe.
+
+Check your own summer or winter readings in the simulation before you mix (it opens on the summer kitchen):
+
+[Simulation: Water temperature in a summer kitchen](../../simulations/water-temperature/index.html?preset=summer-israel)
 
 ### Steps
 

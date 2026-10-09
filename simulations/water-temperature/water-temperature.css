@@ -1,0 +1,28 @@
+.preset-bar { display: flex; flex-wrap: wrap; gap: 6px 10px; align-items: center; margin: 8px 0 4px; }
+.preset-bar label { font-weight: 600; }
+.preset-bar select { width: auto; flex: 1 1 220px; }
+.preset-bar button { flex: 0 0 auto; }
+
+.results { display: grid; gap: 12px; min-width: 0; }
+
+.big { font-size: 1.6rem; font-weight: 700; margin: 2px 0 6px; line-height: 1.25; }
+.big .sub { display: block; font-size: 0.95rem; font-weight: 500; color: var(--muted); }
+
+.steps { margin: 0; padding-left: 1.4em; }
+.steps li { margin: 0 0 10px; }
+.steps .t { font-weight: 600; }
+.steps .expr {
+  display: block;
+  font-family: ui-monospace, SFMono-Regular, Consolas, "Liberation Mono", monospace;
+  font-size: 0.92rem;
+  background: var(--bg);
+  border: 1px solid var(--line);
+  border-radius: 6px;
+  padding: 4px 8px;
+  margin: 2px 0;
+  overflow-wrap: anywhere;
+}
+.steps .note { display: block; font-size: 0.88rem; color: var(--muted); }
+
+.small { font-size: 0.85rem; }
+[hidden] { display: none !important; }

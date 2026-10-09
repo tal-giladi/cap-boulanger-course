@@ -104,6 +104,10 @@ and the rest of the water weight is tap water. The ice **is** part of the water:
 - Freezer ice is colder than 0 °C, so it cools slightly more than the formula says; that is a small safety margin in summer.
 - The limit: if all of the water were ice, it could bring the mix only to about 0 °C. When the calculated water is below about 1-2 °C, ice alone will not reach the target.
 
+The simulation opens on this lesson's PC-02 worked example (four factors, ice). Change the flour, fournil or friction factor and watch the water, the ice and the fermentation speed move; push the readings up until the water drops below 1-2 °C.
+
+[Simulation: Water temperature with a pre-ferment and ice](../../simulations/water-temperature/index.html?preset=pc02)
+
 ### When the water cannot do it
 
 ```mermaid
