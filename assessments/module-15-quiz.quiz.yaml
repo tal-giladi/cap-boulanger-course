@@ -1,0 +1,186 @@
+- id: q1
+  question: >-
+    Batch record, Friday: 12 boules PC-02, 400 g. "Pointage planned 1 h 15 at 24 °C; dough came off the mixer
+    at 27 °C; pointage left 2 h (oven busy). Apprêt 1 h 10." Exterior check at the rack: all 12 boules
+    spread and low, colour 2 on the scale although the oven was at temperature, cuts flat, sour smell. What
+    is the most likely diagnosis?
+  options:
+    - >-
+      An oven too cool for the bake, which left the crust pale and the cuts closed
+    - >-
+      Under-proofed boules, which could not open their cuts or rise in the oven
+    - >-
+      An over-fermented dough that used up its sugars and lost its strength
+    - >-
+      Shaping too tight, which made the boules spread and kept the crust pale
+  correct: 2
+  explanation: >-
+    A warm dough left 45 minutes longer than planned over-ferments: it spreads (pain plat), the cuts stay
+    flat, it smells sour and, with its sugars used up, the crust stays pale even in a hot oven.
+
+- id: q2
+  question: >-
+    Cut-test record, 11:00: "Pain de mie PM-01, 1,050 g pâton, unmoulded 9:20, cut 10:50. Crumb fine and
+    regular; grey, damp band about 1.5 cm at the base; press test slow. Core temperature: not taken. Bake
+    note: taken out 8 minutes early for the croissants." What do you do?
+  options:
+    - >-
+      Withdraw the batch from sale, tell the manager, and report the early unloading
+    - >-
+      Sell the batch, since the fine, regular crumb is right for pain de mie
+    - >-
+      Cut another loaf tomorrow, since 1 h 30 is too short to judge a pain de mie
+    - >-
+      Lower the hydration of PM-01 by 3 % so the base is less damp next time
+  correct: 0
+  explanation: >-
+    A grey, damp base with a slow press test, plus a record of an early unloading, points to under-baking.
+    The batch is withdrawn for the manager to decide, and the cause is reported; the formula is not the
+    problem.
+
+- id: q3
+  question: >-
+    The bakery has made a new campagne recipe. The manager asks: "Will our customers like it more than the
+    old one?" Which test answers that question?
+  options:
+    - >-
+      A triangle test with five bakers, to see if they can find the odd sample
+    - >-
+      A descriptive profile by two bakers of the new recipe's acidity and crust
+    - >-
+      The head baker tasting both openly and choosing the one he prefers
+    - >-
+      A blind preference or liking test with many customers, both coded
+  correct: 3
+  explanation: >-
+    Liking is measured with many untrained consumers, blind, with coded samples. A triangle test says only
+    whether a difference is perceived; a profile describes; one open taster is biased.
+
+- id: q4
+  question: >-
+    Weight-control sheet: 20 PC-02 rolls, pâton 60 g, salt 1.076 % of the dough. Five cooled rolls average
+    45.2 g. What is the salt per 100 g of bread for this sample?
+  options:
+    - >-
+      1.08 g, the salt contained in one roll
+    - >-
+      1.43 g, just over the 1.4 g limit
+    - >-
+      1.34 g, under the limit at the 20 % planned loss
+    - >-
+      2.39 g, with 1.8 % applied to the dough weight
+  correct: 1
+  explanation: >-
+    60 × 1.076 % = 0.646 g of salt in 45.2 g of bread: 1.43 g per 100 g. The measured loss (24.7 %) is
+    higher than the 20 % planning figure, so small rolls drift over the limit: shorten the bake.
+
+- id: q5
+  question: >-
+    A bakery packs brioches in bags labelled 400 g. Six bags from today's lot weigh 405, 398, 402, 386, 404
+    and 401 g. Under décret 78-166 the maximum tolerated shortfall at 400 g is 3 %. What is the right
+    conclusion?
+  options:
+    - >-
+      The lot conforms, since five of six bags are within 3 % of 400 g.
+    - >-
+      Only the 386 g bag is a problem; remove it and the lot conforms.
+    - >-
+      The lot conforms, since the average is within 3 % of 400 g.
+    - >-
+      The lot fails: one bag is under 388 g and the average is under 400 g.
+  correct: 3
+  explanation: >-
+    3 % of 400 g is 12 g, so a bag under 388 g is defective: the 386 g bag. The average, 399.3 g, is also
+    below the nominal 400 g, which the lot must reach. Fill heavier and re-check.
+
+- id: q6
+  question: >-
+    A trainee's display plan for Saturday: "6:40 croissants out of the oven, into the counter basket at
+    once, three layers; baguettes upright in open baskets from 6:50 (out 6:15); campagne on the window
+    ledge (morning sun); placards on every basket." Which change matters most?
+  options:
+    - >-
+      Put the baguettes in bags so they stay fresh until the evening
+    - >-
+      Remove the placards from the counter to leave more room for products
+    - >-
+      Croissants cooled about 20 min, single layer; campagne out of the sun
+    - >-
+      Bring the baguettes out at 6:20, still warm, so the shelf is full earlier
+  correct: 2
+  explanation: >-
+    Warm croissants piled in layers are crushed and sweat; bread in the sun overheats. The baguettes are
+    already right (cooled, upright, open), and placards are required.
+
+- id: q7
+  question: >-
+    Blind tasting sheet of your home baguette (three tasters, averages): crust colour 4; crumb creamy, medium
+    holes; yeasty 7/10, cereal 2/10, acid 1/10, toasted 6/10, salty 4/10. Bake log: direct dough, 1.5 %
+    fresh yeast, pointage 45 min, no pre-ferment. What change will most improve the flavour?
+  options:
+    - >-
+      Less yeast and a longer, cooler fermentation, or a pâte fermentée
+    - >-
+      A longer, darker bake to raise the toasted notes further
+    - >-
+      More salt, up to 2.2 % of the flour, to hide the yeasty note
+    - >-
+      A shorter mix so the crumb comes out whiter and finer
+  correct: 0
+  explanation: >-
+    A strong yeasty note with little cereal or acidity comes from a short, yeast-heavy fermentation. Less
+    yeast and more time, or a pre-ferment, build flavour; the crust is already well coloured, and more salt
+    would push the bread towards the limit.
+
+- id: q8
+  question: >-
+    Opening check: the shop scale used to weigh bread sold by the kilo carries a red sticker from the
+    verification body, put on yesterday. What do you do?
+  options:
+    - >-
+      Keep using it today, since the red sticker is only a reminder to book a visit
+    - >-
+      Use it but add 2 % to each weighing to be on the customer's side
+    - >-
+      Stop using it for sale, use a certified scale, tell the manager to arrange repair
+    - >-
+      Move it to the fournil and use it as the shop scale only for prepackages
+  correct: 2
+  explanation: >-
+    A red sticker means the scale failed its verification and must not be used for sale, including for
+    prepackages. Report it so it is repaired and verified again; sell with a certified, verified scale.
+
+- id: q9
+  question: >-
+    Which non-conformity note about this morning's tradition batch is written the professional way?
+  options:
+    - >-
+      "Traditions bad again today, the new trainee must be more careful at dividing."
+    - >-
+      "Some traditions looked light, I think the divider is wrong, someone should check it."
+    - >-
+      "Traditions not good. Weights low. Please fix the problem before tomorrow's batch."
+    - >-
+      "Traditions 7:00: 10 weighed, average 262 g for 270 g target; 3 under 262 g; set aside; check divider."
+  correct: 3
+  explanation: >-
+    A useful report gives measured facts, the action taken and a proposal (C4.4). The others blame a person,
+    stay vague or give no numbers to act on.
+
+- id: q10
+  question: >-
+    At home in Israel you compare a supermarket sliced bread whose label says "sodium 450 mg per 100 g" with
+    your own PC-02 baguette, which your weight sheet shows at 1.35 g of salt per 100 g. Which is saltier?
+  options:
+    - >-
+      The sliced bread, since 450 is more than 1.35
+    - >-
+      Your baguette, since 450 mg sodium is about 1.1 g salt
+    - >-
+      They are the same, since sodium and salt are equal amounts
+    - >-
+      The sliced bread, at about 4.5 g of salt per 100 g
+  correct: 1
+  explanation: >-
+    Salt = sodium × 2.5: 0.45 g × 2.5 = 1.125 g of salt per 100 g, less than your 1.35 g. Compare in the
+    same unit before judging; 450 mg is 0.45 g, not 4.5 g.

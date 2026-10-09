@@ -1,0 +1,89 @@
+- id: q1
+  question: >-
+    A trainee cuts a tradition baguette 10 minutes after it leaves the oven and reports a gummy, under-baked
+    crumb. The loaf sounded hollow and the core was 97 °C at the end of the bake. What do you tell them?
+  options:
+    - >-
+      The bake was too short; add 5 minutes to the next load.
+    - >-
+      The crumb was still setting; cut another piece after full cooling.
+    - >-
+      The dough had too much water; lower the hydration by 2 %.
+    - >-
+      Tradition crumb is always gummy; this is the expected result.
+  correct: 1
+  explanation: >-
+    Bread keeps setting as it cools. Cut warm, even a well-baked crumb looks gummy. The core temperature
+    and the hollow sound say the bake was complete: cut again after at least 1 hour.
+
+- id: q2
+  question: >-
+    Two loaves are cut: a tradition with irregular holes of all sizes and shiny walls, and a pain de mie with
+    fine, small, regular holes. How do you score their crumb structure?
+  options:
+    - >-
+      Both as expected, since each crumb matches its own product.
+    - >-
+      Tradition good, pain de mie too tight, since good crumb is open.
+    - >-
+      Pain de mie good, tradition faulty, since holes should be regular.
+    - >-
+      Both faulty, since a good crumb is medium and fairly regular.
+  correct: 0
+  explanation: >-
+    There is no single good crumb. A tradition should be open and irregular; a pain de mie fine and regular.
+    Each is judged against what its own product should show.
+
+- id: q3
+  question: >-
+    A pain de mie shows a long hole just under the top crust, along the whole loaf. The shaping note says
+    the balls were rolled in flour to stop them sticking. What is the most likely cause?
+  options:
+    - >-
+      Over-proofing in the tin, which always leaves a hole at the top
+    - >-
+      Under-baking, since the top crust did not set in time
+    - >-
+      Flour trapped at shaping, so the dough did not weld together
+    - >-
+      Too much sugar in the formula, which weakens the crumb
+  correct: 2
+  explanation: >-
+    A tunnel along the whole loaf at one height is a shaping fault: air or flour trapped in a fold stops the
+    dough from welding. Shape on a lightly oiled bench instead of flour.
+
+- id: q4
+  question: >-
+    You want to compare the openness of two bakes of the same tradition formula. Which record is the most
+    useful?
+  options:
+    - >-
+      A description of each crumb as "open", "quite open" or "tight"
+    - >-
+      The weight of each loaf after cooling, since lighter means more open
+    - >-
+      A photo of each loaf taken whole, from the outside, on the rack
+    - >-
+      Holes of 5 mm or more counted in a 4 × 4 cm window at the centre
+  correct: 3
+  explanation: >-
+    A count in a fixed window at a fixed place can be compared from bake to bake. Words drift, weight does
+    not show crumb structure and a whole-loaf photo shows only the outside.
+
+- id: q5
+  question: >-
+    A baguette has a white, cottony crumb and a bland taste. The dough temperature and fermentation were on
+    target. Which stage do you check first?
+  options:
+    - >-
+      Mixing: time and speed, for over-oxidation
+    - >-
+      Apprêt: the poke test and time, for over-proofing
+    - >-
+      Baking: the steam and heat, for a dull crust
+    - >-
+      Shaping: the tension, for a tunnel under the crust
+  correct: 0
+  explanation: >-
+    Long, fast mixing over-oxidises the dough: the carotenoid pigments are bleached, so the crumb turns white
+    and the flavour flat. Fermentation and baking do not cause that combination.

@@ -1,0 +1,54 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 470" width="900" height="470" role="img" aria-labelledby="t d">
+  <title id="t">The course crust colour scale, 1 to 5, with the target colour of each product</title>
+  <desc id="d">Five colour swatches from left to right: 1 pale, almost white-blond; 2 blond; 3 golden; 4 golden-brown; 5 dark brown verging on burnt. Above them an arrow shows what makes colour: the crust surface first dries, then passes 105 degrees Celsius where Maillard browning starts, and 160 degrees where sugars caramelise. Below, a bar for each product shows its target range on the scale: pain courant baguette 3 to 4, tradition 4, campagne and levain bread 4 to 5, pain de mie 3, pain viennois 3 to 4, croissant 4, brioche 4. Underneath, the usual causes: too pale means oven too cool, bake too short or an over-fermented dough with its sugars used up; too dark means oven or sole too hot, bake too long, or too much sugar, malt or egg wash.</desc>
+  <rect x="0" y="0" width="900" height="470" fill="#ffffff"/>
+  <g font-family="Arial, Helvetica, sans-serif" fill="#222222">
+    <text x="450" y="30" text-anchor="middle" font-size="20" font-weight="bold">Crust colour (coloration): a 1-5 scale for this course</text>
+    <!-- process arrow -->
+    <line x1="80" y1="62" x2="820" y2="62" stroke="#7a3b10" stroke-width="3"/>
+    <polygon points="820,55 836,62 820,69" fill="#7a3b10"/>
+    <text x="90" y="54" font-size="12">surface dries (stays near 100 °C while water evaporates)</text>
+    <text x="440" y="54" font-size="12">above 105 °C: Maillard browning</text>
+    <text x="680" y="54" font-size="12">160 °C: sugars caramelise</text>
+    <!-- swatches -->
+    <rect x="80" y="85" width="140" height="80" rx="8" fill="#f1e2bf" stroke="#999999"/>
+    <rect x="230" y="85" width="140" height="80" rx="8" fill="#e6c27a" stroke="#999999"/>
+    <rect x="380" y="85" width="140" height="80" rx="8" fill="#cf9440" stroke="#999999"/>
+    <rect x="530" y="85" width="140" height="80" rx="8" fill="#a5642a" stroke="#999999"/>
+    <rect x="680" y="85" width="140" height="80" rx="8" fill="#5a2e14" stroke="#999999"/>
+    <text x="150" y="132" text-anchor="middle" font-size="16" font-weight="bold">1 pale</text>
+    <text x="300" y="132" text-anchor="middle" font-size="16" font-weight="bold">2 blond</text>
+    <text x="450" y="132" text-anchor="middle" font-size="16" font-weight="bold">3 golden</text>
+    <text x="600" y="126" text-anchor="middle" font-size="16" font-weight="bold" fill="#ffffff">4 golden-</text>
+    <text x="600" y="145" text-anchor="middle" font-size="16" font-weight="bold" fill="#ffffff">brown</text>
+    <text x="750" y="126" text-anchor="middle" font-size="16" font-weight="bold" fill="#ffffff">5 dark brown</text>
+    <text x="750" y="145" text-anchor="middle" font-size="13" fill="#ffffff">(burnt if black)</text>
+    <!-- product targets: scale positions centres 150,300,450,600,750 -->
+    <text x="80" y="198" font-size="14" font-weight="bold">Target for each product</text>
+    <g font-size="13">
+      <text x="20" y="225">Pain courant</text>
+      <rect x="380" y="213" width="290" height="16" rx="8" fill="#cf9440"/>
+      <text x="20" y="251">Tradition</text>
+      <rect x="530" y="239" width="140" height="16" rx="8" fill="#a5642a"/>
+      <text x="20" y="277">Campagne, levain</text>
+      <rect x="530" y="265" width="290" height="16" rx="8" fill="#7d4420"/>
+      <text x="20" y="303">Pain de mie</text>
+      <rect x="380" y="291" width="140" height="16" rx="8" fill="#cf9440"/>
+      <text x="20" y="329">Pain viennois</text>
+      <rect x="380" y="317" width="290" height="16" rx="8" fill="#cf9440"/>
+      <text x="20" y="355">Croissant</text>
+      <rect x="530" y="343" width="140" height="16" rx="8" fill="#a5642a"/>
+      <text x="20" y="381">Brioche</text>
+      <rect x="530" y="369" width="140" height="16" rx="8" fill="#a5642a"/>
+    </g>
+    <!-- causes -->
+    <rect x="20" y="400" width="420" height="58" rx="6" fill="#f4f4f4" stroke="#bbbbbb"/>
+    <text x="30" y="420" font-size="13" font-weight="bold">Too pale (1-2 where 3-4 is wanted)</text>
+    <text x="30" y="438" font-size="12">oven too cool, bake too short, over-fermented dough</text>
+    <text x="30" y="453" font-size="12">(sugars used up), no or uneven egg wash</text>
+    <rect x="460" y="400" width="420" height="58" rx="6" fill="#f4f4f4" stroke="#bbbbbb"/>
+    <text x="470" y="420" font-size="13" font-weight="bold">Too dark (5 where 3-4 is wanted)</text>
+    <text x="470" y="438" font-size="12">oven or sole too hot, bake too long, hot spot,</text>
+    <text x="470" y="453" font-size="12">too much sugar, malt or egg wash</text>
+  </g>
+</svg>

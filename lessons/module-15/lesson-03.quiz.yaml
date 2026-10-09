@@ -1,0 +1,86 @@
+- id: q1
+  question: >-
+    The mill offers a cheaper flour "with the same quality". The manager wants to know whether customers
+    could notice any difference in the baguette. Which test answers that question?
+  options:
+    - >-
+      A liking test where staff score the new baguette from 0 to 10
+    - >-
+      A descriptive profile by one baker of the new baguette alone
+    - >-
+      A paired test asking which of the two baguettes is crispier
+    - >-
+      A triangle test with coded samples, two identical and one different
+  correct: 3
+  explanation: >-
+    "Is there any perceptible difference?" is answered by the triangle test. A liking score of one bread
+    compares nothing, a single-bread profile has no reference, and a paired test only asks about one attribute.
+
+- id: q2
+  question: >-
+    In a triangle test with 12 tasters, 5 pick the odd sample. What do you conclude?
+  options:
+    - >-
+      A clear difference, since 5 tasters is almost half the panel
+    - >-
+      No clear difference, since chance alone gives about 4 correct
+    - >-
+      The samples are identical, since fewer than 6 found the odd one
+    - >-
+      The test failed, since a triangle test needs 100 tasters
+  correct: 1
+  explanation: >-
+    With three samples, about one taster in three finds the odd one by chance: about 4 of 12. Five is not
+    clearly more, so there is no clear difference; it does not prove the samples identical either.
+
+- id: q3
+  question: >-
+    You organise a staff tasting of three breads. Which set-up follows the rules of sensory analysis?
+  options:
+    - >-
+      Slices of equal size coded 418, 263 and 795, in a changing order, in silence, water between
+    - >-
+      Slices labelled with each bakery's name so tasters can comment on the brands
+    - >-
+      Whole loaves passed around the table so everyone can discuss the crust together
+    - >-
+      Your own bread served first and warm, the others cold, so it is judged at its best
+  correct: 0
+  explanation: >-
+    Blind codes, equal samples, a changing order, no talking and rinsing remove the main disturbing
+    factors: knowing the product, order effects, other tasters and different temperatures.
+
+- id: q4
+  question: >-
+    A taster writes "too salty, don't like it" for a baguette that contains 1.3 g of salt per 100 g. What is
+    wrong with the record?
+  options:
+    - >-
+      Nothing; the taster's opinion is the official salt check.
+    - >-
+      Salt cannot be tasted in bread, so the comment must be ignored.
+    - >-
+      Intensity and liking are mixed; score salty intensity and liking apart.
+    - >-
+      The bread is over the legal limit, so the comment proves it.
+  correct: 2
+  explanation: >-
+    Sensory analysis records the intensity of a sensation and the liking separately. The legal limit is
+    checked by calculation (1.3 g is under 1.4 g), not by taste.
+
+- id: q5
+  question: >-
+    A shop's sliced bread label says "sodium 520 mg per 100 g". How much salt per 100 g is that?
+  options:
+    - >-
+      0.52 g of salt, since sodium and salt are the same thing
+    - >-
+      1.3 g of salt, since salt is sodium multiplied by 2.5
+    - >-
+      0.21 g of salt, since salt is sodium divided by 2.5
+    - >-
+      5.2 g of salt, since 520 mg is 5.2 g
+  correct: 1
+  explanation: >-
+    The EU labelling formula is salt = sodium × 2.5: 0.52 g × 2.5 = 1.3 g of salt per 100 g. 520 mg is
+    0.52 g, not 5.2 g.

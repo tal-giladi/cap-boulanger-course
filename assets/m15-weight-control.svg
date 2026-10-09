@@ -1,0 +1,80 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 540" width="900" height="540" role="img" aria-labelledby="t d">
+  <title id="t">Weight control: reading a sample against its target, tolerance and average</title>
+  <desc id="d">Two dot plots. Top: ten cooled PC-02 baguettes from 350 gram pâtons, weighed against the shop's announced weight of 280 grams and the bakery's own tolerance of plus or minus 3 percent, from 271.6 to 288.4 grams, shown as a green band. Nine pieces fall inside the band; one piece at 270 grams falls below it. The sample average is 279.3 grams, just under the 280 gram target. Conclusion: one light piece to set aside and trace to dividing or baking, and an average to raise by increasing the pâton to about 355 grams. Bottom: eight bags of sliced pain de mie labelled 500 grams, a prepackage. The maximum tolerated shortfall for 500 grams is 15 grams, so a bag under 485 grams is defective; the red line marks 485 grams. No bag is under 485 grams, but the average is 499.5 grams, below the 500 grams nominal quantity, so the lot does not meet the rule that the average must be at least the nominal quantity. Conclusion: fill heavier, for example aim at 505 to 510 grams.</desc>
+  <rect x="0" y="0" width="900" height="540" fill="#ffffff"/>
+  <g font-family="Arial, Helvetica, sans-serif" fill="#222222">
+    <text x="450" y="28" text-anchor="middle" font-size="20" font-weight="bold">Weight control: average, spread and limits</text>
+
+    <!-- TOP: scale 265..290 g mapped to x 100..820 => 28.8 px per g -->
+    <text x="30" y="62" font-size="15" font-weight="bold">A. 10 baguettes (unwrapped, sold in the shop): announced 280 g, bakery tolerance ± 3 %</text>
+    <rect x="290.1" y="80" width="483.8" height="110" fill="#e3f2e1"/>
+    <line x1="100" y1="190" x2="820" y2="190" stroke="#444444" stroke-width="1.5"/>
+    <g font-size="12" text-anchor="middle">
+      <line x1="100" y1="190" x2="100" y2="196" stroke="#444444"/><text x="100" y="210">265</text>
+      <line x1="244" y1="190" x2="244" y2="196" stroke="#444444"/><text x="244" y="210">270</text>
+      <line x1="388" y1="190" x2="388" y2="196" stroke="#444444"/><text x="388" y="210">275</text>
+      <line x1="532" y1="190" x2="532" y2="196" stroke="#444444"/><text x="532" y="210">280</text>
+      <line x1="676" y1="190" x2="676" y2="196" stroke="#444444"/><text x="676" y="210">285</text>
+      <line x1="820" y1="190" x2="820" y2="196" stroke="#444444"/><text x="820" y="210">290 g</text>
+    </g>
+    <line x1="532" y1="78" x2="532" y2="190" stroke="#2e7d32" stroke-width="2"/>
+    <text x="536" y="92" font-size="12" fill="#2e7d32">target 280</text>
+    <line x1="511.8" y1="100" x2="511.8" y2="190" stroke="#1565c0" stroke-width="2" stroke-dasharray="6,4"/>
+    <text x="507" y="114" font-size="12" fill="#1565c0" text-anchor="end">average 279.3</text>
+    <text x="290" y="182" font-size="11" fill="#2e7d32">271.6</text>
+    <text x="736" y="182" font-size="11" fill="#2e7d32">288.4</text>
+    <!-- points: 284,279,276,281,270,283,278,285,280,277 -->
+    <g fill="#333333">
+      <circle cx="647.2" cy="150" r="6"/>
+      <circle cx="503.2" cy="150" r="6"/>
+      <circle cx="416.8" cy="150" r="6"/>
+      <circle cx="560.8" cy="150" r="6"/>
+      <circle cx="618.4" cy="150" r="6"/>
+      <circle cx="474.4" cy="150" r="6"/>
+      <circle cx="676" cy="150" r="6"/>
+      <circle cx="532" cy="135" r="6"/>
+      <circle cx="445.6" cy="150" r="6"/>
+    </g>
+    <circle cx="244" cy="150" r="7" fill="#c0392b"/>
+    <text x="244" y="132" text-anchor="middle" font-size="12" fill="#c0392b">270: light piece</text>
+    <text x="30" y="238" font-size="13">Set the light piece aside and trace it (dividing? oven position?). Average 0.7 g under the announced weight:</text>
+    <text x="30" y="256" font-size="13">raise the pâton. Loss 20.2 %, aim at 283 g: 283 ÷ 0.798 = 355 g.</text>
+
+    <line x1="20" y1="276" x2="880" y2="276" stroke="#cccccc"/>
+
+    <!-- BOTTOM: scale 480..515 mapped to x 100..820 => 20.571 px per g -->
+    <text x="30" y="306" font-size="15" font-weight="bold">B. 8 bags of sliced pain de mie (prepackage), labelled 500 g</text>
+    <line x1="100" y1="430" x2="820" y2="430" stroke="#444444" stroke-width="1.5"/>
+    <g font-size="12" text-anchor="middle">
+      <line x1="100" y1="430" x2="100" y2="436" stroke="#444444"/><text x="100" y="450">480</text>
+      <line x1="202.9" y1="430" x2="202.9" y2="436" stroke="#444444"/><text x="202.9" y="450">485</text>
+      <line x1="305.7" y1="430" x2="305.7" y2="436" stroke="#444444"/><text x="305.7" y="450">490</text>
+      <line x1="408.6" y1="430" x2="408.6" y2="436" stroke="#444444"/><text x="408.6" y="450">495</text>
+      <line x1="511.4" y1="430" x2="511.4" y2="436" stroke="#444444"/><text x="511.4" y="450">500</text>
+      <line x1="614.3" y1="430" x2="614.3" y2="436" stroke="#444444"/><text x="614.3" y="450">505</text>
+      <line x1="717.1" y1="430" x2="717.1" y2="436" stroke="#444444"/><text x="717.1" y="450">510</text>
+      <line x1="820" y1="430" x2="820" y2="436" stroke="#444444"/><text x="820" y="450">515 g</text>
+    </g>
+    <line x1="202.9" y1="320" x2="202.9" y2="430" stroke="#c0392b" stroke-width="2"/>
+    <text x="198" y="334" font-size="12" fill="#c0392b" text-anchor="end">485: defective below</text>
+    <text x="198" y="350" font-size="12" fill="#c0392b" text-anchor="end">(500 − 15 g)</text>
+    <line x1="511.4" y1="320" x2="511.4" y2="430" stroke="#2e7d32" stroke-width="2"/>
+    <text x="516" y="334" font-size="12" fill="#2e7d32">nominal 500</text>
+    <line x1="501.1" y1="345" x2="501.1" y2="430" stroke="#1565c0" stroke-width="2" stroke-dasharray="6,4"/>
+    <text x="496" y="360" font-size="12" fill="#1565c0" text-anchor="end">average 499.5</text>
+    <!-- points: 503,498,507,489,501,496,510,492 -->
+    <g fill="#333333">
+      <circle cx="573.1" cy="395" r="6"/>
+      <circle cx="470.3" cy="395" r="6"/>
+      <circle cx="655.4" cy="395" r="6"/>
+      <circle cx="285.1" cy="395" r="6"/>
+      <circle cx="531.9" cy="395" r="6"/>
+      <circle cx="429.1" cy="395" r="6"/>
+      <circle cx="717.1" cy="395" r="6"/>
+      <circle cx="346.9" cy="395" r="6"/>
+    </g>
+    <text x="30" y="482" font-size="13">No bag under 485 g, but the average (499.5 g) is under the 500 g on the label: the lot does not meet the rule</text>
+    <text x="30" y="500" font-size="13">"average at least the nominal quantity". Fill heavier (aim at about 505-510 g) and re-check.</text>
+    <text x="30" y="526" font-size="11" fill="#555555">Limits from décret n° 78-166 (art. 4) for prepackages. Unwrapped bread has no such table: the bakery sets its own tolerance and must deliver what it announces.</text>
+  </g>
+</svg>

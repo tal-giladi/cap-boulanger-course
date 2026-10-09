@@ -1,0 +1,88 @@
+- id: q1
+  question: >-
+    Baguettes leave the oven at 6:40 and the shop opens at 7:00. The sales assistant wants them in the
+    baskets straight away so the shelf is full at opening. What do you do?
+  options:
+    - >-
+      Put them out at once, packed tightly so they stay warm for customers.
+    - >-
+      Bag them warm so the crust stays soft and they keep until evening.
+    - >-
+      Let them cool on racks about 30 minutes; fill the shelf from 7:10.
+    - >-
+      Put them in the window, where the sun will finish drying the crust.
+  correct: 2
+  explanation: >-
+    Warm bread packed into a basket or a bag sweats and its crust softens; the sun spoils it further. Bread
+    goes out cooled and checked, and the cooling time belongs on the plan.
+
+- id: q2
+  question: >-
+    Which display breaks the elementary rules of presentation?
+  options:
+    - >-
+      Croissants piled three deep in one basket on the counter so the shelf looks full
+    - >-
+      Traditions upright in a basket behind the counter, scores facing the customer
+    - >-
+      Campagne loaves whole on the bottom shelf, with a placard showing name and price
+    - >-
+      Pains au chocolat in one layer on a clean tray, in rows, all turned the same way
+  correct: 0
+  explanation: >-
+    Piled viennoiserie crushes its layers and looks untidy; it goes in a single layer, in rows. The other
+    three follow the rules: by family, visible, labelled, protected.
+
+- id: q3
+  question: >-
+    Two pains au chocolat were burnt at the edge and set aside. An hour later a customer is sold one of
+    them. What should have prevented it?
+  options:
+    - >-
+      A sign on the counter saying some products may be darker than usual
+    - >-
+      Keeping set-aside pieces in the fournil and naming them in the brief
+    - >-
+      Putting the two dark pieces at the back of the tray behind the others
+    - >-
+      Lowering their price so customers know they are second quality
+  correct: 1
+  explanation: >-
+    Pieces not for sale stay out of the shop and are named at the hand-over to sales staff. Hiding them on
+    the tray is how they get sold by mistake.
+
+- id: q4
+  question: >-
+    In a summer kitchen at 30 °C you set out croissants, pains au chocolat and baguettes for a brunch by a
+    sunny window. Which plan keeps them best?
+  options:
+    - >-
+      Everything in the window for the light, covered with plastic film
+    - >-
+      All products at once in closed plastic boxes to protect them from flies
+    - >-
+      Baguettes in bags, viennoiserie stacked on one plate to save space
+    - >-
+      Shade, away from the oven, small amounts refilled often, a cloth cover
+  correct: 3
+  explanation: >-
+    Heat and sun soften chocolate and butter; plastic softens crusts. A shaded place, smaller quantities
+    refilled often and a breathable cover keep each product closest to its best.
+
+- id: q5
+  question: >-
+    Every Saturday evening 15 baguettes from the last load are left unsold, while traditions sell out by
+    noon. What is the professional response?
+  options:
+    - >-
+      Keep the plan and give the unsold baguettes away, since full shelves sell.
+    - >-
+      Record the counts; agree smaller baguette and larger tradition loads.
+    - >-
+      Bake all the baguettes earlier so they are on the shelf longer.
+    - >-
+      Put the traditions out only in the afternoon so they last longer.
+  correct: 1
+  explanation: >-
+    Unsold counts are information: recorded and shared with the manager, they set the size of the next
+    loads. Holding back a product that sells, or baking earlier, does not fix the mismatch.

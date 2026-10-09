@@ -1,0 +1,89 @@
+- id: q1
+  question: >-
+    Weight-control sheet, PC-02 baguettes from 350 g pâtons, target 280 g, tolerance ± 3 %. Sample of five:
+    281, 279, 266, 282, 280 g. What does the sheet tell you?
+  options:
+    - >-
+      The batch is light; raise every pâton by about 3 g for the next batch.
+    - >-
+      The batch is fine, since the average is within 3 % of the target.
+    - >-
+      The bake was too long, since every piece lost more than planned.
+    - >-
+      The average is close, but one piece is out: check the dividing.
+  correct: 3
+  explanation: >-
+    The average is 277.6 g, within 1 % of target, and four pieces are on weight. The 266 g piece is outside
+    271.6-288.4 g: a single light piece points to dividing (or one oven spot), not to the whole batch.
+
+- id: q2
+  question: >-
+    A shop's placard says "Baguette 250 g". The measured baking loss is 20 %. Which pâton keeps the average
+    about 3 g above the announced weight?
+  options:
+    - >-
+      300 g, since 250 g plus 20 % is 300 g
+    - >-
+      316 g, since 253 g divided by 0.80 is about 316 g
+    - >-
+      303.6 g, since 253 g plus 20 % is about 304 g
+    - >-
+      253 g, since the announced weight is the dough weight
+  correct: 1
+  explanation: >-
+    The loss is a share of the pâton, so you divide by the yield: 253 ÷ 0.80 = 316.25 g, rounded up to about
+    316-320 g. Adding 20 % to the baked weight gives a pâton that is too light.
+
+- id: q3
+  question: >-
+    A bakery sells sliced pain de mie in bags labelled 500 g. Six bags weigh 502, 497, 499, 488, 503 and
+    498 g. Under the French prepackage rules, what is the problem?
+  options:
+    - >-
+      The 488 g bag is defective, since it is more than 15 g under 500 g.
+    - >-
+      None, since every bag is within 15 g of the 500 g on the label.
+    - >-
+      The average is under 500 g, so the lot does not meet the rules.
+    - >-
+      Three bags are under 500 g, and no bag may ever weigh less than that.
+  correct: 2
+  explanation: >-
+    No bag is under 485 g (500 − 15 g), so none is defective, and single bags may be a little under 500 g.
+    But the average of the lot, 497.8 g, must not be below the nominal quantity.
+
+- id: q4
+  question: >-
+    A customer complains that a baguette sold as 250 g on the placard weighed 228 g. A colleague says there
+    is no legal weight for a baguette in France, so there is no problem. What is the correct answer?
+  options:
+    - >-
+      There is a problem: an announced weight must be delivered.
+    - >-
+      The colleague is right: only prepacked bread has rules on weight.
+    - >-
+      There is a problem: French law sets a baguette at 250 g minimum.
+    - >-
+      The colleague is right: a 9 % shortfall is within the legal tolerance.
+  correct: 0
+  explanation: >-
+    No text fixes the weight of a bread type, but a weight the shop announces is a promise: deceiving the
+    customer about the quantity delivered is tromperie. Keep the average above the announced weight.
+
+- id: q5
+  question: >-
+    At 6:50 you count 46 baguettes on the racks for an order of 48 (two were burnt and set aside). The shop
+    opens at 7:00 and the next load is at 7:30. What do you do first?
+  options:
+    - >-
+      Send the two burnt pieces to the shop so the order is complete.
+    - >-
+      Wait until the 7:30 load and add two pieces without telling anyone.
+    - >-
+      Note the shortfall on the weight-control sheet for the weekly review.
+    - >-
+      Tell the sales staff and the manager now; add two from the 7:30 load.
+  correct: 3
+  explanation: >-
+    A short count is reported at once (C4.4) so sales staff can manage customers and the manager can decide.
+    Burnt pieces do not complete an order; silence or a weekly note comes too late.

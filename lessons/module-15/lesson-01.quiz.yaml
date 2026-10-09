@@ -1,0 +1,90 @@
+- id: q1
+  question: >-
+    You check 24 baguettes from one dough baked on two decks. Deck 1 pieces are all at 4 on the colour
+    scale; the four pieces at the back right of deck 2 are at 3 with poorly opened cuts. What is the most
+    sensible first conclusion?
+  options:
+    - >-
+      The dough was over-fermented, so the next batch needs a shorter pointage.
+    - >-
+      The four pieces were shaped badly, so the shaper needs more practice.
+    - >-
+      The pattern points to the oven or the loading of deck 2, not the dough.
+    - >-
+      The colour scale is too strict for pain courant and should be ignored.
+  correct: 2
+  explanation: >-
+    Both decks had the same dough. A defect limited to one deck and one corner is a process or oven
+    pattern: check the loading time, recovery and steam for that deck before changing the formula.
+
+- id: q2
+  question: >-
+    A batch of tradition baguettes comes out pale (2 on the scale) although the oven thermometer read
+    250 °C and the bake lasted the full time. The dough smelled strongly sour and the cuts were flat. What
+    explains the pale crust?
+  options:
+    - >-
+      The dough was over-fermented and had used up the sugars needed for browning.
+    - >-
+      The oven was too hot, so the crust set before it could colour.
+    - >-
+      Too much steam was given, and steam always prevents any browning.
+    - >-
+      Tradition flour has no sugars at all, so it never browns well.
+  correct: 0
+  explanation: >-
+    Browning needs a dry, hot surface and reducing sugars. An over-fermented dough has used its sugars,
+    so it stays pale even in a hot oven; the sour smell and flat cuts confirm over-fermentation.
+
+- id: q3
+  question: >-
+    Which record of a home batch lets you compare it properly with your next bake?
+  options:
+    - >-
+      "Three nice baguettes, good colour, crust crisp, one a bit short."
+    - >-
+      "Baguettes OK, better than last time, colour slightly uneven on one."
+    - >-
+      "Three baguettes, very good overall, would score them about 17 out of 20."
+    - >-
+      "Three baguettes 37, 38, 35 cm; colour 4, 4, 3; the 35 cm one front of tray."
+  correct: 3
+  explanation: >-
+    Measurements (lengths, colour scores, position) can be compared from bake to bake and point to a
+    cause. Adjectives and an overall impression cannot.
+
+- id: q4
+  question: >-
+    A loaf from the delivery van shows a hard, black, burnt bottom while the top is a normal golden-brown.
+    Which named defect is it, and where do you look first?
+  options:
+    - >-
+      Pain cloqué; the humidity of the proofing cabinet
+    - >-
+      Pain ferré; the temperature of the oven sole
+    - >-
+      Pain cintré; the length of the apprêt
+    - >-
+      Croûte terne; the steam at loading
+  correct: 1
+  explanation: >-
+    A burnt, hard bottom is pain ferré, caused by a sole (deck floor) that is too hot or a bake too long
+    on it. Cloqué is blisters, cintré a burst side, croûte terne a dull crust.
+
+- id: q5
+  question: >-
+    You want to judge the crust texture of your home baguettes on a humid summer day. When do you judge
+    it?
+  options:
+    - >-
+      Straight out of the oven, when the crust is at its crispest
+    - >-
+      The next morning, to see how the bread keeps
+    - >-
+      Between 30 minutes and 1 hour after baking, noting the weather
+    - >-
+      After 3 hours in a closed plastic bag, so all pieces are equal
+  correct: 2
+  explanation: >-
+    The bread must have cooled and finished its ressuage, but humid air softens a crust within an hour
+    or two. Judge at a fixed time after baking and write the weather so you do not blame the bake.

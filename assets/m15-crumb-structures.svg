@@ -1,0 +1,103 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 560" width="900" height="560" role="img" aria-labelledby="t d">
+  <title id="t">Reading a crumb: four good structures and four faults, in cross-section</title>
+  <desc id="d">Top row, good crumbs for four products. Pain courant baguette: creamy crumb with medium, fairly regular holes. Tradition: cream to ivory crumb with irregular large and small holes and shiny walls. Pain de mie: fine, small, regular holes, pale crumb, thin soft crust. Campagne or levain bread: irregular holes, slightly greyer crumb, thick dark crust. Bottom row, four faults with their usual cause. Dense, tight crumb with tiny holes: under-fermented, under-proofed or cold dough. A long tunnel under the crust: shaping that trapped air or flour in a fold. Large holes just under the top crust with a compressed bottom: over-proofed, the structure collapsed. A grey, damp, gummy band at the base: under-baked or cut while warm.</desc>
+  <rect x="0" y="0" width="900" height="560" fill="#ffffff"/>
+  <g font-family="Arial, Helvetica, sans-serif" fill="#222222">
+    <text x="450" y="28" text-anchor="middle" font-size="20" font-weight="bold">Reading the crumb (mie) in cross-section</text>
+    <text x="20" y="56" font-size="15" font-weight="bold" fill="#2e7d32">As expected for the product</text>
+
+    <!-- 1 pain courant -->
+    <ellipse cx="115" cy="140" rx="95" ry="62" fill="#b9762f"/>
+    <ellipse cx="115" cy="142" rx="86" ry="54" fill="#f3e3bd"/>
+    <g fill="#ffffff" stroke="#d8c08c">
+      <ellipse cx="70" cy="128" rx="9" ry="6"/><ellipse cx="100" cy="118" rx="7" ry="5"/><ellipse cx="135" cy="125" rx="10" ry="6"/>
+      <ellipse cx="160" cy="145" rx="8" ry="6"/><ellipse cx="85" cy="155" rx="8" ry="5"/><ellipse cx="118" cy="150" rx="9" ry="7"/>
+      <ellipse cx="150" cy="168" rx="7" ry="5"/><ellipse cx="60" cy="150" rx="6" ry="5"/><ellipse cx="100" cy="176" rx="7" ry="4"/>
+    </g>
+    <text x="115" y="222" text-anchor="middle" font-size="14" font-weight="bold">Pain courant</text>
+    <text x="115" y="240" text-anchor="middle" font-size="12">creamy, medium, fairly regular</text>
+
+    <!-- 2 tradition -->
+    <ellipse cx="335" cy="140" rx="95" ry="62" fill="#8f5420"/>
+    <ellipse cx="335" cy="142" rx="86" ry="54" fill="#f6e7c1"/>
+    <g fill="#ffffff" stroke="#c9a96a" stroke-width="1.5">
+      <ellipse cx="290" cy="125" rx="16" ry="10"/><ellipse cx="335" cy="118" rx="6" ry="4"/><ellipse cx="360" cy="135" rx="20" ry="12"/>
+      <ellipse cx="300" cy="160" rx="7" ry="5"/><ellipse cx="330" cy="150" rx="5" ry="4"/><ellipse cx="385" cy="165" rx="10" ry="7"/>
+      <ellipse cx="270" cy="148" rx="5" ry="4"/><ellipse cx="345" cy="175" rx="13" ry="7"/><ellipse cx="400" cy="130" rx="5" ry="4"/>
+    </g>
+    <text x="335" y="222" text-anchor="middle" font-size="14" font-weight="bold">Tradition</text>
+    <text x="335" y="240" text-anchor="middle" font-size="12">cream, irregular, shiny walls</text>
+
+    <!-- 3 pain de mie -->
+    <rect x="465" y="82" width="170" height="118" rx="14" fill="#c98f45"/>
+    <rect x="471" y="88" width="158" height="106" rx="10" fill="#fbf3df"/>
+    <g fill="#e8dcc0">
+      <circle cx="490" cy="105" r="2.5"/><circle cx="510" cy="112" r="2.5"/><circle cx="530" cy="104" r="2.5"/><circle cx="550" cy="113" r="2.5"/><circle cx="570" cy="105" r="2.5"/><circle cx="590" cy="112" r="2.5"/><circle cx="610" cy="105" r="2.5"/>
+      <circle cx="490" cy="130" r="2.5"/><circle cx="510" cy="138" r="2.5"/><circle cx="530" cy="130" r="2.5"/><circle cx="550" cy="138" r="2.5"/><circle cx="570" cy="130" r="2.5"/><circle cx="590" cy="138" r="2.5"/><circle cx="610" cy="130" r="2.5"/>
+      <circle cx="490" cy="156" r="2.5"/><circle cx="510" cy="164" r="2.5"/><circle cx="530" cy="156" r="2.5"/><circle cx="550" cy="164" r="2.5"/><circle cx="570" cy="156" r="2.5"/><circle cx="590" cy="164" r="2.5"/><circle cx="610" cy="156" r="2.5"/>
+      <circle cx="500" cy="180" r="2.5"/><circle cx="530" cy="182" r="2.5"/><circle cx="560" cy="180" r="2.5"/><circle cx="590" cy="182" r="2.5"/>
+    </g>
+    <text x="550" y="222" text-anchor="middle" font-size="14" font-weight="bold">Pain de mie</text>
+    <text x="550" y="240" text-anchor="middle" font-size="12">fine, small, regular; soft thin crust</text>
+
+    <!-- 4 campagne -->
+    <ellipse cx="785" cy="140" rx="98" ry="66" fill="#5e3216"/>
+    <ellipse cx="785" cy="142" rx="85" ry="54" fill="#e6d3ad"/>
+    <g fill="#fbf6ea" stroke="#b79f74">
+      <ellipse cx="745" cy="128" rx="12" ry="8"/><ellipse cx="790" cy="120" rx="6" ry="4"/><ellipse cx="820" cy="140" rx="14" ry="9"/>
+      <ellipse cx="760" cy="160" rx="6" ry="4"/><ellipse cx="795" cy="160" rx="9" ry="6"/><ellipse cx="840" cy="120" rx="5" ry="4"/>
+      <ellipse cx="725" cy="150" rx="5" ry="3"/><ellipse cx="815" cy="175" rx="7" ry="4"/>
+    </g>
+    <text x="785" y="222" text-anchor="middle" font-size="14" font-weight="bold">Campagne, levain</text>
+    <text x="785" y="240" text-anchor="middle" font-size="12">irregular, greyer, thick dark crust</text>
+
+    <line x1="20" y1="268" x2="880" y2="268" stroke="#cccccc"/>
+    <text x="20" y="296" font-size="15" font-weight="bold" fill="#c0392b">Faults and their usual cause</text>
+
+    <!-- 5 dense -->
+    <ellipse cx="115" cy="380" rx="95" ry="56" fill="#b9762f"/>
+    <ellipse cx="115" cy="382" rx="86" ry="48" fill="#ece0c8"/>
+    <g fill="#d9c9a6">
+      <circle cx="80" cy="370" r="2"/><circle cx="100" cy="380" r="2"/><circle cx="120" cy="368" r="2"/><circle cx="140" cy="385" r="2"/>
+      <circle cx="90" cy="395" r="2"/><circle cx="130" cy="400" r="2"/><circle cx="155" cy="372" r="2"/><circle cx="70" cy="388" r="2"/>
+    </g>
+    <text x="115" y="458" text-anchor="middle" font-size="14" font-weight="bold">Dense, tight</text>
+    <text x="115" y="476" text-anchor="middle" font-size="12">under-fermented, under-proofed</text>
+    <text x="115" y="492" text-anchor="middle" font-size="12">or cold dough (04.7)</text>
+
+    <!-- 6 tunnel -->
+    <ellipse cx="335" cy="380" rx="95" ry="62" fill="#b9762f"/>
+    <ellipse cx="335" cy="382" rx="86" ry="54" fill="#f3e3bd"/>
+    <path d="M 262 352 Q 335 330 408 352 Q 335 346 262 352 Z" fill="#ffffff" stroke="#d8c08c" stroke-width="2"/>
+    <g fill="#ffffff" stroke="#d8c08c">
+      <ellipse cx="300" cy="385" rx="7" ry="5"/><ellipse cx="340" cy="395" rx="8" ry="5"/><ellipse cx="375" cy="380" rx="6" ry="5"/><ellipse cx="320" cy="412" rx="6" ry="4"/>
+    </g>
+    <text x="335" y="458" text-anchor="middle" font-size="14" font-weight="bold">Tunnel under the crust</text>
+    <text x="335" y="476" text-anchor="middle" font-size="12">air or flour trapped in a fold</text>
+    <text x="335" y="492" text-anchor="middle" font-size="12">at shaping (08.3)</text>
+
+    <!-- 7 over-proofed -->
+    <ellipse cx="555" cy="390" rx="100" ry="48" fill="#c9a067"/>
+    <ellipse cx="555" cy="392" rx="91" ry="40" fill="#f3e3bd"/>
+    <g fill="#ffffff" stroke="#d8c08c">
+      <ellipse cx="510" cy="370" rx="20" ry="10"/><ellipse cx="560" cy="366" rx="24" ry="9"/><ellipse cx="605" cy="372" rx="16" ry="9"/>
+    </g>
+    <rect x="480" y="404" width="150" height="16" fill="#e7d5aa"/>
+    <text x="555" y="458" text-anchor="middle" font-size="14" font-weight="bold">Big holes under the top, flat</text>
+    <text x="555" y="476" text-anchor="middle" font-size="12">over-proofed, structure collapsed</text>
+    <text x="555" y="492" text-anchor="middle" font-size="12">(04.4, 04.7)</text>
+
+    <!-- 8 gummy base -->
+    <ellipse cx="785" cy="380" rx="95" ry="62" fill="#c79a5c"/>
+    <ellipse cx="785" cy="382" rx="86" ry="54" fill="#f3e3bd"/>
+    <g fill="#ffffff" stroke="#d8c08c">
+      <ellipse cx="750" cy="360" rx="8" ry="6"/><ellipse cx="790" cy="352" rx="7" ry="5"/><ellipse cx="825" cy="365" rx="9" ry="6"/><ellipse cx="770" cy="380" rx="6" ry="4"/>
+    </g>
+    <path d="M 705 398 Q 785 414 865 398 L 858 418 Q 785 440 712 418 Z" fill="#a89a86"/>
+    <text x="785" y="458" text-anchor="middle" font-size="14" font-weight="bold">Grey, gummy band at the base</text>
+    <text x="785" y="476" text-anchor="middle" font-size="12">under-baked, or cut while warm</text>
+    <text x="785" y="492" text-anchor="middle" font-size="12">(07.5)</text>
+
+    <text x="450" y="535" text-anchor="middle" font-size="13">Cut after full cooling, across the middle, with a serrated knife; look straight on, in good light.</text>
+  </g>
+</svg>

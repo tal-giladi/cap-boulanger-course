@@ -1,0 +1,35 @@
+- **Analyse sensorielle** (*ah-nah-LEEZ sahn-sor-YEL*) — sensory analysis: measuring a product's characteristics with the human senses, by a method (blind, coded samples, agreed descriptors).
+- **Arôme** (*ah-ROHM*) — aroma: odour perceived through the back of the nose while chewing; most of what we call the taste of bread.
+- **Aspect extérieur** (*ass-PAY eks-tay-RYUHR*) — exterior appearance of a product: shape, volume, colour, crust, scoring, bottom.
+- **Bon de commande** (*bohn duh koh-MAHND*) — order form: the products and quantities to deliver; finished products are counted against it.
+- **Carnet métrologique** (*kar-NAY may-troh-loh-ZHEEK*) — logbook of a trade scale, kept with it, recording periodic verifications and repairs.
+- **Coloration** (*koh-loh-rah-SYOHN*) — crust colour; this course rates it on a 1-5 scale (pale, blond, golden, golden-brown, dark brown).
+- **Coupe transversale** (*KOOP trahns-vair-SAL*) — cross-section: a cut across the middle of a bread to judge its crumb.
+- **Croûte croustillante** (*KROOT kroo-stee-YAHNT*) — crisp crust that crackles when pressed.
+- **Descripteur** (*deh-skreep-TUHR*) — descriptor: an agreed word for one sensation in a tasting (grillé, céréales, acide, levure).
+- **Développement** (*day-vlop-MAHN*) — the volume and rise a piece reaches in the oven.
+- **Écriteau / étiquette prix** (*ay-kree-TOH / ay-tee-KET PREE*) — price placard on the shelf: product name and price for each category of bread on display.
+- **Épreuve par paire** (*ay-PRUHV par PAIR*) — paired test: two coded samples; "which is saltier?" or "which do you prefer?".
+- **Épreuve triangulaire** (*ay-PRUHV tree-ahn-gü-LAIR*) — triangle test: three coded samples, two identical; the taster finds the odd one; answers "is there a perceptible difference?".
+- **Fiche de contrôle des poids** (*feesh duh kohn-TROHL day PWAH*) — weight-control sheet: target, sample weights, average, spread, pieces outside tolerance, loss, salt and decision for a batch.
+- **Invendus** (*an-vahn-DÜ*) — unsold products at closing; counted and recorded to size the next loads.
+- **Manquant** (*mahn-KAHN*) — shortfall: how much a prepackage weighs less than its nominal quantity; limited by a maximum tolerated value (15 g at 500 g).
+- **Mie élastique** (*mee ay-lah-STEEK*) — springy crumb that comes back after being pressed.
+- **Mie ouverte / alvéolée** (*mee oo-VAIRT / al-vay-oh-LAY*) — open crumb with large, irregular holes, as in a tradition.
+- **Mie pâteuse / collante** (*mee pah-TUHZ / koh-LAHNT*) — doughy, sticky crumb, usually from under-baking or cutting warm.
+- **Mie serrée** (*mee seh-RAY*) — tight, dense crumb with many small holes close together.
+- **Personnel de vente** (*pair-soh-NEL duh VAHNT*) — sales staff; the baker sets out products with them (C2.8) and briefs them at each hand-over.
+- **Poids annoncé** (*pwah ah-nohn-SAY*) — announced weight: a weight written on a placard, label or order; it must be delivered.
+- **Préemballage** (*pray-ahn-bah-LAHZH*) — prepackage: a product packed before sale, without the buyer, with a fixed quantity printed on it; its lots must average at least that quantity.
+- **Présentoir / panière** (*pray-zahn-TWAHR / pahn-YAIR*) — display stand or tray for viennoiserie / bread basket or rack behind the counter.
+- **Profil sensoriel** (*proh-FEEL sahn-sor-YEL*) — sensory profile: the intensity of each descriptor of a product, scored on a scale by trained tasters.
+- **Qualité organoleptique** (*kah-lee-TAY or-gah-noh-lep-TEEK*) — the qualities of a food perceived by the senses: look, odour, taste, aroma, texture.
+- **Quantité nominale** (*kahn-tee-TAY noh-mee-NAL*) — nominal quantity: the net weight printed on a prepackage.
+- **Réassort** (*ray-ah-SOR*) — refilling the shop shelves during the day, timed from the oven plan and the sales rhythm.
+- **Régularité** (*ray-gü-lah-ree-TAY*) — regularity: all pieces of a batch alike in weight, size, shape and colour.
+- **Saveur** (*sah-VUHR*) — a taste perceived on the tongue: sweet, salty, sour, bitter (and umami).
+- **Semelle** (*suh-MEL*) — the bottom of a bread, checked for colour and bake (a burnt one is pain ferré).
+- **Tromperie (sur la quantité)** (*trohm-PREE*) — the offence of deceiving a customer, for example about the quantity delivered (Code de la consommation L441-1).
+- **Tunnel** (*tü-NEL*) — a long hole under the crust, usually from air or flour trapped in a fold at shaping.
+- **Vignette verte / rouge** (*vee-NYET VAIRT / ROOZH*) — green / red sticker on a trade scale after its periodic verification: valid, or must not be used.
+- **Vitrine** (*vee-TREEN*) — shop window; also the glass display counter for viennoiserie.
