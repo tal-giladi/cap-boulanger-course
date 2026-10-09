@@ -19,7 +19,7 @@ Goal: build "CAP Boulanger Preparation" per `curriculum/plan.md`, following
 - [x] Repo, GitHub remote, plan moved to `curriculum/plan.md`
 - [x] Planning: sources, competency map, architecture/lesson inventory, exam map, physical practice, build spec, validator
 - [x] Foundations: README, _sidebar, glossary, references (cap-exam, formulas, troubleshooting), templates (8), course-details
-- [ ] manifest.json and competency matrix (matrix assembled from `curriculum/matrix/` at the end)
+- [x] manifest.json and competency matrix (curriculum/competency-matrix.md)
 - [x] Module 1 — Introduction to Professional Baking
 - [x] Module 2 — Ingredients
 - [x] Module 3 — Dough Science
