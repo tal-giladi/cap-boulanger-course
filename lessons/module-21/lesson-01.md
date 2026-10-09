@@ -152,7 +152,7 @@ Practice round 21.3 (Techniques and Equipment) is worth 24 points in the course'
 > **Q6** (2 pts) *Citer* les quatre facteurs du cercle de Sinner. — List the four factors of Sinner's circle.
 
 3. **Mark yourself** with the guide below. Give each point only if your answer contains what the guide names.
-4. **Error list.** For every point lost, write one line: question, what was missing (item, unit, working, figure, verb misread, time), and the habit you will change. Keep this list: you add to it after every round of this module.
+4. **Error list.** For every point lost, write one line: question, what was missing (item, unit, working, figure, verb misread, time), and the habit you will change. Keep this list: you add to it after every round of this module. Template: [EP1 error list](../../templates/ep1-error-list.md).
 
 <details><summary>Marking guide: diagnostic round</summary>
 

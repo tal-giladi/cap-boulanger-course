@@ -49,7 +49,7 @@ Giving sales staff a product argument is a competency of its own (C4.2), and the
 
 ### Seven blocks, each from a document
 
-A pitch card is not advertising. Every line comes from a document the bakery holds, so the seller can repeat it without risk:
+A pitch card is not advertising. Every line comes from a document the bakery holds, so the seller can repeat it without risk (blank card: [pitch card](../../templates/pitch-card.md)):
 
 ![Structure of a fiche argumentaire in seven blocks: name, composition and method, taste and texture, pairings, keeping, allergens, and the seller's sentence; each block comes from the technical sheet, the tasting sheet, storage knowledge or the allergen table, with no claim the bread cannot prove](../../assets/m19-pitch-card.svg)
 

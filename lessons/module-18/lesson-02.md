@@ -174,7 +174,7 @@ Checked 2026-10-09.
 
 ### Steps
 
-1. **Set up the log** (7 days): date; item (bread type, dough scrap, viennoiserie, other food); weight (g); reason (stale, mould, burnt, over-produced, scraps); what you did with it (eaten, reused, composted or biowaste, residual bin); packaging items by stream.
+1. **Set up the log** (7 days): date; item (bread type, dough scrap, viennoiserie, other food); weight (g); reason (stale, mould, burnt, over-produced, scraps); what you did with it (eaten, reused, composted or biowaste, residual bin); packaging items by stream. Template: [waste log](../../templates/waste-log.md).
 2. **Weigh and record everything** bread-related you would normally throw away, every day. Mouldy bread goes straight to biowaste or compost after weighing: it is never reused.
 3. **On day 7, bake the reuse trio on one preheat, hottest first:** if you bake bread that day, start with it; then turn the oven to about 175 °C for the croûtons (cubes of about 1.5 cm, oil and salt, 7-10 min, tossed halfway); then pain perdu in a buttered dish (bread soaked 5 minutes in the egg, milk and sugar mix) at about 175 °C until set and golden, about 20-25 minutes; finally switch off and dry the chapelure (blended or grated stale bread on a tray) in the falling heat, checking every 5 minutes.
 4. **Label** the jar of chapelure: product, bread it came from, date made. Store dry.

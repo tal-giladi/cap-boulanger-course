@@ -99,7 +99,7 @@ flowchart TD
 
 ### The maintenance log
 
-A small notebook or sheet by the scale, filled in at a fixed rhythm:
+A small notebook or sheet by the scale, filled in at a fixed rhythm ([maintenance log](../../templates/maintenance-log.md) template):
 
 | Check | Typical rhythm | Pass |
 |---|---|---|

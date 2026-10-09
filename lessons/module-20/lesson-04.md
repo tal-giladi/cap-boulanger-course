@@ -189,7 +189,7 @@ You check a four-week timesheet, a payslip and an end-of-contract file, as in th
 ### You need
 
 - Calculator, this lesson, 75 minutes.
-- Professional equivalent: your own timesheet or hours notebook, your payslips and the convention collective on Légifrance.
+- Professional equivalent: your own timesheet or hours notebook, your payslips and the convention collective on Légifrance. Templates: [payslip check](../../templates/payslip-check.md) and [rights card](../../templates/rights-card.md).
 
 ### Steps
 

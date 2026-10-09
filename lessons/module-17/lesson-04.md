@@ -98,7 +98,7 @@ The CNBPF guide's rules for products: store them away from food, in a closed (id
 
 ### The cleaning and disinfection plan
 
-A bakery writes its plan and posts it. There is no compulsory format; a table works best (CNBPF):
+A bakery writes its plan and posts it. There is no compulsory format; a table works best (CNBPF; blank version: [cleaning plan](../../templates/cleaning-plan.md)):
 
 | Zone | Surface or item | Product, dose, water temperature, contact time, rinse | Frequency | Method and equipment | Done by | Checked by |
 |---|---|---|---|---|---|---|

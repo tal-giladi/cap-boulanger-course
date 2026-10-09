@@ -164,7 +164,7 @@ Checked 2026-10-09.
 5. **Label** every opened or home-made item: product, date opened or made, use-by (3 days for opened DLC products unless the label says otherwise; 24 hours for crème pâtissière).
 6. **Dry store:** flour and seeds into closed, labelled containers, off the floor; older packs in front; cleaning products moved to a separate cupboard.
 7. **Freezer:** label every bag with product and freezing date; cross out the original date.
-8. **Log** fridge and freezer temperatures every morning for 7 days with the time and your initials; note any action.
+8. **Log** fridge and freezer temperatures every morning for 7 days with the time and your initials; note any action. Use the [cold-unit temperature log](../../templates/cold-unit-log.md).
 9. Keep a **stock sheet** for one product you use a lot (flour or butter) for the week: entries, exits, balance.
 
 ### Targets

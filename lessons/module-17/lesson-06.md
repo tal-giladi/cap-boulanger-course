@@ -128,7 +128,7 @@ Checked 2026-10-09.
 
 ### Steps
 
-1. Draw the table: six products down the side, the 14 allergens across the top, plus a column "possible traces (supplier warnings)".
+1. Draw the table: six products down the side, the 14 allergens across the top, plus a column "possible traces (supplier warnings)". You can start from the [allergen table](../../templates/allergen-table.md) template.
 2. For each product, go through every ingredient of the sheet and tick the allergens it contains. Do not forget the egg wash, the chocolate, the raisins, any improver, malt or premix, and the butter.
 3. For each bought ingredient, read its label: copy any allergen in bold and any "may contain" statement into the traces column.
 4. With the second colour, mark the cross-contact risks in **your** kitchen (for example: sesame on the bench before the croissants).

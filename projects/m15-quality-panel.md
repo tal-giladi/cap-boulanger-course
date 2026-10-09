@@ -35,7 +35,7 @@ In English: the bakery's counts, sample weights, cut tests, a proofing cabinet r
 
 ## You need
 
-- Part A: a calculator, the [quality rubric](../templates/quality-rubric.md), the [non-conformity report](../templates/non-conformity-report.md), the weight-control sheet from lesson [15.4](../lessons/module-15/lesson-04.md) copied into your notebook.
+- Part A: a calculator, the [quality rubric](../templates/quality-rubric.md), the [non-conformity report](../templates/non-conformity-report.md), the [weight-control sheet](../templates/weight-control-sheet.md) (lesson [15.4](../lessons/module-15/lesson-04.md)).
 - Part B: the home equipment of lessons [08.1](../lessons/module-08/lesson-01.md) to [08.4](../lessons/module-08/lesson-04.md) (scale, thermometer, bowl, scraper, couche or cloth, trays, metal steam tray, lame, oven gloves, rack), a serrated bread knife and board, a ruler, a 4 × 4 cm card window, two bought breads of different types, coded paper squares, one to three tasters, the [bake log](../templates/bake-log.md) and the rubric.
 - Time: Part A about 90 minutes; Part B one baking day (about 5 hours, 1 hour hands-on, plus the pâte fermentée the evening before) and about 1 hour of evaluation.
 

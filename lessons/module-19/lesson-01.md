@@ -111,7 +111,7 @@ Say each one aloud until it comes without reading.
 
 ### Briefing a colleague
 
-A hand-over brief (*passation de consignes*) follows the production order, not your memory: what is **done**, what is **in progress and when it is due**, what is **waiting where** (container, cold room, shelf, label), and what **went wrong**. Example, at 13:30:
+A hand-over brief (*passation de consignes*) follows the production order, not your memory ([hand-over brief](../../templates/hand-over-brief.md) template): what is **done**, what is **in progress and when it is due**, what is **waiting where** (container, cold room, shelf, label), and what **went wrong**. Example, at 13:30:
 
 > « Pour la relève : les pâtons de tradition sont en pointage retardé, chambre froide, bacs 3 et 4, sortie demain 4 h. La poolish pour les baguettes est prête à 14 h. Le laminoir est hors service, le technicien passe à 16 h : les croissants de demain sont tourés à la main. »
 

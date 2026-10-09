@@ -138,7 +138,7 @@ Checked 2026-10-09.
 **Part A: workstation safety sheet (about 45 minutes).**
 
 1. Find and open the operating manual of one bakery sheeter. Read its safety chapter.
-2. Write a one-page **fiche de poste** for it with these headings: machine and maker; who may use it; clothing and PPE; checks before starting (guards, emergency stop, belts clear, flour duster); how to start and stop; what to do if the dough sticks or drifts; what is forbidden; cleaning (state of the machine, method, what is never used); what to do if a guard does not stop the machine (who, how, the [non-conformity report](../../templates/non-conformity-report.md)).
+2. Write a one-page **fiche de poste** for it with these headings: machine and maker; who may use it; clothing and PPE; checks before starting (guards, emergency stop, belts clear, flour duster); how to start and stop; what to do if the dough sticks or drifts; what is forbidden; cleaning (state of the machine, method, what is never used); what to do if a guard does not stop the machine (who, how, the [non-conformity report](../../templates/non-conformity-report.md)). The [equipment card](../../templates/equipment-card.md) template has these headings.
 3. Mark each line of your sheet with the page of the manual it comes from. A line with no page is your opinion: check it or delete it.
 
 **Part B: sheeting drill (about 75 minutes with rests).**

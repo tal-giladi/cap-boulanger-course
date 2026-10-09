@@ -17,6 +17,26 @@ Score every bake the same way so you can compare them. Cut bread only after it h
 | Aroma and taste | flat, sour or yeasty | correct but simple | rich, balanced, correctly salted | |
 | Bottom and sides | burnt or raw | slightly pale or dark | baked through, even | |
 
+**Weight target** = the announced weight, or pâton × (1 − measured loss) (lesson [15.4](../lessons/module-15/lesson-04.md)).
+
+**Exterior subtotal (out of 12):** shape, volume, scoring, crust colour, crust texture, bottom and sides, as used in lesson [15.1](../lessons/module-15/lesson-01.md).
+
+**Crust colour:** score it on the course's [1-5 crust colour scale](../assets/m15-crust-colour-scale.svg) (lesson [15.1](../lessons/module-15/lesson-01.md)); "even golden-brown" means even and inside the product's target: pain courant 3-4, tradition 4, campagne and levain bread 4-5, pain de mie 3, viennois 3-4, croissant 4, brioche 4.
+
+### Expected crumb per product
+
+Judge the two crumb lines against the product's own crumb (lesson [15.2](../lessons/module-15/lesson-02.md)), not against an open tradition crumb.
+
+| Product | Expected crumb |
+|---|---|
+| Pain courant baguette | creamy to light cream, medium irregular holes, moist and elastic |
+| Tradition | cream-coloured to ivory, irregular holes of all sizes, shiny walls |
+| Campagne, levain bread | irregular, slightly greyer from the flour, moist, a little chewy |
+| Pain complet | denser, darker, bran visible, still moist |
+| Pain de mie | fine, small, regular holes, soft, pale, thin soft crust |
+| Brioche, pain au lait | fine, regular, yellow, soft and stringy when torn |
+| Croissant | open, regular honeycomb with thin walls to the centre |
+
 ## Viennoiserie (out of 20)
 
 | Criterion | 0 | 1 | 2 | Score |
@@ -31,3 +51,5 @@ Score every bake the same way so you can compare them. Cut bread only after it h
 | Texture | tough or greasy | slightly heavy | crisp outside, soft and flaky inside | |
 | Filling placed correctly | missing or burnt | uneven | even | |
 | Taste | flat or greasy | correct | buttery, balanced | |
+
+**Plain croissants** (no filling): leave out the "Filling placed correctly" line and score out of 18.

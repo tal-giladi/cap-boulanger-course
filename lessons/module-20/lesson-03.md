@@ -163,7 +163,7 @@ You prepare a complete application for the advert of the worked example (or a re
 
 1. **Read the advert** and underline: contract, reason, hours, products, requirements, how to apply.
 2. **Write your CV** in French, one page, with the five sections of this lesson. Use numbers for what you have done (batches, products, kg), even at home: "pratique à domicile: 40 fournées documentées (pain courant, tradition, croissants)".
-3. **Write the letter** in three paragraphs (vous / moi / nous), formal French, 200-250 words.
+3. **Write the letter** in three paragraphs (vous / moi / nous), formal French, 200-250 words. Template: [CV and cover letter](../../templates/cv-and-cover-letter.md).
 4. **Check both** against L1221-6 and L1132-1: remove anything with no link to the job that you do not want to give.
 5. **Prepare the interview:** a 2-minute presentation; answers to six likely questions (Why bakery? Why us? Your hours? A problem you solved at the bench? Hygiene rules you follow? When can you start?); three questions of your own.
 6. **Rehearse aloud** twice, once recorded. Listen: time, filler words, register.

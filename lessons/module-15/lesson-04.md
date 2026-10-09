@@ -154,7 +154,7 @@ Checked 2026-10-09.
 3. **Weigh** every piece after 1 hour of cooling (at least 5).
 4. **Calculate** the average, the spread, the deviation of the average from the target in g and %, and the number of pieces outside ± 3 %.
 5. **Calculate** the loss and the salt per 100 g of the lightest piece with your sheet's salt % of dough.
-6. **Decide** with the decision table and write the decision.
+6. **Decide** with the decision table and write the decision. A printable version of the sheet is the [weight-control sheet](../../templates/weight-control-sheet.md).
 7. **Write** a three-line report as if to a manager: facts, action, proposal.
 8. **Do the bought pack** the same way (count, each piece, the total without packaging, average against the printed weight).
 9. **Exercises:** answer the four below.

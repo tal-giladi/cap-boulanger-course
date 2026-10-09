@@ -143,7 +143,7 @@ Checked 2026-10-09.
 2. **Brief the tasters:** no coffee, smoking or toothpaste for 30 minutes before; no talking during the test; water between samples.
 3. **Change the order** for each taster (A-B-C, B-C-A, C-A-B).
 4. **Taste in the order** of the diagram: crumb (look, smell, press), crust (smell, press, listen), then both together.
-5. **Score intensities** 0-10 on the sheet below, then **liking** 0-10 separately.
+5. **Score intensities** 0-10 on the sheet below, then **liking** 0-10 separately. A printable version is the [tasting sheet](../../templates/tasting-sheet.md).
 6. **Reveal the key,** average the scores of each bread and compare them with the labels' salt figures and with what you know of each process.
 7. **Write** three sentences: the profile of your bread compared with the others, one note you can link to your process, and one change you would try.
 8. **Part B (optional):** a triangle test of your two baguettes at 1.8 % and 1.5 % salt, with as many tasters as you can, the odd sample rotated. Count the correct answers against one third by chance.

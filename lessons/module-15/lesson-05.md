@@ -148,7 +148,7 @@ Checked 2026-10-09.
 3. **Draw a plan** of the table: families together, large pieces at the back, small at the front, viennoiserie on trays in rows, nothing in direct sun.
 4. **Choose the holding** for each product (open basket, tray, bag) with the reason from the table.
 5. **Write the placards:** name (a legal name only if it is true), an invented price, and the allergens.
-6. **Write a hand-over brief** of four or five lines for a helper who will "sell": quantities, what is short, what was set aside, what is new and how it keeps.
+6. **Write a hand-over brief** of four or five lines for a helper who will "sell": quantities, what is short, what was set aside, what is new and how it keeps. Template: [hand-over brief](../../templates/hand-over-brief.md).
 7. **Set it up** at the planned time and check it against the rules table; fix what fails.
 8. **After 2 hours,** look again: what has softened, dried or been handled? Write one change.
 9. **At the end,** count what is left, and write what you would bake less (or more) next time.
