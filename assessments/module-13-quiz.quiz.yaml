@@ -1,0 +1,185 @@
+- id: q1
+  question: >-
+    Production order for Saturday: 200 baguettes PC-02 at 350 g, 70 kg of dough in all. The spiral
+    mixer's technical sheet says "charge maximale 30 kg de pâte". The bakery's friction factor card
+    reads "PC-02, amélioré, 28 kg: FF 26". How do you plan the mixing?
+  options:
+    - >-
+      Two batches of 35 kg each, mixed one minute longer, with FF 26 for both.
+    - >-
+      Three batches of about 23.3 kg, using or measuring the factor for that batch size.
+    - >-
+      One batch of 70 kg in first speed only, so the motor is not overloaded.
+    - >-
+      Three batches of about 23.3 kg, each using the card's FF 26 unchanged.
+  correct: 1
+  explanation: >-
+    Batches must stay under the maximum, so three are needed. A smaller load heats differently
+    from the 28 kg on the card, so its friction factor is measured or taken from its own record.
+
+- id: q2
+  question: >-
+    Technical sheet: "Baguettes de tradition, pâton 350 g, division à la diviseuse hydraulique 20
+    pièces, perte au four 20 %". What load do you weigh for one division?
+  options:
+    - >-
+      3,500 g, because each knife cut gives two pieces.
+    - >-
+      5,600 g, because the 20 % baking loss is taken off the load.
+    - >-
+      3,840 g, from 7,000 ÷ 1.823 for the dough formula.
+    - >-
+      7,000 g, then check several pieces on the scale.
+  correct: 3
+  explanation: >-
+    Load = piece weight × number of pieces = 350 × 20 = 7,000 g of dough. The baking loss
+    concerns the baked weight, not the raw pieces; dividing by the formula total gives flour.
+
+- id: q3
+  question: >-
+    Maintenance log, Monday: "Laminoir: protecteur côté droit ne coupe plus le moteur; interrupteur
+    scotché par l'équipe de nuit pour gagner du temps." The croissant lamination starts in 20
+    minutes. What is the right decision?
+  options:
+    - >-
+      Machine out of service, unplugged and labelled; laminate by hand; report in writing.
+    - >-
+      Remove the tape and use the sheeter, keeping hands away from the right side.
+    - >-
+      Use it with the left guard only, since one working guard is enough.
+    - >-
+      Use it today with an experienced tourier and repair it on Wednesday.
+  correct: 0
+  explanation: >-
+    A safety element that does not work, or has been bypassed, means the machine may not be used.
+    It stays out of service until repaired with original parts; the bypass itself is reported.
+
+- id: q4
+  question: >-
+    Temperature log, 5:20: "Armoire viennoiserie: affichage 25 °C, 80 % HR. Sonde dans un verre
+    d'eau (15 min): 28.5 °C." The croissants have 30 minutes of apprêt left. What do you do?
+  options:
+    - >-
+      Nothing: the display is the official reading and is within the sheet.
+    - >-
+      Raise the humidity to 90 % so the butter does not dry at that temperature.
+    - >-
+      Lower the set point, check the pieces by the poke test and report the sensor.
+    - >-
+      Move the croissants to the bread cabinet at 25 °C and keep the same times.
+  correct: 2
+  explanation: >-
+    The probe shows 28.5 °C, above the butter's limit of about 27 °C, so butter will start to
+    leak. Bring the cabinet down, judge by the poke test and report the faulty display.
+
+- id: q5
+  question: >-
+    Retarder-proofer record for last night: "refroidissement 15:30-17:30; blocage consigne 3 °C,
+    relevé 7-8 °C de 18:00 à 2:30". The baguettes were over-proofed at 5:45. The cabinet stands
+    against the oven. What is the most likely diagnosis?
+  options:
+    - >-
+      The baguettes had too little yeast, so they rose too slowly.
+    - >-
+      The unit could not shed its heat, so it proofed slowly at 7-8 °C.
+    - >-
+      The humidity was too high during blocking, which speeds up fermentation.
+    - >-
+      The warming phase was too short, so the centre stayed cold.
+  correct: 1
+  explanation: >-
+    At 7-8 °C fermentation continues slowly all night. A condenser that cannot reject heat (next to
+    the oven, dusty) keeps the cabinet above its setting; clean it and move the cabinet.
+
+- id: q6
+  question: >-
+    An energy audit notes: "Four à soles 5 m², en chauffe à vide 2 h par jour, environ 3,300 kWh
+    par an." The bakery pays about 0.21 € per kWh. Roughly what does the empty running cost a
+    year?
+  options:
+    - >-
+      About 2.50 €, from 12 kWh × 0.21
+    - >-
+      About 69 €, from 3,300 × 0.021
+    - >-
+      About 6,930 €, from 3,300 × 2.1
+    - >-
+      About 690 €, from 3,300 × 0.21
+  correct: 3
+  explanation: >-
+    3,300 kWh × 0.21 € ≈ 693 € a year. The 12 kWh figure is one day; the other two misplace the
+    decimal point of the price.
+
+- id: q7
+  question: >-
+    A batteur's rating plate reads "230 V ~ 50 Hz 1 840 W, classe I". It shares a 16 A socket
+    circuit with a 2,300 W kettle. Which statement is correct?
+  options:
+    - >-
+      Together they draw about 18 A, so the circuit's breaker can trip.
+    - >-
+      The batteur draws 1,840 ÷ 50 = 37 A, so it needs its own circuit.
+    - >-
+      Class I means it is double-insulated and can use a two-pin plug.
+    - >-
+      Together they draw about 4.1 A, well inside the 16 A circuit.
+  correct: 0
+  explanation: >-
+    I = P ÷ U: 1,840 ÷ 230 = 8 A and 2,300 ÷ 230 = 10 A, 18 A in all. Class I appliances are
+    earthed and need their earthed plug; dividing by the frequency or adding kW gives nonsense.
+
+- id: q8
+  question: >-
+    Incident sheet: "6:30, deux salariés: maux de tête, nausées, mieux dehors. Étuve à gaz en
+    marche; grille d'aération bouchée par un sac de farine." What is the most likely cause and
+    first action?
+  options:
+    - >-
+      Flour allergy: give both workers FFP2 masks and continue.
+    - >-
+      Heat stress: open the oven doors to let the heat spread.
+    - >-
+      Carbon monoxide: ventilate, stop the appliance, get out.
+    - >-
+      A gas leak: switch on the extractor fan and keep working.
+  correct: 2
+  explanation: >-
+    A blocked air inlet makes combustion incomplete and produces odourless carbon monoxide.
+    Several people with symptoms that ease outside is the warning sign; ventilate and evacuate.
+
+- id: q9
+  question: >-
+    One-deck oven, Sunday plan: baguettes at 250 °C with steam, pains de mie in tins at about
+    200 °C without steam, and croissants at about 190 °C in the convection oven. Which deck plan
+    uses the oven's thermal mass best?
+  options:
+    - >-
+      Pains de mie first at 200 °C, then heat up to 250 °C for the baguettes.
+    - >-
+      Baguettes first at 250 °C with steam, then let the deck fall for the pains de mie.
+    - >-
+      Alternate one baguette load and one pain de mie load to keep the deck even.
+    - >-
+      Bake the baguettes in the convection oven at 250 °C with the fan on.
+  correct: 1
+  explanation: >-
+    A deck stores heat and changes temperature slowly, so products go from hottest to coolest.
+    Heating back up wastes time and energy; a fan oven dries a baguette's crust.
+
+- id: q10
+  question: >-
+    Maintenance log: "Sonde n°2 dans l'eau glacée: +2.0 °C." An apprentice used it this morning
+    and wrote "pâte 26.0 °C" for a dough with a target of 24 °C. What do you conclude?
+  options:
+    - >-
+      The dough was really about 24.0 °C; correct the record and post the offset.
+    - >-
+      The dough was really about 28.0 °C; shorten the pointage at once.
+    - >-
+      The probe is within tolerance, so the dough was 26.0 °C as written.
+    - >-
+      The ice-water check is not valid for dough, so nothing can be concluded.
+  correct: 0
+  explanation: >-
+    The probe reads 2 °C high (it shows +2.0 °C in water at 0 °C), so 26.0 °C means about
+    24.0 °C. Write the offset where everyone sees it, or recalibrate or replace the probe.

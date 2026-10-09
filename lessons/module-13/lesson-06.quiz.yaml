@@ -1,0 +1,88 @@
+- id: q1
+  question: >-
+    End of shift: the sheeter is covered in flour and dried dough. Which cleaning sequence is
+    correct?
+  options:
+    - >-
+      Hose the belts and rollers, then let the machine dry with the guards open.
+    - >-
+      Blow the flour out of the rollers with compressed air, then wipe with a cloth.
+    - >-
+      STOP, unplug, scrape dry, vacuum the flour, then wipe as the manual allows.
+    - >-
+      Brush the flour onto the floor while the belts run slowly, then sweep.
+  correct: 2
+  explanation: >-
+    The machine is stopped and isolated before cleaning; dough is scraped and flour vacuumed dry.
+    Compressed air and brushing raise dust; water and high pressure damage motors and controls.
+
+- id: q2
+  question: >-
+    A cane banneton has a grey-green spot inside after being stacked yesterday. What is the cause
+    and the right reaction?
+  options:
+    - >-
+      Too much flour left in it; wash it with soap and use it straight away.
+    - >-
+      It was put away damp; take it out of use and show it to the head baker.
+    - >-
+      The dough was over-proofed; brush the spot and continue as normal.
+    - >-
+      The cane is old; oil it so the dough releases and the spot is sealed.
+  correct: 1
+  explanation: >-
+    Cane and linen that stay damp go mouldy. A mouldy banneton is removed from use and judged by
+    the person responsible; next time it is shaken out and dried fully on a rack.
+
+- id: q3
+  question: >-
+    In the weekly check, a 1 kg test weight reads 1,006 g on the scale used for salt and yeast.
+    What do you do?
+  options:
+    - >-
+      Hold it back, write it in the log and report it for calibration.
+    - >-
+      Keep using it, since 6 g in a kilogram is too small to matter at all.
+    - >-
+      Subtract 6 g from every weighing yourself without telling anyone.
+    - >-
+      Tare it with the test weight on so it reads zero, then continue.
+  correct: 0
+  explanation: >-
+    A failed check is recorded and reported, and the scale is held back until it is fixed or a
+    known offset is posted for everyone. Taring a test weight hides the error instead of fixing it.
+
+- id: q4
+  question: >-
+    Which material needs the least water and must be dried fully after cleaning because it is
+    porous?
+  options:
+    - >-
+      Stainless steel benches and machines.
+    - >-
+      Plastic dough tubs and scrapers.
+    - >-
+      Blackened steel baking trays.
+    - >-
+      Wooden peels and planchettes.
+  correct: 3
+  explanation: >-
+    Wood is porous: it takes up water and dirt, so it is scraped and brushed dry, washed with little
+    water and dried fully. Stainless steel and plastic are non-porous and are washed and dried.
+
+- id: q5
+  question: >-
+    Why is flour on the bakery floor vacuumed rather than swept with a broom?
+  options:
+    - >-
+      Sweeping wears the non-slip floor covering much faster.
+    - >-
+      A vacuum collects flour that can be reused in production.
+    - >-
+      Sweeping puts flour dust back in the air you breathe.
+    - >-
+      A broom spreads water and makes the floor slippery.
+  correct: 2
+  explanation: >-
+    INRS asks bakeries to vacuum flour with a suitable vacuum and to avoid brooms and blowers,
+    because flour dust in the air causes rhinitis and occupational asthma. Floor flour is never reused.

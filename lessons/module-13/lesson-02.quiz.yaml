@@ -1,0 +1,88 @@
+- id: q1
+  question: >-
+    The production sheet asks for 20 pains de campagne of 590 g from the 20-piece hydraulic
+    divider. What load do you weigh?
+  options:
+    - >-
+      11,800 g, then check several pieces on the scale.
+    - >-
+      590 g × 10 = 5,900 g, since the knives cut each piece in two.
+    - >-
+      11,800 g less the baking loss, because the divider weighs baked bread.
+    - >-
+      Any full tank, since the divider weighs each piece by itself.
+  correct: 0
+  explanation: >-
+    A divider cuts equal volumes, not weights: load = piece weight × number of pieces. Then check
+    pieces on the scale, because uneven spreading or gassing changes their weight.
+
+- id: q2
+  question: >-
+    Why is a croissant block taken from 20 mm to 3.5 mm on the sheeter in several passes rather
+    than in one?
+  options:
+    - >-
+      Each pass warms the butter, which must melt a little to bond the layers.
+    - >-
+      Small gap steps let butter and dough stretch together without crushing the layers.
+    - >-
+      The sheeter's motor cannot turn the rollers with a gap below 10 mm at once.
+    - >-
+      The dough must be weighed between passes to check for flour losses.
+  correct: 1
+  explanation: >-
+    Each pass stretches the sheet by the ratio of the thicknesses. A big jump forces the butter to
+    flow faster than the dough can follow, so layers crush and tear; small steps keep them whole.
+
+- id: q3
+  question: >-
+    During sheeting the dough drifts and folds against the side of the rollers. What do you do?
+  options:
+    - >-
+      Reach under the guard quickly and straighten it while the belt runs slowly.
+    - >-
+      Lift the guard to stop the machine, straighten the dough, then lower it.
+    - >-
+      Press STOP, wait for the rollers to stop, lift the guard and straighten it.
+    - >-
+      Let it pass through and straighten the sheet on the other belt.
+  correct: 2
+  explanation: >-
+    Stop with the STOP button, wait for a full stop, then open the guard. The guard is a safety
+    device, not an on/off switch, and reaching under a closed guard is prohibited.
+
+- id: q4
+  question: >-
+    At the morning check, a colleague lifts the sheeter's guard and the belts keep running. The
+    order is urgent. What is the right decision?
+  options:
+    - >-
+      Use it carefully today and report the fault at the end of the shift.
+    - >-
+      Tape the guard down so nobody lifts it during production.
+    - >-
+      Use it only for the final passes, where the gap is small.
+    - >-
+      Stop and unplug it, keep it out of use and report the fault in writing.
+  correct: 3
+  explanation: >-
+    Operating a machine with a faulty safety element is prohibited by the maker's manual. It stays
+    out of service until repaired with original parts; roll by hand meanwhile and report it.
+
+- id: q5
+  question: >-
+    Baguettes come out of the façonneuse torn on top. The dough had a long, warm pointage. What is
+    the most likely cause and the fix?
+  options:
+    - >-
+      Too much strength: give a longer détente and open the roller gap a notch.
+    - >-
+      Too little strength: tighten the roller gap and add pressure on the plate.
+    - >-
+      Too much water: add flour on the belts and run the moulder faster.
+    - >-
+      The divider cut them too heavy: re-weigh and divide again.
+  correct: 0
+  explanation: >-
+    A strong, elastic dough (long or warm pointage, short détente) tears when the moulder sheets
+    it tightly. More détente relaxes it; a wider gap works it more gently.

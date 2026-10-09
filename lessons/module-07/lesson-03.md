@@ -99,7 +99,7 @@ A dough of good quality at shaping is smooth, slightly tacky but not sticky, str
 | Balancelle / repose-pâtons | carries or holds pieces through the détente | regular, timed rest; saves bench space | cleaning; pieces must be covered or kept humid |
 | Façonneuse | rollers sheet the piece, a belt and pressure plate roll it to length | speed, regular length, less strain on the wrists | degasses more than hands; tears a strong dough; settings to adjust; less artisanal look |
 
-Machines save time and effort but need a dough that tolerates them and settings matched to it. Module 13 covers the equipment in detail.
+Machines save time and effort but need a dough that tolerates them and settings matched to it. [Module 13](../module-13/lesson-02.md) covers the equipment in detail.
 
 > [!CAUTION]
 > Rollers and belts of a moulder or divider can trap fingers: guards stay closed, the machine is stopped before cleaning, and a stuck piece is never freed by hand while it runs.

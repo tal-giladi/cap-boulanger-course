@@ -1,0 +1,82 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 470" width="900" height="470" role="img" aria-labelledby="t d">
+  <title id="t">How heat reaches the bread in a deck oven and in a convection oven</title>
+  <desc id="d">Left, one deck of a deck oven (four à sole): the loaf sits directly on the hot sole, a thick stone or steel floor, and receives heat by conduction through its base; the crown (voûte) and walls send radiant heat to the crust; the still air carries some heat by natural convection; steam from the steam generator condenses on the cool dough at loading; the ouras let the steam out at the end. The mass of the oven stores heat, which gives strong bottom heat and oven spring, but the deck is slow to heat and to change temperature. Right, a convection oven (four ventilé): a fan blows hot air across trays; most heat arrives by forced convection, which transfers heat faster at the same temperature and dries the surface, so it is usually set 15 to 20 degrees lower than a still oven; the trays conduct heat to the base. Good for viennoiserie on 60 by 40 centimetre trays.</desc>
+  <rect x="0" y="0" width="900" height="470" fill="#ffffff"/>
+  <defs>
+    <marker id="r" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M0,0 L10,5 L0,10 z" fill="#c0392b"/>
+    </marker>
+    <marker id="o" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M0,0 L10,5 L0,10 z" fill="#d68910"/>
+    </marker>
+    <marker id="b" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M0,0 L10,5 L0,10 z" fill="#2c6fb5"/>
+    </marker>
+  </defs>
+  <g font-family="Arial, Helvetica, sans-serif" fill="#222222">
+    <text x="450" y="32" text-anchor="middle" font-size="21" font-weight="bold">Three ways heat reaches the dough: conduction, radiation, convection</text>
+
+    <!-- legend -->
+    <line x1="160" y1="58" x2="200" y2="58" stroke="#c0392b" stroke-width="4" marker-end="url(#r)"/>
+    <text x="208" y="63" font-size="13">conduction (contact)</text>
+    <line x1="370" y1="58" x2="410" y2="58" stroke="#d68910" stroke-width="3" stroke-dasharray="6 4" marker-end="url(#o)"/>
+    <text x="418" y="63" font-size="13">radiation (from hot surfaces)</text>
+    <line x1="630" y1="58" x2="670" y2="58" stroke="#2c6fb5" stroke-width="3" marker-end="url(#b)"/>
+    <text x="678" y="63" font-size="13">convection (moving air)</text>
+
+    <!-- Deck oven -->
+    <text x="225" y="100" text-anchor="middle" font-size="17" font-weight="bold">Four à sole (deck oven)</text>
+    <rect x="40" y="115" width="370" height="200" fill="#f3e6e0" stroke="#7a4b3a" stroke-width="3"/>
+    <rect x="40" y="115" width="370" height="22" fill="#b98a75"/>
+    <text x="225" y="131" text-anchor="middle" font-size="12" fill="#ffffff">voûte (crown) with heating elements</text>
+    <rect x="40" y="275" width="370" height="40" fill="#8c6b5a"/>
+    <text x="225" y="300" text-anchor="middle" font-size="12" fill="#ffffff">sole: thick stone or steel floor, heated</text>
+    <ellipse cx="225" cy="258" rx="95" ry="17" fill="#e2b77a" stroke="#8a6d3b" stroke-width="2"/>
+    <line x1="170" y1="290" x2="170" y2="268" stroke="#c0392b" stroke-width="4" marker-end="url(#r)"/>
+    <line x1="225" y1="290" x2="225" y2="268" stroke="#c0392b" stroke-width="4" marker-end="url(#r)"/>
+    <line x1="280" y1="290" x2="280" y2="268" stroke="#c0392b" stroke-width="4" marker-end="url(#r)"/>
+    <line x1="150" y1="140" x2="185" y2="236" stroke="#d68910" stroke-width="3" stroke-dasharray="6 4" marker-end="url(#o)"/>
+    <line x1="225" y1="140" x2="225" y2="234" stroke="#d68910" stroke-width="3" stroke-dasharray="6 4" marker-end="url(#o)"/>
+    <line x1="300" y1="140" x2="265" y2="236" stroke="#d68910" stroke-width="3" stroke-dasharray="6 4" marker-end="url(#o)"/>
+    <path d="M 70 230 C 80 180, 110 175, 120 210" fill="none" stroke="#2c6fb5" stroke-width="2.5" marker-end="url(#b)"/>
+    <rect x="345" y="150" width="50" height="40" rx="4" fill="#ffffff" stroke="#555555"/>
+    <text x="370" y="167" text-anchor="middle" font-size="10">steam</text>
+    <text x="370" y="180" text-anchor="middle" font-size="10">generator</text>
+    <rect x="395" y="105" width="18" height="12" fill="#555555"/>
+    <text x="420" y="110" font-size="11">ouras</text>
+    <g font-size="13">
+      <text x="40" y="345">• Heat stored in the mass: strong bottom heat</text>
+      <text x="52" y="363">and oven spring; baked on the sole</text>
+      <text x="40" y="385">• Steam at loading; ouras open at the end</text>
+      <text x="40" y="407">• Slow to heat and to change temperature</text>
+      <text x="40" y="429">• Too hot a sole: burnt base (pain ferré)</text>
+    </g>
+
+    <!-- Convection oven -->
+    <text x="675" y="100" text-anchor="middle" font-size="17" font-weight="bold">Four ventilé (convection oven)</text>
+    <rect x="490" y="115" width="370" height="200" fill="#e9f0f7" stroke="#3a5a7a" stroke-width="3"/>
+    <circle cx="830" cy="215" r="22" fill="#ffffff" stroke="#3a5a7a" stroke-width="2"/>
+    <path d="M 830 197 L 836 215 L 830 233 L 824 215 Z" fill="#3a5a7a"/>
+    <text x="830" y="255" text-anchor="middle" font-size="11">fan +</text>
+    <text x="830" y="268" text-anchor="middle" font-size="11">element</text>
+    <line x1="520" y1="180" x2="790" y2="180" stroke="#888888" stroke-width="4"/>
+    <line x1="520" y1="265" x2="790" y2="265" stroke="#888888" stroke-width="4"/>
+    <ellipse cx="580" cy="170" rx="30" ry="10" fill="#e2b77a" stroke="#8a6d3b"/>
+    <ellipse cx="660" cy="170" rx="30" ry="10" fill="#e2b77a" stroke="#8a6d3b"/>
+    <ellipse cx="740" cy="170" rx="30" ry="10" fill="#e2b77a" stroke="#8a6d3b"/>
+    <ellipse cx="580" cy="255" rx="30" ry="10" fill="#e2b77a" stroke="#8a6d3b"/>
+    <ellipse cx="660" cy="255" rx="30" ry="10" fill="#e2b77a" stroke="#8a6d3b"/>
+    <ellipse cx="740" cy="255" rx="30" ry="10" fill="#e2b77a" stroke="#8a6d3b"/>
+    <path d="M 805 145 L 515 145" fill="none" stroke="#2c6fb5" stroke-width="3" marker-end="url(#b)"/>
+    <path d="M 515 225 L 800 225" fill="none" stroke="#2c6fb5" stroke-width="3" marker-end="url(#b)"/>
+    <path d="M 805 300 L 515 300" fill="none" stroke="#2c6fb5" stroke-width="3" marker-end="url(#b)"/>
+    <text x="655" y="140" text-anchor="middle" font-size="11">hot air blown across each tray</text>
+    <g font-size="13">
+      <text x="490" y="345">• Forced convection: faster heat transfer at the</text>
+      <text x="502" y="363">same temperature; set about 15-20 °C lower</text>
+      <text x="490" y="385">• Dries the surface: good for viennoiserie,</text>
+      <text x="502" y="403">less suited to crusty bread</text>
+      <text x="490" y="425">• Trays 60 × 40 cm conduct heat to the base</text>
+    </g>
+  </g>
+</svg>

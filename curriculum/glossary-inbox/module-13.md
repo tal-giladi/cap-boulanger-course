@@ -1,0 +1,36 @@
+- **Arrêt d'urgence** (*ah-RAY dür-ZHAHNSS*) — emergency stop: the red mushroom button on a machine, or the emergency cut-off of an installation; it must stay within reach.
+- **Aspirateur à farine** (*as-pee-rah-TUHR ah fah-REEN*) — vacuum cleaner suited to flour dust; flour is vacuumed, never swept or blown.
+- **Brûleur** (*brü-LUHR*) — burner of a gas or fuel-oil oven; it needs air and a working flue to burn completely.
+- **Cahier d'entretien** (*kah-YAY dahn-truh-TYAN*) — maintenance log: dated checks of scales, thermometers, guards and repairs.
+- **Capot / grille de protection** (*ka-POH / GREE-yuh duh pro-tek-SYOHN*) — lid or guard grid over a mixer bowl; the machine stops when it is raised. A solid lid (capot plein) raises less flour dust.
+- **Class I / class II appliance** — class I: metal parts earthed through the green/yellow conductor and an earthed plug; class II: double or reinforced insulation (square-in-square symbol), no earth.
+- **Combustion (incomplète)** (*kohn-büs-TYOHN (an-kohm-PLET)*) — burning of a fuel with the oxygen of the air; when air is short it is incomplete and produces carbon monoxide.
+- **Compresseur** (*kohm-preh-SUHR*) — compressor of a refrigeration unit: raises the pressure of the refrigerant vapour; the part that uses the electricity.
+- **Condenseur** (*kohn-dahn-SUHR*) — condenser: outside part of a refrigeration unit where the refrigerant gives its heat to the air; kept clean and away from ovens.
+- **Conduction / convection / rayonnement** (*kohn-dük-SYOHN / kohn-vek-SYOHN / ray-yon-MAHN*) — the three ways heat reaches the dough: by contact (sole, tray), by moving air (forced by a fan), by radiation from hot surfaces.
+- **Crochet / spirale** (*kro-SHAY / spee-RAHL*) — dough hook / spiral tool of a mixer.
+- **Cuve** (*KÜV*) — mixer bowl.
+- **Dégivrage** (*day-zhee-VRAHZH*) — defrosting the evaporator of a cold room or freezer so ice does not block the air.
+- **Détendeur** (*day-tahn-DUHR*) — expansion valve of a refrigeration unit: drops the pressure of the liquid refrigerant before the evaporator.
+- **Disjoncteur** (*dees-zhonk-TUHR*) — circuit breaker: cuts a circuit on overload or short circuit.
+- **Dispositif différentiel (DDR) 30 mA** (*dee-po-zee-TEEF dee-fay-rahn-SYEL*) — residual-current device: cuts the power when current leaks to earth; 30 mA is the high-sensitivity level that protects people, as a complement to the other protections.
+- **Diviseuse-bouleuse** (*dee-vee-ZUHZ boo-LUHZ*) — divider-rounder: divides a load into small pieces and rounds them, for rolls.
+- **Écartement des rouleaux** (*ay-kart-MAHN day roo-LOH*) — roller gap of a sheeter or moulder; on the sheeter it is reduced in small steps.
+- **Effet Joule** (*eh-FAY ZHOOL*) — Joule effect: a current heats the resistance it flows through; how electric ovens, proofer heaters and kettles make heat.
+- **Évaporateur** (*ay-vah-po-rah-TUHR*) — evaporator: inside part of a refrigeration unit where the refrigerant boils and takes heat from the air.
+- **Feuille / fouet** (*FUHY / FWEH*) — paddle (flat beater) / whisk of a batteur.
+- **Fiche de poste** (*FEESH duh POST*) — workstation sheet: how to use one machine safely, written from the maker's manual and displayed beside it.
+- **Générateur de buée** (*zhay-nay-rah-TUHR duh bü-AY*) — steam generator of a deck oven; scale reduces its efficiency, so it is descaled.
+- **Groupe frigorifique** (*GROOP free-go-ree-FEEK*) — refrigeration unit: expansion valve, evaporator, compressor and condenser in a closed loop of refrigerant.
+- **Inertie thermique** (*ee-nair-SEE tair-MEEK*) — thermal mass: heat stored in an oven's sole and walls; strong bottom heat, slow to change temperature.
+- **Inox (acier inoxydable)** (*ee-NOX*) — stainless steel: smooth, corrosion-resistant material of benches, bowls and machines.
+- **IP code** — two digits on a rating plate: the first (0-6) protection against contact and dust, the second (0-8) against water.
+- **Monoxyde de carbone (CO)** (*mo-nok-SEED duh kar-BONN*) — carbon monoxide: colourless, odourless, toxic gas from incomplete combustion; headache, nausea, dizziness in several people at once.
+- **Petit matériel** (*puh-TEE mah-tay-RYEL*) — small equipment: scrapers, knives, lames, brushes, bannetons, trays, tins.
+- **Pinceau** (*pan-SOH*) — pastry brush for egg wash; washed and dried after each use.
+- **Plaque signalétique** (*PLAHK see-nyah-lay-TEEK*) — rating plate: maker, model, voltage, frequency, power or current, class, IP code, CE mark.
+- **Prise de terre** (*PREEZ duh TAIR*) — earth connection: carries a fault current from a metal casing to earth so a protective device trips.
+- **Sole / voûte** (*SOLL / VOOT*) — the floor (sole) and the crown (voûte) of an oven deck; the sole heats the base by conduction, the voûte the top by radiation.
+- **Tension / intensité / puissance** (*tahn-SYOHN / an-tahn-see-TAY / pwee-SAHNSS*) — voltage in volts (V) / current in amperes (A) / power in watts (W); P = U × I for a single-phase heating appliance.
+- **Thermocouple** (*tair-mo-KOO-pluh*) — flame-failure sensor on a gas burner: the flame keeps the gas valve open; if the flame goes out, the valve closes.
+- **Vanne d'arrêt (de gaz)** (*VAHN dah-RAY*) — gas shut-off valve, at the entrance of the premises and before each appliance.

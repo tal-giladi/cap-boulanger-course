@@ -1,0 +1,89 @@
+- id: q1
+  question: >-
+    Baguettes on the bottom deck come out with black bases and pale tops. The display reads
+    250 °C; a thermometer on the sole reads 262 °C at the back. Which heat transfer is excessive?
+  options:
+    - >-
+      Radiation from the voûte, which is too hot for the sole.
+    - >-
+      Conduction from the sole, which is too hot for the voûte.
+    - >-
+      Forced convection from the fan, which dries the base.
+    - >-
+      Steam condensing on the base, which colours it too fast.
+  correct: 1
+  explanation: >-
+    The base takes heat by contact with the sole. A sole hotter than the crown burns the base before
+    the top colours (pain ferré): lower the sole power or use the hot zone for another product.
+
+- id: q2
+  question: >-
+    A recipe written for a still deck at 200 °C is baked in a convection oven. What setting do you
+    start from, and why?
+  options:
+    - >-
+      About 215-220 °C, because moving air cools the trays.
+    - >-
+      200 °C, because temperature is the same whatever the oven.
+    - >-
+      About 180-185 °C, because forced convection transfers heat faster.
+    - >-
+      About 150 °C, because the fan doubles the heat reaching the product.
+  correct: 2
+  explanation: >-
+    At the same setting, a fan carries more heat to the surface and dries it, so convection ovens
+    are set about 15-20 °C lower. Halving the gap is not enough; 50 °C less under-bakes.
+
+- id: q3
+  question: >-
+    A 5 m² deck oven is switched on at 2:00 and reaches temperature at 3:30, but the first load
+    goes in at 5:30. Which change does the CNBPF guide support?
+  options:
+    - >-
+      Programme the preheat to start from the real baking time.
+    - >-
+      Keep the oven on all night at a lower setting so it never cools.
+    - >-
+      Raise the set point to 270 °C so it is ready earlier.
+    - >-
+      Leave the doors open during preheating to spread the heat evenly.
+  correct: 0
+  explanation: >-
+    Two hours empty is about 12 kWh a day (over 3,300 kWh a year). A preheat programmed from the
+    real baking time and starting temperature saves over 30 % of preheating energy.
+
+- id: q4
+  question: >-
+    Your home oven signals "ready" after 12 minutes at 230 °C, but the oven thermometer reads
+    205 °C. Your first loaves always come out pale. What do you change?
+  options:
+    - >-
+      Set the dial to 255 °C so the signal comes on at the real temperature.
+    - >-
+      Bake the first load longer and leave the rest of the plan as it is.
+    - >-
+      Switch on the fan for the whole bake so the oven catches up.
+    - >-
+      Preheat by the thermometer, using your measured real preheat time.
+  correct: 3
+  explanation: >-
+    The signal only says the element switched off once; the walls and air are still heating. Wait
+    for the thermometer (often 45 minutes or more) and write your real preheat time on your card.
+
+- id: q5
+  question: >-
+    Which explains why a deck oven gives strong oven spring but is slow to change from 250 °C for
+    baguettes to 200 °C for pain de mie?
+  options:
+    - >-
+      Its fan stops when the temperature is lowered, so heat stays trapped.
+    - >-
+      Its sole and mass store a lot of heat, which flows into the dough and out slowly.
+    - >-
+      Its steam generator keeps the temperature up until it is descaled.
+    - >-
+      Its resistances only work at full power, so it cannot hold lower settings.
+  correct: 1
+  explanation: >-
+    High thermal mass gives the loaf strong conduction from below at loading, and the same stored
+    heat takes a long time to fall. Plan products hottest to coolest, or one deck per temperature.

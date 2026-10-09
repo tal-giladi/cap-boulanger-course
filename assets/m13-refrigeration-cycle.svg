@@ -1,0 +1,69 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 460" width="900" height="460" role="img" aria-labelledby="t d">
+  <title id="t">How a cold room or refrigerated cabinet makes cold: the vapour-compression cycle</title>
+  <desc id="d">A closed loop of refrigerant fluid with four parts. Inside the cold room, the evaporator: the liquid refrigerant at low pressure boils and takes heat from the air of the room, so the room cools; a fan blows the air through it. The compressor sucks the vapour and raises its pressure and temperature. Outside the room, the condenser: the hot high-pressure vapour gives its heat to the outside air and turns back into liquid; this is why the condensing unit blows warm air and must be kept clean and away from the oven. The expansion valve (détendeur) lets the liquid through to the evaporator and drops its pressure, so it can boil again at low temperature. The heat taken from the room plus the compressor's work leave through the condenser.</desc>
+  <rect x="0" y="0" width="900" height="460" fill="#ffffff"/>
+  <defs>
+    <marker id="ar" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="8" markerHeight="8" orient="auto-start-reverse">
+      <path d="M0,0 L10,5 L0,10 z" fill="#444444"/>
+    </marker>
+    <marker id="hot" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="8" markerHeight="8" orient="auto-start-reverse">
+      <path d="M0,0 L10,5 L0,10 z" fill="#c0392b"/>
+    </marker>
+    <marker id="cold" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="8" markerHeight="8" orient="auto-start-reverse">
+      <path d="M0,0 L10,5 L0,10 z" fill="#2c6fb5"/>
+    </marker>
+  </defs>
+  <g font-family="Arial, Helvetica, sans-serif" fill="#222222">
+    <text x="450" y="32" text-anchor="middle" font-size="21" font-weight="bold">Making cold: heat is pumped out of the room, not "cold" put in</text>
+
+    <!-- cold room box -->
+    <rect x="30" y="70" width="330" height="360" rx="10" fill="#e8f1fa" stroke="#2c6fb5" stroke-width="2"/>
+    <text x="195" y="96" text-anchor="middle" font-size="15" font-weight="bold" fill="#1f4f80">Inside: cold room at +3 °C</text>
+    <!-- outside -->
+    <rect x="540" y="70" width="330" height="360" rx="10" fill="#fbecea" stroke="#c0392b" stroke-width="2"/>
+    <text x="705" y="96" text-anchor="middle" font-size="15" font-weight="bold" fill="#8e2a1f">Outside: condensing unit</text>
+
+    <!-- evaporator -->
+    <rect x="110" y="190" width="170" height="90" rx="8" fill="#ffffff" stroke="#2c6fb5" stroke-width="3"/>
+    <text x="195" y="220" text-anchor="middle" font-size="15" font-weight="bold">Évaporateur</text>
+    <text x="195" y="240" text-anchor="middle" font-size="12">evaporator: liquid boils at</text>
+    <text x="195" y="256" text-anchor="middle" font-size="12">low pressure and takes heat</text>
+    <text x="195" y="272" text-anchor="middle" font-size="12">from the room air (fan)</text>
+    <line x1="60" y1="140" x2="120" y2="185" stroke="#c0392b" stroke-width="3" marker-end="url(#hot)"/>
+    <text x="50" y="132" font-size="12">room heat in</text>
+    <line x1="195" y1="290" x2="195" y2="350" stroke="#2c6fb5" stroke-width="3" marker-end="url(#cold)"/>
+    <text x="205" y="335" font-size="12">cooled air out</text>
+
+    <!-- condenser -->
+    <rect x="620" y="190" width="170" height="90" rx="8" fill="#ffffff" stroke="#c0392b" stroke-width="3"/>
+    <text x="705" y="220" text-anchor="middle" font-size="15" font-weight="bold">Condenseur</text>
+    <text x="705" y="240" text-anchor="middle" font-size="12">condenser: hot vapour gives</text>
+    <text x="705" y="256" text-anchor="middle" font-size="12">its heat to outside air and</text>
+    <text x="705" y="272" text-anchor="middle" font-size="12">turns back into liquid</text>
+    <line x1="790" y1="235" x2="850" y2="170" stroke="#c0392b" stroke-width="3" marker-end="url(#hot)"/>
+    <text x="760" y="160" font-size="12">warm air out</text>
+
+    <!-- compressor -->
+    <circle cx="450" cy="150" r="42" fill="#f2f2f2" stroke="#444444" stroke-width="3"/>
+    <text x="450" y="146" text-anchor="middle" font-size="14" font-weight="bold">Compresseur</text>
+    <text x="450" y="164" text-anchor="middle" font-size="11">raises the pressure</text>
+    <text x="450" y="210" text-anchor="middle" font-size="11">(uses electricity)</text>
+
+    <!-- expansion valve -->
+    <path d="M 430 340 L 470 360 L 430 380 Z" fill="#f2f2f2" stroke="#444444" stroke-width="2"/>
+    <path d="M 470 340 L 430 360 L 470 380 Z" fill="#f2f2f2" stroke="#444444" stroke-width="2"/>
+    <text x="450" y="405" text-anchor="middle" font-size="14" font-weight="bold">Détendeur</text>
+    <text x="450" y="422" text-anchor="middle" font-size="11">expansion valve: drops the pressure</text>
+
+    <!-- pipes -->
+    <path d="M 280 215 L 380 215 L 380 150 L 405 150" fill="none" stroke="#2c6fb5" stroke-width="4" marker-end="url(#ar)"/>
+    <text x="300" y="206" font-size="11">cool vapour</text>
+    <path d="M 492 150 L 560 150 L 560 215 L 615 215" fill="none" stroke="#c0392b" stroke-width="4" marker-end="url(#ar)"/>
+    <text x="500" y="140" font-size="11">hot vapour, high pressure</text>
+    <path d="M 705 285 L 705 360 L 475 360" fill="none" stroke="#c0392b" stroke-width="4" marker-end="url(#ar)"/>
+    <text x="560" y="352" font-size="11">warm liquid</text>
+    <path d="M 425 360 L 300 360" fill="none" stroke="#2c6fb5" stroke-width="4"/>
+    <path d="M 300 360 L 300 285" fill="none" stroke="#2c6fb5" stroke-width="4" marker-end="url(#ar)"/>
+    <text x="310" y="380" font-size="11">cold liquid, low pressure</text>
+  </g>
+</svg>

@@ -1,0 +1,54 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 430" width="900" height="430" role="img" aria-labelledby="t d">
+  <title id="t">A sheeter (laminoir) seen from the side: belts, rollers, gap and safety guards</title>
+  <desc id="d">A sheeter has a conveyor belt on each side of a pair of rollers. The dough block travels on the left belt, passes between the two rollers, whose gap is set with a lever or dial, and comes out thinner on the right belt; the direction is then reversed and the gap reduced step by step, for example 20, 14, 10, 7, 5 and 3.5 millimetres. A hinged safety guard covers each side of the rollers: lifting a guard stops the machine. Emergency stop buttons are within reach. Hands stay on the belts, outside the guards, and never reach under a closed guard; the machine is stopped and unplugged before cleaning.</desc>
+  <rect x="0" y="0" width="900" height="430" fill="#ffffff"/>
+  <defs>
+    <marker id="ar" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M0,0 L10,5 L0,10 z" fill="#2c6fb5"/>
+    </marker>
+  </defs>
+  <g font-family="Arial, Helvetica, sans-serif" fill="#222222">
+    <text x="450" y="32" text-anchor="middle" font-size="21" font-weight="bold">Laminoir (sheeter): the gap does the rolling, the guards keep the hands out</text>
+
+    <!-- tables / belts -->
+    <rect x="60" y="230" width="330" height="14" rx="7" fill="#d9d9d9" stroke="#555555"/>
+    <rect x="510" y="230" width="330" height="14" rx="7" fill="#d9d9d9" stroke="#555555"/>
+    <text x="225" y="268" text-anchor="middle" font-size="13">belt (tapis)</text>
+    <text x="675" y="268" text-anchor="middle" font-size="13">belt (tapis)</text>
+
+    <!-- dough in and out -->
+    <rect x="170" y="196" width="140" height="34" rx="6" fill="#efe2c8" stroke="#8a6d3b" stroke-width="2"/>
+    <text x="240" y="190" text-anchor="middle" font-size="12">block, e.g. 20 mm</text>
+    <rect x="540" y="219" width="250" height="11" rx="4" fill="#efe2c8" stroke="#8a6d3b" stroke-width="2"/>
+    <text x="665" y="212" text-anchor="middle" font-size="12">thinner sheet</text>
+    <line x1="320" y1="150" x2="380" y2="150" stroke="#2c6fb5" stroke-width="3" marker-end="url(#ar)"/>
+    <line x1="580" y1="150" x2="520" y2="150" stroke="#2c6fb5" stroke-width="3" marker-end="url(#ar)"/>
+    <text x="450" y="128" text-anchor="middle" font-size="12">back and forth, gap reduced each pass</text>
+
+    <!-- rollers -->
+    <circle cx="450" cy="203" r="26" fill="#cfcfcf" stroke="#444444" stroke-width="3"/>
+    <circle cx="450" cy="263" r="26" fill="#cfcfcf" stroke="#444444" stroke-width="3"/>
+    <line x1="480" y1="233" x2="560" y2="300" stroke="#444444" stroke-width="1"/>
+    <text x="566" y="306" font-size="12">gap set by lever or dial</text>
+    <line x1="485" y1="186" x2="505" y2="176" stroke="#444444" stroke-width="1"/>
+
+    <!-- guards -->
+    <path d="M 392 160 L 392 230 L 418 230" fill="none" stroke="#b5442c" stroke-width="5"/>
+    <path d="M 508 160 L 508 230 L 482 230" fill="none" stroke="#b5442c" stroke-width="5"/>
+    <path d="M 392 160 L 508 160" fill="none" stroke="#b5442c" stroke-width="5"/>
+    <text x="450" y="86" text-anchor="middle" font-size="13" fill="#b5442c" font-weight="bold">hinged safety guards</text>
+    <text x="450" y="104" text-anchor="middle" font-size="12" fill="#b5442c">lift a guard → the machine stops</text>
+
+    <!-- emergency stops -->
+    <circle cx="70" cy="200" r="14" fill="#c62828" stroke="#7f1717" stroke-width="2"/>
+    <circle cx="830" cy="200" r="14" fill="#c62828" stroke="#7f1717" stroke-width="2"/>
+    <text x="70" y="176" text-anchor="middle" font-size="11">STOP</text>
+    <text x="830" y="176" text-anchor="middle" font-size="11">STOP</text>
+
+    <!-- gap sequence -->
+    <rect x="60" y="320" width="780" height="90" rx="10" fill="#f7f3ec" stroke="#c9b99a"/>
+    <text x="80" y="345" font-size="14" font-weight="bold">Example gap steps for a croissant block (the head baker and the manual set yours):</text>
+    <text x="80" y="370" font-size="14">20 → 14 → 10 → 7 → 5 → 3.5 mm: small steps keep the butter layers whole; a big jump crushes and tears them.</text>
+    <text x="80" y="395" font-size="14">Hands only on the belts, outside the guards. Never reach under a closed guard. Stopped and unplugged to clean.</text>
+  </g>
+</svg>

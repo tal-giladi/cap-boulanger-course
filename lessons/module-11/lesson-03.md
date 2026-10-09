@@ -117,7 +117,7 @@ Three steps: a plasticity test at three temperatures, a 250 g plaque, and the lo
 ### You need
 
 - Minimum: scale (1 g), probe thermometer, rolling pin, baking paper, ruler, a sharp knife, a cutting board, cling film, the [temperature log](../../templates/temperature-log.md).
-- Professional equivalent: beurre de tourage in flat plaques, a cool laminating bench (marble or stainless steel), a reach-in fridge beside it, a sheeter for the lock-in of large blocks (Module 13).
+- Professional equivalent: beurre de tourage in flat plaques, a cool laminating bench (marble or stainless steel), a reach-in fridge beside it, a sheeter for the lock-in of large blocks ([Module 13](../module-13/lesson-02.md)).
 
 ### Ingredients
 

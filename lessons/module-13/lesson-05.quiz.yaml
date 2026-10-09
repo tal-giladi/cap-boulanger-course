@@ -1,0 +1,87 @@
+- id: q1
+  question: >-
+    A proofing cabinet's rating plate reads "230 V ~ 50 Hz 2 760 W". What current does it draw at
+    full power?
+  options:
+    - >-
+      About 0.08 A, from 230 ÷ 2,760
+    - >-
+      About 2.8 A, from 2,760 ÷ 1,000
+    - >-
+      About 635 A, from 2,760 × 230 ÷ 1,000
+    - >-
+      About 12 A, from 2,760 ÷ 230
+  correct: 3
+  explanation: >-
+    P = U × I, so I = P ÷ U = 2,760 ÷ 230 = 12 A. Dividing the wrong way or converting watts to
+    kilowatts instead gives impossible currents.
+
+- id: q2
+  question: >-
+    Which device is designed to cut the power when current leaks through a person's body to earth?
+  options:
+    - >-
+      The 30 mA residual-current device (DDR).
+    - >-
+      The circuit breaker sized for the cable.
+    - >-
+      The fuse in the appliance's plug.
+    - >-
+      The thermostat of the appliance.
+  correct: 0
+  explanation: >-
+    A residual-current device compares the current going in and coming back and trips on a small
+    leak (30 mA). Breakers and fuses react to overloads and short circuits, far above body currents.
+
+- id: q3
+  question: >-
+    At 4:00 you smell gas near the gas oven. The light is off. What do you do first?
+  options:
+    - >-
+      Switch on the light to find the leak, then close the valve.
+    - >-
+      Close the gas valve, touch no switch, open up, get out and call from outside.
+    - >-
+      Phone the gas company from the fournil while airing the room.
+    - >-
+      Light the burner briefly to burn off the gas already in the oven.
+  correct: 1
+  explanation: >-
+    Any spark (switch, phone, flame) can ignite the gas. Close the valve if you can, ventilate on
+    the way out, evacuate and alert the distributor or emergency services from outside.
+
+- id: q4
+  question: >-
+    Two bakers in a small fournil both have a headache and feel sick; it gets better when they go
+    outside. A gas-fired appliance is running and the air inlet was taped over in winter. What is
+    the most likely cause?
+  options:
+    - >-
+      Flour dust allergy from loading the mixer that morning.
+    - >-
+      A natural-gas leak, since gas itself causes headaches.
+    - >-
+      Carbon monoxide from combustion short of air.
+    - >-
+      Dehydration from working for hours near the hot oven.
+  correct: 2
+  explanation: >-
+    A blocked air inlet starves the flame of air; combustion becomes incomplete and produces
+    odourless CO. Several people with the same symptoms that ease outside is the classic sign.
+
+- id: q5
+  question: >-
+    The spiral mixer's cable has a cut in its outer sheath. The order is urgent. What is correct?
+  options:
+    - >-
+      Unplug it by the plug, label it out of service and report it for an electrician.
+    - >-
+      Wrap the cut tightly with insulating tape and use the mixer today only.
+    - >-
+      Keep using it as long as the inner wires are not visible through the cut.
+    - >-
+      Cut off the damaged part and fit a new plug before the first batch.
+  correct: 0
+  explanation: >-
+    A damaged cable is a shock and fire risk; repairs are an electrician's job, never a taped or
+    home-made fix. Stop using it, label it, report it and use another mixer.

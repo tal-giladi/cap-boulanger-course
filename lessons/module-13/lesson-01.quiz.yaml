@@ -1,0 +1,88 @@
+- id: q1
+  question: >-
+    A baker wants a tradition dough with a creamy crumb and as little heating and oxidation as
+    possible, and has time for a long mix. Which mixer suits it best?
+  options:
+    - >-
+      The planetary batteur with the whisk, on its highest speed.
+    - >-
+      The oblique-axis mixer, whose fork folds the dough gently.
+    - >-
+      The spiral mixer in second speed for twelve minutes.
+    - >-
+      A food processor, because it develops the gluten in seconds.
+  correct: 1
+  explanation: >-
+    The oblique-axis (fork) mixer works the dough slowly and gently, so it heats and oxidises
+    little. A long second speed on a spiral is intensive mixing; a whisk is for batters and creams.
+
+- id: q2
+  question: >-
+    The spiral mixer's sheet says maximum 30 kg of bread dough. The order needs 45 kg of PC-02.
+    What do you do?
+  options:
+    - >-
+      One batch of 45 kg, mixing two minutes longer in first speed.
+    - >-
+      One batch of 30 kg, and make up the rest with a smaller order.
+    - >-
+      Two batches of about 22.5 kg, each with its own friction factor.
+    - >-
+      Two batches of 22.5 kg using the full-bowl friction factor for both.
+  correct: 2
+  explanation: >-
+    Split the order into batches inside the capacity. A bowl that is fuller or emptier heats
+    differently, so use (or measure) the friction factor recorded for that batch size.
+
+- id: q3
+  question: >-
+    Halfway through second speed you want to check the dough temperature. What is the safe way?
+  options:
+    - >-
+      Stop the mixer, wait until the hook has stopped, open the lid, then probe.
+    - >-
+      Push the probe in through the grid while the bowl turns slowly.
+    - >-
+      Switch to first speed, lift the grid a little and probe near the edge.
+    - >-
+      Probe through the grid without stopping, keeping your hand outside.
+  correct: 0
+  explanation: >-
+    Nothing goes into a turning bowl: a hook draws in hands and tools. Stop, wait for a complete
+    stop, then test. A lid that does not stop the machine when raised is a fault to report.
+
+- id: q4
+  question: >-
+    A new apprentice tips a 25 kg sack of flour from shoulder height into the dry bowl, then
+    starts the spiral in second speed. Which correction follows the INRS advice?
+  options:
+    - >-
+      Keep the method but have the apprentice wear a dust mask from now on.
+    - >-
+      Brush the flour off the bench and floor at the end of the shift.
+    - >-
+      Pour the flour first and add the water slowly on top while it turns.
+    - >-
+      Water first, flour low through a sleeve, lid closed, first speed first.
+  correct: 3
+  explanation: >-
+    Dust is prevented at the source: water before flour, flour poured low (ideally through a long
+    sleeve), no shaking, lid closed, first speed. Masks only complete this; brushing raises dust.
+
+- id: q5
+  question: >-
+    At home, your hand-kneaded dough came out at 24.0 °C and your stand-mixer dough at 26.5 °C,
+    with both calculated for 24 °C using a friction factor of 6. Why the difference?
+  options:
+    - >-
+      The mixer dough has more yeast activity, which warmed it from inside.
+    - >-
+      The mixer adds more friction heat, so it needs its own larger friction factor.
+    - >-
+      The thermometer reads high in firm doughs, so the mixer dough is really 24 °C.
+    - >-
+      The salt dissolved faster in the mixer and raised the temperature.
+  correct: 1
+  explanation: >-
+    A stand mixer typically heats a dough by about 4-5 °C (friction factor about 12-15), hands by
+    1-3 °C. Using the hand figure for the mixer leaves the dough about 2.5 °C too warm.

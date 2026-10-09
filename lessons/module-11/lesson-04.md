@@ -18,7 +18,11 @@ sources:
     url: https://www.elle-et-vire.com/uk/en/pro/recipes/croissants/
   - title: "Référentiel CAP Boulanger (annexes of the arrêté of 21 February 2014): S3.4.1 matériel (laminoir); EP2 conditions for pâte levée feuilletée"
     url: https://www.ecoledesmetiers.fr/sites/default/files/ressources-cadrage-officiel/fichiers/2019-06/R%C3%A9f%C3%A9rentiel_CAP_Boulanger.pdf
-last_verified: "2026-10-08"
+  - title: "RONDO — Rondostar 5000 sheeter operating manual, edition 03.2022 (EN 1674 declared; safety guards stop the machine when lifted, reaching under a closed guard prohibited, guards not to replace the STOP button, safety elements never adjusted or overridden, mains plug pulled before service, operators instructed and at least 16, close-fitting clothes and no jewellery, automatic flour duster against flour allergy, no compressed air or spray water for cleaning)"
+    url: https://s3.amazonaws.com/zcom-media/sites/a0i0L00000VH4TSQA1/media/mediamanager/Rondo_SSH6707_Installation_Manual.pdf
+  - title: "INRS ED 4473 — TutoPrév' accueil, métiers de bouche (bakery: no access to dangerous moving parts, periodic check of safety devices, equipment made safe for cleaning and maintenance, workstation sheets from the maker's instructions displayed beside the machines, training in fleurage and laminage, anti-dust divider)"
+    url: https://inrs.fr/dam/inrs/CataloguePapier/ED/TI-ED-4473.pdf
+last_verified: "2026-10-09"
 ---
 
 # 11.4 · Tourage: Turns, Rest and Temperature
@@ -82,7 +86,7 @@ Each rolling session should be short: about 5-10 minutes for a home block. In a 
 
 ### The sheeter
 
-In the bakery, a laminoir does the rolling: the block goes on a belt and passes between two rollers whose gap is reduced in steps, back and forth, until the sheet is the thickness wanted. It gives a perfectly even thickness in seconds, so the dough spends less time warming. The rules of the hand method still apply: reduce the gap **gradually** (a big step crushes and tears the layers), dust lightly, fold and rest the same way. Module 13 covers the machine itself.
+In the bakery, a laminoir does the rolling: the block goes on a belt and passes between two rollers whose gap is reduced in steps, back and forth, until the sheet is the thickness wanted. It gives a perfectly even thickness in seconds, so the dough spends less time warming. The rules of the hand method still apply: reduce the gap **gradually** (a big step crushes and tears the layers), dust lightly, fold and rest the same way. [Module 13](../module-13/lesson-02.md) covers the machine itself.
 
 > [!CAUTION]
 > A sheeter's rollers can draw in and crush fingers. Use one only after you have been trained on that machine: guards closed, hands never near the rollers or under the protective grid while the belts run, stop the machine before reaching in to straighten the dough, and clean it only switched off and unplugged as its instructions say.

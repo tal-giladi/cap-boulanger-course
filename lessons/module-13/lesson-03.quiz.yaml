@@ -1,0 +1,87 @@
+- id: q1
+  question: >-
+    The proofing cabinet display reads 26 °C, but a probe in a glass of water on the middle shelf
+    reads 29 °C after 15 minutes. Croissants are inside. What do you do?
+  options:
+    - >-
+      Trust the display, since the probe in water reacts too slowly to be right.
+    - >-
+      Raise the humidity so the butter does not dry out at 29 °C.
+    - >-
+      Lower the set point, move the trays to the middle and report the sensor.
+    - >-
+      Turn the cabinet off and leave the croissants to proof in the fournil.
+  correct: 2
+  explanation: >-
+    The probe shows what the pieces feel: 29 °C is above the butter's limit of about 27 °C. Bring
+    the cabinet down, protect the trays, judge by the poke test and report the faulty display.
+
+- id: q2
+  question: >-
+    Shaped baguettes come out of the proofing cabinet with a dry, slightly cracked skin and
+    bake small and dull. Which setting is most likely wrong?
+  options:
+    - >-
+      The humidity was too low, so a skin held back the expansion.
+    - >-
+      The humidity was too high, so water condensed on the pieces.
+    - >-
+      The temperature was too low, so the yeast stopped working.
+    - >-
+      The cabinet fan was off, so the pieces were too humid.
+  correct: 0
+  explanation: >-
+    Low humidity lets the surface dry into a skin that restricts expansion and colours poorly.
+    Too much humidity gives the opposite defect: condensation, a tough crust and blisters.
+
+- id: q3
+  question: >-
+    In the refrigeration loop of a cold room, where does the heat taken from the room leave?
+  options:
+    - >-
+      At the evaporator inside the room, through the defrost water.
+    - >-
+      At the expansion valve, where the pressure drops.
+    - >-
+      At the compressor only, which turns the heat into electricity.
+    - >-
+      At the condenser outside, where the vapour turns back into liquid.
+  correct: 3
+  explanation: >-
+    The evaporator takes heat from the room as the refrigerant boils; the compressor raises its
+    pressure; the condenser outside gives that heat (plus the compressor's work) to outside air.
+
+- id: q4
+  question: >-
+    A retarder-proofer never got below 7 °C during the night's blocking phase. It stands next to
+    the oven and its condenser grille is grey with flour. What is the best long-term fix?
+  options:
+    - >-
+      Set the blocking temperature to 0 °C so that it reaches 4 °C.
+    - >-
+      Have the condenser cleaned and move the cabinet away from the oven.
+    - >-
+      Add more yeast so the pieces are ready earlier in the morning.
+    - >-
+      Keep the door slightly open at night so the air circulates.
+  correct: 1
+  explanation: >-
+    A condenser that cannot shed its heat (dust, hot surroundings) makes the unit run without
+    reaching its setting. Clean it and keep refrigeration away from ovens.
+
+- id: q5
+  question: >-
+    A tray of crème pâtissière at 80 °C must be cooled. Which equipment is designed for it?
+  options:
+    - >-
+      The storage freezer at −18 °C, so it cools as fast as possible.
+    - >-
+      The cold room at 3 °C, covered, with the door kept shut.
+    - >-
+      The blast chiller, down to +10 °C within 2 hours.
+    - >-
+      The retarder-proofer in blocking mode at 3 °C.
+  correct: 2
+  explanation: >-
+    A blast chiller is built to cool hot preparations quickly. Cold rooms and cabinets only keep
+    cold products cold; a hot tray warms everything around it and cools too slowly.
