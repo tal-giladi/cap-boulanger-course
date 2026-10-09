@@ -18,7 +18,7 @@ sources:
     url: https://www.francecompetences.fr/recherche/rncp/42115
   - title: "Code de la consommation, article L122-17 (Légifrance)"
     url: https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032227163
-last_verified: "2026-10-08"
+last_verified: "2026-10-09"
 ---
 
 # 01.2 · Inside a Bakery: Workflow, Zones and Roles
@@ -125,6 +125,12 @@ You map your own kitchen as a bakery and design the marche en avant you will use
 - Paper and a pencil, or a drawing app.
 - A tape measure (optional).
 - Professional equivalent: the layout plan of a fournil, as drawn in a hygiene plan (plan de maîtrise sanitaire).
+
+### In Israel
+
+- **Hot and cool zones:** an Israeli summer kitchen often sits at 26-32 °C. Mark on your plan the coolest place you can proof and store dough (an air-conditioned room, away from the oven and the sunny window) and a warm place for winter (the oven with only the light on). Lessons [05.1](../module-05/lesson-01.md) and [05.4](../module-05/lesson-04.md) use both.
+- **Chilled storage:** put a thermometer in the fridge now and mark the fridge on the plan between reception and weighing: in summer you will use it for cold water and for slowing doughs (lesson [04.6](../module-04/lesson-06.md)).
+- **Dry storage:** flour goes from the bag into a closed container; in summer whole wheat flour keeps better in the fridge (lesson [10.4](../module-10/lesson-04.md)).
 
 ### Steps
 

@@ -19,7 +19,7 @@ sources:
     url: https://www.ecoledesmetiers.fr/sites/default/files/ressources-cadrage-officiel/fichiers/2019-06/R%C3%A9f%C3%A9rentiel_CAP_Boulanger.pdf
   - title: "Décret n°93-1074 du 13 septembre 1993 (art. 2: tradition made with sel de cuisine)"
     url: https://www.legifrance.gouv.fr/loda/id/JORFTEXT000000727617
-last_verified: "2026-10-08"
+last_verified: "2026-10-09"
 ---
 
 # 02.5 · Salt
@@ -115,6 +115,12 @@ If the bread is baked smaller (more crust, more loss, say 22 %), salt per 100 g 
 | Water | 163 g | 163 g | 65 |
 | Salt | 4.5 g | 0 g | 1.8 / 0 |
 | Fresh yeast (or instant dry 1.3 g) | 3.8 g | 3.8 g | 1.5 |
+
+### In Israel
+
+- **Salt:** weigh fine salt (מלח דק, *melakh dak*); coarse salt (מלח גס, *melakh gas*) dissolves slowly. Some table salts list an anti-caking agent or iodine in the ingredients (רכיבים, *rekhivim*): that does not change the test (checked 2026-10-09).
+- **Flour and yeast:** white flour (קמח לבן, *kemakh lavan*) as the T55 ([Flour in Israel](../../references/flour-in-israel.md)); instant dry yeast (שמרים יבשים, *shmarim yeveshim*) 1.3 g per dough if you have no fresh.
+- **Warm kitchen:** dough N, with no salt, ferments faster and in a 30 °C kitchen can be over-proofed before dough S is ready. Mix both with fridge-blended water (lesson [05.2](../module-05/lesson-02.md)) and check N from 45 minutes.
 
 ### Steps
 

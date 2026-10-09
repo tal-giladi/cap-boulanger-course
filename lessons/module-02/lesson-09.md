@@ -21,7 +21,7 @@ sources:
     url: https://www.bakeinfo.co.nz/facts/bread/bread-ingredients/describing-bread-ingredients/
   - title: "Bake Info — Enzymes in breadmaking (amylases)"
     url: https://www.bakeinfo.co.nz/facts/bread/bread-ingredients/enzymes-in-breadmaking/
-last_verified: "2026-10-08"
+last_verified: "2026-10-09"
 ---
 
 # 02.9 · Seeds, Other Flours, Malt and Improvers
@@ -121,6 +121,13 @@ Now the seeds. A formula for 2 kg of flour includes 15 % seeds (300 g) and a soa
 | Mixed seeds (sunflower, flax, sesame, pumpkin) | 2 × 40 g | one portion for the soaker, one kept dry |
 | Water | 40 g (+ 10 g if flax is more than a quarter) | for the soaker |
 | Optional bake: T55 flour 2 × 200 g, water 2 × 130 g (65 %), salt 2 × 3.6 g (1.8 %), fresh yeast 2 × 3 g (1.5 %) | | dough A with dry seeds, dough B with the soaker |
+
+### In Israel
+
+- **Seeds:** sesame (שומשום, *shumshum*), flax (זרעי פשתן, *zar'ei pishtan*), sunflower (גרעיני חמנייה, *gar'inei khamaniya*) and pumpkin seeds (גרעיני דלעת, *gar'inei dla'at*). Buy them raw and unsalted, not the roasted, salted snack seeds (checked 2026-10-09).
+- **Labels to photograph:** look for improver words on flour and bread labels, such as ascorbic acid (חומצה אסקורבית / E300) and enzymes (אנזימים, *enzimim*); the table in [Flour in Israel](../../references/flour-in-israel.md) lists them. Malt is לתת (*letet*).
+- **Soaker in summer:** at 26-32 °C a soaker left out overnight can sour. Soak 1-2 hours on the worktop, or overnight in the fridge.
+- **Optional bake:** white flour (קמח לבן, *kemakh lavan*) as the T55; water as in the lesson [01.7](../module-01/lesson-07.md) estimate, with fridge water in summer.
 
 ### Steps
 

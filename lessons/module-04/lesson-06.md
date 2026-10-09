@@ -9,7 +9,7 @@ objectives:
   - "C1.2 — Explain how deferred fermentation changes the organisation of production and build a schedule that uses it."
   - "S3.3 — State the dough and product adjustments cold fermentation needs (yeast, dough temperature, détente, apprêt) and its effects on the bread."
   - "C2.3 — Make a bread with an overnight cold pointage at home and compare it with a same-day bread."
-volatility: concept
+volatility: implementation
 sources:
   - title: "Référentiel CAP Boulanger (annexes of the arrêté of 21 February 2014), savoir S3.3.3 (techniques de fermentation différée: pointage retardé, pousse lente, pousse avec blocage; incidences sur l'organisation)"
     url: https://www.ecoledesmetiers.fr/sites/default/files/ressources-cadrage-officiel/fichiers/2019-06/R%C3%A9f%C3%A9rentiel_CAP_Boulanger.pdf
@@ -17,7 +17,7 @@ sources:
     url: https://www.kingarthurbaking.com/blog/2021/09/28/how-to-refrigerate-bread-dough-to-bake-later
   - title: "King Arthur Baking — Dough temperature (pro reference: retarded doughs run slightly cooler; flavour forms at lower temperatures)"
     url: https://www.kingarthurbaking.com/pro/reference/dough-temperature
-last_verified: "2026-10-08"
+last_verified: "2026-10-09"
 ---
 
 # 04.6 · Controlled and Retarded Fermentation
@@ -128,6 +128,14 @@ gantt
 | Fine salt | 1.8 | 9 g | same |
 | Fresh yeast (or instant at one-third) | 0.6 | 3 g (1 g) | less than half |
 | **Total** | **167.4** | **837 g** | |
+
+### In Israel
+
+- **Mixing to 22 °C in summer:** 3 × 22 − 29 − 30 − 2 = **5 °C**, colder than most fridge water. Put the flour in the fridge for an hour first and mix in the coolest room (lesson [05.2](../module-05/lesson-02.md)).
+- **Room time before the fridge:** at 28-30 °C, cut the 45 minutes to 20-30 minutes before the fold.
+- **Your fridge:** check it reads 3-5 °C; a fridge opened often in hot weather drifts up. Put the container at the back of a middle shelf, not in the door.
+- **Next morning:** in a warm kitchen the cold dough wakes up fast: check the rise and temperature after 20 minutes rather than 30-60.
+- **Yeast:** 1 g of instant dry yeast (שמרים יבשים, *shmarim yeveshim*) needs a 0.1 g scale; if you only have a 1 g scale, use the solution method of lesson [04.5](lesson-05.md) (checked 2026-10-09).
 
 ### Steps
 

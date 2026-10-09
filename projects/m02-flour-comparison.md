@@ -17,6 +17,7 @@ At home use what you can buy: if French types are not available, use a plain/all
 ## You need
 
 - Three flours, about 600 g each; salt; fresh yeast (or instant dry, one-third of the weight).
+- In Israel: white flour, 80 % wheat flour and 100 % whole wheat flour make a good set of three; write the French type each stands in for ([Flour in Israel](../references/flour-in-israel.md)).
 - Scale (1 g, and 0.1 g for salt and yeast if you have one), probe thermometer, three bowls, three clear marked containers, scraper, baking trays, metal tray for steam, oven gloves, lame or sharp knife, ruler, a Pekar board (smooth board and spatula), a bowl of water.
 - [Production sheet](../templates/production-sheet.md), [bake log](../templates/bake-log.md), [quality rubric](../templates/quality-rubric.md), [temperature log](../templates/temperature-log.md).
 - Time: about 1 hour of tests, then about 4 hours for the bake (mostly waiting), and 30 minutes to write the report the next day.

@@ -19,7 +19,7 @@ sources:
     url: https://www.kingarthurbaking.com/pro/formulas/french-bread-with-poolish
   - title: "Décret n°93-1074 du 13 septembre 1993 (art. 3 'au levain'; art. 4 levain, 0.2 % yeast at final mixing)"
     url: https://www.legifrance.gouv.fr/loda/id/JORFTEXT000000727617
-last_verified: "2026-10-08"
+last_verified: "2026-10-09"
 ---
 
 # 04.5 · Pre-ferments: Pâte Fermentée, Poolish and Levain
@@ -131,6 +131,13 @@ The full calculation of pre-ferment formulas, including the flour and water insi
 | Fine salt | 9 g | 9 g | 1.8 |
 | Fresh yeast | 7.5 g | 5 g | 1.5 / about 1.1 in total |
 | **Dough weight** | **841.5 g** | **839 g** | |
+
+### In Israel
+
+- **Poolish in a hot kitchen:** the lesson's 22:00 start helps above 24 °C, but at 28-30 °C the poolish can still collapse before morning. Use 15 g of the yeast solution (plus 15 g of plain water) instead of 30 g, or leave it 2 hours out and then in the fridge until morning.
+- **Yeast solution with instant yeast:** dissolve 1 g of instant dry yeast (שמרים יבשים, *shmarim yeveshim*) in 300 g of water and use 30 g: that is 0.1 g instant, the same as 0.3 g fresh (checked 2026-10-09).
+- **Flour:** white flour (קמח לבן, *kemakh lavan*) as the T55 for the poolish and both doughs ([Flour in Israel](../../references/flour-in-israel.md)).
+- **Dough water:** in summer use fridge-blended water; a cold poolish counts as a fourth temperature in the calculation (lesson [05.3](../module-05/lesson-03.md)).
 
 ### Steps
 

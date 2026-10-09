@@ -9,7 +9,7 @@ objectives:
   - "S4.2 — Explain what yeast does in dough (sugars to CO₂, alcohol and aromas) and how temperature, salt and sugar change its activity."
   - "S2.1 — Convert a fresh-yeast quantity into instant or active dry yeast and choose a dose for a product."
   - "S2.1 — Check the freshness of fresh yeast and compare the activity of fresh and dry yeast."
-volatility: concept
+volatility: implementation
 sources:
   - title: "Lesaffre — What are the different forms of yeast? (dry matter, storage, shelf life, dosage of instant yeast)"
     url: https://www.lesaffre.com/trends-mag/what-are-the-different-forms-of-yeast/
@@ -19,7 +19,7 @@ sources:
     url: https://www.bakeinfo.co.nz/facts/bread/bread-ingredients/yeast-in-breadmaking-and-baking/
   - title: "Référentiel CAP Boulanger (annexes of the arrêté of 21 February 2014), savoirs S2.1.6–S2.1.7"
     url: https://www.ecoledesmetiers.fr/sites/default/files/ressources-cadrage-officiel/fichiers/2019-06/R%C3%A9f%C3%A9rentiel_CAP_Boulanger.pdf
-last_verified: "2026-10-08"
+last_verified: "2026-10-09"
 ---
 
 # 02.6 · Yeast
@@ -124,6 +124,12 @@ A formula for 5 kg of T55 flour asks for 1.8 % fresh yeast. The fresh yeast deli
 | Water at 30 °C | 50 g | 50 g | 50 g (of which 15 g to rehydrate) |
 | Yeast | 3 g fresh | 1 g instant | 1.2 g active dry |
 | Sugar | 2 g | 2 g | 2 g |
+
+### In Israel
+
+- **Forms:** fresh yeast (שמרים טריים, *shmarim triyim*) is in the chilled section of some supermarkets and bakery-supply shops; instant dry yeast (שמרים יבשים, *shmarim yeveshim*) in sachets or jars is everywhere. If you cannot find active dry yeast, run glasses 1 and 2 only (checked 2026-10-09).
+- **Read the pack:** some instant yeasts list an emulsifier or ascorbic acid; that is normal and does not change the test.
+- **Warm spot:** in summer the kitchen itself is at 26-28 °C or above, so you need no oven light. Above about 30 °C, use a cooler room and check every 10 minutes: the glasses rise sooner (about 7 % per °C, lesson [05.1](../module-05/lesson-01.md)).
 
 ### Steps
 

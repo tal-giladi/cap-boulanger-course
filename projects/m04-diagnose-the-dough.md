@@ -33,6 +33,7 @@ In English: three problems this week; for each one, what you see, the probable c
 ## You need
 
 - For Part B (home bake): scale (1 g, ideally 0.1 g), probe thermometer, two bowls, scraper, two straight-sided clear containers with lids, tape and ruler, baking paper, trays, a metal steam tray, oven gloves, lame, bread knife.
+- In Israel: in summer the reference dough needs fridge-blended water and the coolest room; see the In Israel notes of lessons [04.2](../lessons/module-04/lesson-02.md) and [04.7](../lessons/module-04/lesson-07.md).
 - Templates: [production sheet](../templates/production-sheet.md), [temperature log](../templates/temperature-log.md), [bake log](../templates/bake-log.md), [quality rubric](../templates/quality-rubric.md), [non-conformity report](../templates/non-conformity-report.md).
 - Time: about 45 minutes for Part A; about 5 hours for Part B (mostly waiting); about 45 minutes to write Part C.
 

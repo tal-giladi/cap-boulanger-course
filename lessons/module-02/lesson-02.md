@@ -21,7 +21,7 @@ sources:
     url: https://www.legifrance.gouv.fr/loda/id/JORFTEXT000000727617
   - title: "Grands Moulins de Paris — technical sheet, farine de seigle T170 (composition per 100 g)"
     url: https://www.grandsmoulinsdeparis.com/media/fiche_technique/04865.pdf
-last_verified: "2026-10-08"
+last_verified: "2026-10-09"
 ---
 
 # 02.2 · French Flour Types and Legal Names
@@ -141,6 +141,12 @@ Write the batch numbers of the bags you open on the production sheet: if the bre
 | Flour A (e.g. T45 or plain white) | about 10 g |
 | Flour B (e.g. T65 or T80, or "bread flour") | about 10 g |
 | Flour C (optional, T110 or T150 / wholemeal) | about 10 g |
+
+### In Israel
+
+- **Three bags:** white flour, 80 % wheat flour and 100 % whole wheat flour make flour A, B and C. Israeli bags print no type; the table in [Flour in Israel](../../references/flour-in-israel.md) gives the French type each stands in for, so label your Pekar board with both.
+- **What to expect:** the 80 % sample should sit between the white and the whole, close to a T80. No Israeli bag prints the ash, so this board is your only ash check at home.
+- **Copy the label:** photograph the protein (חלבונים, *khelbonim*) and the ingredient list (רכיבים, *rekhivim*) of each bag for the bake log (checked 2026-10-09).
 
 ### Steps
 

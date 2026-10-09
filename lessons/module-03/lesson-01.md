@@ -8,7 +8,7 @@ objectives:
   - "S3.1 — Describe what physically happens to flour proteins, starch, water and air from the first turn of the mixer to a fully developed dough."
   - "S4.1 — Explain the mechanical action on proteins (gluten network) and why development can be under, optimum or over."
   - "S3.1 — Perform the windowpane test at three stages of hand mixing and record each result."
-volatility: concept
+volatility: implementation
 sources:
   - title: "Référentiel CAP Boulanger (annexes of the arrêté of 21 February 2014), S3.1.2 formation of the dough and S4.1 mechanical action on proteins"
     url: https://www.ecoledesmetiers.fr/sites/default/files/ressources-cadrage-officiel/fichiers/2019-06/R%C3%A9f%C3%A9rentiel_CAP_Boulanger.pdf
@@ -18,7 +18,7 @@ sources:
     url: https://www.kingarthurbaking.com/blog/2022/10/14/what-is-the-windowpane-test-for-bread-dough
   - title: "Bake Info — Energy transfer in mixing equipment: managing dough development"
     url: https://www.bakeinfo.co.nz/energy-transfer-in-cbp-mdd-mixing-equipment-managing-dough-development/
-last_verified: "2026-10-08"
+last_verified: "2026-10-09"
 ---
 
 # 03.1 · How a Gluten Network Forms
@@ -115,6 +115,12 @@ You make the PD-01 dough from lesson [01.6](../module-01/lesson-06.md) by hand, 
 | Water | 65 | 325 g |
 | Salt | 1.8 | 9 g |
 | Fresh yeast (or instant dry, 2.5 g) | 1.5 | 7.5 g |
+
+### In Israel
+
+- **Flour:** white flour (קמח לבן, *kemakh lavan*) as the T55 ([Flour in Israel](../../references/flour-in-israel.md)). A strong flour, or one with ascorbic acid, may feel tighter and reach the windowpane sooner: judge by the film, not by the minutes.
+- **Yeast:** fresh yeast (שמרים טריים, *shmarim triyim*) is in the chilled section of some supermarkets and bakery-supply shops; instant dry yeast (שמרים יבשים, *shmarim yeveshim*) is everywhere: use 2.5 g instant instead of 7.5 g fresh (checked 2026-10-09).
+- **Summer water:** with flour at 29 °C and a 30 °C kitchen, the lesson [01.7](../module-01/lesson-07.md) estimate gives 72 − 29 − 30 − 2 = **11 °C**: tap water at 26-30 °C is far too warm. Blend fridge water with tap water (lesson [05.2](../module-05/lesson-02.md)). Hand kneading warms the dough further, so measure it at each windowpane sample; if it passes 26 °C, shorten pointage with the 7 % rule (lesson [05.4](../module-05/lesson-04.md)).
 
 ### Steps
 

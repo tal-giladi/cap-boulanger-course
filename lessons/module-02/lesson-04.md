@@ -9,7 +9,7 @@ objectives:
   - "S2.1 — Calculate the water for a formula from its hydration and adjust it to the flour's absorption."
   - "S4.3 — Read water hardness in French degrees (°f) and predict its effect on dough."
   - "S4.1 — Compare the same dough at two hydrations and relate consistency to crumb and crust."
-volatility: concept
+volatility: implementation
 sources:
   - title: "Référentiel CAP Boulanger (annexes of the arrêté of 21 February 2014), savoirs S2.1 and S4.3"
     url: https://www.ecoledesmetiers.fr/sites/default/files/ressources-cadrage-officiel/fichiers/2019-06/R%C3%A9f%C3%A9rentiel_CAP_Boulanger.pdf
@@ -19,7 +19,7 @@ sources:
     url: https://www.bakeinfo.co.nz/facts/bread/bread-ingredients/enzymes-in-breadmaking/
   - title: "Bake Info — Understanding flour specifications (moisture, water absorption)"
     url: https://www.bakeinfo.co.nz/understanding-flour-specifications/
-last_verified: "2026-10-08"
+last_verified: "2026-10-09"
 ---
 
 # 02.4 · Water in Bread
@@ -123,6 +123,13 @@ Two small doughs, identical except for water.
 | Water | 186 g | 216 g | 62 / 72 |
 | Salt | 5.4 g | 5.4 g | 1.8 |
 | Fresh yeast (or instant dry 1.5 g) | 4.5 g | 4.5 g | 1.5 |
+
+### In Israel
+
+- **Flour:** white flour (קמח לבן, *kemakh lavan*) as the T55 ([Flour in Israel](../../references/flour-in-israel.md)). Stronger flour absorbs more, so dough A at 62 % may feel very firm: that is part of the comparison, do not correct it.
+- **Tap water:** use your drinking tap water. If it smells of chlorine, leave a jug open for a few hours before you weigh it.
+- **Summer water:** with flour at 29 °C and a 30 °C kitchen, the lesson [01.7](../module-01/lesson-07.md) estimate gives about 11 °C. Blend fridge and tap water (lesson [05.2](../module-05/lesson-02.md)) and keep both doughs side by side so water is the only difference.
+- **Yeast:** fresh yeast (שמרים טריים, *shmarim triyim*) is in the chilled section of some supermarkets and bakery-supply shops; instant dry yeast (שמרים יבשים, *shmarim yeveshim*) is everywhere: use 1.5 g instant per dough (checked 2026-10-09).
 
 ### Steps
 

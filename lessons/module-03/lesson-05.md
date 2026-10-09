@@ -8,7 +8,7 @@ objectives:
   - "S3.1 — Describe a dough's strength in professional terms (force, élasticité, extensibilité, ténacité; pâte forte, faible, ferme, douce, croûtée) and name what makes a dough stronger or weaker."
   - "S3.1 — Explain the role of bassinage and contre-frasage, carry out both, and recalculate hydration, salt and yeast after the correction."
   - "C4.4 — Report a consistency or strength fault found during production, with the facts, the correction made and the consequence."
-volatility: concept
+volatility: implementation
 sources:
   - title: "Référentiel CAP Boulanger (annexes of the arrêté of 21 February 2014), S3.1.2 corrective actions (autolyse, bassinage, contre-frasage), incidence of consistency; C4.4"
     url: https://www.ecoledesmetiers.fr/sites/default/files/ressources-cadrage-officiel/fichiers/2019-06/R%C3%A9f%C3%A9rentiel_CAP_Boulanger.pdf
@@ -18,7 +18,7 @@ sources:
     url: https://www.kingarthurbaking.com/blog/2022/10/14/what-is-the-windowpane-test-for-bread-dough
   - title: "American Society of Baking — Dough mixing (what changes water absorption)"
     url: https://asbe.org/article/dough-mixing/
-last_verified: "2026-10-08"
+last_verified: "2026-10-09"
 ---
 
 # 03.5 · Dough Strength: Elasticity, Extensibility and Correcting Consistency
@@ -154,6 +154,12 @@ You make two small doughs that are deliberately wrong, correct them by hand, rec
 | Fresh yeast (or instant dry, one-third) | 1.5 | 4.5 g | 4.5 g + correction |
 
 Weigh a cup with 40 g of water for dough A's bassinage and the bowl with 80 g of flour for dough B, so you can find what you used by weighing what is left.
+
+### In Israel
+
+- **Flour:** white flour (קמח לבן, *kemakh lavan*) as the T55, and the same bag for the contre-frasage ([Flour in Israel](../../references/flour-in-israel.md)). Stronger Israeli flour makes dough A at 58 % very firm: weigh a second 40 g cup of water in case the first is not enough.
+- **Corrections with instant yeast:** if you use instant dry yeast (שמרים יבשים, *shmarim yeveshim*), every yeast figure, including the correction, is one third of the fresh weight (checked 2026-10-09).
+- **Summer water:** with flour at 29 °C and a 30 °C kitchen, the lesson [01.7](../module-01/lesson-07.md) estimate gives 72 − 29 − 30 − 2 = **11 °C**: tap water at 26-30 °C is far too warm. Blend fridge water with tap water (lesson [05.2](../module-05/lesson-02.md)).
 
 ### Steps
 

@@ -23,7 +23,9 @@ sources:
     url: https://agriculture.gouv.fr/filiere-boulangerie-vers-une-diminution-du-sel-dans-le-pain-0
   - title: "Ministère de l'Agriculture — Stratégie nationale pour l'alimentation, la nutrition et le climat 2025-2030"
     url: https://agriculture.gouv.fr/strategie-nationale-pour-lalimentation-la-nutrition-et-le-climat-2025-2030
-last_verified: "2026-10-08"
+  - title: "Gillon-Keren M. et al. (2020), Development of Criteria for a Positive Front-of-Package Food Labeling: The Israeli Case, Nutrients 12(6):1875 (mandatory red labels: sodium 400 mg, sugars 10 g, saturated fat 4 g per 100 g of solid food from January 2021)"
+    url: https://pmc.ncbi.nlm.nih.gov/articles/PMC7353345/
+last_verified: "2026-10-09"
 ---
 
 # 02.11 · Bread, Nutrition and the Label
@@ -129,6 +131,13 @@ A customer compares your baguette with a supermarket "pain de mie complet". Thei
 ### Ingredients
 
 None to bake: this is a document exercise.
+
+### In Israel
+
+- **Israeli packs:** labels are in Hebrew and follow Israeli rules, not the EU's; copy the same items anyway. The nutrition table is ערכים תזונתיים (*arakhim tzunatiyim*) per 100 g, ingredients are רכיבים (*rekhivim*), and allergens follow מכיל (*mekhil*, contains) and עלול להכיל (*alul lehakhil*, may contain).
+- **Sodium, not salt:** the table gives sodium (נתרן, *natran*) in mg. Salt in g = sodium in mg × 2.5 ÷ 1000: 400 mg of sodium is about 1.0 g of salt. Convert before step 4.
+- **Red symbols:** from January 2021, prepacked solid foods with more than 400 mg sodium, 10 g sugars or 4 g saturated fat per 100 g carry a red front-of-pack symbol (Gillon-Keren et al., 2020). A loaf at the French pain courant limit (1.4 g salt, about 560 mg sodium) would be over the sodium line.
+- **Step 6:** if a pack shows red or green symbols instead of a Nutri-Score, write what it shows (checked 2026-10-09).
 
 ### Steps
 

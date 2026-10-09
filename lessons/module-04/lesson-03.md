@@ -9,13 +9,13 @@ objectives:
   - "S3.1 — Choose the pre-shape (boule or loose cylinder) and its tension according to the final shape and the dough's strength."
   - "S3.3 — Explain the role and length of the détente and measure how the dough's elasticity drops during it."
   - "C3.2 — Check pieces from a divider against the sheet's tolerance and decide what to do with pieces outside it."
-volatility: concept
+volatility: implementation
 sources:
   - title: "Référentiel CAP Boulanger (annexes of the arrêté of 21 February 2014), savoirs S3.1 (de la division au façonnage) and S3.3.2 (détente: rôle, durée)"
     url: https://www.ecoledesmetiers.fr/sites/default/files/ressources-cadrage-officiel/fichiers/2019-06/R%C3%A9f%C3%A9rentiel_CAP_Boulanger.pdf
   - title: "King Arthur Baking — Preshaping (why pre-shape, bench rest of 10-45 min, judging tension)"
     url: https://www.kingarthurbaking.com/blog/2019/02/08/preshape-sourdough
-last_verified: "2026-10-08"
+last_verified: "2026-10-09"
 ---
 
 # 04.3 · Dividing, Pre-shaping and Détente
@@ -112,6 +112,12 @@ PD-01 dough (lesson [01.7](../module-01/lesson-07.md)), made and fermented as in
 | Fine salt | 1.8 | 9 g |
 | Fresh yeast (or instant at one-third) | 1.5 | 7.5 g (2.5 g) |
 | **Total** | **168.3** | **841.5 g** → 8 pieces of 105 g |
+
+### In Israel
+
+- **Flour and yeast:** white flour (קמח לבן, *kemakh lavan*) as the T55 ([Flour in Israel](../../references/flour-in-israel.md)); instant dry yeast (שמרים יבשים, *shmarim yeveshim*) 2.5 g if you have no fresh (checked 2026-10-09).
+- **Détente in a hot kitchen:** at 28-30 °C the pre-shaped pieces keep fermenting and relax sooner: press one after 10 minutes and shape as soon as it no longer springs back hard.
+- **Sticky dough in humid weather:** on a humid coastal summer day the dough sticks more; dust the worktop very lightly and work quickly rather than adding flour to the dough.
 
 ### Steps
 

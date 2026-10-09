@@ -9,7 +9,7 @@ objectives:
   - "S3.1 — Compare slow, improved and intensive mixing and state the effect of each on the dough, the pointage and the bread."
   - "C2.3 — Choose a mixing method for a product and write its times on a technical sheet."
   - "C2.3 — Simulate slow and improved mixing by hand and compare the two breads."
-volatility: concept
+volatility: implementation
 sources:
   - title: "Référentiel CAP Boulanger (annexes of the arrêté of 21 February 2014), S3.1.2 phases and methods of mixing; C2.3 mixing methods for each bread"
     url: https://www.ecoledesmetiers.fr/sites/default/files/ressources-cadrage-officiel/fichiers/2019-06/R%C3%A9f%C3%A9rentiel_CAP_Boulanger.pdf
@@ -21,7 +21,7 @@ sources:
     url: https://www.inrs.fr/metiers/commerce-service/boulangerie-patisserie/boulangerie-patisserie-agir.html
   - title: "INRS — Boulangerie-pâtisserie: risques (flour dust, first cause of occupational asthma; loading the mixer)"
     url: https://www.inrs.fr/metiers/commerce-service/boulangerie-patisserie/boulangerie-patisserie-risques.html
-last_verified: "2026-10-08"
+last_verified: "2026-10-09"
 ---
 
 # 03.3 · Mixing Phases and Methods
@@ -127,6 +127,12 @@ Two small doughs made by hand on the same day: one simulating slow mixing (gentl
 | Fresh yeast (instant: one-third) | 1.0 / 1.5 | 3.0 g | 4.5 g |
 
 Dough A has less yeast because its pointage is twice as long: a method change is also a formula change.
+
+### In Israel
+
+- **Flour:** white flour (קמח לבן, *kemakh lavan*) as the T55; for T65, half white and half 80 % wheat flour ([Flour in Israel](../../references/flour-in-israel.md)).
+- **Yeast:** fresh yeast (שמרים טריים, *shmarim triyim*) is in the chilled section of some supermarkets and bakery-supply shops; instant dry yeast (שמרים יבשים, *shmarim yeveshim*) is everywhere: use 1.0 g instant for dough A and 1.5 g for dough B (checked 2026-10-09).
+- **Dough A's long pointage:** at 28-30 °C a pointage twice as long over-ferments. Keep dough A in the coolest room, or put it in the fridge for part of the time (lesson [04.6](../module-04/lesson-06.md)), and mix both with fridge-blended water (lesson [05.2](../module-05/lesson-02.md)).
 
 ### Steps
 

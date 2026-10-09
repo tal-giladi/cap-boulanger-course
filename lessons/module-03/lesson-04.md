@@ -8,7 +8,7 @@ objectives:
   - "S3.1 — Explain how oxygen worked into the dough during mixing whitens the crumb, strengthens the gluten and activates ascorbic acid."
   - "S3.1 — Explain why a dough warms during mixing and how its final temperature changes fermentation, handling and the bread, and propose corrections."
   - "S3.1 — Recognise an over-mixed dough and compare a warm and a correctly tempered dough in a home test."
-volatility: concept
+volatility: implementation
 sources:
   - title: "Référentiel CAP Boulanger (annexes of the arrêté of 21 February 2014), S3.1.2 incidence of dough temperature and corrections; S4.1 action of air (oxidation)"
     url: https://www.ecoledesmetiers.fr/sites/default/files/ressources-cadrage-officiel/fichiers/2019-06/R%C3%A9f%C3%A9rentiel_CAP_Boulanger.pdf
@@ -22,7 +22,7 @@ sources:
     url: https://www.bakeinfo.co.nz/facts/bread/bread-ingredients/describing-bread-ingredients/
   - title: "Décret n°93-1074 du 13 septembre 1993, art. 2 (pain de tradition française: no additives)"
     url: https://www.legifrance.gouv.fr/loda/id/JORFTEXT000000727617
-last_verified: "2026-10-08"
+last_verified: "2026-10-09"
 ---
 
 # 03.4 · Oxidation, Dough Temperature and Mixing
@@ -143,6 +143,13 @@ Part A, per dough (make two):
 | Fresh yeast (or instant dry 1.5 g) | 1.5 | 4.5 g |
 
 Part B: the same formula on 300 g of flour.
+
+### In Israel
+
+- **The warm dough makes itself in summer:** for the target dough you need water at about 11 °C or colder (lesson [01.7](../module-01/lesson-07.md) estimate with flour 29 °C, kitchen 30 °C), blended from fridge water (lesson [05.2](../module-05/lesson-02.md)). For the warm dough, plain tap water is usually enough: record it.
+- **What the difference costs:** a dough 4 °C over target ferments about 1.07⁴ ≈ 1.31 times as fast, about 30 % sooner (lessons [05.1](../module-05/lesson-01.md) and [05.4](../module-05/lesson-04.md)).
+- **Oxidation on the label:** an Israeli bread flour that lists ascorbic acid (חומצה אסקורבית / E300) already contains the oxidant this lesson describes; note it in the log ([Flour in Israel](../../references/flour-in-israel.md), checked 2026-10-09).
+- **Yeast:** instant dry yeast (שמרים יבשים, *shmarim yeveshim*) 1.5 g per dough if you have no fresh.
 
 ### Steps
 

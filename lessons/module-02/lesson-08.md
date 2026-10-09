@@ -9,7 +9,7 @@ objectives:
   - "S2.2 — Describe butter, margarine and cream by fat content, use and storage, and the role of fat in a dough."
   - "S2.2 — Name the parts of the egg, its role in a dough, and the advantages, drawbacks and storage rules of egg products (ovoproduits)."
   - "S2.1 — Bake a lean and an enriched roll from the same flour and explain the differences in crust, crumb, volume and keeping."
-volatility: concept
+volatility: implementation
 sources:
   - title: "Référentiel CAP Boulanger (annexes of the arrêté of 21 February 2014), savoirs S2.1.7–S2.1.8 and S2.2"
     url: https://www.ecoledesmetiers.fr/sites/default/files/ressources-cadrage-officiel/fichiers/2019-06/R%C3%A9f%C3%A9rentiel_CAP_Boulanger.pdf
@@ -19,7 +19,7 @@ sources:
     url: https://www.legifrance.gouv.fr/loda/id/JORFTEXT000021573483
   - title: "Bake Info (Baking Industry Research Trust) — Describing bread ingredients (fat, sugar)"
     url: https://www.bakeinfo.co.nz/facts/bread/bread-ingredients/describing-bread-ingredients/
-last_verified: "2026-10-08"
+last_verified: "2026-10-09"
 ---
 
 # 02.8 · Sugar, Fats, Milk and Eggs
@@ -155,6 +155,13 @@ A pain au lait formula for 2 kg of T45 flour: milk 52 %, eggs 10 %, sugar 10 %, 
 | Salt | 4.5 g | 1.8 | 5 g | 2 |
 | Fresh yeast (instant: one-third) | 5 g | 2 | 9 g | 3.5 |
 | Egg wash (1 egg + pinch of salt) | — | — | brush | — |
+
+### In Israel
+
+- **Milk:** Israeli milk is sold by its fat content; 3 % milk (חלב 3%, *khalav*) is the nearest to French whole milk (checked 2026-10-09).
+- **Butter:** read the fat on the pack (חמאה, *khem'a*; fat is שומן, *shuman*). In a 30 °C kitchen it passes 16 °C within minutes: take it out of the fridge only 10-15 minutes before you need it and check with the probe.
+- **Flour and yeast:** white flour (קמח לבן, *kemakh lavan*) for both rolls ([Flour in Israel](../../references/flour-in-israel.md)); instant dry yeast (שמרים יבשים, *shmarim yeveshim*) at one-third of the fresh weight.
+- **Warm kitchen:** the enriched dough, with sugar and 3.5 % yeast, ferments fast. Use the milk and egg straight from the fridge, calculate the rest of the water as in lesson [05.2](../module-05/lesson-02.md), and judge by the dough, not the clock.
 
 ### Steps
 

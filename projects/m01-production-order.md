@@ -29,6 +29,7 @@ Part A is paperwork for this order. Part B is a home order you bake yourself:
 - Calculator, paper or a file.
 - [Production sheet template](../templates/production-sheet.md), [organigramme template](../templates/organigramme.md), [bake log](../templates/bake-log.md), [quality rubric](../templates/quality-rubric.md).
 - For Part B: the equipment and ingredients of [lesson 01.7](../lessons/module-01/lesson-07.md).
+- In Israel: flour, yeast and summer water as in the In Israel notes of [lesson 01.7](../lessons/module-01/lesson-07.md).
 
 > [!WARNING]
 > Part B uses a hot oven and steam. Follow the safety steps of lesson [01.7](../lessons/module-01/lesson-07.md): dry oven gloves, a metal tin for steam (never glass), and step back when you pour the water.

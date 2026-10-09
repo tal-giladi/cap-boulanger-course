@@ -8,7 +8,7 @@ objectives:
   - "S3.3 — State the role of pointage and the factors that set its length: dough temperature, yeast dose, pre-ferment and mixing method."
   - "S3.3 — Adjust a planned pointage time when the dough comes out warmer or cooler than the target, and confirm the decision by the dough's signs."
   - "C2.3 — Track a bulk fermentation in a marked container, with a fold, and record rise, temperature and time."
-volatility: concept
+volatility: implementation
 sources:
   - title: "Référentiel CAP Boulanger (annexes of the arrêté of 21 February 2014), savoir S3.3.2 (pointage en masse: rôle, durée)"
     url: https://www.ecoledesmetiers.fr/sites/default/files/ressources-cadrage-officiel/fichiers/2019-06/R%C3%A9f%C3%A9rentiel_CAP_Boulanger.pdf
@@ -18,7 +18,7 @@ sources:
     url: https://www.kingarthurbaking.com/blog/2022/08/22/how-to-tell-if-bread-dough-has-risen-enough
   - title: "King Arthur Baking — Dough temperature (pro reference: consistency of dough temperature)"
     url: https://www.kingarthurbaking.com/pro/reference/dough-temperature
-last_verified: "2026-10-08"
+last_verified: "2026-10-09"
 ---
 
 # 04.2 · Pointage: Bulk Fermentation
@@ -115,6 +115,13 @@ You make the hand-mixed PD-01 dough from lesson [01.7](../module-01/lesson-07.md
 | **Total** | **168.3** | **841.5 g** |
 
 Professional batch: PC-02, 5,400 g flour, 9,844 g of dough in one tub.
+
+### In Israel
+
+- **Warm and cool places:** in summer the kitchen at 26-30 °C is the warm place; the cool place (19-21 °C) is an air-conditioned room. In winter use the oven with only the light on as the warm place.
+- **Summer water:** with flour at 29 °C and a 30 °C kitchen, the lesson [01.7](../module-01/lesson-07.md) estimate gives 72 − 29 − 30 − 2 = **11 °C**: tap water at 26-30 °C is far too warm. Blend fridge water with tap water (lesson [05.2](../module-05/lesson-02.md)).
+- **If the warm place is hotter:** every degree above 27 °C makes pointage about 7 % faster (lesson [05.4](../module-05/lesson-04.md)): at 30 °C, check the warm container from 35 minutes.
+- **Flour and yeast:** white flour (קמח לבן, *kemakh lavan*) as the T55 ([Flour in Israel](../../references/flour-in-israel.md)); instant dry yeast (שמרים יבשים, *shmarim yeveshim*) 2.5 g if you have no fresh (checked 2026-10-09).
 
 ### Steps
 

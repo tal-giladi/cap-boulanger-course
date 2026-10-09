@@ -8,7 +8,7 @@ objectives:
   - "S3.1 — Relate hydration to dough consistency (ferme, bâtarde, douce) and to how fast the dough develops in the mixer."
   - "S3.1 — Explain what an autolyse is, what happens during it, and when it helps or does not."
   - "S3.1 — Run an autolyse and a direct mix side by side and compare kneading time, extensibility and the baked result."
-volatility: concept
+volatility: implementation
 sources:
   - title: "Référentiel CAP Boulanger (annexes of the arrêté of 21 February 2014), S3.1.2 corrective actions: autolyse, bassinage, contre-frasage; incidence of consistency"
     url: https://www.ecoledesmetiers.fr/sites/default/files/ressources-cadrage-officiel/fichiers/2019-06/R%C3%A9f%C3%A9rentiel_CAP_Boulanger.pdf
@@ -18,7 +18,7 @@ sources:
     url: https://www.nomadeducation.fr/revisions/cap-boulanger-lb3fcb56/les-etapes-de-la-panification-cya6e620
   - title: "American Society of Baking — Dough mixing (hydration ranges; what changes absorption)"
     url: https://asbe.org/article/dough-mixing/
-last_verified: "2026-10-08"
+last_verified: "2026-10-09"
 ---
 
 # 03.2 · Hydration, Consistency and Autolyse
@@ -121,6 +121,13 @@ Two small PD-01 doughs: one direct, one with a 30-minute autolyse. You measure h
 | Water | 65 | 195 g | 195 g |
 | Salt | 1.8 | 5.4 g | 5.4 g |
 | Fresh yeast (or instant dry 1.5 g) | 1.5 | 4.5 g | 4.5 g |
+
+### In Israel
+
+- **Flour:** white flour (קמח לבן, *kemakh lavan*) as the T55; for a T65-like flour mix half white and half 80 % wheat flour ([Flour in Israel](../../references/flour-in-israel.md)).
+- **Autolyse in a hot kitchen:** in 30 minutes at 30 °C the flour and water warm towards the room. Make the autolyse water 2 °C cooler than the estimate and keep the covered bowl in the coolest room.
+- **Yeast:** fresh yeast (שמרים טריים, *shmarim triyim*) is in the chilled section of some supermarkets and bakery-supply shops; instant dry yeast (שמרים יבשים, *shmarim yeveshim*) is everywhere: use 1.5 g instant per dough, added after the autolyse (checked 2026-10-09).
+- **Times:** both doughs ferment about 7 % faster per °C above 24 °C (lesson [05.4](../module-05/lesson-04.md)): check them by the signs, not the clock.
 
 ### Steps
 

@@ -9,7 +9,7 @@ objectives:
   - "S4.1 — Explain how gliadins and glutenins form gluten with water and mechanical work, and how heat coagulates gluten and gelatinises starch."
   - "S2.1 — Read alveograph values (W, P, L, P/L) and a falling number, and choose a flour for a product from them."
   - "S4.1 — Wash the gluten out of two flours and compare its quantity, elasticity and extensibility."
-volatility: concept
+volatility: implementation
 sources:
   - title: "Référentiel CAP Boulanger (annexes of the arrêté of 21 February 2014), savoirs S2.1 and S4.1"
     url: https://www.ecoledesmetiers.fr/sites/default/files/ressources-cadrage-officiel/fichiers/2019-06/R%C3%A9f%C3%A9rentiel_CAP_Boulanger.pdf
@@ -21,7 +21,7 @@ sources:
     url: https://www.bakeinfo.co.nz/facts/bread/bread-ingredients/enzymes-in-breadmaking/
   - title: "Bake Info — Understanding flour specifications"
     url: https://www.bakeinfo.co.nz/understanding-flour-specifications/
-last_verified: "2026-10-08"
+last_verified: "2026-10-09"
 ---
 
 # 02.3 · Proteins, Gluten, Starch and Flour Strength
@@ -135,6 +135,13 @@ Which flour for the baguettes, which for the brioche?
 |---|---|---|---|
 | Flour | 100 g | 100 g | 100 |
 | Water at about 20 °C | 58 g | 60 g | 58–60 |
+
+### In Israel
+
+- **Flour A:** white flour (קמח לבן, *kemakh lavan*) with the lowest protein you can find on the label (about 10-11 g per 100 g).
+- **Flour B:** bread flour (קמח לחם, *kemakh lekhem*) or a white flour with 12-13 g protein. Some bread flours list ascorbic acid, which makes the gluten ball feel tighter: copy the ingredient list into the log ([Flour in Israel](../../references/flour-in-israel.md), checked 2026-10-09).
+- **Protein is "as sold":** divide the label figure by about 0.86 to compare it with French figures on dry matter (the reference explains why).
+- **Washing water:** summer tap water at 26-30 °C makes the gluten soft and sticky. Wash in a bowl of water brought to about 20 °C with fridge water and change it as it clouds.
 
 ### Steps
 

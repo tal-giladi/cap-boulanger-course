@@ -47,7 +47,7 @@ Goal: build "CAP Boulanger Preparation" per `curriculum/plan.md`, following
 
 ## Agents now
 
-- Final QA chunks, one agent each, commit after each: (1) templates (done) → (2) sources.md (done) → (3) remaining plain-text links and back-links (done) → (4) re-check volatile facts (done) → (5) In Israel notes for modules 1–4 (running) → (6) final check-course, README, TODO_FOR_TAL.
+- Final QA chunks, one agent each, commit after each: (1) templates (done) → (2) sources.md (done) → (3) remaining plain-text links and back-links (done) → (4) re-check volatile facts (done) → (5) In Israel notes for modules 1–4 (done) → (6) final check-course, README, TODO_FOR_TAL (running).
 
 ## Decisions and open questions
 

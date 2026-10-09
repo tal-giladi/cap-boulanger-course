@@ -20,6 +20,7 @@ At home you mix by hand, which simulates the methods (lesson [03.3](../lessons/m
 ## You need
 
 - Flour T55 (or plain/all-purpose), about 1.1 kg; salt; fresh yeast (or instant dry, one-third of the weight).
+- In Israel: white flour as the T55 ([Flour in Israel](../references/flour-in-israel.md)); in a warm kitchen follow the In Israel notes of lessons [03.3](../lessons/module-03/lesson-03.md) and [03.4](../lessons/module-03/lesson-04.md) for the water and the long pointage.
 - Scale (1 g, and 0.1 g for salt and yeast if you have one), probe thermometer, three bowls, three identical clear containers with the level marked, scraper, timer, ruler, baking trays, metal tray for steam, oven gloves, lame or sharp knife, a phone camera.
 - [Production sheet](../templates/production-sheet.md) (one per dough), [temperature log](../templates/temperature-log.md), [bake log](../templates/bake-log.md), [quality rubric](../templates/quality-rubric.md), [non-conformity report](../templates/non-conformity-report.md) if anything goes wrong.
 - Time: about 5 hours on the day (about 1 h 30 hands-on), plus 15 minutes the next day and 30 minutes to write the note.

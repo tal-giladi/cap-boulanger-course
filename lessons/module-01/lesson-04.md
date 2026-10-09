@@ -14,11 +14,13 @@ sources:
     url: https://www.ecoledesmetiers.fr/sites/default/files/ressources-cadrage-officiel/fichiers/2019-06/R%C3%A9f%C3%A9rentiel_CAP_Boulanger.pdf
   - title: "European Central Bank – Euro coins: common sides and technical specifications"
     url: https://www.ecb.europa.eu/euro/coins/common/html/index.en.html
+  - title: "Wikipedia – Israeli new shekel (coin table: ₪10 coin 7 g, 23 mm)"
+    url: https://en.wikipedia.org/wiki/Israeli_new_shekel
   - title: "Texas A&M AgriLife Extension – Calibrating your food thermometer"
     url: https://agrilifeextension.tamu.edu/calibrating-your-food-thermometer
   - title: "King Arthur Baking – Baker's percentage (why bakers weigh every ingredient)"
     url: https://www.kingarthurbaking.com/pro/reference/bakers-percentage
-last_verified: "2026-10-08"
+last_verified: "2026-10-09"
 ---
 
 # 01.4 · Weighing and Measuring Like a Professional
@@ -119,6 +121,13 @@ You check your instruments and prove to yourself why bakers weigh.
 - A measuring cup (any size), a tablespoon, flour, salt, a glass, ice, a bowl.
 - Professional equivalent: bench scale (1 g), platform scale for sacks, probe thermometer checked against a reference.
 
+### In Israel
+
+- **Coins:** use ten ₪10 coins instead of 2-euro coins. A ₪10 coin weighs 7 g, so ten should read about **70 g** (checked 2026-10-09). Do not use ₪1 coins: older and newer series weigh differently.
+- **Thermometer check in a hot kitchen:** the ice melts faster, so fill the glass well with ice and read within a few minutes.
+- **Cup test:** use the white flour (קמח לבן, *kemakh lavan*) you will bake with ([Flour in Israel](../../references/flour-in-israel.md)) and fine salt (מלח דק, *melakh dak*); the spread between cups is what matters, not the brand.
+- **Yeast drill:** if you only have instant dry yeast (שמרים יבשים, *shmarim yeveshim*), weigh 2.5 g: on a 1 g scale this is where resolution hurts most.
+
 ### Steps
 
 1. **Scale check.** Tare the empty scale. Put the ten coins in a small bowl in the centre and read the weight. Then place the bowl at each corner. Write down all five readings.
@@ -145,7 +154,7 @@ You check your instruments and prove to yourself why bakers weigh.
 
 ### Targets
 
-- Coin readings: about 85 g in the centre, and the corner readings within 1 g of the centre reading.
+- Coin readings: about 85 g in the centre (ten ₪10 coins: about 70 g), and the corner readings within 1 g of the centre reading.
 - Thermometer: 0 °C ±1 °C, or a known offset written down.
 - Weighing drill: all four items within ±1 g (yeast within ±0.1 g on a pocket scale) in under 5 minutes.
 

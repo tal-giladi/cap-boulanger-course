@@ -17,7 +17,7 @@ sources:
     url: https://www.ecoledesmetiers.fr/sites/default/files/ressources-cadrage-officiel/fichiers/2019-06/R%C3%A9f%C3%A9rentiel_CAP_Boulanger.pdf
   - title: "Décret n° 2015-447 du 17 avril 2015 (allergen information for non-prepacked food)"
     url: https://www.legifrance.gouv.fr/loda/id/JORFTEXT000030491684
-last_verified: "2026-10-08"
+last_verified: "2026-10-09"
 ---
 
 # 02.10 · Savoury Fillings and Bought-in Products
@@ -137,6 +137,12 @@ The lardons are cooked at 7:00 and spread on a shallow tray in the cold room: pr
 | Butter | 50 g |
 | Flour (T45/T55) | 50 g |
 | Salt, pepper, nutmeg | to taste |
+
+### In Israel
+
+- **Ice bath in summer:** cold tap water runs at 26-30 °C, so the ice does all the work: use plenty, keep a second batch in the freezer and add it as it melts.
+- **Fridge check:** put the probe in a glass of water in the fridge for an hour before you start; in a hot kitchen a fridge that is opened often drifts up. Write the reading on the temperature log.
+- **Ingredients:** 3 % milk (חלב 3%, *khalav*) is the nearest to French whole milk; white flour (קמח לבן, *kemakh lavan*) for the roux ([Flour in Israel](../../references/flour-in-israel.md), checked 2026-10-09).
 
 ### Steps
 

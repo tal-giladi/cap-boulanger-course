@@ -19,7 +19,7 @@ sources:
     url: https://www.bakeinfo.co.nz/facts/bread/bread-ingredients/yeast-in-breadmaking-and-baking/
   - title: "Référentiel CAP Boulanger (annexes of the arrêté of 21 February 2014), savoir S3.3 (levain dur and liquide)"
     url: https://www.ecoledesmetiers.fr/sites/default/files/ressources-cadrage-officiel/fichiers/2019-06/R%C3%A9f%C3%A9rentiel_CAP_Boulanger.pdf
-last_verified: "2026-10-08"
+last_verified: "2026-10-09"
 ---
 
 # 02.7 · Levain
@@ -128,6 +128,13 @@ Tomorrow at 6 a.m. you mix pain de campagne needing **600 g of ripe liquid levai
 | Rye flour (T130/T170) or wholemeal wheat (T150) | 50 g | 50 g | 100 |
 | Water at about 28 °C | 50 g | 50 g | 100 |
 | Levain kept from the previous day | — | 50 g (discard the rest) | 100 |
+
+### In Israel
+
+- **Flour:** rye flour (קמח שיפון, *kemakh shifon*) is sold in some supermarkets and health-food shops; 100 % whole wheat flour (קמח חיטה מלא, *kemakh khita male*) is the easy alternative ([Flour in Israel](../../references/flour-in-israel.md)). Choose 100 %, not 80 % (checked 2026-10-09).
+- **Summer:** at 26-30 °C the levain peaks sooner than the lesson's timings. Use water at room temperature instead of 28 °C, keep the jar in the coolest place, and above about 30 °C move it to an air-conditioned room.
+- **Water:** if your tap water smells of chlorine, use water left open for a few hours, or filtered water.
+- **Winter:** an 18-20 °C kitchen slows it: use the oven with only the light on, checked with your thermometer.
 
 ### Steps
 

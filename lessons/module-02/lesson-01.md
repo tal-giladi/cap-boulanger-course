@@ -8,7 +8,7 @@ objectives:
   - "S2.1 — Name the three parts of the wheat grain with their approximate share of its weight and say which parts end up in white and wholemeal flour."
   - "S2.1 — Describe the main stages of milling (cleaning, conditioning, breaking, sifting, reducing) and explain soft wheat vs durum wheat."
   - "S1.2 — Place the miller and the baker in the wheat–flour–bread chain and explain why traceability documents follow the flour."
-volatility: concept
+volatility: implementation
 sources:
   - title: "Référentiel CAP Boulanger (annexes of the arrêté of 21 February 2014), savoirs S2.1"
     url: https://www.ecoledesmetiers.fr/sites/default/files/ressources-cadrage-officiel/fichiers/2019-06/R%C3%A9f%C3%A9rentiel_CAP_Boulanger.pdf
@@ -18,7 +18,7 @@ sources:
     url: https://extranet.inao.gouv.fr/fichier/CDC-PNO-LA0514-Farine-de-meule.pdf
   - title: "Bake Info (Baking Industry Research Trust) — Enzymes in breadmaking (damaged starch from milling)"
     url: https://www.bakeinfo.co.nz/facts/bread/bread-ingredients/enzymes-in-breadmaking/
-last_verified: "2026-10-08"
+last_verified: "2026-10-09"
 ---
 
 # 02.1 · The Wheat Grain and Milling
@@ -122,6 +122,12 @@ A baker using 50 kg of flour per day uses 900 bags in 900 × 25 ÷ 50 = 450 work
 |---|---|---|
 | Wholemeal flour (T150, "farine complète", or "wholemeal" outside France) | 100 g | weigh exactly |
 | White flour (T55 or T45, or plain/all-purpose) | 100 g | weigh exactly |
+
+### In Israel
+
+- **Flours:** 100 % whole wheat flour (קמח חיטה מלא, *kemakh khita male*) as the wholemeal and white flour (קמח לבן, *kemakh lavan*) as the white ([Flour in Israel](../../references/flour-in-israel.md)). Choose a bag that says 100 % or whole wheat flour alone, not 80 % (checked 2026-10-09).
+- **Optional third sample:** sieve 100 g of 80 % wheat flour (קמח חיטה 80%) too. It should leave less bran in the sieve than the 100 % flour and far more than the white: that is what the 80 % on the bag means.
+- **Write the stand-in type** (T55, T80, T150) next to each Hebrew name in your log; later lessons use the French names.
 
 ### Steps
 

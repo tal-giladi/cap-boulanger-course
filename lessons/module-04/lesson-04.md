@@ -9,13 +9,13 @@ objectives:
   - "S3.3 — Choose a proofing support (couche, banneton, perforated tray, plain tray) for a given product and say why."
   - "C2.3 — Read the poke test to judge under-proofed, ready and over-proofed pieces, and confirm the reading by baking a timed series."
   - "C1.2 — Adjust the apprêt when the oven is late, using temperature to slow the pieces."
-volatility: concept
+volatility: implementation
 sources:
   - title: "Référentiel CAP Boulanger (annexes of the arrêté of 21 February 2014), savoir S3.3.2 (l'apprêt: choix des supports, durée, précautions d'usage)"
     url: https://www.ecoledesmetiers.fr/sites/default/files/ressources-cadrage-officiel/fichiers/2019-06/R%C3%A9f%C3%A9rentiel_CAP_Boulanger.pdf
   - title: "King Arthur Baking — How to tell if bread dough has risen enough (poke test, rise times depend on temperature and humidity)"
     url: https://www.kingarthurbaking.com/blog/2022/08/22/how-to-tell-if-bread-dough-has-risen-enough
-last_verified: "2026-10-08"
+last_verified: "2026-10-09"
 ---
 
 # 04.4 · Apprêt: Final Proof
@@ -108,6 +108,13 @@ Saturday, PC-02 batch (lesson [01.6](../module-01/lesson-06.md)): the baguettes 
 ### Ingredients
 
 PD-01 dough, as in lesson [01.7](../module-01/lesson-07.md): flour T55 500 g (100 %), water 325 g (65 %), salt 9 g (1.8 %), fresh yeast 7.5 g (1.5 %) or instant 2.5 g. Total 841.5 g → 8 rolls of 105 g.
+
+### In Israel
+
+- **Warm place:** in summer the kitchen is often above 24-26 °C, so proof in the coolest room. At 30 °C apprêt runs about 1.07⁴ ≈ 1.3 times as fast (lesson [05.4](../module-05/lesson-04.md)): start the poke test about 25 minutes after shaping.
+- **Cover well under air conditioning:** air-conditioned air is dry and forms a skin on the rolls; keep the cover tight or use the upturned box.
+- **Flour and yeast:** white flour (קמח לבן, *kemakh lavan*) as the T55 ([Flour in Israel](../../references/flour-in-israel.md)); instant dry yeast (שמרים יבשים, *shmarim yeveshim*) 2.5 g if you have no fresh (checked 2026-10-09).
+- **Summer water:** with flour at 29 °C and a 30 °C kitchen, the lesson [01.7](../module-01/lesson-07.md) estimate gives 72 − 29 − 30 − 2 = **11 °C**: tap water at 26-30 °C is far too warm. Blend fridge water with tap water (lesson [05.2](../module-05/lesson-02.md)).
 
 ### Steps
 

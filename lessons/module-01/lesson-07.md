@@ -8,7 +8,7 @@ objectives:
   - "C1.2 — Prepare a complete mise en place for one product: clean station, every ingredient weighed, equipment ready, timings written."
   - "C2.2 — Weigh a lean dough and divide it into eight pieces within ±2 g of the target weight."
   - "C2.3 — Mix and knead a lean dough by hand to a smooth dough at 23-25 °C, ferment it, shape flat rolls and bake them with steam."
-volatility: concept
+volatility: implementation
 sources:
   - title: "Référentiel CAP Boulanger (C1.2 mise en place; C2.2; C2.3; S3.1.2 phases of mixing: frasage, étirage, soufflage)"
     url: https://www.ecoledesmetiers.fr/sites/default/files/ressources-cadrage-officiel/fichiers/2019-06/R%C3%A9f%C3%A9rentiel_CAP_Boulanger.pdf
@@ -18,7 +18,7 @@ sources:
     url: https://www.kingarthurbaking.com/pro/reference/bakers-percentage
   - title: "CNBPF – L'essentiel des bonnes pratiques d'hygiène en boulangerie-pâtisserie (2026)"
     url: https://boulangerie.org/wp-content/uploads/CNBPF_Guide-de-lEssentiel-des-bonnes-pratiques-dhygiene-en-boulangerie-patisserie_30.03.2026.pdf
-last_verified: "2026-10-08"
+last_verified: "2026-10-09"
 ---
 
 # 01.7 · Mise en Place: Your First Simple Dough
@@ -122,6 +122,14 @@ Her dough came out 1.5 °C too warm. Warmer dough ferments faster, so she judged
 | **Total** | **168.3** | **841.5 g** |
 
 Professional batch for comparison: the same formula on 5 kg of flour is 3,250 g water, 90 g salt and 75 g fresh yeast, mixed on a spiral mixer.
+
+### In Israel
+
+- **Flour:** white flour (קמח לבן, *kemakh lavan*) stands in for T55; read the protein and ingredients as shown in [Flour in Israel](../../references/flour-in-israel.md). If the dough feels firm and tears after frasage, which is common with stronger Israeli white flour, work in 10-15 g more water and write it down.
+- **Yeast:** fresh yeast (שמרים טריים, *shmarim triyim*) is in the chilled section of some supermarkets and bakery-supply shops; instant dry yeast (שמרים יבשים, *shmarim yeveshim*) is everywhere: use 2.5 g instant instead of 7.5 g fresh (checked 2026-10-09).
+- **Salt:** fine salt (מלח דק, *melakh dak*), not coarse salt (מלח גס, *melakh gas*), which dissolves slowly in a hand-mixed dough.
+- **Summer water:** with flour at 29 °C and a 30 °C kitchen, the lesson [01.7](../module-01/lesson-07.md) estimate gives 72 − 29 − 30 − 2 = **11 °C**: tap water at 26-30 °C is far too warm. Blend fridge water with tap water (lesson [05.2](../module-05/lesson-02.md)).
+- **Shorter times:** fermentation runs about 7 % faster per °C of dough (lesson [05.4](../module-05/lesson-04.md)): a 26 °C dough is ready about 15 % sooner, so check pointage from 1 h and the poke test from 30 minutes. Proof in the coolest room, not beside the oven.
 
 ### Steps
 

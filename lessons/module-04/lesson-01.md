@@ -9,7 +9,7 @@ objectives:
   - "S4.2 — Write alcoholic fermentation (sugar → CO₂ + ethanol) and compare it with lactic fermentation, with the products each one forms."
   - "S3.3 — Place pointage, détente and apprêt on the timeline of a bread and say what fermentation does at each stage."
   - "S4.2 — Show with a home balloon test how temperature and salt change the speed of gas production."
-volatility: concept
+volatility: implementation
 sources:
   - title: "Référentiel CAP Boulanger (annexes of the arrêté of 21 February 2014), savoirs S3.3.1-S3.3.2 and S4.2.1.3"
     url: https://www.ecoledesmetiers.fr/sites/default/files/ressources-cadrage-officiel/fichiers/2019-06/R%C3%A9f%C3%A9rentiel_CAP_Boulanger.pdf
@@ -17,7 +17,7 @@ sources:
     url: https://www.bakeinfo.co.nz/facts/bread/bread-ingredients/yeast-in-breadmaking-and-baking/
   - title: "King Arthur Baking — Dough temperature (pro reference: yeast growth vs flavour development)"
     url: https://www.kingarthurbaking.com/pro/reference/dough-temperature
-last_verified: "2026-10-08"
+last_verified: "2026-10-09"
 ---
 
 # 04.1 · What Fermentation Does
@@ -121,6 +121,13 @@ The salt in B is a deliberately high dose (4 % of the water) so the effect shows
 
 > [!CAUTION]
 > Water at 60 °C can scald. Mix kettle water with cold water in a jug, check it with the thermometer, and pour with the funnel into a bottle standing in the sink.
+
+### In Israel
+
+- **Yeast:** instant dry yeast (שמרים יבשים, *shmarim yeveshim*) 2 g per bottle if you have no fresh (checked 2026-10-09).
+- **Room bottles:** in summer the room may be 30 °C, not 22-26 °C. Run A, B and D in an air-conditioned room, or write the actual temperature: at 30 °C bottle A inflates noticeably faster (about 7 % per °C, lesson [05.1](../module-05/lesson-01.md)).
+- **Water:** 8 °C water comes from a bottle kept in the fridge; mix the 60 °C water from kettle and tap water, checked with the probe.
+- **Fridge:** check that it reads 5 °C or below before bottle C goes in.
 
 ### Steps
 

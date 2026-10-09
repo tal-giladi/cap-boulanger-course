@@ -9,7 +9,7 @@ objectives:
   - "S3.1 — Trace a fermentation defect back to its probable cause (temperature, time, yeast, pre-ferment, salt) using the production records."
   - "C4.4 — Report a fermentation non-conformity in writing: facts, action taken, probable cause, prevention."
   - "C3.2 — Bake an under/correct/over series and evaluate each loaf with the quality rubric."
-volatility: concept
+volatility: implementation
 sources:
   - title: "Référentiel CAP Boulanger (annexes of the arrêté of 21 February 2014), savoirs S3.1 (défauts des pâtes, défauts des pains) and S3.3; competency C4.4"
     url: https://www.ecoledesmetiers.fr/sites/default/files/ressources-cadrage-officiel/fichiers/2019-06/R%C3%A9f%C3%A9rentiel_CAP_Boulanger.pdf
@@ -17,7 +17,7 @@ sources:
     url: https://www.kingarthurbaking.com/blog/2022/08/22/how-to-tell-if-bread-dough-has-risen-enough
   - title: "King Arthur Baking — Preferments (pro reference: under-ripe vs over-ripe and its effect on the bread)"
     url: https://www.kingarthurbaking.com/pro/reference/preferment
-last_verified: "2026-10-08"
+last_verified: "2026-10-09"
 ---
 
 # 04.7 · Judging Fermentation by the Dough
@@ -125,6 +125,12 @@ Tuesday, PC-02 batch (lesson [01.6](../module-01/lesson-06.md)). The shop compla
 ### Ingredients
 
 PD-01 dough (lesson [01.7](../module-01/lesson-07.md)): flour T55 500 g (100 %), water 325 g (65 %), salt 9 g (1.8 %), fresh yeast 7.5 g (1.5 %) or instant 2.5 g. Total 841.5 g → 3 bâtards of 280 g.
+
+### In Israel
+
+- **Timing in summer:** in a 28-30 °C kitchen every stage runs sooner (about 7 % per °C, lesson [05.4](../module-05/lesson-04.md)). Plan the three loads by the poke test, not the clock, and write the actual times.
+- **Flour and yeast:** white flour (קמח לבן, *kemakh lavan*) as the T55 ([Flour in Israel](../../references/flour-in-israel.md)); instant dry yeast (שמרים יבשים, *shmarim yeveshim*) 2.5 g if you have no fresh (checked 2026-10-09).
+- **Compare the loaves soon:** in humid summer air the crust softens quickly as it cools; cut and score them with the rubric within 1-2 hours.
 
 ### Steps
 
