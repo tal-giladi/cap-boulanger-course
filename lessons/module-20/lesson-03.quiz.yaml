@@ -1,0 +1,90 @@
+- id: q1
+  question: >-
+    A bakery wants to hire a baker for its normal daily bread production and offers a 12-month CDD "to
+    see how it goes". What is the problem?
+  options:
+    - >-
+      None, since a CDD can last up to 18 months for any reason.
+    - >-
+      The CDD is too long; it must not exceed 6 months.
+    - >-
+      A CDD needs a trial period of at least 2 months.
+    - >-
+      A CDD cannot fill a permanent job of the normal activity.
+  correct: 3
+  explanation: >-
+    A CDD is allowed only for listed temporary needs (replacement, temporary increase, seasonal work…).
+    A permanent job of the normal activity calls for a CDI, the normal form of employment.
+
+- id: q2
+  question: >-
+    An ouvrier boulanger's CDD of 5 months, replacing an employee on sick leave, ends as planned. He
+    earned €9,500 gross in total and is not offered a CDI. What end-of-contract indemnity is due at least?
+  options:
+    - >-
+      €950, which is 10 % of the total gross pay
+    - >-
+      €475, which is 5 % of the total gross pay
+    - >-
+      €1,900, one month of gross pay for each 5 months
+    - >-
+      Nothing, because a replacement CDD carries no indemnity
+  correct: 0
+  explanation: >-
+    The indemnity is at least 10 % of the total gross pay, paid with the last salary: 9,500 × 0.10 =
+    €950. Replacement is not one of the exceptions (seasonal, student holiday job, CDI refused, hired on
+    CDI, apprenticeship…).
+
+- id: q3
+  question: >-
+    During an interview for a bakery job, the owner asks a candidate whether she plans to have children
+    soon. What does the Code du travail say?
+  options:
+    - >-
+      She must answer truthfully because candidates must act in good faith.
+    - >-
+      It has no link to the job; family situation cannot ground a refusal.
+    - >-
+      The question is allowed in small businesses of fewer than 11 employees.
+    - >-
+      The question is allowed because the job includes night work.
+  correct: 1
+  explanation: >-
+    Information asked of a candidate must only assess the ability to do the job and have a direct,
+    necessary link with it (L1221-6); family situation and pregnancy are forbidden grounds of
+    discrimination (L1132-1). Good faith applies to questions that are lawful.
+
+- id: q4
+  question: >-
+    A 17-year-old wants to prepare the CAP Boulanger while being paid by a bakery. Which contract fits?
+  options:
+    - >-
+      A CDD for a temporary increase in activity
+    - >-
+      A temporary-agency (intérim) mission in a bakery
+    - >-
+      A contrat d'apprentissage with a CFA
+    - >-
+      A CDI with a 4-month trial period
+  correct: 2
+  explanation: >-
+    The apprenticeship contract (age 16-29 in general, 6 months to 3 years) combines paid work in the
+    bakery with training at a CFA leading to the diploma.
+
+- id: q5
+  question: >-
+    A jobseeker registered with France Travail finds a job advert he likes. Which of these is one of
+    his duties as a registered jobseeker?
+  options:
+    - >-
+      Applying to every bakery job advert published in his département
+    - >-
+      Updating his situation every month and following his contrat d'engagement
+    - >-
+      Accepting any trial period an employer proposes, whatever its length
+    - >-
+      Sending France Travail a copy of every CV and letter he writes
+  correct: 1
+  explanation: >-
+    France Travail asks registered jobseekers to update their situation monthly (between the 28th and
+    the 15th), report changes, and follow the job-search steps of their contrat d'engagement.

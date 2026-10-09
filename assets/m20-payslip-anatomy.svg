@@ -1,0 +1,86 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 640" width="900" height="640" role="img" aria-labelledby="t d" font-family="Arial, Helvetica, sans-serif">
+  <title id="t">Anatomy of a French payslip: an ouvrier boulanger's month (example figures)</title>
+  <desc id="d">A simplified payslip read from top to bottom in five zones. Zone 1, identification: employer Au Pain de la Halle, SARL, SIRET, APE code 10.71C, collective agreement boulangerie-pâtisserie IDCC 843; employee, job ouvrier boulanger, coefficient 160, hourly rate 12.53 euros. Zone 2, gross pay: base 151.67 hours times 12.53 equals 1,900.43 euros; overtime 17.33 hours at plus 25 percent equals 271.43; night premium 65 hours times 25 percent of 12.53 equals 203.61; gross pay 2,375.47 euros. Zone 3, employee contributions grouped as health, work accidents, retirement, family and unemployment, example total 21 percent, 498.85 euros, which gives the net pay before income tax 1,876.62 euros. Zone 4, income tax withheld at source at the rate sent by the tax office, example 29.25 euros, giving the net paid 1,847.37 euros. Zone 5, paid leave acquired 2.5 days per month, total employer cost, and the reminder to keep the payslip without time limit.</desc>
+  <rect x="0" y="0" width="900" height="640" fill="#ffffff"/>
+  <text x="450" y="30" text-anchor="middle" font-size="20" font-weight="bold" fill="#111827">Reading a payslip (bulletin de paie) from top to bottom — example month</text>
+
+  <!-- zone 1 -->
+  <rect x="40" y="50" width="560" height="100" fill="#e5e7eb" stroke="#374151"/>
+  <g font-size="13" fill="#111827">
+    <text x="52" y="72" font-weight="bold">1 · Who and what</text>
+    <text x="52" y="92">Employer: Au Pain de la Halle, SARL — SIRET 812 345 678 00015 — APE 10.71C</text>
+    <text x="52" y="110">Convention collective: boulangerie-pâtisserie artisanale (IDCC 843)</text>
+    <text x="52" y="128">Employee: K. Benali — ouvrier boulanger — coefficient 160 — 12.53 € / h</text>
+    <text x="52" y="144" font-size="12" fill="#374151">Period: October — hours worked: 151.67 normal + 17.33 overtime</text>
+  </g>
+
+  <!-- zone 2 -->
+  <rect x="40" y="165" width="560" height="130" fill="#dbeafe" stroke="#1f4e79"/>
+  <g font-size="13" fill="#111827">
+    <text x="52" y="187" font-weight="bold">2 · Gross pay (salaire brut)</text>
+    <text x="52" y="208">Base salary 151.67 h × 12.53 €</text><text x="585" y="208" text-anchor="end">1,900.43</text>
+    <text x="52" y="228">Overtime 17.33 h × 12.53 € × 1.25</text><text x="585" y="228" text-anchor="end">271.43</text>
+    <text x="52" y="248">Night premium 65 h × 12.53 € × 25 % (work 20:00–6:00)</text><text x="585" y="248" text-anchor="end">203.61</text>
+    <line x1="52" y1="260" x2="585" y2="260" stroke="#1f4e79"/>
+    <text x="52" y="282" font-weight="bold">GROSS PAY</text><text x="585" y="282" text-anchor="end" font-weight="bold">2,375.47</text>
+  </g>
+
+  <!-- zone 3 -->
+  <rect x="40" y="310" width="560" height="115" fill="#fee2e2" stroke="#991b1b"/>
+  <g font-size="13" fill="#111827">
+    <text x="52" y="332" font-weight="bold">3 · Employee social contributions (cotisations salariales)</text>
+    <text x="52" y="352">Health · work accidents · retirement · family · unemployment</text>
+    <text x="52" y="372">Example total, about 21 % of gross</text><text x="585" y="372" text-anchor="end">− 498.85</text>
+    <line x1="52" y1="384" x2="585" y2="384" stroke="#991b1b"/>
+    <text x="52" y="408" font-weight="bold">NET PAY BEFORE INCOME TAX</text><text x="585" y="408" text-anchor="end" font-weight="bold">1,876.62</text>
+  </g>
+
+  <!-- zone 4 -->
+  <rect x="40" y="440" width="560" height="95" fill="#dcfce7" stroke="#166534"/>
+  <g font-size="13" fill="#111827">
+    <text x="52" y="462" font-weight="bold">4 · Income tax withheld at source (prélèvement à la source)</text>
+    <text x="52" y="482">Rate sent by the tax office (example 1.5 % of taxable net 1,950.00)</text><text x="585" y="482" text-anchor="end">− 29.25</text>
+    <line x1="52" y1="494" x2="585" y2="494" stroke="#166534"/>
+    <text x="52" y="518" font-weight="bold">NET PAID (net payé) to the bank account</text><text x="585" y="518" text-anchor="end" font-weight="bold">1,847.37</text>
+  </g>
+
+  <!-- zone 5 -->
+  <rect x="40" y="550" width="560" height="70" fill="#f3f4f6" stroke="#6b7280"/>
+  <g font-size="13" fill="#111827">
+    <text x="52" y="572" font-weight="bold">5 · Other mentions</text>
+    <text x="52" y="592">Paid leave acquired this month: 2.5 days (30 working days a year) · total employer cost</text>
+    <text x="52" y="610">Payment date · "keep this payslip without time limit"</text>
+  </g>
+
+  <!-- right-hand checks -->
+  <g font-size="13" fill="#111827">
+    <rect x="625" y="50" width="250" height="570" fill="#fffbeb" stroke="#92400e"/>
+    <text x="640" y="74" font-weight="bold">What you check</text>
+    <text x="640" y="100">Zone 1</text>
+    <text x="652" y="118">• right convention and</text>
+    <text x="652" y="134">  coefficient</text>
+    <text x="652" y="150">• rate ≥ grid of the</text>
+    <text x="652" y="166">  convention and ≥ SMIC</text>
+    <text x="640" y="196">Zone 2</text>
+    <text x="652" y="214">• hours match your</text>
+    <text x="652" y="230">  own record</text>
+    <text x="652" y="246">• overtime +25 % (36th–43rd h),</text>
+    <text x="652" y="262">  +50 % from the 44th</text>
+    <text x="652" y="278">• night +25 % 20:00–6:00</text>
+    <text x="652" y="294">• Sunday +20 %</text>
+    <text x="640" y="324">Zone 3</text>
+    <text x="652" y="342">• contributions are on</text>
+    <text x="652" y="358">  gross pay; they fund</text>
+    <text x="652" y="374">  your social protection</text>
+    <text x="640" y="404">Zone 4</text>
+    <text x="652" y="422">• the tax rate is the one</text>
+    <text x="652" y="438">  you chose or were sent</text>
+    <text x="640" y="468">Zone 5</text>
+    <text x="652" y="486">• leave counter grows</text>
+    <text x="652" y="502">  2.5 days a month</text>
+    <text x="640" y="540" font-size="12" fill="#374151">Figures: example month of</text>
+    <text x="640" y="556" font-size="12" fill="#374151">lesson 20.4; the 21 % and</text>
+    <text x="640" y="572" font-size="12" fill="#374151">1.5 % rates are illustrative.</text>
+    <text x="640" y="596" font-size="12" fill="#374151">Rules checked 2026-10-09.</text>
+  </g>
+</svg>

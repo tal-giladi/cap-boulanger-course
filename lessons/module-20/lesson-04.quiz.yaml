@@ -1,0 +1,88 @@
+- id: q1
+  question: >-
+    A baker's timesheet shows 45 hours of work in one week, with no collective agreement setting other
+    rates. How are the overtime hours paid?
+  options:
+    - >-
+      10 hours at +25 %, since overtime has a single rate
+    - >-
+      8 hours at +25 % and 2 hours at +50 %
+    - >-
+      10 hours at +50 %, because the week passed 44 hours
+    - >-
+      5 hours at +25 % and 5 hours at +50 %
+  correct: 1
+  explanation: >-
+    Overtime starts at the 36th hour: the 36th to 43rd hours (8 h) get +25 %, the 44th and 45th get
+    +50 %.
+
+- id: q2
+  question: >-
+    In a craft bakery, a baker who is not a "night worker" starts at 5:00 two days a week. What does the
+    convention collective give him for the hour 5:00-6:00?
+  options:
+    - >-
+      Nothing, as the night premium is only for night workers
+    - >-
+      A premium of +20 %, the same as for Sunday work
+    - >-
+      One extra rest day per year instead of a pay premium
+    - >-
+      A premium of +25 % of his base rate for that hour
+  correct: 3
+  explanation: >-
+    Article 23 of the bakery convention gives every employee, night worker or not, +25 % of the base
+    hourly rate for each hour worked between 20:00 and 6:00. Extra rest days are for night workers.
+
+- id: q3
+  question: >-
+    A payslip dated October 2026 shows an ouvrier boulanger at coefficient 160 paid €12.45 an hour.
+    What is wrong?
+  options:
+    - >-
+      The rate is below the €12.53 minimum of coefficient 160.
+    - >-
+      Nothing, since €12.45 is above the SMIC of €12.31.
+    - >-
+      The rate should be the SMIC exactly for coefficient 160.
+    - >-
+      Nothing, since the grid only applies to apprentices.
+  correct: 0
+  explanation: >-
+    The pay must respect the higher of the SMIC (€12.31) and the convention's minimum for the
+    coefficient (€12.53 for 160 since 1 January 2026). Being above the SMIC is not enough.
+
+- id: q4
+  question: >-
+    A 17-year-old apprentice in a bakery that holds a derogation from the labour inspector is asked to
+    start at 3:00. What is the rule?
+  options:
+    - >-
+      Allowed, because bakery is a sector with derogations
+    - >-
+      Allowed if he agrees in writing and his parents sign
+    - >-
+      Not allowed: no derogation from midnight to 4:00
+    - >-
+      Not allowed: minors may only start after 7:00
+  correct: 2
+  explanation: >-
+    Night work is banned for under-18s; bakery can obtain derogations, but the Code du travail allows
+    none between midnight and 4:00 (L3163-2). 4:00 is the earliest start.
+
+- id: q5
+  question: >-
+    A baker resigns from his CDI. Which documents must the employer give him at the end of his notice?
+  options:
+    - >-
+      Only the last payslip, as resignation is the employee's choice
+    - >-
+      Certificat de travail, reçu pour solde de tout compte, attestation France Travail
+    - >-
+      Certificat de travail only, since a resignation gives no unemployment benefit
+    - >-
+      A dismissal letter, a certificat de travail and an attestation France Travail
+  correct: 1
+  explanation: >-
+    The three documents are due whatever the reason the contract ends, including a resignation, even
+    though a resignation normally gives no right to unemployment benefit.

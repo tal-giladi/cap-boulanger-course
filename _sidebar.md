@@ -161,3 +161,10 @@
   - [107 · Allergens, Storage and Pairing Questions](lessons/module-19/lesson-03.md)
   - [108 · Professional Vocabulary in Use](lessons/module-19/lesson-04.md)
   - [Module 19 quiz](assessments/module-19-quiz.md)
+- **Module 20 — The Bakery as a Workplace and a Business**
+  - [109 · The Bakery Sector and Its Businesses](lessons/module-20/lesson-01.md)
+  - [110 · Law, Contracts and Responsibility](lessons/module-20/lesson-02.md)
+  - [111 · Finding a Job and Getting Hired](lessons/module-20/lesson-03.md)
+  - [112 · Working Time, Pay and Rights](lessons/module-20/lesson-04.md)
+  - [113 · Costs, Prices, VAT and Results](lessons/module-20/lesson-05.md)
+  - [Module 20 quiz](assessments/module-20-quiz.md)

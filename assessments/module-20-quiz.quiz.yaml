@@ -1,0 +1,192 @@
+- id: q1
+  question: >-
+    Company identity card: "Le Fournil d'Amboise — EURL au capital de 5 000 € — gérant: M. Petit —
+    code APE 10.71C — Activités: pains, viennoiseries, pâtisseries; salon de thé de 12 places;
+    plateaux-repas livrés aux entreprises le midi." Which reading is correct?
+  options:
+    - >-
+      Several partners own it and each is liable for all its debts; its main activity is catering.
+    - >-
+      M. Petit is an employee of an industrial bakery; the tea room is its main activity.
+    - >-
+      One partner liable up to €5,000; craft bread is main, tea room and meals secondary.
+    - >-
+      It is an individual business taxed at corporate tax; the delivered meals are its main activity.
+  correct: 2
+  explanation: >-
+    An EURL has a single partner whose liability is limited to the contribution, run by a gérant. APE
+    10.71C is craft bread and pastry making with retail sale; the tea room and delivered meals add
+    turnover as secondary activities (with 10 % VAT).
+
+- id: q2
+  question: >-
+    A bakery hires an extra baker for the three weeks before Christmas: "CDD pour accroissement
+    temporaire d'activité, du 1er au 24 décembre, 35 h, coefficient 160." The baker starts on 1 December
+    and receives the written contract on 8 December. What is the problem?
+  options:
+    - >-
+      The written CDD should have been given within 2 working days of hiring.
+    - >-
+      A temporary increase in activity is not a reason allowed for a CDD.
+    - >-
+      A CDD cannot be shorter than 6 months in a craft bakery.
+    - >-
+      A CDD does not need to be written when it lasts under one month.
+  correct: 0
+  explanation: >-
+    A pre-Christmas peak is a temporary increase in activity, a permitted CDD case. The CDD must be
+    written and handed over within 2 working days; late delivery can entitle the employee to
+    compensation of up to one month's pay.
+
+- id: q3
+  question: >-
+    Timesheet of a baker at coefficient 170 (€12.78 an hour), no agreement on overtime rates: week 1, 36
+    h; week 2, 43 h; week 3, 47 h; week 4, 35 h. Which overtime pay for the month is correct?
+  options:
+    - >-
+      €335.48: 21 hours, all at +25 %
+    - >-
+      €402.57: 21 hours, all at +50 % since one week passed 44 h
+    - >-
+      €0: the month averages under 44 h a week
+    - >-
+      €348.26: 17 hours at +25 % and 4 hours at +50 %
+  correct: 3
+  explanation: >-
+    Overtime is counted per week from the 36th hour: 1 + 8 + 8 at +25 % (17 h × 15.975 = €271.58) and
+    the 44th to 47th hours of week 3 at +50 % (4 h × 19.17 = €76.68): €348.26.
+
+- id: q4
+  question: >-
+    Payslip of an ouvrier boulanger (coefficient 160, €12.53) who works 3:00-10:00, five days a week:
+    "Majoration travail de nuit (20 h – 5 h) 25 % — 43,33 h — 135,73 €". The bakery convention in force
+    is used. What does the check show?
+  options:
+    - >-
+      The line is right; the convention's night premium stops at 5:00.
+    - >-
+      The premium covers 20:00-6:00: 65 h are due, €67.88 is missing.
+    - >-
+      No premium is due, because he is not a night worker.
+    - >-
+      The premium should be 50 % for hours before 6:00, so double the line.
+  correct: 1
+  explanation: >-
+    The article in force gives +25 % for every hour between 20:00 and 6:00 (an old version stopped at
+    5:00). 3 h × 5 days × 4.333 = 65 h; 21.67 h are missing: 21.67 × 12.53 × 0.25 = €67.88.
+
+- id: q5
+  question: >-
+    Wage grid of the bakery convention from 1 January 2026, fabrication: 155 = €12.41; 160 = €12.53;
+    170 = €12.78. SMIC since 1 June 2026: €12.31. A new baker holding the CAP Boulanger, hired three
+    months ago, is paid at coefficient 155, €12.41 an hour. What is correct?
+  options:
+    - >-
+      He should be at coefficient 160, €12.53 an hour, as a CAP holder.
+    - >-
+      Nothing is wrong, as €12.41 is above the SMIC.
+    - >-
+      He should be at 170 from his first day because he holds a CAP.
+    - >-
+      Nothing is wrong until his trial period of one year ends.
+  correct: 0
+  explanation: >-
+    Article 9 places fabrication staff holding a CAP at coefficient 160 (170 after one year at 160).
+    Pay must respect the higher of the SMIC and the coefficient's minimum, so €12.53.
+
+- id: q6
+  question: >-
+    End-of-contract file: "Rupture conventionnelle — CDI de Mme Durand, vendeuse — convention signée par
+    les deux parties le 2 octobre." On 10 October Mme Durand writes that she withdraws. What applies?
+  options:
+    - >-
+      Too late: an agreement is final as soon as both parties sign it.
+    - >-
+      She can withdraw only if she proves a serious reason to the labour court.
+    - >-
+      She can withdraw: each party has 15 calendar days, no reason needed.
+    - >-
+      Her withdrawal turns the agreement into a resignation with notice.
+  correct: 2
+  explanation: >-
+    After signing a rupture conventionnelle, either party can withdraw within 15 calendar days without
+    giving a reason; only then is the agreement sent for approval. 10 October is within the period.
+
+- id: q7
+  question: >-
+    Invoice from the mill: "Farine de tradition T65 — 30 sacs × 24,00 € = 720,00 € HT; TVA 5,5 % =
+    39,60 €; Total TTC 759,60 €". The order was 30 sacks at €24.00. The signed delivery note says: "28
+    sacs reçus — réserve: 2 sacs manquants". Which amount should the bakery accept to pay?
+  options:
+    - >-
+      €759.60 TTC, the amount on the invoice
+    - >-
+      €672.00 TTC, for the 28 sacks received
+    - >-
+      €720.00 TTC, the invoice before VAT
+    - >-
+      €708.96 TTC, for the 28 sacks received
+  correct: 3
+  explanation: >-
+    Only goods received and noted on the delivery note are paid: 28 × 24.00 = €672.00 HT; VAT 5.5 % =
+    €36.96; €708.96 TTC. The supplier issues a credit note for the 2 missing sacks.
+
+- id: q8
+  question: >-
+    The price board shows: "Baguette 1,30 € — Croissant 1,25 € — Sandwich jambon-beurre à emporter 4,40 €
+    — Tablette de chocolat 3,00 €". The till applies 5.5 % VAT to all four. Which correction gives the
+    right prices before VAT for the sandwich and the chocolate bar?
+  options:
+    - >-
+      €4.17 and €2.84, since 5.5 % is right for all food
+    - >-
+      €4.00 at 10 % and €2.50 at 20 %
+    - >-
+      €3.96 and €2.40, by taking 10 % and 20 % off
+    - >-
+      €4.00 at 10 % and €2.84 at 5.5 %
+  correct: 1
+  explanation: >-
+    Food prepared for immediate consumption to take away is at 10 % (4.40 ÷ 1.10 = €4.00); chocolate
+    products are an exception to the reduced rate, at 20 % (3.00 ÷ 1.20 = €2.50). Bread and croissants
+    stay at 5.5 %.
+
+- id: q9
+  question: >-
+    Simplified results of a month (euros HT): turnover 36,000; raw materials 10,800; energy 9,500 kWh at
+    €0.20; rent 2,000; other external charges 1,300; gross wages 12,000; employer contributions 3,200;
+    taxes 180; depreciation 1,200; interest 250. Which value added and result are correct?
+  options:
+    - >-
+      Value added €25,200; result €3,170
+    - >-
+      Value added €16,000; result €3,170
+    - >-
+      Value added €20,000; result €3,170
+    - >-
+      Value added €20,000; result €4,620
+  correct: 2
+  explanation: >-
+    Intermediate consumption = 10,800 + 1,900 + 2,000 + 1,300 = 16,000, so VA = €20,000. All charges =
+    32,830, so result = €3,170. €4,620 forgets depreciation and interest; €25,200 removes only the raw
+    materials.
+
+- id: q10
+  question: >-
+    Incident report: "Mardi 7 h 30, M. Roy, livreur salarié de la boulangerie, a endommagé la voiture
+    d'un client en livrant les plateaux; contrôle de police: taux d'alcool au-dessus de la limite."
+    Which analysis of responsibility is correct?
+  options:
+    - >-
+      The bakery repairs the damage civilly; M. Roy answers personally for the offence.
+    - >-
+      M. Roy alone repairs the damage; the bakery has no responsibility at all.
+    - >-
+      The bakery answers for the offence; M. Roy has no responsibility.
+    - >-
+      Nobody is responsible, because the damage happened on a public road.
+  correct: 0
+  explanation: >-
+    An employer answers civilly for damage its employee causes in his job (damages to the customer).
+    Criminal responsibility is personal: driving over the alcohol limit is M. Roy's own offence, which
+    can also bring a disciplinary sanction.

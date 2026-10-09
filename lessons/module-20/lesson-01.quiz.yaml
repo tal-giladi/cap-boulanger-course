@@ -1,0 +1,91 @@
+- id: q1
+  question: >-
+    A shop's sign says "Boulangerie". It receives frozen baguettes and croissants from a factory every
+    morning and only bakes and sells them. Which French activity classification fits the factory that
+    supplies it?
+  options:
+    - >-
+      10.71C, because the products end up sold as bakery products
+    - >-
+      47.24Z, because the factory sells bread it did not bake itself
+    - >-
+      10.71A, because industrial making includes frozen dough for baking
+    - >-
+      10.71D, because frozen viennoiserie counts as pastry making
+  correct: 2
+  explanation: >-
+    INSEE's 10.71A covers industrial bread and viennoiserie, including frozen dough meant to be baked
+    elsewhere. 10.71C is craft making linked to retail sale; 47.24Z is retail of products the shop
+    does not make.
+
+- id: q2
+  question: >-
+    A company identity card reads "SARL au capital de 40 000 €, gérant M. Roux, code APE 10.71C". The
+    business has debts it cannot pay. What does the legal form tell you about the partners?
+  options:
+    - >-
+      They are liable for the debts on all their personal assets.
+    - >-
+      Their liability is limited to the €40,000 they contributed.
+    - >-
+      Only M. Roux is liable, since he is the gérant of the SARL.
+    - >-
+      The State covers the debts because the bakery is a craft business.
+  correct: 1
+  explanation: >-
+    In an SARL the partners' liability is limited to their contributions; the company is a separate
+    legal person. Personal guarantees they signed for a bank are a separate commitment.
+
+- id: q3
+  question: >-
+    Which of these is a secondary activity of a craft bakery coded 10.71C?
+  options:
+    - >-
+      Making baguettes and croissants for the shop counter
+    - >-
+      Kneading and baking pain de tradition française every morning
+    - >-
+      Selling the bakery's own viennoiserie at the counter
+    - >-
+      Selling sandwiches at lunch and delivering rolls to a restaurant
+  correct: 3
+  explanation: >-
+    The main activity is making and selling bread, viennoiserie and pastries. Snacking, traiteur and
+    deliveries to businesses add turnover with the same staff and premises: secondary activities.
+
+- id: q4
+  question: >-
+    A café owner wants to open a "boulangerie" and make bread himself, but holds no bakery diploma and
+    has never worked in a bakery. What does the law require?
+  options:
+    - >-
+      Nothing, as anyone can register a business making bread in France.
+    - >-
+      Only a hygiene training certificate, since bakery is a food business.
+    - >-
+      A CAP, BEP or bac pro in the trade, or 3 years' experience.
+    - >-
+      A licence from the CNBPF, which approves every new bakery in its département.
+  correct: 2
+  explanation: >-
+    Bakery is a regulated craft: the person who runs or effectively controls the work must hold a
+    qualifying diploma or prove three years' experience; practising without it is punishable by a
+    €7,500 fine. The CNBPF is a trade body, not a licensing authority.
+
+- id: q5
+  question: >-
+    A baker wants to know who negotiates the minimum wages he will be paid in a craft bakery. Who is it?
+  options:
+    - >-
+      The employers' organisations and the unions of the branch.
+    - >-
+      The chambre de métiers, which sets wages for craft trades.
+    - >-
+      The mairie, through an arrêté for the shops of the commune.
+    - >-
+      INSEE, which fixes wages from the business's activity code.
+  correct: 0
+  explanation: >-
+    The collective agreement of the craft bakery branch is signed by the employers' organisations
+    (such as the CNBPF) and the employees' unions; it sets the minimum wages by coefficient (lesson
+    20.4).

@@ -1,0 +1,91 @@
+- id: q1
+  question: >-
+    A note on the bakery wall cites: an arrêté of the maire on market-day parking, the décret of 13
+    September 1993 on bread names, and the Code du travail's legal working week. Which order goes from
+    the highest to the lowest rank?
+  options:
+    - >-
+      Arrêté, then décret, then the law, because local texts apply first
+    - >-
+      Décret, then the law, then the arrêté, because décrets are signed by the Prime Minister
+    - >-
+      The three have the same rank, since each applies to a different subject
+    - >-
+      The law, then the décret, then the arrêté
+  correct: 3
+  explanation: >-
+    A loi voted by Parliament ranks above a government décret, which ranks above an arrêté of a
+    minister, préfet or maire. Rank depends on the author, not on the subject or the date.
+
+- id: q2
+  question: >-
+    A new employment contract says the night-work premium of the collective agreement "does not apply"
+    to this employee, who signed it. What happens?
+  options:
+    - >-
+      The premium is still due: a contract cannot give less.
+    - >-
+      The premium is lost, because the employee freely signed the clause.
+    - >-
+      The premium is halved, as a compromise between the two texts.
+    - >-
+      The premium is due only if the employee joins a union.
+  correct: 0
+  explanation: >-
+    In labour law the text most favourable to the employee applies: a contract can add to the
+    collective agreement but cannot remove what it guarantees.
+
+- id: q3
+  question: >-
+    A bakery agrees to supply a school canteen with 120 rolls before 10:00 each school day. One morning
+    it delivers at 11:30 and the canteen buys bread elsewhere. Which kind of responsibility is involved?
+  options:
+    - >-
+      Criminal responsibility, because a school is a public body
+    - >-
+      Non-contractual (délictuelle) civil responsibility, as nobody was hurt
+    - >-
+      Contractual civil responsibility, which can lead to damages
+    - >-
+      No responsibility, because the rolls were delivered in the end
+  correct: 2
+  explanation: >-
+    Late or incomplete performance of a contract engages contractual civil liability: the bakery may
+    owe damages unless a real force majeure prevented delivery.
+
+- id: q4
+  question: >-
+    A customer signs nothing and pays €1.30 for a baguette at the counter. Has a contract been made?
+  options:
+    - >-
+      No, because a contract only exists when it is written and signed
+    - >-
+      Yes, a sale: bakery delivers a conforming product, customer pays
+    - >-
+      No, because the customer is a consumer and not a business
+    - >-
+      Yes, but only if the receipt shows the customer's name
+  correct: 1
+  explanation: >-
+    Most contracts need no writing: agreement on a thing and a price makes a sale, with obligations on
+    both sides. Writing proves a contract; for some contracts, such as a fixed-term employment
+    contract, the law requires it.
+
+- id: q5
+  question: >-
+    At work, an apprentice leaves a full tray on the shop floor and a customer falls and is injured.
+    Who repairs the customer's damage under civil law, in principle?
+  options:
+    - >-
+      The employer, responsible for staff acting in their job
+    - >-
+      The apprentice personally, since he made the mistake
+    - >-
+      The CFA, because the apprentice is still in training
+    - >-
+      Nobody, because the customer should have looked down
+  correct: 0
+  explanation: >-
+    The Code civil makes employers answer for damage caused by their employees in their duties. The
+    apprentice may receive a disciplinary reminder, and would answer personally only for a criminal
+    offence.

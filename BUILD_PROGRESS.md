@@ -39,7 +39,7 @@ Goal: build "CAP Boulanger Preparation" per `curriculum/plan.md`, following
 - [x] Module 17 — Hygiene and Food Safety
 - [x] Module 18 — Environmental Responsibility
 - [x] Module 19 — Communication and Sales
-- [ ] Module 20 — The Bakery as a Workplace and a Business
+- [x] Module 20 — The Bakery as a Workplace and a Business
 - [ ] Module 21 — EP1 Practice
 - [ ] Module 22 — EP2 Practice and Production Day
 - [ ] Simulations: water-temperature, production-schedule, troubleshooting
@@ -47,7 +47,7 @@ Goal: build "CAP Boulanger Preparation" per `curriculum/plan.md`, following
 
 ## Agents now
 
-- Agent B: module 20 (running)
+- PAUSED after module 20 (2026-10-09). Next: modules 21 and 22.
 
 ## Decisions and open questions
 
@@ -82,3 +82,4 @@ Goal: build "CAP Boulanger Preparation" per `curriculum/plan.md`, following
 - Module 18: energy price 0.20 €/kWh (CNBPF example); bakery energy split heat 65 / cold 22 / motors 8 / lighting 5 %; craft bakery has no donation-agreement duty (only distributors > 400 m²); biowaste sorting for all professionals since 2024-01-01; old bread allowed in pain courant dough, never in tradition; donation tax reduction 60 % (ceiling €20,000 or 0.5 % turnover); AGEC thin bags < 50 µm only if home-compostable ≥ 60 % bio-based. Final QA: re-check those volatile items; ADEME/gov.il pages blocked; S4.3.2.5 waste-water devices not covered; optional back-links 13.4→18.1, 15.5/09.1/07.5/06.5→18.2, 13.6→18.3.
 - Module 17 numbers: CNBPF reception limits very perishable +7 °C, perishable +11 °C, frozen −15 °C; chilled > +7 °C core → discard; frozen warmed to −15…+4 °C → thaw cold, treat as fresh; opened products 3 days unless label says otherwise; temperature records 12 months. Final QA: module 17 sources (see matrix), ANSES sources for E. coli / C. botulinum / B. cereus, optional templates (cold-unit temperature log, cleaning plan, allergen table); 17.6 → module 19 link after merge.
 - Module 19: report order everywhere = facts and figures → what I did → what I propose → manager decides; pitch card has seven blocks. Module 21 can reuse module 19's quiz and project Saturday brief. Final QA: module 19 sources (Code du travail L4131-1, justice.fr allergens, Reg. 1924/2006, 828/2014), optional templates pitch-card / hand-over-brief, re-check Israeli allergen labelling change (Jan 2028).
+- Module 20 figures (checked 2026-10-09; re-check at final QA): SMIC €12.31/h, €1,867.02/month from 1 June 2026 (start date only via search results); IDCC 843 avenant 139 grid from 2026-01-01: coef 155 €12.41, 160 €12.53, 170 €12.78; night +25 % 20:00–6:00; Sunday +20 %; worked public holiday paid double; corporate tax 15 % to €42,500 then 25 %; chocolate products VAT 20 %; overtime monthly factor 4.333. Au Pain de la Halle = SARL, gérante Mme Lebrun, Tours, 6 employees, APE 10.71C. Not covered: S5.3.1–S5.3.3 (organisation chart, règlement intérieur, training rights CPF/bilan) and S5.2.1 unemployment causes only briefly — cover in 21.5 or final QA. Code civil articles cited via ordinance 2016-131 — confirm current text.

@@ -1,0 +1,62 @@
+- **Activité principale / activité secondaire** (*ak-tee-vee-TAY pran-see-PAL / suh-gohn-DAIR*) — main activity (the one that brings most turnover; it sets the APE code) / additional activities such as snacking, tea room or deliveries.
+- **Amortissement** (*a-mor-tees-MAHN*) — depreciation: the yearly share of the cost of an oven, mixer or other equipment charged to the accounts.
+- **Attestation France Travail** (*a-tes-ta-SYOHN frahns trah-VAH-yuh*) — employer's certificate needed to claim unemployment benefit; due at the end of every employment contract.
+- **Bulletin de paie (fiche de paie)** (*bül-TAN duh PAY*) — payslip: gross pay, contributions, net before tax, tax withheld, net paid; keep it without time limit.
+- **Candidature spontanée** (*kahn-dee-da-TÜR spohn-ta-NAY*) — unsolicited job application, e.g. a CV handed in at the bakery.
+- **Capital social** (*ka-pee-TAL so-SYAL*) — the money or goods the partners contributed to a company.
+- **CDI / CDD** (*say-day-EE / say-day-DAY*) — permanent employment contract (the normal form) / fixed-term contract, allowed only for temporary needs and always written.
+- **Certificat de travail** (*sair-tee-fee-KAH duh trah-VAH-yuh*) — certificate given at the end of a contract stating the job and dates.
+- **Chambre de métiers et de l'artisanat (CMA)** (*SHAHM-bruh duh may-TYAY*) — chamber of trades: consular body of craft businesses (qualification certificates, advice, training for owners).
+- **Charges / produits** (*SHARZH / pro-DÜEE*) — a business's expenses / income for a period.
+- **CNBPF** (*say-en-bay-pay-EF*) — Confédération nationale de la boulangerie-pâtisserie française: the craft bakers' employers' organisation.
+- **Code NAF / code APE** (*kod NAF / ah-pay-UH*) — INSEE activity code of a business, e.g. 10.71C for craft bakery-pâtisserie.
+- **Coefficient (hiérarchique)** (*ko-ay-fee-SYAHN*) — in the convention collective, an employee's grade, which sets the minimum pay (160 for a fabrication employee holding a CAP).
+- **Compte de résultat** (*KOHNT duh ray-zül-TAH*) — income statement: all products and charges of a period and the result.
+- **Conseil de prud'hommes** (*kohn-SAY duh prü-DOM*) — labour court for individual disputes between employer and employee; conciliation comes first.
+- **Congés payés** (*kohn-ZHAY pay-YAY*) — paid leave: 2.5 working days a month, 30 a year (5 weeks).
+- **Consommations intermédiaires** (*kohn-so-ma-SYOHN an-tair-may-DYAIR*) — goods and services bought and used up in production (flour, energy, rent…).
+- **Contrat** (*kohn-TRAH*) — agreement creating obligations between parties; valid with consent, capacity and a lawful, certain content.
+- **Contrat de professionnalisation** (*kohn-TRAH duh pro-fe-syo-na-lee-za-SYOHN*) — work-and-train contract leading to a qualification, also open to adults.
+- **Convention collective (IDCC 843)** (*kohn-vahn-SYOHN ko-lek-TEEV*) — collective agreement of the craft bakery-pâtisserie branch: grades, minimum wages, night, Sunday and holiday premiums.
+- **Cotisations sociales** (*ko-tee-za-SYOHN so-SYAL*) — social contributions on pay that fund health, work accidents, retirement, family and unemployment.
+- **CSE (comité social et économique)** (*say-es-UH*) — elected staff representation, compulsory from 11 employees.
+- **Démission** (*day-mee-SYOHN*) — resignation by an employee on a CDI: clear and unequivocal, with notice.
+- **DPAE (déclaration préalable à l'embauche)** (*day-pay-ah-UH*) — the employer's declaration of a new hire to the social bodies, before the employee starts.
+- **Durée légale du travail** (*dü-RAY lay-GAL*) — the legal working week of 35 hours; hours above it are overtime.
+- **EBE (excédent brut d'exploitation)** (*uh-bay-UH*) — gross operating surplus: value added minus wages, contributions and taxes on production.
+- **Entreprise individuelle (EI) / micro-entreprise** (*ahn-truh-PREEZ an-dee-vee-dü-EL*) — business owned by one person, profit taxed at the owner's income tax / simplified regime for small EIs.
+- **Entretien d'embauche** (*ahn-truh-TYAN dahm-BOHSH*) — hiring interview.
+- **EURL / SARL** (*uh-ü-air-EL / es-ah-air-EL*) — limited-liability company with one partner / with 2 to 100 partners, run by a gérant.
+- **Facture / avoir** (*fak-TÜR / a-VWAR*) — invoice / credit note issued by a supplier to correct an invoice.
+- **Fabrication à l'unité / en série / en continu** (*fa-bree-ka-SYOHN*) — one-off / batch / continuous production modes.
+- **France Travail** (*frahns trah-VAH-yuh*) — the French public employment service (formerly Pôle emploi), which registers jobseekers and publishes job offers.
+- **Heures supplémentaires** (*UHR sü-play-mahn-TAIR*) — overtime: hours above 35 a week, +25 % from the 36th to the 43rd hour and +50 % from the 44th unless an agreement says otherwise.
+- **Impôt sur les sociétés (IS) / impôt sur le revenu (IR)** (*an-POH sür lay so-syay-TAY / sür luh ruh-vuh-NÜ*) — corporate tax on a company's profit / income tax, which taxes an EI's profit through its owner.
+- **Indemnité de fin de contrat (prime de précarité)** (*an-dem-nee-TAY duh fan duh kohn-TRAH*) — end-of-CDD indemnity, at least 10 % of total gross pay, with listed exceptions.
+- **Inspection du travail** (*an-spek-SYOHN dü trah-VAH-yuh*) — State service that informs, advises, conciliates and checks that labour law is applied.
+- **Intérim** (*an-tay-REEM*) — temporary agency work: the agency employs the worker and places them with a business.
+- **Jurisprudence** (*zhü-rees-prü-DAHNS*) — case law: the courts' decisions interpreting the texts.
+- **Lettre de motivation** (*LET-ruh duh mo-tee-va-SYOHN*) — cover letter sent with a CV.
+- **Liberté contractuelle** (*lee-bair-TAY kohn-trak-TÜEL*) — freedom of contract: to contract or not, with whom and on what terms, within the law.
+- **Licenciement (pour motif personnel / économique)** (*lee-sahn-see-MAHN*) — dismissal by the employer, for a real and serious cause linked to the employee / for reasons not linked to the person.
+- **Loi / ordonnance / décret / arrêté** (*lwah / or-do-NAHNS / day-KRAY / a-ray-TAY*) — act of Parliament / government act authorised by Parliament / government regulation / order of a minister, préfet or maire.
+- **Majoration** (*ma-zho-ra-SYOHN*) — pay premium added to the hourly rate (overtime, night, Sunday).
+- **Marché du travail / population active** (*mar-SHAY dü trah-VAH-yuh / po-pü-la-SYOHN ak-TEEV*) — labour market where job offers meet jobseekers / labour force: people in work plus the unemployed looking for work.
+- **Médecine du travail** (*mayd-SEEN dü trah-VAH-yuh*) — occupational health service; night workers have a prevention visit before starting.
+- **Part de marché** (*PAR duh mar-SHAY*) — market share: a business's sales as a share of all sales on its market.
+- **Période d'essai** (*pay-RYOD day-SAY*) — trial period: at most 2 months for ouvriers under the law; 30 days in the bakery convention.
+- **Prélèvement à la source** (*pray-lev-MAHN a la SOORS*) — income tax withheld from pay by the employer.
+- **Principe de faveur** (*pran-SEEP duh fa-VUHR*) — in labour law, the text most favourable to the employee applies.
+- **Responsabilité civile (contractuelle / délictuelle)** (*res-pon-sa-bee-lee-TAY see-VEEL*) — duty to repair damage caused, by not performing a contract / outside any contract.
+- **Responsabilité pénale** (*res-pon-sa-bee-lee-TAY pay-NAL*) — liability to punishment by the State (fine, prison) for an offence; it is personal.
+- **Résultat (bénéfice / perte)** (*ray-zül-TAH*) — products minus charges: profit if positive, loss if negative.
+- **Rupture conventionnelle** (*rüp-TÜR kohn-vahn-syo-NEL*) — ending a CDI by agreement of both parties, with 15 days to withdraw and approval by the administration.
+- **SASU / SAS** (*es-ah-es-Ü / es-ah-ES*) — simplified joint-stock company with one partner / with two or more, run by a président; profit taxed at IS.
+- **Salaire brut / net** (*sa-LAIR BRÜT / NET*) — pay before / after employee social contributions.
+- **Secteur d'activité** (*sek-TUHR dak-tee-vee-TAY*) — group of businesses with the same main activity.
+- **SIREN / SIRET** (*see-REN / see-RET*) — 9-digit number of a business / 14-digit number of one of its establishments.
+- **SMIC** (*SMEEK*) — national minimum wage per hour gross; €12.31 since 1 June 2026 (check the current amount).
+- **Solde de tout compte** (*SOLD duh too KOHNT*) — final settlement listing every sum paid at the end of a contract; the employee signs a receipt.
+- **Source du droit** (*soors dü DRWAH*) — a text or practice that creates legal rules: Constitution, loi, décret, arrêté, jurisprudence, custom.
+- **Travail de nuit / travailleur de nuit** (*trah-VAH-yuh duh NWEE*) — night work (in craft bakery: 21:00-6:00; +25 % for every hour 20:00-6:00) / night worker, a status with limits, extra rest and health follow-up.
+- **Valeur ajoutée (VA)** (*va-LUHR a-zhoo-TAY*) — value added: production minus intermediate consumption, the wealth a business creates, shared between staff, social bodies, the State, lenders and the business.

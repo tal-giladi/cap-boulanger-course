@@ -1,0 +1,89 @@
+- id: q1
+  question: >-
+    A bakery sold 6,000 baguettes in a month at €1.30 TTC (VAT 5.5 %). Which turnover is correct?
+  options:
+    - >-
+      €7,800, the quantity times the price on the board
+    - >-
+      €7,371, the board price minus 5.5 % times the quantity
+    - >-
+      €7,393, the quantity times the price before VAT
+    - >-
+      €8,229, the quantity times the price plus 5.5 %
+  correct: 2
+  explanation: >-
+    Turnover is counted before VAT: 1.30 ÷ 1.055 = €1.2322, × 6,000 = €7,393. Taking 5.5 % off the TTC
+    price (€7,371) is the classic slip; €7,800 still contains the State's VAT.
+
+- id: q2
+  question: >-
+    Simplified figures for one month: turnover HT €30,000; materials €9,000; energy €1,800; rent
+    €1,600; other external charges €1,200; wages and contributions €13,500; depreciation €1,000;
+    interest €200. What is the value added?
+  options:
+    - >-
+      €16,400, turnover minus intermediate consumption
+    - >-
+      €1,700, turnover minus every charge of the month
+    - >-
+      €21,000, turnover minus the raw materials only
+    - >-
+      €2,900, turnover minus all but depreciation and interest
+  correct: 0
+  explanation: >-
+    Value added = production − intermediate consumption (9,000 + 1,800 + 1,600 + 1,200 = 13,600):
+    30,000 − 13,600 = €16,400. It is then shared: wages and contributions, State, bank, business. The
+    result after all charges is €1,700.
+
+- id: q3
+  question: >-
+    A bakery sells a ham sandwich at €4.40 TTC to take away. Which price before VAT is correct?
+  options:
+    - >-
+      €4.17, dividing by 1.055 as for bread
+    - >-
+      €3.96, taking 10 % off the TTC price
+    - >-
+      €3.67, dividing by 1.20 at the normal rate
+    - >-
+      €4.00, dividing by 1.10 for snacking
+  correct: 3
+  explanation: >-
+    Food prepared for immediate consumption sold to take away is at 10 %: 4.40 ÷ 1.10 = €4.00.
+    Dividing by 1.055 applies the bread rate; subtracting 10 % gives a wrong HT.
+
+- id: q4
+  question: >-
+    Two bakeries each make a yearly profit of €50,000: one is an EI, the other an SARL that meets the
+    small-company conditions. Which statement is correct?
+  options:
+    - >-
+      Both pay corporate tax at 25 %, so €12,500 each in tax
+    - >-
+      EI: owner's income tax; SARL: €8,250 of IS
+    - >-
+      The SARL pays no tax because its partners pay income tax instead
+    - >-
+      The EI pays €7,500 of IS, which is 15 % of its profit
+  correct: 1
+  explanation: >-
+    An EI is classically taxed at income tax on the owner's income. The SARL pays IS: 42,500 × 15 % =
+    6,375 plus 7,500 × 25 % = 1,875, total €8,250.
+
+- id: q5
+  question: >-
+    The mill's invoice shows "Farine T55, 40 sacs × 23,00 € HT". The order and the signed delivery note
+    both say 40 sacks at €21.50. What should the employee who checks it do?
+  options:
+    - >-
+      Pay it, since the quantity is right and prices often change
+    - >-
+      Report the €60 HT overcharge to the manager before payment
+    - >-
+      Send back the 40 sacks of flour to the mill at once
+    - >-
+      Correct the delivery note so that it matches the invoice
+  correct: 1
+  explanation: >-
+    The invoice is checked for reference, quantity and price against the order and the delivery note.
+    40 × 1.50 = €60 HT too much: the manager asks the supplier for a credit note before paying.
