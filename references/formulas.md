@@ -55,3 +55,18 @@ These are the course's starting formulas, in baker's percentages (flour = 100). 
 - Pain de tradition française: ingredients and permitted additions are fixed by law (décret n°93-1074, [lesson 09.1](../lessons/module-09/lesson-01.md)). Nothing else may be added.
 - Yeast amounts assume fresh compressed yeast. Instant dry yeast: use about one third of the fresh weight; active dry yeast: about 40-50% (lesson [02.6](../lessons/module-02/lesson-06.md)).
 - Target dough temperatures are the usual ranges for each product's fermentation; lesson [05.2](../lessons/module-05/lesson-02.md) shows how to reach them.
+- Viennoiserie and pâtes levées are outside the salt agreement, which names pain courant, wholemeal and cereal breads and pain de mie only; 1.8-2.0 % of the flour is usual.
+
+## Course sheets
+
+The lessons turn these ranges into named sheets that later modules reuse:
+
+| Sheet | Product | Defined in |
+|---|---|---|
+| PC-02, PD-01 | Pain courant with pâte fermentée; direct dough by hand | [01.6](../lessons/module-01/lesson-06.md) |
+| PO-01, CA-01 | Baguette on poolish; campagne on liquid levain | [Module 6 project](../projects/m06-calculation-workbook.md) |
+| TR-01 | Pain de tradition française | [09.2](../lessons/module-09/lesson-02.md) |
+| CO-01, PM-01, VI-01, SE-01 | Pain complet, pain de mie, pain viennois, seeded loaf | [10.4](../lessons/module-10/lesson-04.md), [10.5](../lessons/module-10/lesson-05.md), [10.6](../lessons/module-10/lesson-06.md), [10.7](../lessons/module-10/lesson-07.md) |
+| CR-01 | Croissant (pâte levée feuilletée) | [11.2](../lessons/module-11/lesson-02.md) |
+| CP-01 | Crème pâtissière | [12.2](../lessons/module-12/lesson-02.md) |
+| PL-01, PB-01, BR-01 | Pain au lait, pain brioché, brioche | [12.3](../lessons/module-12/lesson-03.md) |

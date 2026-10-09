@@ -14,6 +14,10 @@ Anyone who cooks at home, has a domestic oven, knows no French bakery terms, and
 - 22 modules, 124 lessons, each with a short multiple-choice quiz and a practical task at home.
 - A practical project at the end of every module, ending in a full production day rehearsal.
 - French professional terms taught as French → English, collected in the [glossary](glossary.md).
+- Three interactive simulations (educational models): [water temperature](simulations/water-temperature/index.html), [production schedule](simulations/production-schedule/index.html) and [troubleshooting](simulations/troubleshooting/index.html).
+- 23 printable [templates](templates/README.md): technical sheet, organigramme, bake and temperature logs, quality rubric, hygiene records, readiness checklist and more.
+- Reference pages: [the CAP Boulanger exam](references/cap-exam.md), [base formulas and course sheets](references/formulas.md), [troubleshooting](references/troubleshooting.md) and [flour in Israel](references/flour-in-israel.md).
+- Notes for practising at home in Israel (local flours, climate, products and Hebrew label words) in every module.
 
 ## What it does not cover: additional preparation required
 
