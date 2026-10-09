@@ -103,7 +103,7 @@ A customer asks: "My son is allergic to sesame and to nuts. Can he have a pain a
 1. **Check the table, not memory.** Pain au chocolat: wheat, milk, egg (egg wash), soy (the chocolate sticks' sheet lists soy lecithin). No sesame, no nuts listed. Pain aux céréales: made from a multigrain premix whose sheet lists wheat, rye, **sesame**, sunflower, flax, and "may contain nuts".
 2. **Answer the product question.** Pain aux céréales: no, it contains sesame. Pain au chocolat: sesame and nuts are not ingredients.
 3. **Answer the cross-contact question honestly.** The chocolate sheet says "may contain traces of hazelnut" (the supplier processes nuts on the same line), and the seeded doughs are shaped on the same bench after the plain doughs. The honest answer: "Sesame and nuts are not ingredients of the pain au chocolat, but its chocolate supplier warns of possible hazelnut traces, and we use sesame in the bakery. For a severe allergy we cannot guarantee it is free of traces."
-4. **What the bakery fixes.** The allergen table gets a column note for "possible traces" from supplier sheets; seeded doughs are kept to the end of production with a cleaning step after; the sales staff are briefed: always show the table, never guess (Module 19 covers the customer conversation).
+4. **What the bakery fixes.** The allergen table gets a column note for "possible traces" from supplier sheets; seeded doughs are kept to the end of production with a cleaning step after; the sales staff are briefed: always show the table, never guess ([Module 19](../module-19/lesson-03.md) covers the customer conversation).
 
 ## Practice
 

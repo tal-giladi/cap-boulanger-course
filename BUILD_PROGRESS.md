@@ -38,7 +38,7 @@ Goal: build "CAP Boulanger Preparation" per `curriculum/plan.md`, following
 - [x] Module 16 — Troubleshooting
 - [x] Module 17 — Hygiene and Food Safety
 - [x] Module 18 — Environmental Responsibility
-- [ ] Module 19 — Communication and Sales
+- [x] Module 19 — Communication and Sales
 - [ ] Module 20 — The Bakery as a Workplace and a Business
 - [ ] Module 21 — EP1 Practice
 - [ ] Module 22 — EP2 Practice and Production Day
@@ -47,7 +47,7 @@ Goal: build "CAP Boulanger Preparation" per `curriculum/plan.md`, following
 
 ## Agents now
 
-- Agent A: module 19 (running)
+- Agent B: module 20 (running)
 
 ## Decisions and open questions
 
@@ -81,3 +81,4 @@ Goal: build "CAP Boulanger Preparation" per `curriculum/plan.md`, following
 - Module 15 conventions: crust colour scale 1–5 with product targets; crumb record = holes ≥ 5 mm in a 4 × 4 cm window + press test + tracing; house weight tolerance ±3 %, salt checked on the lightest piece; trade scales verified every 2 years (yearly for prepackages); cooling before the shop ~30 min bread / ~20 min viennoiserie. Final QA: quality-rubric template changes (pain courant + tradition crumb lines, croissant /18, colour scale pointer, exterior subtotal /12, weight target definition, expected crumb table); optional weight-control and tasting templates; module 15 troubleshooting rows (check against new page); 15.4/15.5 mention Module 17 and 19 in plain text; INRAE OPALINE host has TLS errors.
 - Module 18: energy price 0.20 €/kWh (CNBPF example); bakery energy split heat 65 / cold 22 / motors 8 / lighting 5 %; craft bakery has no donation-agreement duty (only distributors > 400 m²); biowaste sorting for all professionals since 2024-01-01; old bread allowed in pain courant dough, never in tradition; donation tax reduction 60 % (ceiling €20,000 or 0.5 % turnover); AGEC thin bags < 50 µm only if home-compostable ≥ 60 % bio-based. Final QA: re-check those volatile items; ADEME/gov.il pages blocked; S4.3.2.5 waste-water devices not covered; optional back-links 13.4→18.1, 15.5/09.1/07.5/06.5→18.2, 13.6→18.3.
 - Module 17 numbers: CNBPF reception limits very perishable +7 °C, perishable +11 °C, frozen −15 °C; chilled > +7 °C core → discard; frozen warmed to −15…+4 °C → thaw cold, treat as fresh; opened products 3 days unless label says otherwise; temperature records 12 months. Final QA: module 17 sources (see matrix), ANSES sources for E. coli / C. botulinum / B. cereus, optional templates (cold-unit temperature log, cleaning plan, allergen table); 17.6 → module 19 link after merge.
+- Module 19: report order everywhere = facts and figures → what I did → what I propose → manager decides; pitch card has seven blocks. Module 21 can reuse module 19's quiz and project Saturday brief. Final QA: module 19 sources (Code du travail L4131-1, justice.fr allergens, Reg. 1924/2006, 828/2014), optional templates pitch-card / hand-over-brief, re-check Israeli allergen labelling change (Jan 2028).

@@ -1,0 +1,87 @@
+- id: q1
+  question: >-
+    A technical sheet for a trainee reads: "____ : 1 h 15 en chambre de pousse à 25 °C, 75-80 % HR,
+    test du doigt". Which professional term fills the blank?
+  options:
+    - >-
+      Pointage
+    - >-
+      Détente
+    - >-
+      Ressuage
+    - >-
+      Apprêt
+  correct: 3
+  explanation: >-
+    The final proof of shaped pieces in the proofer, judged with the finger test, is the apprêt.
+    Pointage is bulk fermentation before dividing, détente the short rest after pre-shaping, ressuage
+    the cooling after baking.
+
+- id: q2
+  question: >-
+    The baguette dough is slack this morning and the baguettes are flatter. A customer asks why they
+    look different. Which answer suits the situation?
+  options:
+    - >-
+      « La pâte a relâché pendant l'apprêt, on manquait de force au pointage. »
+    - >-
+      « Elles sont un peu plus plates aujourd'hui, mais elles sont tout aussi bonnes. »
+    - >-
+      « C'est le nouveau commis qui a raté le façonnage, ce n'est pas notre faute. »
+    - >-
+      « Il y a eu une non-conformité de production, le rapport est en cours. »
+  correct: 1
+  explanation: >-
+    Customers get everyday words and no fournil jargon or internal fault reports; the fact (flatter,
+    same taste) is enough. Blaming a colleague is never appropriate at the counter.
+
+- id: q3
+  question: >-
+    The chef calls « Rabats-moi le bac de tradition ! » What does he want?
+  options:
+    - >-
+      A fold of the tradition dough during its pointage
+    - >-
+      The tradition dough divided into pieces at once
+    - >-
+      The tradition dough tub moved back into the cold room
+    - >-
+      The tradition pieces scored before they go into the oven
+  correct: 0
+  explanation: >-
+    Rabattre is to give a rabat, a fold during bulk fermentation that strengthens the dough. Dividing
+    is diviser, scoring is lamer or grigner.
+
+- id: q4
+  question: >-
+    Which sentence uses fournée and lot correctly?
+  options:
+    - >-
+      « Ce lot de croissants sort du four, c'est la troisième fournée de pâte de la journée. »
+    - >-
+      « Une fournée de pâte de tradition donne deux lots dans le four à sole. »
+    - >-
+      « Ce lot de pâte de tradition fera deux fournées dans le four à sole. »
+    - >-
+      « La fournée a pointé quarante-cinq minutes avant la division. »
+  correct: 2
+  explanation: >-
+    A lot is a batch of dough; a fournée is one oven load. One batch of dough can make several oven
+    loads; a fournée does not ferment in a tub.
+
+- id: q5
+  question: >-
+    Which list gives the right article for each piece of equipment?
+  options:
+    - >-
+      le diviseuse, la laminoir, le couche, la banneton
+    - >-
+      la diviseuse, le laminoir, la couche, le banneton
+    - >-
+      le diviseuse, le laminoir, la couche, la banneton
+    - >-
+      la diviseuse, la laminoir, le couche, le banneton
+  correct: 1
+  explanation: >-
+    La diviseuse, le laminoir, la couche, le banneton. Learning each noun with its article avoids
+    mistakes that make a report sound unprofessional.

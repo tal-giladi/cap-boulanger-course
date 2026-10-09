@@ -1,0 +1,21 @@
+- **Acidulé** (*ah-see-dü-LAY*) — lightly sour: the taste a levain gives a bread; a descriptor for pitch cards.
+- **Allégation (nutritionnelle)** (*ah-lay-gah-SYOHN*) — a nutrition claim such as "source de fibres" (at least 3 g fibre per 100 g), "riche en fibres" (at least 6 g) or "pauvre en sel" (at most 0.12 g sodium per 100 g); allowed only when the product meets the legal condition.
+- **Association mets et pain** (*ah-soh-syah-SYOHN MAY ay PAN*) — which foods a bread goes with; one of the three things a product argument must give (with composition and conservation).
+- **Chef / cheffe** (*SHEF*) — the head of the fournil; also how a baker addresses the head baker (« Chef, … »).
+- **Cœliaque** (*say-LYAK*) — coeliac: a person who must avoid gluten completely; nothing from a wheat bakery can be offered as safe.
+- **Coup de feu** (*koo duh FUH*) — the rush: the busiest moment of the bake or of the shop.
+- **Donner de la force** (*doh-NAY duh lah FORS*) — to strengthen a dough (a fold, tighter shaping, a longer pointage).
+- **Émettre une réserve** (*ay-MET-ruh ün ray-ZAIRV*) — to write a reservation on the delivery note before signing: product, quantity, defect, time.
+- **Fiche argumentaire** (*FEESH ar-gü-mahn-TAIR*) — pitch card: one page per product for the shop (name, composition, taste, pairings, keeping, allergens, the seller's sentence).
+- **Fruits à coque** (*frwee ah KOK*) — tree nuts (almond, hazelnut, walnut, cashew, pecan, Brazil, pistachio, macadamia), one of the 14 regulated allergens.
+- **Hors service** (*or sair-VEES*) — out of order: the tag hung on a stopped machine so nobody restarts it.
+- **Le mot juste / le terme juste** (*luh MOH ZHÜST*) — the exact professional term for a tool, gesture or fault.
+- **Panne** (*PAN*) — breakdown of a machine; reported at once after stopping and tagging it.
+- **Passation de consignes** (*pah-sah-SYOHN duh kohn-SEEN-yuh*) — hand-over brief between two people or shifts: what is done, what is due when, what waits where, what went wrong.
+- **« Peut contenir des traces de… »** (*puh kohn-tuh-NEER day TRASS duh*) — "may contain traces of…": a voluntary precautionary statement about possible cross-contact; the seller says it, never hides it.
+- **Registre de langage** (*ruh-ZHEES-truh duh lahn-GAHZH*) — register: familiar (familier), everyday (courant) or formal (soutenu) language, chosen for the listener and the situation.
+- **Sans gluten** (*sahn glü-TEN*) — gluten-free: a legal claim for food with at most 20 mg/kg of gluten as sold (Regulation 828/2014); never used for products of a wheat bakery.
+- **Tableau des allergènes** (*tah-BLOH dayz ah-lair-ZHEN*) — allergen table: each product against the 14 allergens, with possible traces, kept in writing at the till for customers.
+- **Tutoyer / vouvoyer** (*tü-twah-YAY / voo-vwah-YAY*) — to say "tu" (familiar) / "vous" (polite); vous to the chef, suppliers and every customer until invited.
+- **Vocabulaire professionnel** (*voh-kah-bü-LAIR proh-feh-syoh-NEL*) — trade vocabulary: the agreed words for tools, gestures, techniques and faults (référentiel S1.3.1).
+- **Consigne** (*kohn-SEEN-yuh*) — an instruction given to staff (a work instruction or rule); also the set point of a thermostat (see consigne de température).

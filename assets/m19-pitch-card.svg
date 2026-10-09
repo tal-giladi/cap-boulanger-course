@@ -1,0 +1,63 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 620" width="960" height="620" role="img" aria-labelledby="t d">
+  <title id="t">Structure of a product pitch card for sales staff</title>
+  <desc id="d">A product pitch card, fiche argumentaire, in seven blocks from top to bottom, each with its question. 1 Name: the exact name on the shelf label, legal names only if the bread meets the law. 2 Composition and method: what is in it and how it is made, the facts that justify the name and price. 3 Taste and texture: three or four descriptors from the tasting sheet. 4 Goes with: two or three food pairings, association mets et pain. 5 Keeps: how long and how to store, paper bag, never the fridge for bread, freeze cooled and wrapped. 6 Allergens: from the written allergen table, with the may-contain note. 7 The one sentence the seller says. A side panel lists sources: the technical sheet, the sensory analysis sheet, the allergen table and supplier sheets. A footer warns: no claim the bread cannot prove.</desc>
+  <rect x="0" y="0" width="960" height="620" fill="#ffffff"/>
+  <g font-family="Arial, Helvetica, sans-serif" fill="#222222">
+    <text x="480" y="34" text-anchor="middle" font-size="22" font-weight="bold">The fiche argumentaire: seven blocks, each from a document</text>
+
+    <rect x="40" y="60" width="600" height="500" rx="12" fill="#fbf7ef" stroke="#8a6a3a" stroke-width="2"/>
+
+    <rect x="60" y="76" width="560" height="52" rx="6" fill="#ffffff" stroke="#c9b48a"/>
+    <text x="76" y="98" font-size="16" font-weight="bold">1 Nom (name)</text>
+    <text x="76" y="118" font-size="14">the exact shelf name; tradition, maison, au levain only if the law is met</text>
+
+    <rect x="60" y="136" width="560" height="52" rx="6" fill="#ffffff" stroke="#c9b48a"/>
+    <text x="76" y="158" font-size="16" font-weight="bold">2 Composition et fabrication</text>
+    <text x="76" y="178" font-size="14">flours, levain or yeast, process: the facts behind the name and the price</text>
+
+    <rect x="60" y="196" width="560" height="52" rx="6" fill="#ffffff" stroke="#c9b48a"/>
+    <text x="76" y="218" font-size="16" font-weight="bold">3 Goût et texture (taste and texture)</text>
+    <text x="76" y="238" font-size="14">3-4 descriptors from the tasting: crust, crumb, aroma, taste</text>
+
+    <rect x="60" y="256" width="560" height="52" rx="6" fill="#ffffff" stroke="#c9b48a"/>
+    <text x="76" y="278" font-size="16" font-weight="bold">4 Association mets et pain (goes with)</text>
+    <text x="76" y="298" font-size="14">2-3 dishes or moments it suits</text>
+
+    <rect x="60" y="316" width="560" height="52" rx="6" fill="#ffffff" stroke="#c9b48a"/>
+    <text x="76" y="338" font-size="16" font-weight="bold">5 Conservation (keeps)</text>
+    <text x="76" y="358" font-size="14">how long, how: paper bag, never the fridge, freeze cooled and wrapped</text>
+
+    <rect x="60" y="376" width="560" height="52" rx="6" fill="#ffffff" stroke="#c9b48a"/>
+    <text x="76" y="398" font-size="16" font-weight="bold">6 Allergènes</text>
+    <text x="76" y="418" font-size="14">from the allergen table, with any "may contain" note: show the table</text>
+
+    <rect x="60" y="436" width="560" height="104" rx="6" fill="#efe4cf" stroke="#8a6a3a" stroke-width="1.5"/>
+    <text x="76" y="460" font-size="16" font-weight="bold">7 La phrase du vendeur (the seller's sentence)</text>
+    <text x="76" y="484" font-size="14">one or two sentences, under 30 words, that a seller can say</text>
+    <text x="76" y="504" font-size="14">to a customer in 10 seconds, using blocks 1-5;</text>
+    <text x="76" y="524" font-size="14">allergen answers always come from the table, never from memory</text>
+
+    <!-- sources panel -->
+    <rect x="670" y="76" width="260" height="352" rx="10" fill="#eef3f8" stroke="#3b5b8c" stroke-width="2"/>
+    <text x="800" y="104" text-anchor="middle" font-size="16" font-weight="bold">Where each block</text>
+    <text x="800" y="124" text-anchor="middle" font-size="16" font-weight="bold">comes from</text>
+    <text x="688" y="160" font-size="14">1, 2: fiche technique;</text>
+    <text x="688" y="180" font-size="14">the 1993 decree for names</text>
+    <text x="688" y="216" font-size="14">3: fiche d'analyse</text>
+    <text x="688" y="236" font-size="14">sensorielle (your tasting)</text>
+    <text x="688" y="272" font-size="14">4: tasting, house practice</text>
+    <text x="688" y="308" font-size="14">5: how the product stales</text>
+    <text x="688" y="328" font-size="14">(07.5, 12.5); bag rules (18.3)</text>
+    <text x="688" y="364" font-size="14">6: tableau des allergènes</text>
+    <text x="688" y="384" font-size="14">and supplier sheets</text>
+
+    <line x1="640" y1="250" x2="668" y2="250" stroke="#3b5b8c" stroke-width="2"/>
+
+    <rect x="670" y="448" width="260" height="92" rx="10" fill="#fde8e8" stroke="#b03030" stroke-width="2"/>
+    <text x="800" y="476" text-anchor="middle" font-size="15" font-weight="bold">No claim the bread</text>
+    <text x="800" y="496" text-anchor="middle" font-size="15" font-weight="bold">cannot prove</text>
+    <text x="800" y="522" text-anchor="middle" font-size="13">no "sans gluten", no health promise</text>
+
+    <text x="480" y="596" text-anchor="middle" font-size="14" fill="#444444">Référentiel C4.2: present composition, association mets et pain and conservation, from the technical and sensory sheets.</text>
+  </g>
+</svg>

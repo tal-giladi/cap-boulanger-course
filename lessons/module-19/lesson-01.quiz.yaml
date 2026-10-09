@@ -1,0 +1,92 @@
+- id: q1
+  question: >-
+    6:40, dairy delivery. Your probe reads butter 3 °C, milk 4 °C, cream 9 °C. The house rule follows
+    the CNBPF guide (very perishable: target 0/+4 °C, limit +7 °C). The driver wants your signature.
+    What do you do?
+  options:
+    - >-
+      Sign, put the cream straight in the cold room and tell the chef at the break
+    - >-
+      Sign the note, then phone the supplier later to ask for a credit note
+    - >-
+      Accept the cream since it is only 2 °C over and will cool in the cold room
+    - >-
+      Keep the cream apart, tell the chef now and write a reservation before signing
+  correct: 3
+  explanation: >-
+    The cream is over the +7 °C limit. Report while the driver is there, keep it apart from accepted
+    goods and write the reservation on the bon de livraison before signing; after a clean signature the
+    problem is the bakery's.
+
+- id: q2
+  question: >-
+    Which spoken report to the chef is the best one?
+  options:
+    - >-
+      « Chef, le pétrin fait un bruit anormal, je l'ai arrêté et étiqueté. J'appelle le
+      technicien ? »
+    - >-
+      « Chef, je crois que le pétrin a un souci depuis ce matin, enfin je sais pas trop, faudrait
+      peut-être regarder un jour. »
+    - >-
+      « Chef, j'ai ouvert le capot du pétrin pour regarder la courroie, je pense que je peux la
+      réparer moi-même. »
+    - >-
+      « Chef, le pétrin est cassé à cause de Karim qui l'a surchargé hier soir, comme toujours. »
+  correct: 0
+  explanation: >-
+    It gives the fact, what was done (stopped, tagged), a proposal and asks for the decision. Vague
+    reports waste time, opening a guard is not your job, and blaming a person replaces facts with
+    an accusation.
+
+- id: q3
+  question: >-
+    On the second croissant batch, 14 of 40 croissants are flat with butter on the tray; the proofer
+    showed 31 °C. The shop opens in 20 minutes. Which action fits C4.4?
+  options:
+    - >-
+      Put all 40 on the shelf at a lower price without saying anything
+    - >-
+      Set the 14 aside and tell the chef the count and the proofer reading now
+    - >-
+      Throw the 14 away quietly so nobody sees the fault, then carry on with the next batch
+    - >-
+      Wait until the end of the day and write the report when it is calmer
+  correct: 1
+  explanation: >-
+    A production non-conformity is reported with the count and the evidence before the product
+    reaches the shop and before the next batch repeats the cause; hiding or delaying it does neither.
+
+- id: q4
+  question: >-
+    First week in a new bakery. How do you address the chef boulanger and a customer?
+  options:
+    - >-
+      Tu to the chef because everyone in a fournil says tu, vous to the customer
+    - >-
+      Tu to both, because a friendly register makes a better impression
+    - >-
+      Vous to both, and switch to tu with the chef only if he invites you
+    - >-
+      Vous to the chef, and tu to a regular customer from the first day
+  correct: 2
+  explanation: >-
+    Start with vous to the chef, the owner, suppliers and every customer; many fournils use tu between
+    bakers, but you switch only when invited (« On se tutoie ? »).
+
+- id: q5
+  question: >-
+    At 13:30 you hand over to the afternoon baker. Which brief is complete?
+  options:
+    - >-
+      « Tout va bien, t'inquiète, tu verras ce qui reste dans la chambre froide. »
+    - >-
+      « La poolish est prête. Le laminoir a un problème. Les traditions sont quelque part au froid. »
+    - >-
+      « J'ai fait les baguettes, les croissants et les traditions ce matin, c'était une grosse journée. »
+    - >-
+      « Traditions en pointage retardé, bacs 3 et 4, sortie 4 h ; poolish prête à 14 h ; laminoir hors service. »
+  correct: 3
+  explanation: >-
+    A hand-over says what is in progress and when it is due, where it waits, and what went wrong. The
+    others leave out times, places or the problem, so the next baker has to guess.

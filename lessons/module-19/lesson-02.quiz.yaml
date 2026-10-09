@@ -1,0 +1,89 @@
+- id: q1
+  question: >-
+    The référentiel lists what a product argument for sales staff must present. Which pitch card
+    covers it?
+  options:
+    - >-
+      Price, weight, the baker's name and the history of the recipe
+    - >-
+      Composition, the foods it goes with, and how it keeps
+    - >-
+      Mixing time, dough temperature, proof time and oven setting
+    - >-
+      Cost price, margin, VAT rate and selling price
+  correct: 1
+  explanation: >-
+    C4.2 asks for the product's composition, the association mets et pain and its conservation, built
+    from the technical sheet and the sensory analysis sheet. Process settings and costs are for the
+    fournil and the office.
+
+- id: q2
+  question: >-
+    New product: a campagne made with levain only. No laboratory analysis has been done yet. What
+    name goes on the label and the pitch card?
+  options:
+    - >-
+      Pain de campagne au levain, since levain is the only ferment used
+    - >-
+      Pain de tradition française, since it contains no yeast or additive
+    - >-
+      Pain de campagne, with levain named only as the method on the card
+    - >-
+      Pain au levain naturel, which avoids the protected wording
+  correct: 2
+  explanation: >-
+    "Au levain" requires a crumb pH of 4.3 or less and at least 900 ppm acetic acid (décret 93-1074,
+    art. 3), which needs an analysis; a near-copy of the wording claims the same thing. Campagne is a
+    free name; tradition has its own conditions and campagne usually has rye.
+
+- id: q3
+  question: >-
+    Analysis of the pain complet: fibre 6.8 g, salt 1.25 g per 100 g. Which sentence may the seller use?
+  options:
+    - >-
+      « Riche en fibres et pauvre en sel, idéal pour la santé. »
+    - >-
+      « Source de fibres, et il convient aux personnes sans gluten. »
+    - >-
+      « Pauvre en sel : seulement 1,25 g pour 100 g. »
+    - >-
+      « Riche en fibres : 6,8 g pour 100 g, avec de la farine complète. »
+  correct: 3
+  explanation: >-
+    "Riche en fibres" is allowed from 6 g per 100 g. "Pauvre en sel" needs at most 0.12 g sodium per
+    100 g (about 0.3 g salt), health promises are not allowed, and wholemeal wheat bread contains gluten.
+
+- id: q4
+  question: >-
+    After your brief, the seller repeats: « Pain de campagne, sans levure, il se garde une semaine au
+    frigo. » Your card says 2-3 days in a paper bag, never the fridge. What do you do?
+  options:
+    - >-
+      Correct the keeping advice and leave the card at the till
+    - >-
+      Accept it, since customers rarely keep bread that long anyway
+    - >-
+      Tell the seller to answer only "ask the baker" to any question
+    - >-
+      Add "keeps a week" to the card so the shop speaks with one voice
+  correct: 0
+  explanation: >-
+    Repeating back exists to catch exactly this. Bread stales fastest in the fridge (lesson 07.5) and
+    a campagne keeps 2-3 days in paper: correct it and leave the written card as the reference.
+
+- id: q5
+  question: >-
+    Which seller's sentence fits a pitch card best?
+  options:
+    - >-
+      « Un pain délicieux et unique, fait avec amour, à découvrir. »
+    - >-
+      « Notre tradition, sans additif : croûte croustillante, mie crème. »
+    - >-
+      « Un pain au levain bio sans gluten, très bon pour la digestion. »
+    - >-
+      « La pâte a pointé deux heures avec rabat, puis apprêt d'une heure à 26 °C. »
+  correct: 1
+  explanation: >-
+    It states composition and taste in plain words a customer understands. Empty adjectives say
+    nothing, the third makes unprovable claims, and the fourth is fournil vocabulary.

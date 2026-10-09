@@ -155,3 +155,9 @@
   - [103 · Waste, Food Waste and Unsold Bread](lessons/module-18/lesson-02.md)
   - [104 · Packaging and Cleaning Products](lessons/module-18/lesson-03.md)
   - [Module 18 quiz](assessments/module-18-quiz.md)
+- **Module 19 — Communication and Sales**
+  - [105 · Talking to Your Manager and Team](lessons/module-19/lesson-01.md)
+  - [106 · Briefing Sales Staff on a Product](lessons/module-19/lesson-02.md)
+  - [107 · Allergens, Storage and Pairing Questions](lessons/module-19/lesson-03.md)
+  - [108 · Professional Vocabulary in Use](lessons/module-19/lesson-04.md)
+  - [Module 19 quiz](assessments/module-19-quiz.md)

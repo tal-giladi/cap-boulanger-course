@@ -1,0 +1,185 @@
+- id: q1
+  question: >-
+    Bon de livraison, Moulin Lavoie, 6:30: "Farine de tradition française T65, sac de 25 kg, quantité
+    10." You count 9 sacks; one is torn, with damp flour at the bottom. The chef agrees to refuse the
+    torn sack. Which reservation do you write before signing?
+  options:
+    - >-
+      « Livraison non conforme, voir avec le chef. »
+    - >-
+      « Problème de farine, merci de rappeler le magasin rapidement. »
+    - >-
+      « 9 sacs reçus sur 10 ; 1 sac déchiré et humide refusé ; 6 h 35. »
+    - >-
+      « Reçu sous réserve de vérification ultérieure. »
+  correct: 2
+  explanation: >-
+    A reservation names the product, the quantity, the defect and the time so the supplier cannot
+    dispute it: 9 received of 10, one refused for a stated reason. Vague or general reservations prove
+    nothing.
+
+- id: q2
+  question: >-
+    During tourage you lift the sheeter's guard and the rollers keep turning. Nobody is hurt. What
+    do you do?
+  options:
+    - >-
+      Stop it, tag it "hors service" and alert the chef at once
+    - >-
+      Finish the croissant dough carefully, then mention it at the end of the shift
+    - >-
+      Open the control box to check the guard's switch before calling anyone
+    - >-
+      Keep using it with the guard down and write a note in the maintenance log
+  correct: 0
+  explanation: >-
+    A defect in a protection system must be reported to the employer immediately (Code du travail
+    L4131-1). Stop and tag the machine so nobody restarts it; repairing or working around the fault
+    is not the commis's job.
+
+- id: q3
+  question: >-
+    Draft non-conformity report, "What was found": four drafts for the same event. Which one meets
+    C4.4?
+  options:
+    - >-
+      « Les croissants sont ratés à cause du four qui ne marche jamais bien. »
+    - >-
+      « Problème de pousse ce matin, comme d'habitude avec cette armoire. »
+    - >-
+      « Je pense que Karim a mal réglé l'armoire hier soir avant de partir. »
+    - >-
+      « 6 h 20, fournée 2 : 14 croissants sur 40 plats, beurre sur plaque ; armoire à 31 °C. »
+  correct: 3
+  explanation: >-
+    The facts field gives what, when, how many and the measurement, in professional vocabulary,
+    before any cause. Opinions, habits and blame belong nowhere in it.
+
+- id: q4
+  question: >-
+    The owner's draft pitch card: "Baguette tradition maison — farine, eau, sel, levure." The mill's
+    sheet for the flour used says "farine de blé T65, farine de fèves 0,8 %, acide ascorbique (E300)".
+    The dough is made and baked on site. What name may the card carry?
+  options:
+    - >-
+      Baguette tradition maison, since bean flour up to 2 % is allowed
+    - >-
+      Baguette maison, but not tradition, because of the E300
+    - >-
+      Baguette tradition, but not maison, because the flour is bought in
+    - >-
+      Neither word, because the bean flour is an additive
+  correct: 1
+  explanation: >-
+    Ascorbic acid is an additive, so the bread cannot be pain de tradition française (décret 93-1074
+    art. 2); bean flour within 2 % would have been fine. Made and baked on site, it is still maison
+    (art. 1).
+
+- id: q5
+  question: >-
+    Laboratory analysis of the house pain complet: fibre 4.1 g, salt 1.28 g per 100 g. Which line is
+    correct on its pitch card?
+  options:
+    - >-
+      « Riche en fibres et pauvre en sel. »
+    - >-
+      « Riche en fibres : 4,1 g pour 100 g. »
+    - >-
+      « Source de fibres : 4,1 g pour 100 g. »
+    - >-
+      « Pauvre en sel : 1,28 g pour 100 g. »
+  correct: 2
+  explanation: >-
+    "Source de fibres" needs at least 3 g per 100 g and "riche en fibres" at least 6 g. "Pauvre en sel"
+    needs at most 0.12 g sodium per 100 g (about 0.3 g of salt), far below any bread.
+
+- id: q6
+  question: >-
+    Allergen table at the till (✓ ingredient, T possible traces): Tradition — gluten ✓, sesame T;
+    Pain viennois — gluten ✓, milk ✓, eggs ✓; Pain aux céréales — gluten ✓, sesame ✓, soy ✓. A
+    customer with a severe sesame allergy asks which bread is safe. What do you say?
+  options:
+    - >-
+      « La tradition, il n'y a pas de sésame dedans. »
+    - >-
+      « Le pain aux céréales, il y a très peu de graines de sésame. »
+    - >-
+      « Les trois, si vous enlevez les graines de la croûte. »
+    - >-
+      « Le viennois n'en contient pas ; la tradition, risque de traces. »
+  correct: 3
+  explanation: >-
+    The table shows no sesame and no trace mark for the viennois, and a trace risk for the tradition,
+    which must be said for a severe allergy. The pain aux céréales contains sesame.
+
+- id: q7
+  question: >-
+    A customer buys a brioche on Friday for Sunday breakfast and asks how to keep it. The shop has paper
+    bags, boxes and home-compostable biosourced bags. What do you advise?
+  options:
+    - >-
+      Once cool, in a closed bag or its box; warm it briefly on Sunday
+    - >-
+      In the fridge so the butter does not go rancid before Sunday
+    - >-
+      In an open paper bag so the crust stays crisp until Sunday
+    - >-
+      In the freezer, then straight into a very hot oven still frozen
+  correct: 0
+  explanation: >-
+    An enriched dough keeps 2-3 days closed (lesson 12.5), in a box or a bag allowed at the counter
+    (18.3). The fridge speeds staling; a paper bag dries a soft product.
+
+- id: q8
+  question: >-
+    You must write to the flour supplier about three late deliveries this month. Which opening suits
+    the situation?
+  options:
+    - >-
+      « Salut, encore en retard ce matin, faut vraiment que ça change ! »
+    - >-
+      « Madame, Monsieur, je vous signale trois livraisons en retard ce mois-ci. »
+    - >-
+      « Coucou, c'est la boulangerie, vous êtes encore à la bourre. »
+    - >-
+      « Yo, les sacs sont arrivés à 9 h, on a dû bricoler la tradition. »
+  correct: 1
+  explanation: >-
+    A written message to a supplier is formal: vous, a polite opening and the facts. The other
+    openings are familiar register, fine between close colleagues but never in writing to a business.
+
+- id: q9
+  question: >-
+    A croissant technical sheet for a trainee has blanks: "____ : abaisser la détrempe, enfermer le
+    beurre, donner 3 tours simples avec repos au froid entre chaque". Which term fills the blank?
+  options:
+    - >-
+      Détaillage
+    - >-
+      Frasage
+    - >-
+      Façonnage
+    - >-
+      Tourage
+  correct: 3
+  explanation: >-
+    Tourage is the folding of the détrempe and butter into layers by turns. Détaillage is cutting the
+    triangles, frasage the first phase of mixing, façonnage the rolling of the croissants.
+
+- id: q10
+  question: >-
+    Hand-over sheet, 6:45: "Fournée 3 pains au chocolat : 12 trop colorés, plateau de droite, mis de
+    côté." The seller has not been told. What does the brief to the shop say?
+  options:
+    - >-
+      Nothing: the seller will notice the dark ones and choose not to sell them
+    - >-
+      « Douze pains au chocolat brûlés, la faute au four, je fais le rapport. »
+    - >-
+      « Le plateau de droite, douze pains au chocolat, ne va pas en vente. »
+    - >-
+      « Vendez-les à moitié prix en disant qu'ils sont bien cuits. »
+  correct: 2
+  explanation: >-
+    The hand-over brief names what is set aside and why it must not be sold (lesson 15.5), in plain
+    words; the fault itself goes to the chef in the report, not into the shop.

@@ -90,7 +90,7 @@ The oven plan decides when each product can reach the shelf: plan the first load
 
 ### The hand-over brief
 
-At each hand-over the baker tells the sales staff, in two minutes: what is coming out and how many; what is short and when it will be ready; anything set aside and why (it must not be sold by mistake); anything new, with its name, what is in it, how it keeps and what it goes with. The product argument itself (C4.2) is taught in Module 19; the honest words for legal names are in lesson 09.1.
+At each hand-over the baker tells the sales staff, in two minutes: what is coming out and how many; what is short and when it will be ready; anything set aside and why (it must not be sold by mistake); anything new, with its name, what is in it, how it keeps and what it goes with. The product argument itself (C4.2) is taught in [Module 19](../module-19/lesson-02.md); the honest words for legal names are in [lesson 09.1](../module-09/lesson-01.md).
 
 ## Worked example
 

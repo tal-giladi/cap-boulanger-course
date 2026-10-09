@@ -32,7 +32,7 @@ Bread is a staple food: in France it is eaten every day by most people, so small
 
 ## Why it matters
 
-Customers ask "is wholemeal better?", "how much salt is in your baguette?", "why doesn't your bread have a Nutri-Score?". A baker must answer correctly, and a sales assistant repeats what you say (Module 19). The référentiel asks you to compare the nutritional characteristics of bakery products from documents and to justify the recommendations professionals apply on salt, sugar and fat (S4.1). Labels and their rules are part of S4.3. Labelling rules change, so this lesson is dated: check the sources if you read it much later.
+Customers ask "is wholemeal better?", "how much salt is in your baguette?", "why doesn't your bread have a Nutri-Score?". A baker must answer correctly, and a sales assistant repeats what you say ([Module 19](../module-19/lesson-02.md)). The référentiel asks you to compare the nutritional characteristics of bakery products from documents and to justify the recommendations professionals apply on salt, sugar and fat (S4.1). Labels and their rules are part of S4.3. Labelling rules change, so this lesson is dated: check the sources if you read it much later.
 
 ## Key terms
 
@@ -162,7 +162,7 @@ Your recalculated energy matches the labels within a few percent, you can show w
 |---|---|---|---|
 | Recalculated energy far from the label | Read per portion instead of per 100 g, or forgot fat × 9 | Recheck the column and factors | Always work per 100 g first |
 | Salt and sodium confused | Some labels or analyses give sodium | Salt = sodium × 2.5 | Note the unit on every figure |
-| Shop staff tell customers "this bread is gluten-free because it's wholemeal" | Wrong product information | Correct it at once; wholemeal wheat contains gluten | Brief staff with written product sheets (Module 19) |
+| Shop staff tell customers "this bread is gluten-free because it's wholemeal" | Wrong product information | Correct it at once; wholemeal wheat contains gluten | Brief staff with written product sheets ([Module 19](../module-19/lesson-02.md)) |
 | Bakery's packaged sliced bread sold without a nutrition table | Prepacked product treated like loose bread | Withdraw or relabel; check whether the small-quantity exemption applies | Check labelling rules for each sales channel |
 | "Our bread has Nutri-Score A" printed with the old calculation | Logo not updated | Recalculate with the new method | Update packs within the transition period |
 

@@ -1,0 +1,89 @@
+- id: q1
+  question: >-
+    A customer asks: « Il y a des noisettes dans le pain au chocolat ? » The allergen table shows no
+    nuts in the recipe, but the chocolate's supplier sheet says "peut contenir des traces de fruits à
+    coque". What do you answer?
+  options:
+    - >-
+      « Non, il n'y a aucune noisette, vous pouvez le prendre sans souci. »
+    - >-
+      « Normalement non, le chocolat c'est juste du cacao et du sucre. »
+    - >-
+      « Pas dans la recette, mais je ne peux pas garantir l'absence de traces. »
+    - >-
+      « Je pense que c'est bon, mais je vous conseille d'en manger peu. »
+  correct: 2
+  explanation: >-
+    Give the table's answer and the trace risk from the supplier sheet; the customer decides. Saying
+    "aucune" hides the trace risk, and "normalement" or "je pense" are guesses.
+
+- id: q2
+  question: >-
+    A customer asks for something gluten-free for a coeliac friend. The bakery makes tradition,
+    an épeautre (spelt) loaf, a rye loaf and viennoiserie in one fournil. What is the right answer?
+  options:
+    - >-
+      Offer the spelt loaf, since spelt is an ancient grain with little gluten
+    - >-
+      Explain that every product contains or may contain gluten, so none is safe
+    - >-
+      Offer the rye loaf, since rye forms no gluten network in the dough
+    - >-
+      Offer a tradition, since it has no additive and no added gluten
+  correct: 1
+  explanation: >-
+    Spelt and rye contain gluten, and "sans gluten" needs 20 mg/kg or less as sold, which flour dust in
+    a wheat fournil rules out. A rye dough forming no gluten network does not make it safe for a coeliac.
+
+- id: q3
+  question: >-
+    « J'achète trois baguettes pour le week-end ; je les garde au frigo ? » Which advice is right?
+  options:
+    - >-
+      Fridge in their paper bag, so the bread stays fresh until Sunday
+    - >-
+      In a closed plastic bag on the table, so the crust stays crisp
+    - >-
+      Fridge wrapped in film, then a few minutes in the oven before eating
+    - >-
+      Eat one today; freeze the others cooled and wrapped, then reheat
+  correct: 3
+  explanation: >-
+    Bread stales fastest at fridge temperature, and plastic softens a crust. A baguette is best the same
+    day; freezing once cooled and wrapped, then a few minutes in a hot oven, gives the nearest to fresh.
+
+- id: q4
+  question: >-
+    A customer asks whether the new pain aux graines contains lupin. The product is not yet in the
+    allergen table and the baker is in the fournil. What do you do?
+  options:
+    - >-
+      Say « Je ne sais pas, je demande au boulanger » and check before selling it
+    - >-
+      Say no, because lupin is very rare in bakery products
+    - >-
+      Read the price label, which lists the main ingredients, and answer from it
+    - >-
+      Sell it with a warning that the table is not up to date yet
+  correct: 0
+  explanation: >-
+    When the written information does not answer the question, the honest reply is "I don't know, I'll
+    ask", and no sale until it is checked. Seed premixes can contain lupin, soy or mustard.
+
+- id: q5
+  question: >-
+    For unwrapped bread and viennoiserie in a French bakery, how must allergen information be given?
+  options:
+    - >-
+      Orally on request; nothing written is needed for unwrapped products
+    - >-
+      Only on prepacked products; unwrapped craft products are exempt
+    - >-
+      In writing, visibly, near the products, for example a table at the till
+    - >-
+      Only on the bakery's website, as long as the shop shows the address
+  correct: 2
+  explanation: >-
+    Article 44 of Regulation 1169/2011 makes allergen information mandatory for non-prepacked food, and
+    the French Code de la consommation (R412-12 to R412-16) requires it in writing, visibly, near the
+    products. There is no small-business exemption.
