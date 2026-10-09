@@ -28,7 +28,7 @@ Water is the cheapest ingredient in bread and the one that changes it most: one 
 
 ## Why it matters
 
-Without water, flour proteins cannot form gluten, yeast cannot ferment, salt cannot dissolve and starch cannot set into crumb. The amount of water decides the dough's consistency (*consistance*), which decides how it mixes, ferments, shapes and bakes. Water is also the ingredient you use to control dough temperature, because it is the easiest one to warm or cool (Module 5). Getting the water right is the first daily adjustment a professional makes.
+Without water, flour proteins cannot form gluten, yeast cannot ferment, salt cannot dissolve and starch cannot set into crumb. The amount of water decides the dough's consistency (*consistance*), which decides how it mixes, ferments, shapes and bakes. Water is also the ingredient you use to control dough temperature, because it is the easiest one to warm or cool ([Module 5](../module-05/lesson-02.md)). Getting the water right is the first daily adjustment a professional makes.
 
 ## Key terms
 
@@ -90,7 +90,7 @@ That is why a recipe gives a hydration, but the baker finishes the adjustment by
 - Bakeries must use **drinking water** (*eau potable*); the décret on pain de tradition française names it explicitly. French tap water is drinking water.
 - **Hardness** is mainly calcium and magnesium, measured in French degrees (°f). Medium-hard water (roughly 10–20 °f) suits bread best. Very soft water (below about 5 °f) gives a slacker, stickier dough. Very hard water (above about 30 °f) tightens the gluten and can slow fermentation. Most bakers simply adjust the water quantity; the effect is smaller than a change of flour.
 - **Chlorine** in tap water at normal levels does not harm yeast in a dough. Water with a strong taste or smell will show in the bread.
-- **Temperature** of the water is chosen each time to reach the target dough temperature (Module 5). Never use water above about 40 °C on yeast directly.
+- **Temperature** of the water is chosen each time to reach the target dough temperature ([Module 5](../module-05/lesson-02.md)). Never use water above about 40 °C on yeast directly.
 
 ## Worked example
 
@@ -126,7 +126,7 @@ Two small doughs, identical except for water.
 
 ### Steps
 
-1. Measure flour temperature and room temperature. Choose a water temperature so the dough ends at 23–25 °C (as a quick rule for hand mixing: water ≈ 70 − flour temp − room temp; Module 5 explains it).
+1. Measure flour temperature and room temperature. Choose a water temperature so the dough ends at 23–25 °C (as a quick rule for hand mixing: water ≈ 70 − flour temp − room temp; [Module 5](../module-05/lesson-02.md) explains it).
 2. Dissolve the yeast in the water, add flour, mix by hand to a rough dough, rest 10 minutes, add salt, then knead 8–10 minutes (slap and fold for the wet dough B).
 3. Measure each dough's temperature. Note how each feels: sticky? firm? does it hold a ball?
 4. Put each in a container, mark the level, and leave to ferment (pointage) 60–90 minutes at room temperature, with one fold at 30 minutes.
@@ -159,7 +159,7 @@ Dough A is firm and easy to shape; its loaves keep a tall shape with a tighter, 
 | Dough sticks to everything and spreads | Hydration too high for this flour; weak flour | Give folds; flour the bench lightly; shape with wet hands | Lower hydration 2–3 points; hold back water and use bassinage |
 | Dough tears, dense crumb, thick crust | Hydration too low | Bassinage at end of mixing | Start 2 points higher; check flour moisture |
 | Lumps of salt or yeast in the dough | Not dissolved: dough too dry or added too late | Knead longer | Add salt with enough water; dissolve yeast first |
-| Dough too warm or too cold | Wrong water temperature | Adjust fermentation time | Calculate water temperature (Module 5) |
+| Dough too warm or too cold | Wrong water temperature | Adjust fermentation time | Calculate water temperature ([Module 5](../module-05/lesson-02.md)) |
 | Gummy crumb in the wet loaf | Under-baked or cut too warm | Return to oven 5–10 min | Bake to deep colour; cool fully before cutting |
 
 ## Review

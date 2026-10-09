@@ -50,8 +50,8 @@ The référentiel asks you to define the phases of mixing and the effect of each
 
 ### The phases
 
-1. **Frasage** (first speed, about 3–5 minutes). Water, flour and the other ingredients are blended until no dry flour is left and the dough is even. This is when you check consistency and adjust water (lesson 03.2).
-2. **Étirage and soufflage** (the kneading proper, first or second speed). The hook stretches the dough against the bowl (*étirage*), folds it back over itself and traps air (*soufflage*). The gluten network forms and the dough becomes smooth and elastic (lesson 03.1). Depending on the method this lasts from a few minutes to more than 15.
+1. **Frasage** (first speed, about 3–5 minutes). Water, flour and the other ingredients are blended until no dry flour is left and the dough is even. This is when you check consistency and adjust water (lesson [03.2](lesson-02.md)).
+2. **Étirage and soufflage** (the kneading proper, first or second speed). The hook stretches the dough against the bowl (*étirage*), folds it back over itself and traps air (*soufflage*). The gluten network forms and the dough becomes smooth and elastic (lesson [03.1](lesson-01.md)). Depending on the method this lasts from a few minutes to more than 15.
 
 ### Order of ingredients
 
@@ -62,7 +62,7 @@ The référentiel asks you to define the phases of mixing and the effect of each
 | Start of frasage | fresh yeast, crumbled (or dissolved in the water) | even dispersion |
 | During or end of frasage | salt | at the start it slows oxidation and fermentation slightly; delayed salting (*salage différé*) shortens mixing but whitens the crumb |
 | End of frasage | pâte fermentée, cut into pieces | it is already a developed, salted dough; it only needs to be blended in |
-| End of mixing | bassinage water if needed | to soften a dough that is too firm (lesson 03.5) |
+| End of mixing | bassinage water if needed | to soften a dough that is too firm (lesson [03.5](lesson-05.md)) |
 
 ### The three methods
 
@@ -73,7 +73,7 @@ The référentiel asks you to define the phases of mixing and the effect of each
 | Typical spiral-mixer time | frasage 4 min + about 12–16 min in first speed | frasage 4 min + about 5–7 min in second speed | frasage 4 min + about 10–12 min in second speed |
 | Development at the end | low: the dough is soft and not smooth | good, slightly below maximum | maximum |
 | Oxidation | very little: creamy crumb | moderate | strong: very white crumb |
-| Temperature rise | small | moderate | large (lesson 03.4) |
+| Temperature rise | small | moderate | large (lesson [03.4](lesson-04.md)) |
 | Pointage needed | long (often 2–3 h), with folds | medium (about 45 min–1 h 30) | short (often 20–40 min) |
 | Bread | irregular open crumb, thick crust, most aroma, keeps best, smaller volume; dough harder to shape | balanced volume and taste; easier shaping | big volume, regular fine crumb, thin crust that flakes, bland, stales fast |
 | Typical use | tradition, levain breads | pain courant and tradition in most artisan shops | industrial and fast production; rare in artisan shops today |
@@ -82,7 +82,7 @@ These times are orders of magnitude for a medium-firm dough of about 5–10 kg o
 
 ### Why the methods exist
 
-Intensive mixing spread in France in the 1950s–60s with the two-speed mixer: it gave very white, voluminous baguettes after a short pointage, which suited a faster rhythm of work. Its cost was flavour and keeping quality, because heavy oxidation destroys flour pigments and aroma and a short fermentation produces fewer aroma compounds. Improved mixing, the autolyse and slow mixing are the artisan answer: develop the dough less in the mixer and let **time** build strength and flavour during pointage. You will meet this trade-off again in Module 4.
+Intensive mixing spread in France in the 1950s–60s with the two-speed mixer: it gave very white, voluminous baguettes after a short pointage, which suited a faster rhythm of work. Its cost was flavour and keeping quality, because heavy oxidation destroys flour pigments and aroma and a short fermentation produces fewer aroma compounds. Improved mixing, the autolyse and slow mixing are the artisan answer: develop the dough less in the mixer and let **time** build strength and flavour during pointage. You will meet this trade-off again in [Module 4](../module-04/lesson-01.md).
 
 ### By hand
 

@@ -28,7 +28,7 @@ last_verified: "2026-10-09"
 
 # 17.3 · Personal Hygiene and Cross-Contamination
 
-The person is the first source of contamination in a bakery: the CNBPF hygiene guide calls hands the first vector of contamination in the business. This lesson goes beyond the day-one rules of lesson 01.3: health and wounds, clothing, gloves, behaviour, training, and how microbes and allergens jump from one product to another. You finish with a scenario drill and a self-audit of one of your own bakes.
+The person is the first source of contamination in a bakery: the CNBPF hygiene guide calls hands the first vector of contamination in the business. This lesson goes beyond the day-one rules of lesson [01.3](../module-01/lesson-03.md): health and wounds, clothing, gloves, behaviour, training, and how microbes and allergens jump from one product to another. You finish with a scenario drill and a self-audit of one of your own bakes.
 
 ## Why it matters
 
@@ -57,7 +57,7 @@ The employer must keep staff fit to handle food (CNBPF guide):
 - **Medical visits** through the occupational health service: an information and prevention visit at hiring, periodic visits depending on the job, visits on request, and a return-to-work visit after maternity leave, an occupational illness, at least 30 days off after a work accident, or at least 60 days off after a non-work illness or accident.
 - **Tell the manager before the shift** about diarrhoea, vomiting, fever, a respiratory infection or an infected wound. Staff with gastroenteritis, flu or an open wound do not handle food (Service-Public); with a mild respiratory infection the CNBPF guide asks for a mask.
 - **Wounds and burns** are covered with a waterproof dressing **and** a glove or finger cot. Staphylococci live in infected wounds; ANSES advises keeping workers with skin lesions away from unwrapped food until the lesions are properly covered.
-- **Healthy carriers** (porteurs sains) spread microbes without symptoms: up to half of people carry *S. aureus* in the nose (lesson 17.2). That is why the rules apply to everyone, every time.
+- **Healthy carriers** (porteurs sains) spread microbes without symptoms: up to half of people carry *S. aureus* in the nose (lesson [17.2](lesson-02.md)). That is why the rules apply to everyone, every time.
 
 ### Clothing and the body
 
@@ -69,11 +69,11 @@ The employer must keep staff fit to handle food (CNBPF guide):
 | Separate clean and dirty clothes in the locker | dirty clothes recontaminate clean ones |
 | Visitors (a technician, an inspector, a delivery driver entering production) wear a visitor kit | they bring the outside in |
 
-Lesson [01.3](../module-01/lesson-03.md) lists the protective clothing (safety shoes, oven gloves) for your own safety; lesson 17.9 covers the employee-safety side.
+Lesson [01.3](../module-01/lesson-03.md) lists the protective clothing (safety shoes, oven gloves) for your own safety; lesson [17.9](lesson-09.md) covers the employee-safety side.
 
 ### Hands: when and how
 
-The moments and the method are in lesson 01.3 (CNBPF): at the start of work and after breaks, after the toilet, after blowing your nose, after any **dirty operation** (receiving goods, unpacking cartons, breaking eggs, raw foods, bins, cleaning) and **before any sensitive operation** (sandwiches, crème pâtissière after cooking). The 2019 EP1 paper asked for the justification of each step; here it is:
+The moments and the method are in lesson [01.3](../module-01/lesson-03.md) (CNBPF): at the start of work and after breaks, after the toilet, after blowing your nose, after any **dirty operation** (receiving goods, unpacking cartons, breaking eggs, raw foods, bins, cleaning) and **before any sensitive operation** (sandwiches, crème pâtissière after cooking). The 2019 EP1 paper asked for the justification of each step; here it is:
 
 | Step | Why |
 |---|---|
@@ -104,7 +104,7 @@ Contamination comes from five sources, the **5M**: **main-d'œuvre** (people), *
 | Raw → cooked | egg shells or the raw-egg whisk near cooled crème pâtissière | separate tools and zones; wash hands after eggs |
 | Dirty → clean surface | delivery carton on the finishing bench | cartons opened in the reception area, never on a work surface |
 | Tool → product | knife used for raw vegetables then for cooked ham | clean and disinfect between jobs, or colour-coded tools |
-| Allergen → product | sesame on the scraper, then plain dough | plain doughs first; clean between (lesson 17.6) |
+| Allergen → product | sesame on the scraper, then plain dough | plain doughs first; clean between (lesson [17.6](lesson-06.md)) |
 
 The organising principle is the **marche en avant** (forward flow): dirty and clean products and operations never cross (lesson [01.2](../module-01/lesson-02.md)). In **space**, the rooms and routes go one way from delivery to shop, with separate returns for dirty trays and waste. In **time**, one bench serves several jobs one after the other, from the cleanest to the dirtiest, with cleaning and disinfection in between.
 

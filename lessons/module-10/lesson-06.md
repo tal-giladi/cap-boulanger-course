@@ -161,7 +161,7 @@ Three pâtons of 280 g = 840 g; the remaining 56 g can be one small roll.
 
 ### How you know it worked
 
-The three baguettes look identical: straight, round in section, glossy, with a regular "ladder" of pale oblique cuts. The crust is thin and soft-crisp, not hard; the crumb is fine, white-cream, soft and slightly sweet, and it tears in soft strands. Put next to your baguettes of Module 8, the difference in crust, crumb and cut pattern is obvious.
+The three baguettes look identical: straight, round in section, glossy, with a regular "ladder" of pale oblique cuts. The crust is thin and soft-crisp, not hard; the crumb is fine, white-cream, soft and slightly sweet, and it tears in soft strands. Put next to your baguettes of [Module 8](../module-08/lesson-01.md), the difference in crust, crumb and cut pattern is obvious.
 
 ### Self-check
 

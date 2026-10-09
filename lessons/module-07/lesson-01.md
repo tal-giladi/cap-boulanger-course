@@ -21,7 +21,7 @@ last_verified: "2026-10-08"
 
 # 07.1 · The 18 Stages from Order to Clean Bench
 
-Lesson 01.2 showed the bakery's day as one flow; this lesson breaks it into the full set of 18 production stages, from reading the order to leaving a clean bench. For each stage you learn what it produces, why it exists and how it is checked, and you finish by writing the stage list for your next bake.
+Lesson [01.2](../module-01/lesson-02.md) showed the bakery's day as one flow; this lesson breaks it into the full set of 18 production stages, from reading the order to leaving a clean bench. For each stage you learn what it produces, why it exists and how it is checked, and you finish by writing the stage list for your next bake.
 
 ## Why it matters
 
@@ -64,11 +64,11 @@ The course counts 18 stages. Textbooks and bakeries group them differently (some
 | 9 | Division | pieces of the right weight | every product the same size ([04.3](../module-04/lesson-03.md)) | weight within tolerance |
 | 10 | Boulage / préfaçonnage | pre-shaped pieces | an even start for shaping | regular tension |
 | 11 | Détente | relaxed pieces | gluten relaxes so it can be lengthened | piece stretches without pulling back |
-| 12 | Façonnage | final shape with surface tension | form, volume and look of the bread (lesson 07.3) | length, regularity, seam closed |
+| 12 | Façonnage | final shape with surface tension | form, volume and look of the bread (lesson [07.3](lesson-03.md)) | length, regularity, seam closed |
 | 13 | Apprêt | proofed pieces ready for the oven | gas to the right volume ([04.4](../module-04/lesson-04.md)) | poke test |
-| 14 | Grignage | controlled cuts | the loaf opens where you choose (lesson 07.4) | cut angle, depth, number |
-| 15 | Enfournement with buée | bread loaded into a steamed oven | oven spring, thin shiny crust (lesson 07.4) | oven temperature, steam, spacing |
-| 16 | Cuisson and défournement | baked bread | crumb set, crust coloured (lesson 07.5) | colour, sound, core temperature |
+| 14 | Grignage | controlled cuts | the loaf opens where you choose (lesson [07.4](lesson-04.md)) | cut angle, depth, number |
+| 15 | Enfournement with buée | bread loaded into a steamed oven | oven spring, thin shiny crust (lesson [07.4](lesson-04.md)) | oven temperature, steam, spacing |
+| 16 | Cuisson and défournement | baked bread | crumb set, crust coloured (lesson [07.5](lesson-05.md)) | colour, sound, core temperature |
 | 17 | Ressuage, control, storage | cooled bread, weighed, presented or packed | steam leaves; product checked before sale | weight, look, quantity; storage conditions |
 | 18 | Nettoyage | clean, tidy station | hygiene, safety, next shift | cleaning plan done, tools away |
 
@@ -87,7 +87,7 @@ Fermentation does not stop between stages 7 and 16: the yeast keeps working whil
 
 ### After the oven: the most sensitive stages
 
-Baking kills most microorganisms in the crumb, so the cooled bread is the most sensitive product in the bakery: it will not be heated again ([01.2](../module-01/lesson-02.md)). Bread also keeps changing after the oven: steam leaves, the crumb sets as it cools, then it slowly stales (lesson 07.5). Stage 17 is therefore a real stage, not "waiting": racks, not bags; weighing and visual control before the shop; dated, covered storage for anything not sold today.
+Baking kills most microorganisms in the crumb, so the cooled bread is the most sensitive product in the bakery: it will not be heated again ([01.2](../module-01/lesson-02.md)). Bread also keeps changing after the oven: steam leaves, the crumb sets as it cools, then it slowly stales (lesson [07.5](lesson-05.md)). Stage 17 is therefore a real stage, not "waiting": racks, not bags; weighing and visual control before the shop; dated, covered storage for anything not sold today.
 
 ### Cleaning is stage 18 and happens all day
 
@@ -124,7 +124,7 @@ You write the complete stage list for your next bake, then use it during the bak
 ### You need
 
 - The PD-01 technical sheet (lesson [01.6](../module-01/lesson-06.md)), the [production sheet template](../../templates/production-sheet.md), the [organigramme template](../../templates/organigramme.md), a pencil, a timer.
-- For the bake: the equipment of lesson 01.7, a probe thermometer and an oven thermometer.
+- For the bake: the equipment of lesson [01.7](../module-01/lesson-07.md), a probe thermometer and an oven thermometer.
 - Professional equivalent: the bakery's fiche de fabrication for each product, pinned at the station.
 
 > [!WARNING]

@@ -67,7 +67,7 @@ The course sheets stay inside the viennoiserie columns of the [base formulas](..
 | Water actually brought (milk × 0.88 + egg × 0.75 + butter × 0.16) | about 56 | about 55 | about 57 |
 | Target dough temperature (TPV) | 24 °C | 23 °C | 23 °C |
 
-The last line explains why all three are workable doughs although none contains "water": milk is about 88 % water, whole egg about 75 % and butter about 16 % (lesson 02.8). What changes from left to right is not the water but **what comes with it**.
+The last line explains why all three are workable doughs although none contains "water": milk is about 88 % water, whole egg about 75 % and butter about 16 % (lesson [02.8](../module-02/lesson-08.md)). What changes from left to right is not the water but **what comes with it**.
 
 ### What eggs and butter do
 
@@ -85,7 +85,7 @@ flowchart LR
 
 ### Temperature: why a brioche's liquid is near freezing
 
-A brioche is mixed long (the gluten first, then the butter in stages) in a fast mixer, and the dough heats a lot. In the course's convention (lesson 05.2), a printed **TB already has the friction taken out**: water = TB − fournil − flour. The EP1 2019 sheet: TB 48 °C, fournil 22 °C, flour 22 °C, so **water 4 °C**, for a dough of 23-25 °C. Read backwards, the sheet tells you how much this mixing heats: 3 × 24 − 48 = 24, a friction factor of 24, about 8 °C of heating. In a brioche the "water" is mostly eggs and milk: straight from the cold room at about 4 °C, they are exactly what the sheet asks. The butter goes in cool and pliable (about 15-18 °C, lesson 02.8): soft enough to blend, cold enough not to melt.
+A brioche is mixed long (the gluten first, then the butter in stages) in a fast mixer, and the dough heats a lot. In the course's convention (lesson [05.2](../module-05/lesson-02.md)), a printed **TB already has the friction taken out**: water = TB − fournil − flour. The EP1 2019 sheet: TB 48 °C, fournil 22 °C, flour 22 °C, so **water 4 °C**, for a dough of 23-25 °C. Read backwards, the sheet tells you how much this mixing heats: 3 × 24 − 48 = 24, a friction factor of 24, about 8 °C of heating. In a brioche the "water" is mostly eggs and milk: straight from the cold room at about 4 °C, they are exactly what the sheet asks. The butter goes in cool and pliable (about 15-18 °C, lesson [02.8](../module-02/lesson-08.md)): soft enough to blend, cold enough not to melt.
 
 ### Fermentation: the night in the cold
 
@@ -93,7 +93,7 @@ The same EP1 sheet works in **pointage différé**: 30 minutes at room temperatu
 
 ### Baking and shapes
 
-Egg wash twice (after shaping and before baking), bake at about 180 °C for braids and large pieces (EP1 sheet) and up to about 190-200 °C conventional for small rolls, until evenly golden; cool on a rack so the bases do not sweat. Brioche shapes from the référentiel: **brioche à tête** (a ball with a smaller ball pressed into it, in a fluted mould), **Nanterre** (balls in a tin), **couronne** (balls or a ring); pain au lait and pain brioché go to braids, navettes and animals (lesson 12.4).
+Egg wash twice (after shaping and before baking), bake at about 180 °C for braids and large pieces (EP1 sheet) and up to about 190-200 °C conventional for small rolls, until evenly golden; cool on a rack so the bases do not sweat. Brioche shapes from the référentiel: **brioche à tête** (a ball with a smaller ball pressed into it, in a fluted mould), **Nanterre** (balls in a tin), **couronne** (balls or a ring); pain au lait and pain brioché go to braids, navettes and animals (lesson [12.4](lesson-04.md)).
 
 ### Salt
 
@@ -114,7 +114,7 @@ Monday afternoon, for Tuesday 7:00: **72 petits pains au lait of 50 g**, sheet P
 
 ## Practice
 
-You make **PL-01 by hand on 500 g of flour**, bake **8 round pains au lait of 60 g** today, and keep the other half of the dough in the fridge overnight for the braids, navettes and animals of lesson 12.4 (or freeze it for lesson 12.5).
+You make **PL-01 by hand on 500 g of flour**, bake **8 round pains au lait of 60 g** today, and keep the other half of the dough in the fridge overnight for the braids, navettes and animals of lesson [12.4](lesson-04.md) (or freeze it for lesson [12.5](lesson-05.md)).
 
 > [!WARNING]
 > The oven is at about 190 °C: dry oven gloves, stand back when you open the door. If you use a mixer, never put a hand or scraper in the bowl while the hook turns.
@@ -160,7 +160,7 @@ Checked 2026-10-08.
 2. **Mix:** milk-egg mixture, sugar and crumbled yeast in the bowl; add the flour; mix until no dry flour is left; add the salt. Knead 10-12 minutes on the bench (push, fold, turn) until smooth and elastic: a thin window tears only slowly.
 3. **Butter:** flatten the dough, spread a third of the butter on it, fold and knead until absorbed; repeat twice. Knead 8-10 minutes more until satiny and stretchy again. **Measure:** 24 °C ± 1 °C.
 4. **Pointage:** 45 minutes covered at room temperature (25-27 °C), with one fold at 20 minutes.
-5. **Divide the dough in two.** Flatten one half (about 490 g) in a filmed container and put it in the fridge for lesson 12.4 (use within 24 hours) or freeze it for lesson 12.5.
+5. **Divide the dough in two.** Flatten one half (about 490 g) in a filmed container and put it in the fridge for lesson [12.4](lesson-04.md) (use within 24 hours) or freeze it for lesson 12.5.
 6. **Rolls:** divide the other half into 8 × 60 g ± 2 g. Rest 15 minutes covered. Round each into a tight ball, seam underneath, 6 cm apart on paper. First thin egg wash.
 7. **Apprêt** at 25-27 °C, covered without touching, until about doubled and soft to the touch (about 1 h-1 h 30). Preheat to 190 °C conventional (175 °C fan).
 8. **Second egg wash.** Bake 12-15 minutes until evenly golden; the base is coloured and the core reads about 90 °C.
@@ -174,7 +174,7 @@ Checked 2026-10-08.
 
 ### How you know it worked
 
-The rolls are round, smooth, glossy and evenly golden, with no greasy patches and no cracks at the base. Torn open, the crumb is fine, soft, slightly yellow and tears in feathery strands; they taste milky and lightly sweet, and stay soft the next day in a closed bag. Next to your baguette rolls from Module 10, the crust is thin and soft and the colour came at a much lower oven temperature.
+The rolls are round, smooth, glossy and evenly golden, with no greasy patches and no cracks at the base. Torn open, the crumb is fine, soft, slightly yellow and tears in feathery strands; they taste milky and lightly sweet, and stay soft the next day in a closed bag. Next to your baguette rolls from [Module 10](../module-10/lesson-01.md), the crust is thin and soft and the colour came at a much lower oven temperature.
 
 ### Self-check
 

@@ -75,7 +75,7 @@ These are the CNBPF figures already met in lesson [13.4](../module-13/lesson-04.
 Producing cold takes three to four times more energy than producing the same amount of heat with an electric resistance, says the CNBPF sobriety guide. Its rules:
 
 - **Right set points:** about −18 °C for freezers and +4 °C for positive cold. Setting 1 °C colder than needed adds **more than 5 %**.
-- **Cool before you chill:** freezing products straight from the oven costs about 40 % more than freezing them once at room temperature (the fast cooling of cooked foods is a hygiene matter: Module 17).
+- **Cool before you chill:** freezing products straight from the oven costs about 40 % more than freezing them once at room temperature (the fast cooling of cooked foods is a hygiene matter: [Module 17](../module-17/lesson-08.md)).
 - **Doors:** group what goes in and out; 20 openings instead of 10 add about 6 % a day. Check the door seals (a sheet of paper that slides out easily means a worn seal).
 - **Position:** a cold unit in a 30 °C room uses about 40 % more than in an 18 °C room; keep it away from the oven (lesson [13.3](../module-13/lesson-03.md)) and its condenser clean.
 - **Method:** cold proofing has an energy price. In the CNBPF comparison, slow proofing (pousse lente) used about 35 % less energy than blocked proofing (pousse bloquée), and direct work less again; raw-frozen croissants used 2.5 times the energy of croissants made direct. Retarding is still often the right choice for the organisation and the quality (lesson [04.6](../module-04/lesson-06.md)); the point is to choose it, not to default to it.

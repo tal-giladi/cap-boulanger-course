@@ -64,7 +64,7 @@ flowchart LR
 3. **Fold in three.** Bottom third up, top third down over it, edges aligned, corners square. A misaligned fold leaves a strip with two layers instead of three: an uneven zone in every croissant cut from it.
 4. **Quarter turn.** Turn the block 90° so the folded edge is on your left, like a closed book: the next rolling stretches the dough in the other direction, which balances the gluten tension and keeps the block square.
 5. **Mark the turn.** Press one fingertip into the block after the first turn, two after the second, three after the third, and write it on the sheet. In a busy fournil nobody remembers.
-6. **Rest in the cold**, wrapped (lesson 11.1 survey: in the fridge at 2-5 °C).
+6. **Rest in the cold**, wrapped (lesson [11.1](lesson-01.md) survey: in the fridge at 2-5 °C).
 
 A **tour double** follows the same rules: roll to about four times the length, fold one end to about a quarter from the other end and the other end to meet it, then close the two halves like a book.
 
@@ -78,11 +78,11 @@ Every rolling warms the block (the bench, your hands, the room) and stretches th
 - **Too warm**: the dough feels soft and greasy, butter shows at the edges or sticks to the pin. Stop, wrap, chill 15-20 minutes more.
 - **Too elastic** (springs back): the gluten needs more rest, not more force. Wrap and rest 15 minutes.
 
-After the last turn the block rests longer: at least 30-60 minutes, or overnight in the fridge (King Arthur Baking: at least 5 hours or overnight), before the final rolling (lesson 11.5). A long cold rest also lets the dough relax so the triangles do not shrink after cutting. A block can also be frozen at this stage.
+After the last turn the block rests longer: at least 30-60 minutes, or overnight in the fridge (King Arthur Baking: at least 5 hours or overnight), before the final rolling (lesson [11.5](lesson-05.md)). A long cold rest also lets the dough relax so the triangles do not shrink after cutting. A block can also be frozen at this stage.
 
 ### Temperature budget in a warm room
 
-Each rolling session should be short: about 5-10 minutes for a home block. In a 24 °C room the block warms only a little in that time; in a 30 °C room it can warm several degrees, and the thin edges first. That is why a warm kitchen needs shorter sessions, a frozen tray or marble under the dough, and sometimes 10 minutes in the freezer in place of part of the fridge rest (never long enough for the butter to go brittle). Sequence B of lesson 11.1 (1 tour double + 1 tour simple, 12 layers) needs only two rolling sessions instead of three: a sound choice when the room is warm.
+Each rolling session should be short: about 5-10 minutes for a home block. In a 24 °C room the block warms only a little in that time; in a 30 °C room it can warm several degrees, and the thin edges first. That is why a warm kitchen needs shorter sessions, a frozen tray or marble under the dough, and sometimes 10 minutes in the freezer in place of part of the fridge rest (never long enough for the butter to go brittle). Sequence B of lesson [11.1](lesson-01.md) (1 tour double + 1 tour simple, 12 layers) needs only two rolling sessions instead of three: a sound choice when the room is warm.
 
 ### The sheeter
 
@@ -100,12 +100,12 @@ Saturday, Boulangerie du Marché. Two blocks of CR-01 (each about 4.1 kg: 3.2 kg
    - Block 2 follows 10 minutes behind, so the sheeter is never needed for both at once.
 2. **5:00, block 1, tour 2.** At the second pass the operator sees pale streaks of butter through the dough and the edges crack. Diagnosis: butter too cold, broken into plates (the reach-in had been set to 1 °C). Decision: block back on the bench for 5 minutes, then roll with small gap steps; the reach-in is reset to 3 °C. Recorded on the sheet.
 3. **5:35, block 2, tour 3.** The dough is soft and sticks to the belt; the room now reads 26 °C. Decision: stop after folding, 10 minutes in the freezer then 20 minutes in the reach-in; the final sheet moves to 6:25. The ten minutes are recorded and the shop is told the first tray will be ten minutes late.
-4. **Marks and record.** Each block carries three fingertip marks; the sheet lists the times, temperatures and the two incidents for the end-of-day report (C4.4, lesson 11.7).
+4. **Marks and record.** Each block carries three fingertip marks; the sheet lists the times, temperatures and the two incidents for the end-of-day report (C4.4, lesson [11.7](lesson-07.md)).
 5. **Lesson for next week:** start the lamination 20 minutes earlier, before the ovens heat the fournil, and check the reach-in temperature at the start of the shift.
 
 ## Practice
 
-You give three tours simples to the block from lesson 11.3, rest it between turns, and finish with a long cold rest. Plan this in a cool window from your lesson 11.1 survey.
+You give three tours simples to the block from lesson [11.3](lesson-03.md), rest it between turns, and finish with a long cold rest. Plan this in a cool window from your lesson [11.1](lesson-01.md) survey.
 
 > [!CAUTION]
 > The dough contains wheat and milk: keep it away from anyone allergic and clean the bench after. Roll on a stable board that does not slide (a damp cloth underneath holds it). Keep your fingers off the ends of the rolling pin's path when you press hard.
@@ -119,7 +119,7 @@ You give three tours simples to the block from lesson 11.3, rest it between turn
 
 | Ingredient | Baker's % | Home batch | Bakery batch |
 |---|---|---|---|
-| Locked-in block (détrempe + beurre de tourage, lesson 11.3) | 227 | 1,135 g | 2,270 g |
+| Locked-in block (détrempe + beurre de tourage, lesson [11.3](lesson-03.md)) | 227 | 1,135 g | 2,270 g |
 | Flour for dusting (brushed off) | — | about 20 g | — |
 
 ### In Israel
@@ -129,7 +129,7 @@ Checked 2026-10-08.
 - **Room.** Laminate in the window your survey found at or below about 24 °C: early morning, late evening, or with the AC on. In a 28-32 °C kitchen without AC, roll for 5 minutes at most at a time and rest longer.
 - **Cold surface.** Lay the frozen metal tray (or a marble board chilled in the fridge) on the bench and roll on top of it; wipe condensation dry first, or the dough sticks.
 - **Freezer in summer.** Replace the first 10 minutes of each rest by 10 minutes in the freezer, then finish in the fridge. Set a timer: 20 minutes in the freezer makes the butter brittle.
-- **Fewer rollings.** If your kitchen is warm, use sequence B: 1 tour double, rest, 1 tour simple (12 layers). Write it on your sheet so the evaluation in lesson 11.7 compares like with like.
+- **Fewer rollings.** If your kitchen is warm, use sequence B: 1 tour double, rest, 1 tour simple (12 layers). Write it on your sheet so the evaluation in lesson [11.7](lesson-07.md) compares like with like.
 - **Rolling pin.** A heavy straight rolling pin (מערוך, *ma'arokh*) without handles, sold in kitchen-supply shops, gives more even pressure than a light one (checked 2026-10-08).
 
 ### Steps
@@ -139,7 +139,7 @@ Checked 2026-10-08.
 3. **Check readiness**: cold, bends without cracking, dent stays. If it cracks, wait 5 minutes; if greasy, 15 more minutes in the fridge.
 4. **Tour 2.** Folded edge on your left. Roll to about 20 × 50 cm again, brush, fold in three, quarter turn, two marks, wrap. Rest 30 minutes.
 5. **Tour 3.** Same; three marks. Wrap tightly.
-6. **Final rest** at least 1 hour in the fridge, or overnight (shape the croissants the next morning, lesson 11.5). For an overnight rest, put the block on a tray with a light weight (a chopping board) on top so it does not swell.
+6. **Final rest** at least 1 hour in the fridge, or overnight (shape the croissants the next morning, lesson [11.5](lesson-05.md)). For an overnight rest, put the block on a tray with a light weight (a chopping board) on top so it does not swell.
 7. **Look at a cut edge** (optional): trim 1 cm from one short end with a sharp knife. You should see fine, regular lines of butter, not patches.
 
 ### Targets
@@ -166,7 +166,7 @@ The block after the third turn is a neat rectangle with square corners and three
 |---|---|---|---|
 | Pale streaks or patches of butter through the dough; edges crack | Butter too cold, broken into plates (rest too long, freezer too long) | 5 minutes on the bench, then roll gently | Rest 20-45 minutes in the fridge; time the freezer |
 | Butter oozes at the edges, dough greasy and sticky | Block too warm; room warm; session too long | Wrap and chill 15-20 minutes | Short sessions; cool window; cold surface |
-| Block springs back, will not lengthen | Gluten tight (détrempe over-mixed, rest too short) | Rest 15 minutes more | Short mixing (lesson 11.2); full rests |
+| Block springs back, will not lengthen | Gluten tight (détrempe over-mixed, rest too short) | Rest 15 minutes more | Short mixing (lesson [11.2](lesson-02.md)); full rests |
 | Block becomes a rounded oval, corners thin | Rolled in all directions; edges rolled over | Square the sides with the pin before folding | Roll lengthwise only; lift the pin before the edge |
 | White, dry streaks in the baked layers | Flour folded in between the layers | — | Brush every fold |
 | Unsure whether 2 or 3 turns were given | Turns not marked | Check the log; if unknown, judge by cutting a corner | Fingertip marks and the sheet |

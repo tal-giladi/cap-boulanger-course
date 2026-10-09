@@ -78,7 +78,7 @@ The full legal text and the other bread names (maison, levain, campagne) are tau
 |---|---|---|
 | Seeds (sunflower, flax/linseed, sesame, poppy, pumpkin) | dilute and cut the gluten → less volume; absorb water from the dough if added dry → dry, crumbly crumb that stales fast | usually 10–20 % of flour; **soak** first (or toast then soak) and count the soaker water |
 | Flakes (oats, barley) | absorb a lot of water | soak or scald |
-| Rye flour | no gluten network, sticky, high absorption (lesson 02.2) | acidify (levain); blend with wheat |
+| Rye flour | no gluten network, sticky, high absorption (lesson [02.2](lesson-02.md)) | acidify (levain); blend with wheat |
 | Spelt (épeautre) | a wheat with weaker, more extensible gluten | mix less, ferment gently |
 | Buckwheat (sarrasin), maize | no gluten | blend with wheat; small shares only |
 
@@ -127,7 +127,7 @@ Now the seeds. A formula for 2 kg of flour includes 15 % seeds (300 g) and a soa
 1. **Labels.** Photograph and copy the ingredient list of: (a) a supermarket flour, (b) a packaged bread or a bread improver (shops, online sheet), (c) a "tradition" baguette's allergen/ingredient information or a tradition flour bag. For each, list every additive (E number), adjuvant and processing aid you recognise, and decide: allowed in tradition, yes or no?
 2. **Soaker.** Weigh 40 g of seeds and 40 g of water (50 g if flax-rich) in a bowl, cover, and leave at least 4 hours at room temperature or overnight in the fridge.
 3. Pour the soaker into a sieve, let it drain 2 minutes, dab with paper, and weigh the seeds. Calculate how many grams of water 40 g of seeds absorbed.
-4. **Optional bake.** Make two 200 g-flour doughs as in lesson 02.4 (65 % water). Fold 40 g dry seeds into dough A and the drained soaker into dough B after kneading. Ferment, shape into two 180 g rolls each, proof, bake 18–20 min at 230 °C with steam.
+4. **Optional bake.** Make two 200 g-flour doughs as in lesson [02.4](lesson-04.md) (65 % water). Fold 40 g dry seeds into dough A and the drained soaker into dough B after kneading. Ferment, shape into two 180 g rolls each, proof, bake 18–20 min at 230 °C with steam.
 5. Taste both the same day and the next day.
 
 ### Targets

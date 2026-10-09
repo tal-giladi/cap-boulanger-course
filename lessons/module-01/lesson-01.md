@@ -61,9 +61,9 @@ France Compétences describes the holder of the CAP as an ouvrier boulanger work
 3. **Quality, hygiene and safety:** follow the company's hygiene plan, safety rules and environmental practices.
 4. **Sales and communication:** explain the products to the sales staff and report to the team and the manager.
 
-Notice that only part 2 is "baking". Parts 1, 3 and 4 are also assessed, mostly in the written test, and a good baker who cannot read a delivery note or explain a product to the shop loses marks.
+Notice that only part 2 is "baking". Parts 1, 3 and 4 are also assessed, mostly in the written test, and a good baker who cannot read a delivery note or explain a product to the shop loses marks. Finding and getting a job as an ouvrier boulanger is covered in lesson [20.3](../module-20/lesson-03.md).
 
-The working day is shaped by one fact: bread must be fresh when the shop opens, and again later in the day. Production therefore starts in the early morning, and the baker plans backwards from opening time. Lesson 01.2 shows how a bakery is organised around that flow.
+The working day is shaped by one fact: bread must be fresh when the shop opens, and again later in the day. Production therefore starts in the early morning, and the baker plans backwards from opening time. Lesson [01.2](lesson-02.md) shows how a bakery is organised around that flow.
 
 ### Bread, the trade and the law
 

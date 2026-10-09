@@ -81,9 +81,9 @@ An épi is shaped exactly like a baguette (lesson [08.3](../module-08/lesson-03.
 
 ### Why rolls behave differently
 
-- **They proof faster.** A small piece warms through quickly and has a short distance for gas to hold: at the same dough temperature a tray of rolls is often ready 15-20 minutes before the baguettes shaped with it. Shape them last, or proof them a little cooler (lesson 08.3's worked example).
+- **They proof faster.** A small piece warms through quickly and has a short distance for gas to hold: at the same dough temperature a tray of rolls is often ready 15-20 minutes before the baguettes shaped with it. Shape them last, or proof them a little cooler (lesson [08.3](../module-08/lesson-03.md)'s worked example).
 - **They bake faster:** about 14-16 minutes at 240-250 °C with steam, and they are done when evenly golden, bottoms hollow.
-- **They lose more weight.** More crust per gram means more water evaporates: about 22-24 % for a 60 g roll against about 20 % for a baguette (lesson 08.5). Salt does not evaporate, so **salt per 100 g rises**: a PC-02 roll at 1.076 % salt in the dough reaches 1.4 g per 100 g at about 23 % loss. Over-baking a roll pushes it over the limit for pain courant.
+- **They lose more weight.** More crust per gram means more water evaporates: about 22-24 % for a 60 g roll against about 20 % for a baguette (lesson [08.5](../module-08/lesson-05.md)). Salt does not evaporate, so **salt per 100 g rises**: a PC-02 roll at 1.076 % salt in the dough reaches 1.4 g per 100 g at about 23 % loss. Over-baking a roll pushes it over the limit for pain courant.
 
 ## Worked example
 
@@ -133,10 +133,10 @@ Divide 1 × 270 g (épi) + 9 × 60 g (rolls) = 810 g. Keep 75 g as your next pâ
 
 ### Steps
 
-1. **Mix, ferment, keep pâte fermentée** as in lesson 10.1, steps 1-2 (dough 24 °C ± 1 °C; pointage about 45-60 minutes with one fold).
+1. **Mix, ferment, keep pâte fermentée** as in lesson [10.1](lesson-01.md), steps 1-2 (dough 24 °C ± 1 °C; pointage about 45-60 minutes with one fold).
 2. **Divide** 270 g for the épi and 9 × 60 g ± 2 g. Pre-shape the 270 g piece as a loose cylinder; round the rolls two at a time. Cover; détente 20 minutes for the épi piece, 10-15 minutes for the rolls.
 3. **Rolls:** shape three ronds, three longs (12-14 cm) and three fendus (or tabatières). Set them 4 cm apart on paper on a tray; fendus and tabatières groove or flap down on a floured towel. Cover. Write the time.
-4. **Épi piece:** shape a baguette of about 38 cm (lesson 08.3) and lay it seam down on baking paper. Cover. Preheat the oven to 250 °C with a baking tray on the middle shelf and the metal steam tray on the lowest, at least 45 minutes.
+4. **Épi piece:** shape a baguette of about 38 cm (lesson [08.3](../module-08/lesson-03.md)) and lay it seam down on baking paper. Cover. Preheat the oven to 250 °C with a baking tray on the middle shelf and the metal steam tray on the lowest, at least 45 minutes.
 5. **Bake the rolls** when the poke test says ready (from about 35 minutes): turn the fendus groove up onto the paper, one cut or a cross on the ronds, one long cut on the longs. Slide onto the hot tray, 100-150 mL of hot water into the steam tray, close, step back. Vent at 10 minutes. About 14-16 minutes in total, until evenly golden.
 6. **Cut and bake the épi** at the end of its apprêt: dust with flour, five cuts with the scissors about every 7 cm, three quarters through, leaves alternately left and right. Load at once with steam as above; vent at 10 minutes; about 20-22 minutes, until the stalk is deep golden.
 7. **Cool** on a rack. After 1 hour weigh every roll and the épi. Calculate the average roll weight, the loss and the salt per 100 g of the lightest roll (60 × 1.076 % ÷ its weight × 100; for PD-01 use 1.070 %).

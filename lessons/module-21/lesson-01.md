@@ -28,7 +28,7 @@ Knowing the content is half of a written test; the other half is giving the mark
 
 ## Why it matters
 
-The EP1 written test asks you to use everything from Modules 1–20 on paper, from one company situation and its documents. Its structure, parts, durations and marks are on [The CAP Boulanger Exam](../../references/cap-exam.md#ep1-written-test-on-technology-applied-science-and-management); this lesson does not repeat them, so open that page now and keep it beside you. Candidates lose marks less often from not knowing than from answering a different question: giving two items when three are asked, explaining when asked to define, writing a result with no working or no unit, or running out of time with a whole part blank. Each of those slips is a habit, and habits are fixed by practice, which is what the five timed rounds of this module (21.2–21.6) and the mock paper of the project are for.
+The EP1 written test asks you to use everything from Modules 1–20 on paper, from one company situation and its documents. Its structure, parts, durations and marks are on [The CAP Boulanger Exam](../../references/cap-exam.md#ep1-written-test-on-technology-applied-science-and-management); this lesson does not repeat them, so open that page now and keep it beside you. Candidates lose marks less often from not knowing than from answering a different question: giving two items when three are asked, explaining when asked to define, writing a result with no working or no unit, or running out of time with a whole part blank. Each of those slips is a habit, and habits are fixed by practice, which is what the five timed rounds of this module ([21.2](lesson-02.md)–[21.6](lesson-06.md)) and the mock paper of the project are for.
 
 > [!NOTE]
 > This module is practice, not reading. Reading model answers is not the same as writing your own under time: sit each round with a timer, on paper, before you open the marking guide. The Academy cannot read or grade your written answers; mark them yourself honestly with the guide, and remember that self-assessment does not replace the official exam.
@@ -110,7 +110,7 @@ The times printed on a paper are indicative (the 2019 cover says « à titre ind
 
 ## Worked example
 
-Practice round 21.3 (Techniques and Equipment) is worth 24 points in the course's suggested 36 minutes. Its question 3 reads: « *Calculer la température de l'eau de coulage. Données : TPV 24 °C ; farine 21 °C ; fournil 23 °C ; pâte fermentée 6 °C ; facteur de friction 26.* (4 points) »
+Practice round [21.3](lesson-03.md) (Techniques and Equipment) is worth 24 points in the course's suggested 36 minutes. Its question 3 reads: « *Calculer la température de l'eau de coulage. Données : TPV 24 °C ; farine 21 °C ; fournil 23 °C ; pâte fermentée 6 °C ; facteur de friction 26.* (4 points) »
 
 **Timing.** 36 minutes: 4 to read, 4 in reserve, 28 to answer. 28 ÷ 24 ≈ 1.17 minutes per point; question 3 is worth 4 points: about **5 minutes**. Questions 1 and 2 (2 + 3 points, about 6 minutes) come first, so question 3 starts at about 0:10 and must be finished by **0:15**.
 
@@ -214,4 +214,4 @@ You can look at any question and say in five seconds what its verb asks, how man
 - The command verb sets the answer: citer lists, définir defines, expliquer and justifier give reasons (justify with a figure), calculer and vérifier show working.
 - Calculations in four lines, with units and an order-of-size check.
 - Time by points: a tenth to read, a tenth in reserve, the rest shared by points, finish times in the margin.
-- Times, points and structure of the real paper: [The CAP Boulanger Exam](../../references/cap-exam.md). Rounds 21.2–21.6 practise each domain; the [mock paper](../../projects/m21-ep1-mock-paper.md) puts them together.
+- Times, points and structure of the real paper: [The CAP Boulanger Exam](../../references/cap-exam.md). Rounds [21.2](lesson-02.md)–[21.6](lesson-06.md) practise each domain; the [mock paper](../../projects/m21-ep1-mock-paper.md) puts them together.

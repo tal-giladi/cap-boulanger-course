@@ -107,7 +107,7 @@ Write the readings on the [temperature log](../../templates/temperature-log.md):
 
 ## Worked example
 
-Saturday, Boulangerie Au Pain de la Halle. The order includes 24 baguettes sur poolish, sheet PO-01, from the module 6 workbook ([project](../../projects/m06-calculation-workbook.md)). The poolish was made last night. Final dough to mix at 3:00: flour T65 3,570 g, water 1,938 g, salt 91.8 g, fresh yeast 37.7 g, poolish 3,063 g. TPV 24 °C; the spiral mixer heats this dough by about 5 °C in improved mixing.
+Saturday, Boulangerie Au Pain de la Halle. The order includes 24 baguettes sur poolish, sheet PO-01, from the [module 6](../module-06/lesson-01.md) workbook ([project](../../projects/m06-calculation-workbook.md)). The poolish was made last night. Final dough to mix at 3:00: flour T65 3,570 g, water 1,938 g, salt 91.8 g, fresh yeast 37.7 g, poolish 3,063 g. TPV 24 °C; the spiral mixer heats this dough by about 5 °C in improved mixing.
 
 **1. Requisition (Friday 16:00).** T65: 3,570 g from the open sack, lot number written; fresh yeast 37.7 g, use-by date checked; salt 91.8 g; poolish tub labelled "PO-01, vendredi 19:00". Tonight's check: is there enough T65 for Monday as well?
 
@@ -131,7 +131,7 @@ Saturday, Boulangerie Au Pain de la Halle. The order includes 24 baguettes sur p
 
 ## Practice
 
-You do a complete, timed mise en place at home for a 1 kg PD-01 batch, mix it, and check it at the end of mixing. The dough then goes into the shaping drills of lesson 07.3 the same day, or into flat rolls as in lesson [01.7](../module-01/lesson-07.md).
+You do a complete, timed mise en place at home for a 1 kg PD-01 batch, mix it, and check it at the end of mixing. The dough then goes into the shaping drills of lesson [07.3](lesson-03.md) the same day, or into flat rolls as in lesson [01.7](../module-01/lesson-07.md).
 
 ### You need
 

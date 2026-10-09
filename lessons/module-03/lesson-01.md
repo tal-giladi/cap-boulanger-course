@@ -54,7 +54,7 @@ When the mixer starts, or your hand first stirs the bowl:
 1. **Hydration.** Water wets the flour. Gluten proteins (gliadins and glutenins) absorb about twice their weight of water, damaged starch absorbs much more, intact starch only a little. Salt, sugar and yeast dissolve. At this point the mass is rough, lumpy and sticky.
 2. **Unfolding and linking.** Hydrated proteins unfold. The mechanical work of mixing stretches them, lines them up and brings them into contact, so they bond to each other: weak bonds (hydrogen bonds, which form and break all the time) and stronger sulphur–sulphur links (disulphide bridges) between glutenin chains. Little by little the proteins become one continuous network of thin films with the starch granules embedded in it.
 3. **Air incorporation.** Each fold traps air. The dough ends mixing with thousands of tiny air cells (*alvéoles*). Yeast makes no new bubbles: its CO₂ dissolves in the dough water and then moves into these existing cells. **The number of cells you create in the mixer is the number of cells the crumb can have.**
-4. **Warming.** Work becomes heat. A dough always comes out of the mixer warmer than the average of its ingredients (lesson 03.4).
+4. **Warming.** Work becomes heat. A dough always comes out of the mixer warmer than the average of its ingredients (lesson [03.4](lesson-04.md)).
 
 ### Stages you can see and feel
 
@@ -91,7 +91,7 @@ You are mixing PC-02 (the pain courant on pâte fermentée sheet from lesson [01
 1. **Check the facts first.** Thermometer: 23.5 °C (in target). Consistency: softer than usual. Production sheet: today's flour batch is new.
 2. **Read the stage.** Rough edges on the tear and no smooth surface = under-developed, not over-mixed (an over-mixed dough would be smooth but slack, warm and sticky after having been good).
 3. **Cause.** A softer dough develops more slowly: more water dilutes the proteins and the hook has less resistance to work against. The new flour may also be weaker.
-4. **Correction now.** Mix 1–2 more minutes in second speed and test again after each minute. Do not add flour without measuring it (lesson 03.5).
+4. **Correction now.** Mix 1–2 more minutes in second speed and test again after each minute. Do not add flour without measuring it (lesson [03.5](lesson-05.md)).
 5. **Record it.** "Batch 4521: 8 min in 2nd speed to reach windowpane at 64 %." Tomorrow you start with that time, and you report the flour change to the head baker.
 
 ## Practice

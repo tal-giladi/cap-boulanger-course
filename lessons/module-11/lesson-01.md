@@ -38,9 +38,9 @@ Pâte levée feuilletée (laminated yeast dough: croissant, pain au chocolat, pa
 |---|---|---|
 | pâte levée feuilletée | *paht luh-VAY fuh-yuh-TAY* | laminated yeast dough: yeast dough with butter folded in layers (croissant, pain au chocolat) |
 | feuilletage | *fuh-yuh-TAHZH* | lamination; also puff pastry, the same layering without yeast |
-| détrempe | *day-TRAHMP* | the dough before the butter goes in (lesson 11.2) |
-| beurrage | *buh-RAHZH* | putting the butter into the détrempe and locking it in (lesson 11.3) |
-| tourage | *too-RAHZH* | giving the turns: rolling out and folding to multiply the layers (lesson 11.4) |
+| détrempe | *day-TRAHMP* | the dough before the butter goes in (lesson [11.2](lesson-02.md)) |
+| beurrage | *buh-RAHZH* | putting the butter into the détrempe and locking it in (lesson [11.3](lesson-03.md)) |
+| tourage | *too-RAHZH* | giving the turns: rolling out and folding to multiply the layers (lesson [11.4](lesson-04.md)) |
 | tour simple | *toor SAN-pluh* | single turn: the sheet folded in three, layers × 3 |
 | tour double | *toor DOO-bluh* | double turn: the sheet folded in four (like a book), layers × 4 |
 | abaisse | *ah-BESS* | the rolled-out sheet of dough; the final abaisse is the one you cut |
@@ -53,8 +53,8 @@ Pâte levée feuilletée (laminated yeast dough: croissant, pain au chocolat, pa
 
 A laminated dough is made of two materials with very different natures:
 
-- the **détrempe**: flour, water, milk, sugar, salt, yeast and a little butter, mixed into a firm, cool dough (lesson 11.2);
-- the **beurre de tourage**: a flat plaque of butter, at least 82 % fat and about 16 % water (École des métiers), kept cold but bendable (lesson 11.3).
+- the **détrempe**: flour, water, milk, sugar, salt, yeast and a little butter, mixed into a firm, cool dough (lesson [11.2](lesson-02.md));
+- the **beurre de tourage**: a flat plaque of butter, at least 82 % fat and about 16 % water (École des métiers), kept cold but bendable (lesson [11.3](lesson-03.md)).
 
 The butter is locked inside the détrempe (the lock-in, **enfermage**), then the block is rolled out and folded several times. Each rolling stretches both materials together into thinner sheets; each fold stacks the sheets on top of one another. The result, for this course's sheet CR-01, is 27 sheets of butter separated by 28 sheets of dough.
 
@@ -108,12 +108,12 @@ If the butter had already melted into the dough before the oven, there is nothin
 
 | Stage | French | Lesson | Temperature that matters |
 |---|---|---|---|
-| Mix the détrempe; rest it in the cold | détrempe, pointage retardé | 11.2 | dough 18-22 °C after mixing, then 2-4 °C |
-| Make the butter plaque; lock it in | beurrage, enfermage | 11.3 | butter about 13 °C |
-| Roll and fold, with rests in the cold | tourage | 11.4 | dough and butter of similar firmness |
-| Roll the final sheet; cut; roll up | abaisse, détaillage, façonnage | 11.5 | sheet cold and relaxed |
-| Proof; egg-wash; bake | apprêt, dorure, cuisson | 11.6 | proof 24-26 °C, never above about 27 °C |
-| Evaluate; report faults | contrôle | 11.7 | — |
+| Mix the détrempe; rest it in the cold | détrempe, pointage retardé | [11.2](lesson-02.md) | dough 18-22 °C after mixing, then 2-4 °C |
+| Make the butter plaque; lock it in | beurrage, enfermage | [11.3](lesson-03.md) | butter about 13 °C |
+| Roll and fold, with rests in the cold | tourage | [11.4](lesson-04.md) | dough and butter of similar firmness |
+| Roll the final sheet; cut; roll up | abaisse, détaillage, façonnage | [11.5](lesson-05.md) | sheet cold and relaxed |
+| Proof; egg-wash; bake | apprêt, dorure, cuisson | [11.6](lesson-06.md) | proof 24-26 °C, never above about 27 °C |
+| Evaluate; report faults | contrôle | [11.7](lesson-07.md) | — |
 
 ## Worked example
 
@@ -121,7 +121,7 @@ Boulangerie du Marché makes croissants with 3 tours simples. A new employee say
 
 1. **Layers now:** lock-in 1 × 3 × 3 × 3 = **27** butter layers.
 2. **Layers proposed:** 27 × 3 = **81** butter layers.
-3. **Film thickness.** The final sheet is rolled to about 3.5 mm on the sheeter. The formula has 50 % butter on the flour and the détrempe is 177 % (sheet CR-01, lesson 11.2), so butter is 50 ÷ 227 = 22 % of the dough's weight; butter is lighter than dough, so it is about a quarter of the volume: 3.5 × 0.25 ≈ 0.9 mm of butter in total.
+3. **Film thickness.** The final sheet is rolled to about 3.5 mm on the sheeter. The formula has 50 % butter on the flour and the détrempe is 177 % (sheet CR-01, lesson [11.2](lesson-02.md)), so butter is 50 ÷ 227 = 22 % of the dough's weight; butter is lighter than dough, so it is about a quarter of the volume: 3.5 × 0.25 ≈ 0.9 mm of butter in total.
    - 27 layers: 0.9 ÷ 27 ≈ **0.033 mm** each.
    - 81 layers: 0.9 ÷ 81 ≈ **0.011 mm** each, three times thinner, rolled once more.
 4. **Prediction.** At 81 layers the films break during the extra rolling; dough layers weld together; the croissants come out denser, with a finer, bread-like crumb and less flaky crust, not higher.
@@ -130,7 +130,7 @@ Boulangerie du Marché makes croissants with 3 tours simples. A new employee say
 
 ## Practice
 
-Two short exercises: a paper model of the layers, and a two-day temperature survey of your kitchen to choose when you will laminate in lessons 11.2-11.6. No baking yet.
+Two short exercises: a paper model of the layers, and a two-day temperature survey of your kitchen to choose when you will laminate in lessons [11.2](lesson-02.md)-11.6. No baking yet.
 
 ### You need
 
@@ -167,7 +167,7 @@ A: 27 butter, 28 dough, 1 ÷ 27 ≈ 0.037 mm. B: 12 butter, 13 dough, 1 ÷ 12 �
 
 6. Put the probe in a glass of water on your work surface (it reads the room more steadily than air). Read and write the temperature at about 6:00, 10:00, 14:00, 18:00 and 22:00, with the air conditioning as you normally use it.
 7. Read the fridge (glass of water on the middle shelf) and, if you can, the freezer once each day.
-8. Mark the windows when the room is **at or below about 24 °C**: those are your lamination times. Note how long your fridge needs to firm a 2 cm slab (you will check it in lesson 11.2).
+8. Mark the windows when the room is **at or below about 24 °C**: those are your lamination times. Note how long your fridge needs to firm a 2 cm slab (you will check it in lesson [11.2](lesson-02.md)).
 
 ### In Israel
 

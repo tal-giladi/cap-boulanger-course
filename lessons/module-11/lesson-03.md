@@ -92,24 +92,24 @@ flowchart LR
 - Roll the cold détrempe to a square about 1.5 times the side of the butter square (22-23 cm for a 15 cm plaque), so the corners of the dough just meet over the centre. Keep it slightly thicker in the middle than at the corners, so the four folded flaps do not make a thick lump.
 - Set the butter **like a diamond** (rotated 45°): its points face the middle of each dough side.
 - Fold each corner of dough over the butter to the centre; overlap the edges only a few millimetres and pinch the seams closed. Trapped air becomes a bubble that bursts in the turns; exposed butter sticks and tears.
-- Another lock-in, common with sheeters: the butter sheet covers one half of a rectangle of détrempe and the other half is folded over it. Both give **one** butter layer, so the layer counts of lesson 11.1 do not change.
+- Another lock-in, common with sheeters: the butter sheet covers one half of a rectangle of détrempe and the other half is folded over it. Both give **one** butter layer, so the layer counts of lesson [11.1](lesson-01.md) do not change.
 
 The block now holds one layer of butter between two of dough, ready for the first turn.
 
 ## Worked example
 
-Saturday, 4:00, Boulangerie du Marché. Two détrempe slabs of about 3.2 kg each (lesson 11.2) are in the cold room at 3 °C. Each needs 900 g of beurre de tourage. The store has two products: "Beurre doux 82 % MG, 10 × 250 g" and "Beurre de tourage 84 % MG, plaques de 2 kg". The fournil is at 23 °C. The croissants are sold as croissants pur beurre.
+Saturday, 4:00, Boulangerie du Marché. Two détrempe slabs of about 3.2 kg each (lesson [11.2](lesson-02.md)) are in the cold room at 3 °C. Each needs 900 g of beurre de tourage. The store has two products: "Beurre doux 82 % MG, 10 × 250 g" and "Beurre de tourage 84 % MG, plaques de 2 kg". The fournil is at 23 °C. The croissants are sold as croissants pur beurre.
 
 1. **Choice of fat.** Both are butter, so both allow "pur beurre". The beurre de tourage is firmer and plastic over a wider range, and comes as a flat plaque: less work, less warming of the butter, more forgiving in a 23 °C fournil. Choose it. (A laminating margarine would be cheaper but would forbid the "pur beurre" name.)
 2. **Dividing.** 900 g are cut from a 2 kg plaque with a long knife (the 200 g left are wrapped, labelled and returned to the cold room).
 3. **Size of the plaque.** Butter density is about 0.91 g/cm³: 900 ÷ 0.91 ≈ 990 cm³. For a sheet about 1.2 cm thick: 990 ÷ 1.2 ≈ 825 cm² → a square of about **29 × 29 cm** (29 × 29 = 841). The détrempe square for an envelope lock-in: 1.5 × 29 ≈ **43 × 43 cm**.
 4. **Temperature.** The plaques read 4 °C from the cold room. Beaten between two sheets of paper and rolled to 29 × 29 cm, they rise to about 9 °C; 10 minutes on the bench at 23 °C bring them to 12-13 °C. The bend test passes: corner folds over without cracking.
-5. **Check before lock-in.** Détrempe at 4 °C, firm, does not spring back; butter at 13 °C. Finger test: similar resistance. Lock-in at 4:20; first turn at once (lesson 11.4).
+5. **Check before lock-in.** Détrempe at 4 °C, firm, does not spring back; butter at 13 °C. Finger test: similar resistance. Lock-in at 4:20; first turn at once (lesson [11.4](lesson-04.md)).
 6. **Record.** On the production sheet: "Beurre de tourage 84 %, lot n° …, 2 × 900 g, 13 °C à l'enfermage, 4:20." The lot number keeps traceability if a customer complains ([Module 17](../module-17/lesson-07.md)).
 
 ## Practice
 
-Three steps: a plasticity test at three temperatures, a 250 g plaque, and the lock-in of your 11.2 détrempe. Give the first turn straight after (lesson 11.4), or wrap the block and keep it in the fridge for up to 30 minutes.
+Three steps: a plasticity test at three temperatures, a 250 g plaque, and the lock-in of your [11.2](lesson-02.md) détrempe. Give the first turn straight after (lesson [11.4](lesson-04.md)), or wrap the block and keep it in the fridge for up to 30 minutes.
 
 > [!CAUTION]
 > Butter and the détrempe contain milk; the détrempe also contains wheat (gluten). Keep both away from anyone allergic and wash the board, pin and paper area after. Beat the butter on a stable board, not on a glass surface, with your fingers clear of the pin.
@@ -125,7 +125,7 @@ Three steps: a plasticity test at three temperatures, a 250 g plaque, and the lo
 |---|---|---|---|
 | Beurre de tourage or unsalted butter (at least 82 % fat), cold | 50 | 250 g | 500 g |
 | Extra butter for the bend test (use it later for cooking) | — | 3 × 20 g | — |
-| Détrempe CR-01 from lesson 11.2, chilled | 177 | 885 g | 1,770 g |
+| Détrempe CR-01 from lesson [11.2](lesson-02.md), chilled | 177 | 885 g | 1,770 g |
 
 ### In Israel
 
@@ -134,7 +134,7 @@ Checked 2026-10-08.
 - **Which butter.** Buy a product called butter (חמאה, *khem'a*), unsalted (ללא מלח, *lelo melakh*). On the label: ingredients cream only (שמנת, *shamenet*), and in the nutrition table (ערכים תזונתיים) fat (שומנים, *shumanim*) of about 80-83 g per 100 g. Reject a spread (ממרח, *mimrakh*), "reduced fat" (מופחת שומן), or a blend with vegetable oil (שמן צמחי): too much water, no plasticity. Imported European butters labelled 82 % or more, sold in some supermarkets and delicatessens, are a good choice; the label decides, not the brand.
 - **Margarine and parve.** Margarine (מרגרינה) and products labelled parve (פרווה, *parve*: no milk) contain no butter. Laminating with margarine is a legitimate technique, but the result is not a croissant pur beurre.
 - **Professional supply.** Baking-supply wholesalers sell butter and margarine for lamination in plaques; ask for the product sheet and check the fat percentage before buying.
-- **Summer timing.** In a 30 °C kitchen, a 1.2 cm plaque warms from 4 °C to 13 °C in only a few minutes on the bench and keeps going. Beat it straight from the fridge, measure, and if it passes 15 °C put it back for 5-10 minutes. Work on the marble or the frozen tray from lesson 11.1, early in the morning or with the AC on.
+- **Summer timing.** In a 30 °C kitchen, a 1.2 cm plaque warms from 4 °C to 13 °C in only a few minutes on the bench and keeps going. Beat it straight from the fridge, measure, and if it passes 15 °C put it back for 5-10 minutes. Work on the marble or the frozen tray from lesson [11.1](lesson-01.md), early in the morning or with the AC on.
 
 ### Steps
 
@@ -154,7 +154,7 @@ Checked 2026-10-08.
 6. Take the détrempe from the fridge (it should read 2-6 °C). On a lightly floured bench roll it to a square of about **22 × 22 cm**, slightly thicker in the centre.
 7. Finger test: press the détrempe and the butter (still in its paper). Similar firmness? If the butter is much harder, wait 2-3 minutes; if softer, chill it 5 minutes.
 8. Unwrap the butter and set it like a diamond on the dough. Fold the four corners to the centre, overlap a few millimetres, pinch all seams closed. Check: no air pockets, no butter visible.
-9. Press the block gently all over with the rolling pin (light ridges) to bond butter and dough. Write the times and temperatures. Go straight on to lesson 11.4, or wrap and fridge for up to 30 minutes.
+9. Press the block gently all over with the rolling pin (light ridges) to bond butter and dough. Write the times and temperatures. Go straight on to lesson [11.4](lesson-04.md), or wrap and fridge for up to 30 minutes.
 
 ### Targets
 

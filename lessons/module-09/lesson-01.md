@@ -36,7 +36,7 @@ A French bakery's shelf labels are legal statements. This lesson goes through th
 The référentiel asks you to define the regulatory names of bread (S1.4: pain maison, pain courant, tradition, complet, campagne, viennoiserie maison) and to know which adjuvants are allowed (S2.4). Both the names and the tradition dough itself appear in the exam: see [The CAP Boulanger Exam](../../references/cap-exam.md) for how. In the shop, a wrong label is not a detail. Selling a baguette made with an improver as "tradition" claims something false about its composition, which the consumer code forbids, and the customer pays more for that name. Sales staff will ask you what each name means; this lesson gives you the answer.
 
 > [!NOTE]
-> This is the first lesson of a practical module, so the usual reminder: watching someone bake does not make you able to bake. Do the practice of lessons 09.2-09.4 at home. The Academy cannot grade photos, so you compare your result with the targets and the [quality rubric](../../templates/quality-rubric.md) yourself, and that self-assessment does not replace the official practical exam.
+> This is the first lesson of a practical module, so the usual reminder: watching someone bake does not make you able to bake. Do the practice of lessons [09.2](lesson-02.md)-[09.4](lesson-04.md) at home. The Academy cannot grade photos, so you compare your result with the targets and the [quality rubric](../../templates/quality-rubric.md) yourself, and that self-assessment does not replace the official practical exam.
 
 ## Key terms
 
@@ -78,7 +78,7 @@ A bread may be sold as "pain de tradition française", or under any name suggest
 | **No additive** | No ascorbic acid (E300), no emulsifier, no added gluten, no deactivated yeast, no "améliorant" (lesson [02.9](../module-02/lesson-09.md)). |
 | **No freezing treatment (surgélation) during its making** | No frozen dough, no frozen shaped pieces, no frozen par-baked bread finished later. |
 
-What the freezing rule does **not** forbid: cold at positive temperatures. The référentiel lists **pointage retardé au froid** among the methods for tradition, so a bulk dough held overnight at about 4 °C (lesson [04.6](../module-04/lesson-06.md)) is still tradition. Module 7 left the freezing rules for this lesson; here they are in one place:
+What the freezing rule does **not** forbid: cold at positive temperatures. The référentiel lists **pointage retardé au froid** among the methods for tradition, so a bulk dough held overnight at about 4 °C (lesson [04.6](../module-04/lesson-06.md)) is still tradition. [Module 7](../module-07/lesson-05.md) left the freezing rules for this lesson; here they are in one place:
 
 | Situation | Allowed? | Text |
 |---|---|---|
@@ -88,9 +88,9 @@ What the freezing rule does **not** forbid: cold at positive temperatures. The r
 | Unsold traditions frozen in the shop and sold thawed the next day | No in any business calling itself "boulangerie": dough and bread may not be frozen **at any stage of production or sale** | L122-17 |
 | A customer freezing the tradition she bought | Yes: the law governs the seller, not the customer | — |
 
-These rules are about bread. Viennoiserie may be frozen ([lesson 12.5](../module-12/lesson-05.md)).
+These rules are about bread. Viennoiserie may be frozen ([lesson 12.5](../module-12/lesson-05.md)). What a bakery may do with unsold traditions instead is in lesson [18.2](../module-18/lesson-02.md).
 
-Pain de tradition française has no salt limit of its own. The Ministry of Agriculture's salt page sets 1.4 g per 100 g for "pains courants" such as the baguette ([agriculture.gouv.fr](https://agriculture.gouv.fr/filiere-boulangerie-vers-une-diminution-du-sel-dans-le-pain-0)) and does not name tradition; the course keeps tradition under the same 1.4 g as good practice (lesson 09.4 checks it).
+Pain de tradition française has no salt limit of its own. The Ministry of Agriculture's salt page sets 1.4 g per 100 g for "pains courants" such as the baguette ([agriculture.gouv.fr](https://agriculture.gouv.fr/filiere-boulangerie-vers-une-diminution-du-sel-dans-le-pain-0)) and does not name tradition; the course keeps tradition under the same 1.4 g as good practice (lesson [09.4](lesson-04.md) checks it).
 
 ### Pain maison (article 1)
 
@@ -123,14 +123,14 @@ Monday, Boulangerie Au Pain de la Halle. The owner wants to launch a "Tradition 
 1. **Flour specification:** "Farine de blé T65 — farine de fèves 0,8 % — farine de malt de blé 0,2 % — sans additif." Bean flour 0.8 % ≤ 2 % and malt flour 0.2 % ≤ 0.3 %: conforms to article 2. **Consequence:** do not add malt flour at the bench; only 0.1 % of headroom remains.
 2. **His recipe idea:** levain made with this flour, plus "a little yeast for safety, 1 %" in the final dough of 6,000 g flour. For a tradition: allowed. For "au levain": yeast at most 0.2 % × 6,000 = **12 g**, not 60 g. You propose 10 g, or none.
 3. **Pâte fermentée:** he wants to add a piece of the PC-02 pain courant dough "for strength". PC-02 is made with T55 containing ascorbic acid: that would bring an additive into the tradition. **No.** If he wants a pâte fermentée, it must be kept from the tradition dough itself.
-4. **Sunday production idea:** shape on Saturday afternoon, freeze, bake Sunday. **No:** surgélation during making ends the tradition name, and L122-17 forbids frozen dough or bread in a boulangerie anyway. Alternative: pointage retardé at 4 °C on Saturday evening, divide and shape on Sunday morning (lesson 09.2).
+4. **Sunday production idea:** shape on Saturday afternoon, freeze, bake Sunday. **No:** surgélation during making ends the tradition name, and L122-17 forbids frozen dough or bread in a boulangerie anyway. Alternative: pointage retardé at 4 °C on Saturday evening, divide and shape on Sunday morning (lesson [09.2](lesson-02.md)).
 5. **The "au levain" claim:** the bread must show pH ≤ 4.3 and ≥ 900 ppm acetic acid. You suggest sending two loaves to a laboratory at launch and after any change of method, and keeping the reports.
 6. **"Maison":** made, shaped and baked in the shop's own fournil: conforms to article 1.
 7. **Note for the sales staff (C4.2):** "Notre tradition au levain: farine de blé, eau, sel et levain, sans aucun additif, jamais congelée; pétrie, façonnée et cuite ici. Le levain lui donne une mie crème, un léger goût acidulé et une bonne conservation."
 
 ## Practice
 
-You classify eight shop breads, check a flour bag as if it were for a tradition, and write the sales staff's one-line answer for three names. No baking today; lesson 09.2 starts the dough.
+You classify eight shop breads, check a flour bag as if it were for a tradition, and write the sales staff's one-line answer for three names. No baking today; lesson [09.2](lesson-02.md) starts the dough.
 
 ### You need
 
@@ -144,7 +144,7 @@ No baking. The ingredient you inspect is one bag of white flour.
 ### In Israel
 
 - None of the French names is protected in Israel, and Israeli rules do not define "tradition". What you practise is the French rule, applied to what you buy.
-- **Flour for your tradition dough (lessons 09.2-09.4):** white flour (קמח לבן, *kemakh lavan*) stands in for T65 **only if the ingredients list (רכיבים, *rekhivim*) says wheat flour and nothing else**. Reject a bag that lists ascorbic acid (ויטמין C / חומצה אסקורבית, E300), enzymes (אנזימים), added gluten, or added vitamins and minerals (מועשר, *me'ushar*): the details and the protein to look for are in [Flour in Israel](../../references/flour-in-israel.md). Some Israeli bread flours list ascorbic acid, so read the bag in your hand (checked 2026-10-08).
+- **Flour for your tradition dough (lessons [09.2](lesson-02.md)-[09.4](lesson-04.md)):** white flour (קמח לבן, *kemakh lavan*) stands in for T65 **only if the ingredients list (רכיבים, *rekhivim*) says wheat flour and nothing else**. Reject a bag that lists ascorbic acid (ויטמין C / חומצה אסקורבית, E300), enzymes (אנזימים), added gluten, or added vitamins and minerals (מועשר, *me'ushar*): the details and the protein to look for are in [Flour in Israel](../../references/flour-in-israel.md). Some Israeli bread flours list ascorbic acid, so read the bag in your hand (checked 2026-10-08).
 - Bean, soy and malt flours are optional in tradition: leave them out at home.
 
 ### Steps
@@ -199,7 +199,7 @@ You can say, without looking, what tradition may contain and in what proportion 
 |---|---|---|---|
 | "Tradition" label on a bread made with improver flour | Flour bag or mill sheet not checked; améliorant added by habit | Relabel as baguette (pain courant) today | Separate, labelled tradition flour; no améliorant at the tradition station |
 | Tradition dough contaminated with an additive through its pâte fermentée | Piece of pain courant dough used as pâte fermentée | Sell the batch as pain courant | Keep tradition pâte fermentée from tradition dough only, labelled "TR" |
-| Shaped traditions frozen for a holiday | Confusing retarding (positive cold) with freezing | Sell as pain courant, and not in a shop called boulangerie | Plan pointage retardé at 2-6 °C instead (04.6, 09.2) |
+| Shaped traditions frozen for a holiday | Confusing retarding (positive cold) with freezing | Sell as pain courant, and not in a shop called boulangerie | Plan pointage retardé at 2-6 °C instead ([04.6](../module-04/lesson-06.md), [09.2](lesson-02.md)) |
 | "Au levain" bread fails a lab check (pH 4.6) | Too much yeast, too little or too young levain, short fermentation | Remove the mention until a new test passes | Yeast ≤ 0.2 % of the final dough's flour; ripe levain; test after any change |
 | Extra malt flour pushes the total over 0.3 % | Malt already in the tradition flour not counted | Sell as pain courant | Read the mill sheet; count what the flour already contains |
 | Sales staff tell a customer "tradition means made with levain" | No briefing on the names | Correct it with the customer | Give staff the one-line definitions (C4.2) |

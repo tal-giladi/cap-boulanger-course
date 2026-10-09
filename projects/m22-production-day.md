@@ -47,7 +47,7 @@ In English: tradition bread in four shapes, six wholemeal tin loaves, a croissan
 1. Start the timer. Read and underline the order.
 2. Complete the TR-01 technical sheet: totals, flour, every line including autolyse and bassinage water, check, water temperature, process with times and targets.
 3. Write the batch flour for CO-01, CR-01 and PB-01 in one line each.
-4. Name the critical path and the moves that make it fit the window (lesson 22.2); write the oven plan; draw the organigramme backwards from 13:30 with cleaning and presentation.
+4. Name the critical path and the moves that make it fit the window (lesson [22.2](../lessons/module-22/lesson-02.md)); write the oven plan; draw the organigramme backwards from 13:30 with cleaning and presentation.
 5. Stop at 30 minutes. Mark the sheet with the reference figures below and the organigramme with the six checks of lesson 22.2.
 
 **Part B: the home production day**
@@ -71,7 +71,7 @@ In English: tradition bread in four shapes, six wholemeal tin loaves, a croissan
 - **Batch:** water in the autolyse 2,448 g; bassinage 72 g; salt 64.8 g; fresh yeast 21.6 g; tradition pâte fermentée 540 g; total 6,746.4 g (≥ 6,732 g).
 - **Water temperature:** 23 × 4 = 92; 92 − 20 − 22 − 5 − 14 = **31 °C**.
 - **Other batches:** CO-01 (sum 177.5 %): 2,400 × 1.02 = 2,448 ÷ 1.775 = 1,379 → **1,400 g**. CR-01: 8 × 60 + 8 × 58 + 8 × 50 = 1,344 g ÷ 0.90 × 1.02 = 1,523 g ÷ 2.27 = 671 → **700 g** (détrempe 1,239 g, beurrage 350 g, 16 batons). PB-01 (sum 203.5 %): 2 × 250 + 8 × 60 = 980 g × 1.02 = 1,000 g ÷ 2.035 = 491 → **500 g**.
-- **Critical path:** CR-01. From a 6:30 start, products presented at 13:30 only work with the shortened chain of lesson 22.2 (détrempe in the blast chiller, one double turn, a final rest of 40-55 minutes) and the détrempe mixed in the first minutes; the standard CR-01 chain (about 8 h) would need the détrempe made the day before or a start before 5:30. The tradition's autolyse and two-hour pointage make it the second-longest chain: mix it right after the détrempe.
+- **Critical path:** CR-01. From a 6:30 start, products presented at 13:30 only work with the shortened chain of lesson [22.2](../lessons/module-22/lesson-02.md) (détrempe in the blast chiller, one double turn, a final rest of 40-55 minutes) and the détrempe mixed in the first minutes; the standard CR-01 chain (about 8 h) would need the détrempe made the day before or a start before 5:30. The tradition's autolyse and two-hour pointage make it the second-longest chain: mix it right after the détrempe.
 - **Oven plan (outline):** deck at 250 °C with steam for the tradition (two loads) and the pain complet (tins, no steam, can share a deck after the tradition at about 230 °C or follow it); fan oven at 175 °C for the laminated products; a deck brought down to about 180 °C for the pain brioché.
 
 </details>

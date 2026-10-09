@@ -23,7 +23,7 @@ last_verified: "2026-10-09"
 
 # 14.1 · The Work Organigramme
 
-An organigramme is the bakery's timetable: every stage of every product on one timeline, so that you know at 1:00 what you will be doing at 6:35. Lesson 01.6 showed you how to read one; this lesson teaches you to build one from an order and a technical sheet, working backwards from the deadline, and you draw the organigramme for a home tradition bake.
+An organigramme is the bakery's timetable: every stage of every product on one timeline, so that you know at 1:00 what you will be doing at 6:35. Lesson [01.6](../module-01/lesson-06.md) showed you how to read one; this lesson teaches you to build one from an order and a technical sheet, working backwards from the deadline, and you draw the organigramme for a home tradition bake.
 
 ## Why it matters
 
@@ -161,7 +161,7 @@ gantt
 
 ## Practice
 
-You build the organigramme for a home tradition bake on paper, then (if you bake it) check your plan against the clock. This is the plan for the bake of lessons 09.2 to 09.4, so you can follow it with real dough.
+You build the organigramme for a home tradition bake on paper, then (if you bake it) check your plan against the clock. This is the plan for the bake of lessons [09.2](../module-09/lesson-02.md) to [09.4](../module-09/lesson-04.md), so you can follow it with real dough.
 
 ### You need
 
@@ -171,7 +171,7 @@ You build the organigramme for a home tradition bake on paper, then (if you bake
 
 ### The order and the times
 
-> **Home order:** 3 tradition baguettes of 270 g (TR-01 on 500 g of flour, 75 g of pâte fermentée kept back for next time), on the table for dinner at **19:30**. One baking tray, one load. Tradition is best cut after about an hour of cooling (lesson 09.4).
+> **Home order:** 3 tradition baguettes of 270 g (TR-01 on 500 g of flour, 75 g of pâte fermentée kept back for next time), on the table for dinner at **19:30**. One baking tray, one load. Tradition is best cut after about an hour of cooling (lesson [09.4](../module-09/lesson-04.md)).
 
 | Stage (home, by hand) | Time |
 |---|---|

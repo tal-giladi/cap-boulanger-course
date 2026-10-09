@@ -32,7 +32,7 @@ A mixer does in minutes what your arms do in a quarter of an hour, and it also h
 
 ## Why it matters
 
-Module 3 chose the mixing method (slow, improved, intensive) and Module 5 turned its heat into a friction factor. Both depend on the machine: the same 6 minutes in second speed give a different dough on a spiral, an oblique-axis or a stand mixer, and a half-full bowl does not heat like a full one. The référentiel lists the mixers among the equipment whose role and use you must explain (S3.1, and the batteur for viennoiserie in S3.4); a real EP1 paper asked the role of the batteur-mélangeur (see [The CAP Boulanger Exam](../../references/cap-exam.md)). Mixers also cause two of the bakery's serious occupational risks: hands drawn in by a turning hook, and flour asthma.
+[Module 3](../module-03/lesson-03.md) chose the mixing method (slow, improved, intensive) and [Module 5](../module-05/lesson-03.md) turned its heat into a friction factor. Both depend on the machine: the same 6 minutes in second speed give a different dough on a spiral, an oblique-axis or a stand mixer, and a half-full bowl does not heat like a full one. The référentiel lists the mixers among the equipment whose role and use you must explain (S3.1, and the batteur for viennoiserie in S3.4); a real EP1 paper asked the role of the batteur-mélangeur (see [The CAP Boulanger Exam](../../references/cap-exam.md)). Mixers also cause two of the bakery's serious occupational risks: hands drawn in by a turning hook, and flour asthma.
 
 Watching someone mix does not make you able to judge a dough in the bowl: this module's practice tells you what to compare, and the Academy cannot grade your photos. Compare your results with the targets and the rubric honestly; this self-assessment does not replace the official practical exam.
 
@@ -74,7 +74,7 @@ Every bowl has a maker's **maximum** load (in kg of dough or of flour, lower for
 
 ### What else sits around the mixer
 
-The référentiel groups the mixer with the equipment that feeds it: the **flour silo** or sack area, the **balance** (scale, lesson [01.4](../module-01/lesson-04.md)), the **refroidisseur d'eau** (water cooler) and the **doseur d'eau** (water meter) that delivers a set weight of water at the calculated temperature. Their job is to make the base-temperature calculation of Module 5 come true batch after batch.
+The référentiel groups the mixer with the equipment that feeds it: the **flour silo** or sack area, the **balance** (scale, lesson [01.4](../module-01/lesson-04.md)), the **refroidisseur d'eau** (water cooler) and the **doseur d'eau** (water meter) that delivers a set weight of water at the calculated temperature. Their job is to make the base-temperature calculation of [Module 5](../module-05/lesson-02.md) come true batch after batch.
 
 ### Safety at the mixer
 
@@ -166,7 +166,7 @@ You have two numbers that are yours: your hand friction factor (typically about 
 
 | Symptom | Likely cause | Fix now | Prevent next time |
 |---|---|---|---|
-| Dough several degrees warmer than calculated | Friction factor of another product, method or batch size; second speed too long | Shorten pointage (7 % per °C, lesson 04.2) | One friction factor per product and batch size; time second speed |
+| Dough several degrees warmer than calculated | Friction factor of another product, method or batch size; second speed too long | Shorten pointage (7 % per °C, lesson [04.2](../module-04/lesson-02.md)) | One friction factor per product and batch size; time second speed |
 | Small batch barely developed, sticky lump under the hook | Below the bowl's practical minimum | Finish by hand or add the batch to the next one | Respect the minimum load; use the smaller mixer or a batteur |
 | Motor labours, smell of hot motor, core under-mixed | Bowl overloaded or dough too firm | Stop; divide the batch | Batches inside the maker's maximum; lower for firm doughs |
 | Cloud of flour at the start | Flour poured from height, bag shaken, second speed too early, lid open | Stop, close the lid, let the dust settle | Water first, flour low through a sleeve, first speed |

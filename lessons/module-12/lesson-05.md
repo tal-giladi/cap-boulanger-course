@@ -32,7 +32,7 @@ last_verified: "2026-10-08"
 
 # 12.5 · Freezing, Storing and Packaging Viennoiserie
 
-A croissant is at its best for a few hours, a pain au lait for a couple of days, a pain aux raisins for the day it is baked. Bakeries therefore plan viennoiserie with cold: they retard it, and unlike bread they may freeze it, raw or baked, so that the morning bake is ready at 6:00 without a tourier working through the night. This lesson explains what freezing does to a yeast dough, how to freeze, store, thaw and label viennoiserie safely, why the bread freezing ban of lesson 09.1 does not cover it, and how each product is stored and packed for the customer. You run a freeze-and-bake test against a fresh control.
+A croissant is at its best for a few hours, a pain au lait for a couple of days, a pain aux raisins for the day it is baked. Bakeries therefore plan viennoiserie with cold: they retard it, and unlike bread they may freeze it, raw or baked, so that the morning bake is ready at 6:00 without a tourier working through the night. This lesson explains what freezing does to a yeast dough, how to freeze, store, thaw and label viennoiserie safely, why the bread freezing ban of lesson [09.1](../module-09/lesson-01.md) does not cover it, and how each product is stored and packed for the customer. You run a freeze-and-bake test against a fresh control.
 
 ## Why it matters
 
@@ -83,13 +83,13 @@ flowchart TB
 | Prêt à cuire (frozen proofed) | industrial products made for it | proofed, then frozen; baked from frozen | needs special formulas: a home or craft proofed piece often collapses |
 | Baked and frozen | pain au lait, brioche, braids | cooled completely, wrapped airtight, frozen; thawed wrapped, refreshed in the oven (King Arthur Baking) | croissants lose their crisp layers; good for soft products |
 
-**Thawing.** Frozen raw pieces go on trays, covered, into the cold (0-4 °C) overnight; a programmable proofing cabinet does the same (lesson 04.6). ASBE gives about 12-18 hours at 1-4 °C. Then they proof as usual, below about 27 °C, a little longer than fresh. Never on a warm bench: the outside proofs and the butter softens while the inside is still frozen.
+**Thawing.** Frozen raw pieces go on trays, covered, into the cold (0-4 °C) overnight; a programmable proofing cabinet does the same (lesson [04.6](../module-04/lesson-06.md)). ASBE gives about 12-18 hours at 1-4 °C. Then they proof as usual, below about 27 °C, a little longer than fresh. Never on a warm bench: the outside proofs and the butter softens while the inside is still frozen.
 
 **Never refreeze** a thawed product unless a validated hazard analysis allows it (arrêté of 21 December 2009, annex VI, lesson [02.10](../module-02/lesson-10.md)): thaw only what you will bake.
 
 **Products with crème pâtissière.** The cream must be used within 24 hours (lesson [12.2](lesson-02.md)), and a home or craft cream weeps after freezing. In this course, pains aux raisins are made and baked the same day; bakeries that freeze them use creams and procedures validated for it.
 
-**Temperatures.** The French retail rule allows frozen foods up to −12 °C at the point of sale (arrêté of 21 December 2009, annex I); the course, like bakeries, stores at −18 °C (lesson 02.10), and records the freezer temperature daily ([temperature log](../../templates/temperature-log.md)).
+**Temperatures.** The French retail rule allows frozen foods up to −12 °C at the point of sale (arrêté of 21 December 2009, annex I); the course, like bakeries, stores at −18 °C (lesson [02.10](../module-02/lesson-10.md)), and records the freezer temperature daily ([temperature log](../../templates/temperature-log.md)).
 
 ### The law: bread no, viennoiserie yes
 
@@ -98,7 +98,7 @@ Code de la consommation **L122-17** reserves the words *boulanger* and *boulange
 - **bread dough and bread** (baguettes, tradition, pain courant, campagne…): never frozen in a boulangerie;
 - **viennoiserie** made on site (croissants, pains au chocolat, pain au lait, brioche): may be frozen raw or baked.
 
-A bakery that freezes its own croissants, made on site from its own raw materials, still makes **viennoiserie maison** in the trade's sense (lesson 09.1); one that buys frozen croissants from a factory does not, and must not say "maison" (L121-2). If a shop ever needs a formal answer for its own sign, the competent authority is the DGCCRF.
+A bakery that freezes its own croissants, made on site from its own raw materials, still makes **viennoiserie maison** in the trade's sense (lesson [09.1](../module-09/lesson-01.md)); one that buys frozen croissants from a factory does not, and must not say "maison" (L121-2). If a shop ever needs a formal answer for its own sign, the competent authority is the DGCCRF.
 
 ### Storing and packaging the finished products
 
@@ -111,7 +111,7 @@ A bakery that freezes its own croissants, made on site from its own raw material
 
 **Packing hygiene (C2.4, C2.6):** finished products are handled with tongs or a clean sheet of paper, not bare hands, and only once they are cool enough not to sweat in their bag.
 
-**Labels.** A frozen bag in the bakery's own freezer carries: product, number of pieces, date made and frozen, use-by date set by the bakery, lot or batch. A product **prepacked** for sale (a bag of six pains au lait sealed in advance) carries the full EU label: name, ingredients with allergens emphasised, net quantity, date, the bakery's name and address (lesson [02.11](../module-02/lesson-11.md)). A product sold **loose** has no label, but its allergens must be available to the customer in writing (lesson 02.10). For this module's products: wheat (gluten), milk, egg in almost all; soy (lecithin) in most chocolate; sulphites if the raisins contain them; nuts if you add almond cream or flaked almonds (EU Annex II).
+**Labels.** A frozen bag in the bakery's own freezer carries: product, number of pieces, date made and frozen, use-by date set by the bakery, lot or batch. A product **prepacked** for sale (a bag of six pains au lait sealed in advance) carries the full EU label: name, ingredients with allergens emphasised, net quantity, date, the bakery's name and address (lesson [02.11](../module-02/lesson-11.md)). A product sold **loose** has no label, but its allergens must be available to the customer in writing (lesson [02.10](../module-02/lesson-10.md)). For this module's products: wheat (gluten), milk, egg in almost all; soy (lecithin) in most chocolate; sulphites if the raisins contain them; nuts if you add almond cream or flaked almonds (EU Annex II).
 
 ## Worked example
 
@@ -121,12 +121,12 @@ A small bakery wants fresh croissants and pains au chocolat on Sunday and Monday
 2. **Freezing.** Shaped pieces straight onto trays into the blast freezer; at 12:30 they are hard. Packed by 10 in freezer bags, air pressed out, into the storage freezer at −18 °C (log: −19 °C). Each bag labelled: "Croissants crus ×10 — fab./congelé 14/03 — à utiliser avant 28/03 — lot 1403-V". The bakery's own tests have set 14 days for its croissants.
 3. **Saturday 16:00.** The Sunday trays (4 bags of croissants, 3 of pains au chocolat) go onto paper-lined trays, covered, into the programmable cabinet: thawing at 4 °C, then proofing from 3:30 at 25 °C, 80 % humidity. Sunday 6:00: proofed, egg-washed, baked.
 4. **Sunday evening.** The Monday trays go into the cabinet the same way. One bag of croissants was taken out by mistake on Saturday and left in the cold room: it is baked on Sunday as well, **not refrozen**.
-5. **Bread?** The owner asks whether he could also freeze the Sunday baguettes the same way. **No**: in a boulangerie, bread dough and bread may never be frozen (L122-17, lesson 09.1). For Sunday bread he uses pointage retardé or controlled proofing (lesson 04.6).
+5. **Bread?** The owner asks whether he could also freeze the Sunday baguettes the same way. **No**: in a boulangerie, bread dough and bread may never be frozen (L122-17, lesson [09.1](../module-09/lesson-01.md)). For Sunday bread he uses pointage retardé or controlled proofing (lesson [04.6](../module-04/lesson-06.md)).
 6. **Sales note (C4.2).** "Our croissants are made here from our own dough; on Sundays we bake pieces we shaped and froze ourselves on Friday." It is honest and it remains viennoiserie maison.
 
 ## Practice
 
-A **freeze-and-bake test**: the same dough, baked fresh and after freezing, compared side by side. Use the laminated dough of lesson 12.1 (keep back 4 shaped pains au chocolat or croissants) and, if you froze it, the pain au lait half from lesson 12.3.
+A **freeze-and-bake test**: the same dough, baked fresh and after freezing, compared side by side. Use the laminated dough of lesson [12.1](lesson-01.md) (keep back 4 shaped pains au chocolat or croissants) and, if you froze it, the pain au lait half from lesson 12.3.
 
 > [!WARNING]
 > The oven is at about 190-200 °C: dry oven gloves, stand back from the hot air. Frozen trays and bags stick to wet fingers: handle them with dry hands or gloves.
@@ -143,8 +143,8 @@ A **freeze-and-bake test**: the same dough, baked fresh and after freezing, comp
 
 | Item | Fresh control | Frozen test |
 |---|---|---|
-| Shaped pains au chocolat or croissants (lesson 12.1) | 2, baked the same day | 2, frozen raw straight after shaping |
-| Pain au lait rolls of 60 g (lesson 12.3), optional | 2, baked the same day | 2 frozen raw after shaping; or 2 baked and frozen |
+| Shaped pains au chocolat or croissants (lesson [12.1](lesson-01.md)) | 2, baked the same day | 2, frozen raw straight after shaping |
+| Pain au lait rolls of 60 g (lesson [12.3](lesson-03.md)), optional | 2, baked the same day | 2 frozen raw after shaping; or 2 baked and frozen |
 | Egg wash | fresh | fresh on the day of baking |
 
 ### In Israel
@@ -158,7 +158,7 @@ Checked 2026-10-08.
 
 ### Steps
 
-1. **Shaping day.** Shape 4 identical pieces from the same sheet. Weigh and number them. Bake 2 as the control (lesson 12.1 method); write the proof time, bake time and weight after cooling, and measure height and length.
+1. **Shaping day.** Shape 4 identical pieces from the same sheet. Weigh and number them. Bake 2 as the control (lesson [12.1](lesson-01.md) method); write the proof time, bake time and weight after cooling, and measure height and length.
 2. **Freeze** the other 2 straight after shaping on a paper-lined tray, uncovered, until hard (1-2 hours); then bag them, press out the air, label (product, number, date) and store at −18 °C.
 3. **Optional pain au lait:** freeze 2 shaped rolls raw the same way, or bake 2, cool them completely, wrap them airtight and freeze them.
 4. **After 3-7 days**, the evening before baking: put the frozen pieces on a paper-lined tray, covered without touching, in the fridge overnight.

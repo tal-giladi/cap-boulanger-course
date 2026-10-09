@@ -205,7 +205,7 @@ Checked 2026-10-09.
 1. **Fridge space (Friday night):** two trays plus the 3 L container do not fit on one shelf. Fix: do not shape on Friday; keep the laminated dough as a **wrapped block** after the last turn (the final rest may run overnight, lesson [11.4](../module-11/lesson-04.md)) next to the container, and shape on Saturday morning.
 2. **Proof temperature:** croissants on a 30 °C counter from 6:30: above about 27 °C the butter melts out. Fix: proof in the air-conditioned room at 24-26 °C.
 3. **Proof time:** 6:30 to 8:45 is 2 h 15 at 30 °C, which is far more fermentation than 2 h 15 at 25 °C: over-proofed and leaking. Fixed together with 1 and 2.
-4. **Détente too short for cold dough:** 15 minutes for a dough straight from the fridge; retarded dough needs about 45-60 minutes (lesson 09.2). Fix: divide at 6:05, détente until about 7:05.
+4. **Détente too short for cold dough:** 15 minutes for a dough straight from the fridge; retarded dough needs about 45-60 minutes (lesson [09.2](../module-09/lesson-02.md)). Fix: divide at 6:05, détente until about 7:05.
 5. **Hands:** egg wash 7:20-7:30 overlaps shaping from 7:25. Fix: egg wash only just before each tray goes in.
 6. **Preheat:** oven on 8:00 for 8:20, 20 of 45 minutes. Fix: on at 7:15 for an 8:00 load.
 7. **Oven capacity:** two trays at 8:45 in a one-tray oven. Fix: two loads.

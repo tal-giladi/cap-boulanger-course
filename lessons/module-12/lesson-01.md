@@ -57,7 +57,7 @@ Croissants, pains au chocolat and pains aux raisins come from one pâte levée f
 
 ### Same dough, different finish
 
-Everything up to the last turn is lessons [11.2](../module-11/lesson-02.md) to [11.4](../module-11/lesson-04.md): a cool détrempe, butter at about 13 °C (12-15 °C) so it bends without breaking (King Arthur Baking), three single turns (tours simples), or one double and one single in a warm kitchen, with rests in the cold. The dough is the course croissant sheet **CR-01** of lesson 11.2, inside the croissant column of the [base formulas](../../references/formulas.md):
+Everything up to the last turn is lessons [11.2](../module-11/lesson-02.md) to [11.4](../module-11/lesson-04.md): a cool détrempe, butter at about 13 °C (12-15 °C) so it bends without breaking (King Arthur Baking), three single turns (tours simples), or one double and one single in a warm kitchen, with rests in the cold. The dough is the course croissant sheet **CR-01** of lesson [11.2](../module-11/lesson-02.md), inside the croissant column of the [base formulas](../../references/formulas.md):
 
 | Ingredient | Base formulas range (% of flour) | CR-01 (lesson [11.2](../module-11/lesson-02.md)) |
 |---|---|---|

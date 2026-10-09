@@ -1,6 +1,6 @@
 # Project: Fault File
 
-This project brings Module 16 together. You diagnose six faulty batches from a bakery's records, build your own fault file from the bakes you have made since Module 4, reproduce one fault on purpose beside a control and report it, and finish with a one-page bench card that tells an apprentice what to check first for the ten most common faults. The aim is the professional habit behind competency C4.4: every fault becomes a record with a cause, an action and a prevention.
+This project brings Module 16 together. You diagnose six faulty batches from a bakery's records, build your own fault file from the bakes you have made since [Module 4](../lessons/module-04/lesson-01.md), reproduce one fault on purpose beside a control and report it, and finish with a one-page bench card that tells an apprentice what to check first for the ten most common faults. The aim is the professional habit behind competency C4.4: every fault becomes a record with a cause, an action and a prevention.
 
 ## Brief
 
@@ -29,12 +29,12 @@ In English: build a fault binder for the bakehouse. (1) Analyse the six records 
 
 <details><summary>Reference diagnoses (open after you have written yours)</summary>
 
-1. **Under-fermented by a cold dough** (lessons 04.4, 05.2). Every piece → a dough cause; 5 °C under target is about 1.07⁵ ≈ 1.4 times slower, so the sheet's times left it young. Action: longer, warmer pointage and apprêt judged by the poke test. Prevention: calculate the water from the base temperature whenever the supply changes; measure every dough.
-2. **Second load over-proofed** (lessons 14.1, 16.1). Only load 2, which waited 30 minutes longer at the same temperature. Prevention: proof group 2 about 3-4 °C cooler or shape it later; write the poke test for each load.
-3. **Left in the tin, probably under-baked** (lesson 10.5). Condensation softens the walls of a loaf left in its tin; pale sides suggest the bake was also short. Prevention: unmould at once; bake until golden on the sides and at least about 90 °C at the core, recorded.
-4. **Over-oxidised dough** (lessons 03.4, 09.2). Intensive second speed and late salt bleach the crumb and destroy aroma. Prevention: the TR-01 mixing method posted on the mixer; apprentice trained.
-5. **Butter melted into the dough** (lessons 11.3, 11.4). Butter above about 15 °C in a 27 °C room smears into the détrempe and the layers fuse. Prevention: butter at about 13 °C, laminate in the coolest window, chill as soon as the dough feels greasy.
-6. **Under-baked, cream too thick, tails not tucked** (lesson 12.2). Two shaping faults and one bake fault. Prevention: an even layer of about 2 mm of cream, tail underneath, bake until golden underneath.
+1. **Under-fermented by a cold dough** (lessons [04.4](../lessons/module-04/lesson-04.md), [05.2](../lessons/module-05/lesson-02.md)). Every piece → a dough cause; 5 °C under target is about 1.07⁵ ≈ 1.4 times slower, so the sheet's times left it young. Action: longer, warmer pointage and apprêt judged by the poke test. Prevention: calculate the water from the base temperature whenever the supply changes; measure every dough.
+2. **Second load over-proofed** (lessons [14.1](../lessons/module-14/lesson-01.md), [16.1](../lessons/module-16/lesson-01.md)). Only load 2, which waited 30 minutes longer at the same temperature. Prevention: proof group 2 about 3-4 °C cooler or shape it later; write the poke test for each load.
+3. **Left in the tin, probably under-baked** (lesson [10.5](../lessons/module-10/lesson-05.md)). Condensation softens the walls of a loaf left in its tin; pale sides suggest the bake was also short. Prevention: unmould at once; bake until golden on the sides and at least about 90 °C at the core, recorded.
+4. **Over-oxidised dough** (lessons [03.4](../lessons/module-03/lesson-04.md), [09.2](../lessons/module-09/lesson-02.md)). Intensive second speed and late salt bleach the crumb and destroy aroma. Prevention: the TR-01 mixing method posted on the mixer; apprentice trained.
+5. **Butter melted into the dough** (lessons [11.3](../lessons/module-11/lesson-03.md), [11.4](../lessons/module-11/lesson-04.md)). Butter above about 15 °C in a 27 °C room smears into the détrempe and the layers fuse. Prevention: butter at about 13 °C, laminate in the coolest window, chill as soon as the dough feels greasy.
+6. **Under-baked, cream too thick, tails not tucked** (lesson [12.2](../lessons/module-12/lesson-02.md)). Two shaping faults and one bake fault. Prevention: an even layer of about 2 mm of cream, tail underneath, bake until golden underneath.
 
 </details>
 
@@ -59,7 +59,7 @@ In English: build a fault binder for the bakehouse. (1) Analyse the six records 
 
 ### Part B — your own fault file (1-2 hours)
 
-4. Go through your logs from Module 4 onwards. Choose **at least six faults**, from at least three of the four families (volume and shape, crust and colour, crumb and taste, viennoiserie). If you have not baked viennoiserie yet, use the three croissants you cut in lesson [16.5](../lessons/module-16/lesson-05.md).
+4. Go through your logs from [Module 4](../lessons/module-04/lesson-01.md) onwards. Choose **at least six faults**, from at least three of the four families (volume and shape, crust and colour, crumb and taste, viennoiserie). If you have not baked viennoiserie yet, use the three croissants you cut in lesson [16.5](../lessons/module-16/lesson-05.md).
 5. Write each as one fault-file entry:
 
 | Field | Entry |
@@ -78,18 +78,18 @@ In English: build a fault binder for the bakehouse. (1) Analyse the six records 
 
 ### Part C — one fault on purpose (about 4 hours)
 
-7. Choose **one** fault and its control, from the practices of lessons 16.2-16.4:
-   - **Pain plat by loose shaping** (16.2): bâtard A tight, B loose.
-   - **Pain cintré by under-proofing** (16.2): A at full proof, C loaded at about 20 minutes.
-   - **Croûte terne** (16.3): A covered and steamed, B skinned or C without steam.
-   - **Gummy crumb** (16.4): A baked to at least 93 °C, B taken out early; both cut at 15 and 90 minutes.
+7. Choose **one** fault and its control, from the practices of lessons [16.2](../lessons/module-16/lesson-02.md)-[16.4](../lessons/module-16/lesson-04.md):
+   - **Pain plat by loose shaping** ([16.2](../lessons/module-16/lesson-02.md)): bâtard A tight, B loose.
+   - **Pain cintré by under-proofing** ([16.2](../lessons/module-16/lesson-02.md)): A at full proof, C loaded at about 20 minutes.
+   - **Croûte terne** ([16.3](../lessons/module-16/lesson-03.md)): A covered and steamed, B skinned or C without steam.
+   - **Gummy crumb** ([16.4](../lessons/module-16/lesson-04.md)): A baked to at least 93 °C, B taken out early; both cut at 15 and 90 minutes.
 8. Write a short [production sheet](../templates/production-sheet.md) first, with the one difference between control and fault marked.
 9. Bake, cool, measure (height, width, cut opening or core temperature as relevant), cut and score both pieces with the rubric.
 10. Write the non-conformity report for the faulty piece as if it were a batch of 30: facts and measurements, action, probable cause, prevention.
 
 ### Part D — the bench card (30 minutes)
 
-11. On one page, list the **ten faults** you think an apprentice meets most often. For each, one line: **fault → the first thing to check → the lesson**. Example: "Pâle, plat, grignes fermées → température de pâte et test du doigt → 04.7".
+11. On one page, list the **ten faults** you think an apprentice meets most often. For each, one line: **fault → the first thing to check → the lesson**. Example: "Pâle, plat, grignes fermées → température de pâte et test du doigt → [04.7](../lessons/module-04/lesson-07.md)".
 12. Check every line against the [troubleshooting reference](../references/troubleshooting.md) and the lessons; correct any number that does not match the course (temperatures, proof range, steam method).
 
 ## Deliverables

@@ -29,7 +29,7 @@ In English: a craft bakery (SAS, 9 employees) advertises a CDI for an ouvrier bo
 ## You need
 
 - Lessons [20.1](../lessons/module-20/lesson-01.md) to [20.5](../lessons/module-20/lesson-05.md) and [06.5](../lessons/module-06/lesson-05.md); a calculator or spreadsheet; a word processor for the CV and letter.
-- The official pages cited in 20.3 and 20.4 (service-public, Légifrance convention collective), to re-check the SMIC and the grid on the day you work.
+- The official pages cited in [20.3](../lessons/module-20/lesson-03.md) and [20.4](../lessons/module-20/lesson-04.md) (service-public, Légifrance convention collective), to re-check the SMIC and the grid on the day you work.
 - For Part B, someone to play the employer (in person or by video call) and a phone to record yourself.
 - Time: about 5-6 hours over a week (Part A 45 min, Part B 2 h, Part C 1 h 30, Part D 45 min, Part E 1 h).
 
@@ -42,7 +42,7 @@ In English: a craft bakery (SAS, 9 employees) advertises a CDI for an ouvrier bo
 
 ### Part B — apply
 
-3. Write a one-page CV in French for this offer (lesson 20.3), with facts and numbers from your practice and any work. If your experience is from Israel, translate job titles into the French trade terms and give dates and contact details in the French way.
+3. Write a one-page CV in French for this offer (lesson [20.3](../lessons/module-20/lesson-03.md)), with facts and numbers from your practice and any work. If your experience is from Israel, translate job titles into the French trade terms and give dates and contact details in the French way.
 4. Write a cover letter of 200-250 words in three paragraphs (vous / moi / nous), naming the bakery, its products and the offer.
 5. Prepare and rehearse the interview: a 2-minute presentation, answers to six likely questions, and three questions of your own about hours, coefficient and training. Record one rehearsal and note what to improve.
 

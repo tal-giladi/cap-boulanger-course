@@ -23,7 +23,7 @@ last_verified: "2026-10-09"
 
 # 22.2 · The Written Phase: Technical Sheet and Organigramme
 
-The production test opens with a short written phase: from an order, you complete a technical sheet and the organigramme of the whole order before you touch any dough. This lesson turns the methods of Modules 6 and 14 into a fast, fixed routine, shows where the time comes from when a same-day croissant chain must fit a shorter window, and ends with a timed drill on a practice order with a model answer.
+The production test opens with a short written phase: from an order, you complete a technical sheet and the organigramme of the whole order before you touch any dough. This lesson turns the methods of [Modules 6](../module-06/lesson-01.md) and [14](../module-14/lesson-01.md) into a fast, fixed routine, shows where the time comes from when a same-day croissant chain must fit a shorter window, and ends with a timed drill on a practice order with a model answer.
 
 ## Why it matters
 
@@ -78,8 +78,8 @@ The **shortened chain** is for a window shorter than 8 hours. The time must come
 
 | Move | Saves | Why it works | Limit |
 |---|---|---|---|
-| Chill the flattened détrempe in a blast chiller or freezer for about 40 minutes, then the cold room | about 1 hour | The purpose of the chill is a firm détrempe, centre below 10 °C, as firm as the butter (lesson 11.2): a 2 cm slab at −18 °C gets there far faster than at 3 °C. Elle & Vire's professional method starts with about 40 minutes in the freezer. | Less gluten relaxation: if the dough springs back at lock-in, give it 10 more minutes; never let the edges freeze |
-| One single and one double turn instead of three singles | one rest (about 30-45 min) | Two turns and two rests instead of three; the course already uses this in warm kitchens (lesson 11.4), and Elle & Vire uses a simple then a double turn | Fewer layers (3 × 4 = 12 butter layers instead of 27): a slightly more bready honeycomb; practise it so you know the result |
+| Chill the flattened détrempe in a blast chiller or freezer for about 40 minutes, then the cold room | about 1 hour | The purpose of the chill is a firm détrempe, centre below 10 °C, as firm as the butter (lesson [11.2](../module-11/lesson-02.md)): a 2 cm slab at −18 °C gets there far faster than at 3 °C. Elle & Vire's professional method starts with about 40 minutes in the freezer. | Less gluten relaxation: if the dough springs back at lock-in, give it 10 more minutes; never let the edges freeze |
+| One single and one double turn instead of three singles | one rest (about 30-45 min) | Two turns and two rests instead of three; the course already uses this in warm kitchens (lesson [11.4](../module-11/lesson-04.md)), and Elle & Vire uses a simple then a double turn | Fewer layers (3 × 4 = 12 butter layers instead of 27): a slightly more bready honeycomb; practise it so you know the result |
 | Final rest of 40-50 minutes in the cold room | 10-20 min | The block must be cold and relaxed enough to roll to 3.5 mm without shrinking; Elle & Vire rests 30-40 minutes in the fridge before shaping | If the cut triangles shrink, rest the sheet 10 minutes more |
 
 With these, the chain in the practice order below runs from 7:10 to cooled croissants at about 13:25, about 6 h 15.
@@ -171,7 +171,7 @@ In English: a pain courant order in four shapes, six baguettes viennoises, a cro
 Checked 2026-10-09.
 
 - **The paper is in French.** The drill order is written in French on purpose: the exam's documents are French, whatever kitchen you practise in. Keep a list of every word you had to look up and learn it before the next drill; the course [glossary](../../glossary.md) has the trade terms.
-- **Same method, your kitchen's numbers.** The sheet you write for the drill uses a bakery's readings. When you turn it into a home plan (lessons 22.3-22.5), redo the water temperature with your kitchen's readings: in an August kitchen at 30 °C with flour at 29 °C, pâte fermentée at 8 °C and a hand friction factor of 8, PC-02 needs 96 − 29 − 30 − 8 − 8 = **21 °C** water, blended from tap and fridge water (lesson [05.2](../module-05/lesson-02.md)).
+- **Same method, your kitchen's numbers.** The sheet you write for the drill uses a bakery's readings. When you turn it into a home plan (lessons [22.3](lesson-03.md)-[22.5](lesson-05.md)), redo the water temperature with your kitchen's readings: in an August kitchen at 30 °C with flour at 29 °C, pâte fermentée at 8 °C and a hand friction factor of 8, PC-02 needs 96 − 29 − 30 − 8 − 8 = **21 °C** water, blended from tap and fridge water (lesson [05.2](../module-05/lesson-02.md)).
 - **Flour weights stay the same** whatever Israeli flour you use; only the water may move by a few points ([Flour in Israel](../../references/flour-in-israel.md)). Write any change in your recipe notebook as a note, not in the sheet's percentages, so the exam sheet stays the French one.
 
 ### Steps

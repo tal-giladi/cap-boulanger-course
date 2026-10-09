@@ -105,18 +105,18 @@ gantt
 
 ## Worked example
 
-Saturday 14 November, PC-02 batch of lesson 08.1: 9,844 g of dough at **24.4 °C**, mixed at 2:55.
+Saturday 14 November, PC-02 batch of lesson [08.1](lesson-01.md): 9,844 g of dough at **24.4 °C**, mixed at 2:55.
 
 1. **Plan the pointage.** 0.4 °C above the target: 45 ÷ 1.07^0.4 ≈ 44 minutes. First check at 3:35.
 2. **3:35 check.** Volume about 1.4 times the line on the tub; domed; the dent fills slowly. Give it five more minutes. At 3:40: about 1.5 times, supple, light smell. Pointage finished.
 3. **Pâte fermentée for Sunday.** Sunday's sheet: 6,000 g of flour × 15 % = 900 g, plus a margin: 950 g. The dough tipped out weighs 9,760 g and the order needs 9,600 g, so only 160 g is spare. You take the **160 g** now, labelled, and write on the sheet: "PF dimanche: 160 g du lot de 2 h 55 + 790 g à prendre sur le lot de 10 h". Taking 950 g from this batch would leave the order about 790 g short: two or three baguettes missing at 7:00.
 4. **Divide (3:42-4:00).** Hydraulic divider: 24 pieces at 350 g. You check every piece: 21 are within 345-355 g, three are 342, 357 and 358 g. You correct those three, then cut the 20 rolls at 60 g ± 2 g on the scale. The scraps are folded into the last pieces, never left on the bench.
-5. **Pre-shape and détente.** Baguette pieces rolled into loose 20 cm cylinders, seam down, on a floured cloth, covered. The rolls are rounded lightly. Détente 20 minutes; at 4:20 the first cylinders stretch easily without springing back: ready to shape (lesson 08.3).
+5. **Pre-shape and détente.** Baguette pieces rolled into loose 20 cm cylinders, seam down, on a floured cloth, covered. The rolls are rounded lightly. Détente 20 minutes; at 4:20 the first cylinders stretch easily without springing back: ready to shape (lesson [08.3](lesson-03.md)).
 6. **Record.** Pointage 45 min (2:55-3:40), PF kept 160 g, three pieces corrected, détente 20 min. These times go on the sheet for the 7:00 check: if the apprêt runs fast, you will know whether the pointage was already long.
 
 ## Practice
 
-You ferment a home PC-02 dough, judge the end of pointage, keep tomorrow's pâte fermentée, divide three pieces of 270 g, pre-shape and judge the détente. Then you finish the bake (as three short loaves, or as baguettes with lessons 08.3 and 08.4).
+You ferment a home PC-02 dough, judge the end of pointage, keep tomorrow's pâte fermentée, divide three pieces of 270 g, pre-shape and judge the détente. Then you finish the bake (as three short loaves, or as baguettes with lessons [08.3](lesson-03.md) and [08.4](lesson-04.md)).
 
 ### You need
 
@@ -127,7 +127,7 @@ You ferment a home PC-02 dough, judge the end of pointage, keep tomorrow's pâte
 
 | Ingredient | Baker's % | Weight |
 |---|---|---|
-| PC-02 dough just mixed (lesson 08.1) | 182.3 | 911.5 g |
+| PC-02 dough just mixed (lesson [08.1](lesson-01.md)) | 182.3 | 911.5 g |
 | of which: 3 pâtons for today | | 3 × 270 g = 810 g |
 | of which: pâte fermentée kept for the next bake | | 75 g |
 | left for process losses | | about 26 g |

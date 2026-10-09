@@ -56,7 +56,7 @@ Lesson [07.5](../module-07/lesson-05.md) compared oven types by their advantages
 
 ![One deck of a deck oven, where the loaf takes heat by conduction from the hot sole, by radiation from the crown and walls, and a little by natural convection, with steam at loading; and a convection oven, where a fan blows hot air across trays so most heat arrives by forced convection](../../assets/m13-oven-heat-transfer.svg)
 
-- **Conduction:** heat passes by contact, from the hot sole or tray into the base of the loaf. It gives the base its colour and drives oven spring from below. Too hot a sole for the voûte, and the base burns before the top is coloured: **pain ferré** (lesson 07.5).
+- **Conduction:** heat passes by contact, from the hot sole or tray into the base of the loaf. It gives the base its colour and drives oven spring from below. Too hot a sole for the voûte, and the base burns before the top is coloured: **pain ferré** (lesson [07.5](../module-07/lesson-05.md)). Other crust and colour faults are diagnosed in lesson [16.3](../module-16/lesson-03.md).
 - **Radiation:** every hot surface sends heat as infrared radiation to colder surfaces facing it: the crown, the walls and the elements to the crust. Radiation grows very steeply with temperature (with the fourth power of the absolute temperature, ASBE): a deck that is a little hotter browns noticeably faster.
 - **Convection:** moving air carries heat. Still air in a deck carries little; a fan (forced convection) carries much more, so a convection oven bakes faster **at the same setting** and dries the surface. That is why it is set about 15-20 °C lower than a still oven (King Arthur gives 25 °F, about 14 °C, for home ovens) and why it suits viennoiserie better than crusty bread.
 
@@ -66,7 +66,7 @@ Inside the dough, heat travels by conduction from the surface to the core, slowe
 
 - **Electric ovens: the Joule effect.** A current through a resistance heats it (P = U × I, lesson [13.5](lesson-05.md)). Electric deck ovens have resistances under the sole and in the voûte, often with a power distributor that alternates them so the bakery's subscribed power stays lower (CNBPF).
 - **Gas or fuel-oil ovens: combustion.** A burner heats the decks indirectly; the fumes leave by a flue. Combustion needs air and a flue in good order (lesson [13.5](lesson-05.md)).
-- **Wood-fired ovens:** heat stored in the masonry from a fire (lesson 07.5).
+- **Wood-fired ovens:** heat stored in the masonry from a fire (lesson [07.5](../module-07/lesson-05.md)).
 
 ### What each oven is built for
 
@@ -92,7 +92,7 @@ The CNBPF guide for deck ovens (December 2025) gives figures every baker can act
 | A door left open more than 5 minutes over 4 hours at 250 °C | about +5 % for that deck |
 | Bakes grouped, unused decks switched off, oven off about 10 minutes before the end of the last bake | uses the stored heat |
 
-Ovens are also kept away from refrigeration equipment (lesson [13.3](lesson-03.md)).
+Ovens are also kept away from refrigeration equipment (lesson [13.3](lesson-03.md)). The whole bakery's energy and water use, ovens included, is the subject of lesson [18.1](../module-18/lesson-01.md).
 
 ### Burns
 

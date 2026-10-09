@@ -27,7 +27,7 @@ last_verified: "2026-10-09"
 
 # 22.4 · Rehearsal: Viennoiserie and Pâte Levée
 
-The second rehearsal is the butter half of the work: one croissant lamination cut into croissants, pains au chocolat and pains aux raisins with a crème pâtissière, and a pain au lait shaped as a braid, navettes and hedgehogs. The détrempe is mixed the evening before, as most bakeries do; everything else happens in one morning to a written plan, with an oven queue at two close temperatures. Lesson 22.5 then puts the bread and the butter halves into one day.
+The second rehearsal is the butter half of the work: one croissant lamination cut into croissants, pains au chocolat and pains aux raisins with a crème pâtissière, and a pain au lait shaped as a braid, navettes and hedgehogs. The détrempe is mixed the evening before, as most bakeries do; everything else happens in one morning to a written plan, with an oven queue at two close temperatures. Lesson [22.5](lesson-05.md) then puts the bread and the butter halves into one day.
 
 ## Why it matters
 
@@ -112,7 +112,7 @@ Yonatan ran this rehearsal in late June in a kitchen at 27 °C, with an air-cond
 | 6:50 | cream 9 °C | logged; filmed, fridge |
 | 6:55 | butter plaque 15 °C, détrempe centre 6 °C | plaque 5 more minutes in the fridge (to 13 °C); lock-in at 7:00 |
 | 7:05 | butter edges shining during turn 1 | stopped, back in the fridge 10 minutes, finished the turn in the living room |
-| 7:50 | kitchen 28 °C | turns 2 and 3 replaced by **one double turn** at 7:50 in the living room (lesson 11.4), final rest from 8:00 |
+| 7:50 | kitchen 28 °C | turns 2 and 3 replaced by **one double turn** at 7:50 in the living room (lesson [11.4](../module-11/lesson-04.md)), final rest from 8:00 |
 | 9:35 | final sheet springs back | 10 more minutes in the fridge; shaping 9:45-10:25 |
 | 10:25 | PL braid ready (poke test springs back slowly) | loaded at 10:25 as planned |
 | 11:55 | croissants wobble, almost doubled | loaded with the pains au chocolat |
@@ -184,9 +184,9 @@ Pieces: braid of 3 × 80 g (240 g), 2 navettes of 50 g, 2 hedgehogs of 60 g = 46
 
 Checked 2026-10-09.
 
-- **Heat is the main enemy.** Coastal July-August mornings start at about 23-24 °C and kitchens climb past 28 °C by mid-morning. Laminate before about 8:00 or in the air-conditioned room at 22-24 °C, roll for no more than 5-10 minutes at a time, and switch to one double and one single turn when the butter starts to shine (lesson 11.4). In winter (kitchen 18-20 °C) three single turns are easier than in the plan.
+- **Heat is the main enemy.** Coastal July-August mornings start at about 23-24 °C and kitchens climb past 28 °C by mid-morning. Laminate before about 8:00 or in the air-conditioned room at 22-24 °C, roll for no more than 5-10 minutes at a time, and switch to one double and one single turn when the butter starts to shine (lesson [11.4](../module-11/lesson-04.md)). In winter (kitchen 18-20 °C) three single turns are easier than in the plan.
 - **Butter:** block butter (חמאה, *khem'a*), unsalted; read the fat line and look for about 80-82 g per 100 g. Half-fat butter (חמאה חצי-שמנה) and spreads (ממרח, *mimrach*) will not laminate.
-- **Chocolate batons:** baking chocolate sticks (מקלות שוקולד לאפייה, *maklot shokolad le'afiya*) from baking-supply shops, marked bake-stable (עמיד באפייה); or a 50-60 % dark bar cut into 8 × 1 cm sticks kept cold (lesson 12.1).
+- **Chocolate batons:** baking chocolate sticks (מקלות שוקולד לאפייה, *maklot shokolad le'afiya*) from baking-supply shops, marked bake-stable (עמיד באפייה); or a 50-60 % dark bar cut into 8 × 1 cm sticks kept cold (lesson [12.1](../module-12/lesson-01.md)).
 - **Cream on ice:** in a warm kitchen the bench warms the tray: always cool on ice water, film on the cream, and move it to the fridge (5 °C or below) the moment the core reads 10 °C. Cornstarch is *kornflor* (קורנפלור).
 - **Raisins** (צימוקים, *tzimukim*): read the label for sulphites (סולפיטים), an allergen to declare if you share or sell the pastries.
 - **Proofing:** the air-conditioned room at 24-26 °C for the laminated pieces; the pain au lait at 25-27 °C (the oven with the light on, checked with the probe). Never proof laminated pieces in a 30 °C kitchen.
@@ -238,7 +238,7 @@ The cream log shows two times inside 2 hours; the turns went in without butter b
 | Symptom | Likely cause | Fix now | Prevent next time |
 |---|---|---|---|
 | Butter breaks through or smears during the turns | Butter too cold (cracks) or too warm (smears); room above 24 °C | Fridge 10-15 minutes; continue in a cooler room | Butter at about 13 °C at lock-in; laminate early or with AC; double turn in heat |
-| Sheet springs back, triangles shrink | Final rest too short or dough too warm | Rest the sheet 10 minutes more in the fridge | At least 1 hour of final rest, or 40-50 minutes when you use the chiller method of lesson 22.2 |
+| Sheet springs back, triangles shrink | Final rest too short or dough too warm | Rest the sheet 10 minutes more in the fridge | At least 1 hour of final rest, or 40-50 minutes when you use the chiller method of lesson [22.2](lesson-02.md) |
 | Butter pool on the tray, bready croissants | Proof above about 27 °C | Bake at once; note it | Proof at 24-26 °C in a named place, checked with the probe |
 | Cream not at 10 °C after 2 hours | Cooled in a deep bowl or on the bench | Discard it; make a new batch | Shallow tray, film on contact, ice water, two logged times |
 | Pain au lait over-proofed while you shape croissants | Shaped too early or proofed too warm | Bake as soon as the oven allows | Shape it after the turns, proof in a place you control, oven on in time |

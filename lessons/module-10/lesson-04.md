@@ -136,7 +136,7 @@ Divide 470 g (tin) + 400 g (bâtard) = 870 g.
 - **Flour:** 100 % whole wheat flour (קמח חיטה מלא, *kemakh khita male*) stands in for T150; check the bag says 100 % or "whole wheat flour" alone, not 80 % ([Flour in Israel](../../references/flour-in-israel.md)). Its protein is high (12-14 g per 100 g as sold), so start at 74 % and expect to need the 20 g you held back, or even 2-4 points more.
 - **80 % flour is not pain complet:** קמח חיטה 80% is close to T80. Bread from it alone is a darker bread, not a pain complet; keep it for the campagne blend of lesson 10.3.
 - **Storage:** whole wheat flour turns rancid sooner than white. In a hot Israeli summer keep an opened bag in a closed container in the fridge or freezer and use it within a few weeks; smell it before use (a bitter, paint-like smell means rancid).
-- **Water in summer:** three factors, TPV 25 °C, hand friction factor 6 (lesson 05.2). Flour 29 °C, kitchen 30 °C: 75 − 29 − 30 − 6 = **10 °C**: fridge water. The dough ferments fast at 25 °C and above: start checking pointage at 25 minutes.
+- **Water in summer:** three factors, TPV 25 °C, hand friction factor 6 (lesson [05.2](../module-05/lesson-02.md)). Flour 29 °C, kitchen 30 °C: 75 − 29 − 30 − 6 = **10 °C**: fridge water. The dough ferments fast at 25 °C and above: start checking pointage at 25 minutes.
 - **Tins:** a standard rectangular metal loaf tin from a kitchen shop works; dark metal colours the sides better than glass. Do not use a glass dish for this practice (checked 2026-10-08).
 
 ### Steps
@@ -185,7 +185,7 @@ The tin loaf slices cleanly with a moist, even crumb and no crack between top an
 
 ## Review
 
-- Pain complet is made with wholemeal flour (T150); a darker bread from T80 or T110 is not pain complet. Lesson 09.1 sets out the name.
+- Pain complet is made with wholemeal flour (T150); a darker bread from T80 or T110 is not pain complet. Lesson [09.1](../module-09/lesson-01.md) sets out the name.
 - Bran absorbs more water slowly, cuts and weakens the gluten, speeds fermentation and makes the flour turn rancid sooner: more water, a rest, gentle mixing, shorter fermentation, fresh flour.
 - CO-01: T150 100, water 74, salt 1.7, fresh yeast 1.8, TPV 25 °C; tins support the weak dough.
 - Wholemeal and cereal breads must stay at or below 1.3 g of salt per 100 g: check small pieces with their measured losses.

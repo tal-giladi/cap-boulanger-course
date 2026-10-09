@@ -21,7 +21,7 @@ last_verified: "2026-10-08"
 
 # 07.3 · From Bulk to Shaping
 
-This lesson covers stages 8 to 13: from the dough in its tub to shaped pieces proofing on the couche. Module 4 taught the fermentation side of pointage, dividing, détente and apprêt; here the focus is the hands and the machines: how a piece is shaped, what the dough tells you at shaping, and what changes when the work is mechanised. You finish with a shaping drill of boules, bâtards and baguettes.
+This lesson covers stages 8 to 13: from the dough in its tub to shaped pieces proofing on the couche. [Module 4](../module-04/lesson-01.md) taught the fermentation side of pointage, dividing, détente and apprêt; here the focus is the hands and the machines: how a piece is shaped, what the dough tells you at shaping, and what changes when the work is mechanised. You finish with a shaping drill of boules, bâtards and baguettes.
 
 ## Why it matters
 
@@ -135,12 +135,12 @@ You shape two boules, two bâtards and two baguettes from one 1 kg PD-01 dough, 
 
 ### You need
 
-- Minimum: the PD-01 dough from 07.2 (1,683 g), scale, scraper, ruler, timer, a heavy cotton or linen cloth folded into pleats as a couche, a bowl lined with a well-floured cloth as a banneton (or two), a board or stiff card to transfer the baguettes, baking paper, a tray, a metal tray for steam, oven gloves, lame, the [bake log](../../templates/bake-log.md).
+- Minimum: the PD-01 dough from [07.2](lesson-02.md) (1,683 g), scale, scraper, ruler, timer, a heavy cotton or linen cloth folded into pleats as a couche, a bowl lined with a well-floured cloth as a banneton (or two), a board or stiff card to transfer the baguettes, baking paper, a tray, a metal tray for steam, oven gloves, lame, the [bake log](../../templates/bake-log.md).
 - Professional equivalent: bench with a dusting of flour, divider, façonneuse, linen couches on boards, cane bannetons, a planchette (transfer board).
 
 ### Ingredients
 
-PD-01 on 1 kg of flour, as in lesson 07.2:
+PD-01 on 1 kg of flour, as in lesson [07.2](lesson-02.md):
 
 | Ingredient | Baker's % | Weight |
 |---|---|---|
@@ -152,7 +152,7 @@ PD-01 on 1 kg of flour, as in lesson 07.2:
 
 ### Steps
 
-1. **Pointage:** 1 h 15 at about 24 °C with a fold at 40 minutes; end it by the dough's signs (lesson 04.2). Write the dough temperature.
+1. **Pointage:** 1 h 15 at about 24 °C with a fold at 40 minutes; end it by the dough's signs (lesson [04.2](../module-04/lesson-02.md)). Write the dough temperature.
 2. **Divide** 6 pieces of 270 g (±2 g), each with at most one add-on. The last 63 g can be shaped into a roll.
 3. **Pre-shape:** pieces 1-2 into balls; pieces 3-6 into loose cylinders about 12 cm long. Cover. Détente 20 minutes (longer if they pull back).
 4. **Boules (1-2):** edges folded to the centre, turned seam down, dragged towards you while turning until taut. Seam up into the floured bannetons. Time each one.

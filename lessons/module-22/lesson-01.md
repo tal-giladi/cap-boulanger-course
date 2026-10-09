@@ -81,7 +81,7 @@ Two honest limits. First, the référentiel lists criteria and indicators but do
 
 ### Habits beat heroics
 
-Process lines are watched for the whole day, so they reward habits repeated hundreds of times, not a single good moment. A candidate who washes their hands at every change of task, wipes the bench after each dough and labels every tub without thinking about it scores on those lines all day. One who remembers only when an examiner walks past does not. That is why the rehearsals in lessons 22.3-22.5 score your behaviour as well as your products.
+Process lines are watched for the whole day, so they reward habits repeated hundreds of times, not a single good moment. A candidate who washes their hands at every change of task, wipes the bench after each dough and labels every tub without thinking about it scores on those lines all day. One who remembers only when an examiner walks past does not. That is why the rehearsals in lessons [22.3](lesson-03.md)-[22.5](lesson-05.md) score your behaviour as well as your products.
 
 > [!WARNING]
 > Bring the protective equipment named on your convocation: the exam reference explains what happens to a candidate who does not. Practise in the same shoes and clothing you will wear on the day.
@@ -107,10 +107,10 @@ A training centre ran a mock production day with its own **invented** grid out o
 
 | Fault | Fix | Practice needed |
 |---|---|---|
-| no cleaning slots, oven late | write them into the organigramme; oven time is planned backwards from the first load | one written drill (lesson 22.2) |
+| no cleaning slots, oven late | write them into the organigramme; oven time is planned backwards from the first load | one written drill (lesson [22.2](lesson-02.md)) |
 | hands, jewellery, labels, clutter | a fixed routine at every change of task | two or three rehearsals with an observer |
 | dough temperature not measured | probe in the apron, number on the log | one rehearsal |
-| uneven pains au chocolat | ruler, marks on the sheet, weigh three pieces | several batches (lesson 12.1) |
+| uneven pains au chocolat | ruler, marks on the sheet, weigh three pieces | several batches (lesson [12.1](../module-12/lesson-01.md)) |
 
 The first three rows are habits that cost almost nothing to learn and were worth 15 of Léa's 29 lost points. The last is a skill that needs many batches. A candidate with little time left should fix the habits first, without stopping the skill practice.
 
@@ -131,7 +131,7 @@ You first read the real grid and build your observation checklist, then run a ti
 
 PC-02 on 500 g of flour, with a pâte fermentée made the evening before (lesson [08.1](../module-08/lesson-01.md)):
 
-| Ingredient | Baker's % | Home batch | Professional batch (01.6 order) |
+| Ingredient | Baker's % | Home batch | Professional batch ([01.6](../module-01/lesson-06.md) order) |
 |---|---|---|---|
 | Flour T55 | 100 | 500 g | 5,400 g |
 | Water at the calculated temperature | 64 | 320 g | 3,456 g |
@@ -166,7 +166,7 @@ Checked 2026-10-09.
 
 4. Dress as for the exam. Give your observer the checklist and ask them to tick each line and write the time of anything they see go wrong. Or start the camera.
 5. Set a start time and write a short plan: mise en place, mix, pointage, divide, détente, shape, apprêt, bake, cool, clean. Put the oven-on time on it.
-6. Run the bake of lessons 08.1-08.4 to your plan: water calculated and logged, dough temperature measured, pieces weighed, everything labelled, bench cleared between stages.
+6. Run the bake of lessons [08.1](../module-08/lesson-01.md)-[08.4](../module-08/lesson-04.md) to your plan: water calculated and logged, dough temperature measured, pieces weighed, everything labelled, bench cleared between stages.
 7. Finish with a clean station: tools washed, bench and scale wiped, floor checked, waste sorted. Note the time.
 8. Score the cooled baguettes with the [quality rubric](../../templates/quality-rubric.md).
 9. Go through the checklist with your observer, or watch the recording. Count the process lines missed and the result points missed.

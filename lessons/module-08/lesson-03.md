@@ -76,24 +76,24 @@ The home baguette is shorter, but its thickness is close to the bakery's, so it 
 
 ### Into the couche: apprêt begins
 
-Each baguette goes into a well-floured couche, seam **up** (it is turned over onto the transfer board, so it is seam down in the oven), with a fold of linen standing up between pieces so they keep their shape and do not touch. The couche wicks a little moisture from the skin, which helps scoring. At home, baking paper on a tray with folded tea towels rolled between the pieces works: shape seam down, since you will not turn them over. Cover, and note the time: apprêt runs about 1 h 15 at 25 °C and 75-80 % relative humidity in a bakery proofing cabinet; lesson 08.4 decides when it is finished.
+Each baguette goes into a well-floured couche, seam **up** (it is turned over onto the transfer board, so it is seam down in the oven), with a fold of linen standing up between pieces so they keep their shape and do not touch. The couche wicks a little moisture from the skin, which helps scoring. At home, baking paper on a tray with folded tea towels rolled between the pieces works: shape seam down, since you will not turn them over. Cover, and note the time: apprêt runs about 1 h 15 at 25 °C and 75-80 % relative humidity in a bakery proofing cabinet; lesson [08.4](lesson-04.md) decides when it is finished.
 
 Shape **in the order you divided**: the first pieces are the most fermented, so they are shaped first and baked first.
 
 ## Worked example
 
-Saturday 14 November, 4:20, PC-02 batch: 24 baguette pieces of 350 g, détente done (lesson 08.2). The shop needs them at 7:00; the 20 rolls are shaped after them.
+Saturday 14 November, 4:20, PC-02 batch: 24 baguette pieces of 350 g, détente done (lesson [08.2](lesson-02.md)). The shop needs them at 7:00; the 20 rolls are shaped after them.
 
 1. **Set up.** Couche floured on two boards (12 baguettes each), planchette, small flour dish, scraper. Bench dusted very lightly.
 2. **Rhythm.** 24 baguettes in about 25 minutes: about one a minute, including setting it in the couche. You shape them in division order: the first piece cut at 3:42 is the first shaped at 4:20.
 3. **Check every fifth piece** with the ruler on the bench: 54, 56, 55, 53, 57 cm. All within about ± 2 cm of 55 cm: even enough to bake together.
 4. **One piece tears** at the second pass of rolling. The détente of the first pieces was fine, so this is over-handling: you finish it at 50 cm without forcing it and note it; it will be the shortest in the load and is checked at the weight control after baking.
-5. **Apprêt.** Boards into the proofing cabinet at 4:45, 25 °C, 78 % RH. Planned end: about 6:00, oven ready at 6:00 (lesson 01.6). The rolls follow at 4:50, proofed slightly cooler so they are ready for the second load.
+5. **Apprêt.** Boards into the proofing cabinet at 4:45, 25 °C, 78 % RH. Planned end: about 6:00, oven ready at 6:00 (lesson [01.6](../module-01/lesson-06.md)). The rolls follow at 4:50, proofed slightly cooler so they are ready for the second load.
 6. **Record.** Shaping 4:20-4:45, lengths 53-57 cm, one torn piece (over-rolled), apprêt start 4:45. If the baguettes come out uneven, these notes separate a shaping fault from a proofing fault.
 
 ## Practice
 
-You shape six baguettes of 270 g from a 1 kg PD-01 batch, twice the 500 g batch you costed in lesson 06.5, and proof them in two staggered sets of three so each set fits your oven. Practise the movements first with a small piece of dough or play dough if you have it.
+You shape six baguettes of 270 g from a 1 kg PD-01 batch, twice the 500 g batch you costed in lesson [06.5](../module-06/lesson-05.md), and proof them in two staggered sets of three so each set fits your oven. Practise the movements first with a small piece of dough or play dough if you have it.
 
 > [!WARNING]
 > Baking is at 250 °C with steam. Dry oven gloves, steam only into a metal tray preheated in the oven (never water into a hot glass dish), pour and step back. Score with the blade moving away from your fingers and cover the lame after use.
@@ -128,7 +128,7 @@ Six pâtons of 270 g = 1,620 g; the 63 g left covers process losses.
 
 1. **Measure your tray** and write your target length (about 38 cm).
 2. **Mix** PD-01 by hand to 24 °C ± 1 °C (water with three factors, lesson [05.2](../module-05/lesson-02.md)). Knead 12-14 minutes for this larger batch.
-3. **Pointage** about 1 h 15 with one fold at 40 minutes, judged by the signs (lesson 08.2).
+3. **Pointage** about 1 h 15 with one fold at 40 minutes, judged by the signs (lesson [08.2](lesson-02.md)).
 4. **Divide** 6 × 270 g ± 2 g. **Pre-shape** loose cylinders of about 15 cm. Détente 20-30 minutes, covered.
 5. **Shape set 1 (three pieces)** following the six movements. Measure each one. Place them on paper seam down with a rolled towel between pieces (or seam up in a floured couche). Cover. Write the time. Preheat the oven to 250 °C with the baking tray and the metal steam tray inside.
 6. **Shape set 2** 20-25 minutes after set 1, in the same way, and proof it somewhere slightly cooler.

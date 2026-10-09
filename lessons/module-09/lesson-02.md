@@ -89,7 +89,7 @@ flowchart LR
 
 $$\text{water} = 4 \times 23 - \text{flour} - \text{room} - \text{pâte fermentée} - \text{friction factor}$$
 
-with a friction factor measured with four factors **for this product and method** ("TR-01, autolyse + slow mixing"). Slow mixing heats a dough by only about 2-4 °C, a four-factor friction factor of about 8-16 on a spiral (lesson 05.3); by hand use your own, or 8. The autolyse rest lets the dough drift towards room temperature, and a friction factor measured on this same method already includes that drift.
+with a friction factor measured with four factors **for this product and method** ("TR-01, autolyse + slow mixing"). Slow mixing heats a dough by only about 2-4 °C, a four-factor friction factor of about 8-16 on a spiral (lesson [05.3](../module-05/lesson-03.md)); by hand use your own, or 8. The autolyse rest lets the dough drift towards room temperature, and a friction factor measured on this same method already includes that drift.
 
 **Mixing.** Water and flour for the autolyse: about 3 minutes in first speed (or by hand) until no dry flour remains, cover, rest 30 minutes. Then crumbled yeast; after a minute the salt; the pâte fermentée in pieces at the end of this frasage. Mix in **first speed** until the dough is smooth and comes away from the bowl, adding the eau de réserve slowly (bassinage) once the dough has some body. Stop **before** a perfect windowpane: the film stretches but tears with a ragged edge. The folds during pointage finish the development.
 
@@ -101,7 +101,7 @@ with a friction factor measured with four factors **for this product and method*
 
 The pointage is finished when the dough has grown by roughly 1.5 to 2 times, is domed and airy with some bubbles at the edges and on the surface, feels light and supple, and holds its shape after the last fold instead of spreading (lesson [04.7](../module-04/lesson-07.md)).
 
-**Pointage retardé au froid.** For flavour or for a later start, mix cooler (about 21-22 °C) with less yeast (about 0.4 %), give 45-60 minutes and two folds at room temperature, then put the covered tub in the cold room at about 2-6 °C for 12-16 hours. Divide cold and give a longer détente (lesson 04.6). This is positive cold, so the bread is still tradition. Freezing is not (lesson 09.1).
+**Pointage retardé au froid.** For flavour or for a later start, mix cooler (about 21-22 °C) with less yeast (about 0.4 %), give 45-60 minutes and two folds at room temperature, then put the covered tub in the cold room at about 2-6 °C for 12-16 hours. Divide cold and give a longer détente (lesson [04.6](../module-04/lesson-06.md)). This is positive cold, so the bread is still tradition. Freezing is not (lesson [09.1](lesson-01.md)).
 
 **Tomorrow's pâte fermentée.** At the end of pointage, cut the next pâte fermentée from the tradition dough, label it "TR" with date and time, and keep it at about 4 °C. Never use a pain courant pâte fermentée in tradition: it may carry ascorbic acid from its flour.
 
@@ -116,12 +116,12 @@ Saturday, Boulangerie Au Pain de la Halle. Order: **40 baguettes de tradition at
 5. **Autolyse, 4:10:** flour and 4,828 g of water, 3 minutes first speed; covered, 30 minutes.
 6. **Final mixing, 4:40:** yeast; after 1 minute the salt; the pâte fermentée in eight pieces at the end of frasage. First speed. At 5 minutes the dough is still slightly firm: the 142 g reserve goes in slowly. At 11 minutes it is smooth, clears the bowl, and the film tears raggedly when stretched thin. Stop.
 7. **Dough temperature: 23.4 °C.** Pointage plan about 1 h 55 (120 ÷ 1.07^0.4 ≈ 117 min). Folds at about 5:30 and 6:10; check from 6:35.
-8. **6:45:** the dough has nearly doubled, is domed and airy and holds its shape. Cut 1,000 g for Sunday's pâte fermentée (labelled "TR, samedi 6:45", into the cold room), then divide 40 × 300 g (lesson 09.3).
+8. **6:45:** the dough has nearly doubled, is domed and airy and holds its shape. Cut 1,000 g for Sunday's pâte fermentée (labelled "TR, samedi 6:45", into the cold room), then divide 40 × 300 g (lesson [09.3](lesson-03.md)).
 9. **Record** on the [temperature log](../../templates/temperature-log.md): inputs, water 30 °C, dough 23.4 °C, bassinage 142 g (total 70 %), mixing 11 minutes first speed, pointage 2 h with two folds.
 
 ## Practice
 
-You make a small tradition pâte fermentée in the evening and mix a home batch of TR-01 by hand the next day, to 23 °C ± 1 °C, with an autolyse, bassinage and three folds. Lessons 09.3 and 09.4 shape and bake this dough, so plan the whole day.
+You make a small tradition pâte fermentée in the evening and mix a home batch of TR-01 by hand the next day, to 23 °C ± 1 °C, with an autolyse, bassinage and three folds. Lessons [09.3](lesson-03.md) and [09.4](lesson-04.md) shape and bake this dough, so plan the whole day.
 
 > [!WARNING]
 > Later today the oven runs at 240-250 °C with steam. Dry oven gloves, steam only into a metal tray preheated in the oven (never water into a hot glass or ceramic dish: it can shatter), pour and step back. Water from the kettle for blending: never above 40 °C in the bowl, and pour it away from your hands.

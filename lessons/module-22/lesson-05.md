@@ -50,7 +50,7 @@ The two half-day rehearsals taught you each half; the production test asks for b
 
 ### The full day at home
 
-The day joins lessons 22.3 and 22.4 with one change: the détrempe is mixed in the first minutes of the day, not the evening before, so the laminated dough is the critical path again, as in lessons [14.4](../module-14/lesson-04.md) and [22.2](lesson-02.md). Everything else fits into its rests. The oven is a queue of seven loads: three bread loads at 250 °C with steam, the viennois at 190 °C, then a pause, then the laminated products at 195-200 °C and the pain au lait at about 185 °C.
+The day joins lessons [22.3](lesson-03.md) and [22.4](lesson-04.md) with one change: the détrempe is mixed in the first minutes of the day, not the evening before, so the laminated dough is the critical path again, as in lessons [14.4](../module-14/lesson-04.md) and [22.2](lesson-02.md). Everything else fits into its rests. The oven is a queue of seven loads: three bread loads at 250 °C with steam, the viennois at 190 °C, then a pause, then the laminated products at 195-200 °C and the pain au lait at about 185 °C.
 
 ![Home production day timeline from 5:30 to 15:00: croissant lane as critical path, cream, bread, viennois and pain au lait lanes, and a one-tray oven lane with seven loads](../../assets/m22-production-day-timeline.svg)
 
@@ -101,7 +101,7 @@ Maya, who prepares from Haifa as an individual candidate, ran her first full pro
 
 **Scores** with the [quality rubric](../../templates/quality-rubric.md): pain courant 15, viennois 16, croissants 14, pains au chocolat 15, pains aux raisins 11, pain au lait 16. Observer's checklist: 78 % of process lines.
 
-**Second day.** She drilled dividing (15 pieces in 15 minutes, three evenings), used the compressed laminated chain of lesson 22.2 with her freezer, and a stand mixer for the bread. Day: 5:30-14:35. Pains aux raisins 15, process lines 90 %.
+**Second day.** She drilled dividing (15 pieces in 15 minutes, three evenings), used the compressed laminated chain of lesson [22.2](lesson-02.md) with her freezer, and a stand mixer for the bread. Day: 5:30-14:35. Pains aux raisins 15, process lines 90 %.
 
 **Her readiness checklist after day 2.** Ticked: the EP2 written phase lines, dough temperature, dividing to weight, shaping the bread families, the other bread, the pain au lait shapes. Not ticked: "I have worked on a spiral mixer, a deck oven and a sheeter"; "a full production day in the exam's time" (her home day is longer, see the exam reference for the real time); and the administrative block. Her plan:
 
@@ -122,13 +122,13 @@ The capstone of the course: a full home production day from your own plan, then 
 ### You need
 
 - Everything from lessons [22.3](lesson-03.md) and [22.4](lesson-04.md): scales, probe and oven thermometers, bowls, scraper, bench knife, containers, couche or cloths, banneton, rolling pin, ruler, pizza wheel, scissors, lame, brush, saucepan and whisk, ice and a shallow tray, film, two trays, baking paper, metal steam tray, oven gloves, racks, labels.
-- Documents: your organigramme on the [template](../../templates/organigramme.md), [production sheets](../../templates/production-sheet.md), the [temperature log](../../templates/temperature-log.md), the [bake log](../../templates/bake-log.md), the [quality rubric](../../templates/quality-rubric.md), the observation checklist (lesson 22.1), the [non-conformity report](../../templates/non-conformity-report.md) and the [readiness checklist](../../templates/readiness-checklist.md).
+- Documents: your organigramme on the [template](../../templates/organigramme.md), [production sheets](../../templates/production-sheet.md), the [temperature log](../../templates/temperature-log.md), the [bake log](../../templates/bake-log.md), the [quality rubric](../../templates/quality-rubric.md), the observation checklist (lesson [22.1](lesson-01.md)), the [non-conformity report](../../templates/non-conformity-report.md) and the [readiness checklist](../../templates/readiness-checklist.md).
 - A whole free day, an observer for at least part of it, and someone to taste.
 - Professional equivalent: an exam-centre or bakery fournil with a spiral mixer, sheeter, deck and fan ovens, proofing cabinet and blast chiller.
 
 ### Ingredients
 
-The batches of lessons 22.3 and 22.4, all on the same day:
+The batches of lessons [22.3](lesson-03.md) and [22.4](lesson-04.md), all on the same day:
 
 | Dough | Home batch | Products |
 |---|---|---|
@@ -144,7 +144,7 @@ The batches of lessons 22.3 and 22.4, all on the same day:
 
 Checked 2026-10-09.
 
-- **Pick the season.** A full day with 9 hours of oven and dough work is far easier from October to April. In summer (coastal nights about 23-24 °C, afternoons about 29-30 °C) start at 5:00, laminate and proof the viennoiserie in the air-conditioned room, use fridge water and milk for every dough (water temperatures as in lessons 22.3 and 22.4), and expect every bread proof to be about a third shorter than the plan.
+- **Pick the season.** A full day with 9 hours of oven and dough work is far easier from October to April. In summer (coastal nights about 23-24 °C, afternoons about 29-30 °C) start at 5:00, laminate and proof the viennoiserie in the air-conditioned room, use fridge water and milk for every dough (water temperatures as in lessons [22.3](lesson-03.md) and [22.4](lesson-04.md)), and expect every bread proof to be about a third shorter than the plan.
 - **Ingredients:** white flour (קמח לבן) for every dough ([Flour in Israel](../../references/flour-in-israel.md)); block butter with about 80-82 g fat per 100 g; bake-stable chocolate sticks or a cut dark bar; raisins checked for sulphites; full-fat milk; eggs kept in the fridge.
 - **One oven, one tray:** the plan is built for it. If you have a second oven or a large oven with two shelves that bakes evenly (check with the hot-spot test of lesson [13.4](../module-13/lesson-04.md)), bake the boule and fendu with the rolls and gain 20 minutes.
 - **Getting fournil hours.** Israeli bakeries with deck ovens and spiral mixers exist in every city; many work at night and in the early morning. Asking for early-morning work or a trial shift is the most direct way to get hours on professional machines. It is not French training and it does not count as a PFMP; it does build the speed and machine habits the home kitchen cannot.
@@ -160,7 +160,7 @@ Checked 2026-10-09.
 
 1. **Two weeks before:** write your organigramme for the day on the template, from your kitchen's measured oven times (lesson [14.3](../module-14/lesson-03.md)) and the reference plan below. Check it with the six steps of lesson 22.2. Arrange the observer and the taster.
 2. **The evening before:** pâte fermentée; equipment out; labels written; plan printed and on the wall; in summer, the CR-01 flour in the fridge.
-3. **The day:** follow your plan. At every stage write the real time beside the planned one, and every temperature on the log. When a dough is off target, decide, write the decision and its reason (lesson 22.3), and carry on.
+3. **The day:** follow your plan. At every stage write the real time beside the planned one, and every temperature on the log. When a dough is off target, decide, write the decision and its reason (lesson [22.3](lesson-03.md)), and carry on.
 4. **Report** each non-conformity or malfunction as it happens, in the order facts and figures → what I did → what I propose, on the non-conformity report.
 5. **Present** all products together after cooling: by family, counted, on a clean board or tray, labelled with name and allergens; one baguette, the boule and one croissant cut.
 6. **Score** every product with the rubric; collect the observer's checklist and the taster's comments.
@@ -203,7 +203,7 @@ Checked 2026-10-09.
 | 13:40-14:30 | clean down; cut a croissant; weigh the viennoiserie | pain au lait cooled about 14:29 |
 | 14:30-15:00 | present all products; score; final clean | |
 
-Critical path: CR-01, 5:30 to cooled croissants about 13:30, about 8 hours with the course sheet's minimum rests. On a second day, the compressed chain of lesson 22.2 (freezer, one double turn, shorter final rest) brings the whole day forward by about an hour.
+Critical path: CR-01, 5:30 to cooled croissants about 13:30, about 8 hours with the course sheet's minimum rests. On a second day, the compressed chain of lesson [22.2](lesson-02.md) (freezer, one double turn, shorter final rest) brings the whole day forward by about an hour.
 
 </details>
 

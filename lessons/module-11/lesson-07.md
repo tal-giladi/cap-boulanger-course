@@ -23,11 +23,11 @@ last_verified: "2026-10-08"
 
 # 11.7 · Evaluating Croissants and Fixing Lamination Faults
 
-A croissant tells its whole history when you cut it lengthwise: how cold the butter was, how many turns it had, how it was rolled, proofed and baked. This lesson gives a method to evaluate a batch, a fault table that links what you see to the stage that caused it, and the way to report it so the next batch is better. You cut and score your own batch from lesson 11.6 and write one non-conformity report.
+A croissant tells its whole history when you cut it lengthwise: how cold the butter was, how many turns it had, how it was rolled, proofed and baked. This lesson gives a method to evaluate a batch, a fault table that links what you see to the stage that caused it, and the way to report it so the next batch is better. You cut and score your own batch from lesson [11.6](lesson-06.md) and write one non-conformity report.
 
 ## Why it matters
 
-The production test judges viennoiserie on its appearance and its taste as well as the work itself (see [The CAP Boulanger Exam](../../references/cap-exam.md)), and a bakery judges a croissant every morning by what the customer sees: regular, golden, light, flaky, not greasy. Checking weights, quantities and appearance is a competency in its own right (C3.2), and so is reporting what went wrong during production so it can be corrected (C4.4). For a home learner, evaluation is the only teacher available: nobody will tell you why your croissants are bready. If you can read the cut section and match it to your logs, every batch teaches you something.
+The production test judges viennoiserie on its appearance and its taste as well as the work itself (see [The CAP Boulanger Exam](../../references/cap-exam.md)), and a bakery judges a croissant every morning by what the customer sees: regular, golden, light, flaky, not greasy. Checking weights, quantities and appearance is a competency in its own right (C3.2), and so is reporting what went wrong during production so it can be corrected (C4.4). For a home learner, evaluation is the only teacher available: nobody will tell you why your croissants are bready. If you can read the cut section and match it to your logs, every batch teaches you something. Lesson [16.5](../module-16/lesson-05.md) takes viennoiserie faults further, with the diagnosis method of lesson [16.1](../module-16/lesson-01.md).
 
 ## Key terms
 
@@ -122,21 +122,21 @@ Monday, Boulangerie du Marché. You evaluate Saturday's two croissant blocks fro
 | Score (out of 18) | 13 | 17 |
 
 1. **Weights.** Block 1: average 52.8 g from 61 g → loss 13.4 %. Block 2: 52.0 g from 60 g → 13.3 %. Both within the planning range; regular within 2 g.
-2. **The difference is the cut section of block 1.** Thick, uneven layers and greasy patches mean the butter broke into plates. The production sheet shows the incident at tour 2: "beurre cassant, chambre froide à 1 °C" (lesson 11.4). The patches near one end match the part of the block that was rolled first, while still too cold.
+2. **The difference is the cut section of block 1.** Thick, uneven layers and greasy patches mean the butter broke into plates. The production sheet shows the incident at tour 2: "beurre cassant, chambre froide à 1 °C" (lesson [11.4](lesson-04.md)). The patches near one end match the part of the block that was rolled first, while still too cold.
 3. **Cause:** reach-in fridge set to 1 °C; the block rested 30 minutes at 1 °C and the butter went brittle. Stage: tourage.
-4. **Report (C4.4):** facts (block 1 of 14/06, layers uneven, score 13/18 against 17/18 for block 2; reach-in found at 1 °C at 5:00), action taken (block rested on the bench 5 minutes, rolled with small steps; reach-in reset to 3 °C; croissants sold), correction proposed (check the reach-in temperature at the start of the shift and record it; rests timed). The cutting incident (sheet too thin, 112 instead of 120 croissants, lesson 11.5) goes in a second report: two causes, two corrections.
+4. **Report (C4.4):** facts (block 1 of 14/06, layers uneven, score 13/18 against 17/18 for block 2; reach-in found at 1 °C at 5:00), action taken (block rested on the bench 5 minutes, rolled with small steps; reach-in reset to 3 °C; croissants sold), correction proposed (check the reach-in temperature at the start of the shift and record it; rests timed). The cutting incident (sheet too thin, 112 instead of 120 croissants, lesson [11.5](lesson-05.md)) goes in a second report: two causes, two corrections.
 5. **One change for next Saturday:** the reach-in temperature is written on the temperature log at 4:00 before the lamination starts.
 
 ## Practice
 
-You evaluate the 12 croissants from lesson 11.6 with the method above, cut three lengthwise, diagnose any fault from your logs, and write one non-conformity report and one change for the next batch.
+You evaluate the 12 croissants from lesson [11.6](lesson-06.md) with the method above, cut three lengthwise, diagnose any fault from your logs, and write one non-conformity report and one change for the next batch.
 
 > [!WARNING]
 > Cut with a serrated knife on a board, the croissant held flat with your fingers on top, away from the blade's path; saw gently instead of pressing. The croissants contain wheat, milk and egg: say so if you share them.
 
 ### You need
 
-- Minimum: the 12 croissants (cooled 30-60 minutes), the under-proofed test croissant, serrated knife, board, scale, ruler, the [quality rubric](../../templates/quality-rubric.md), the [non-conformity report](../../templates/non-conformity-report.md), your [bake log](../../templates/bake-log.md) and temperature logs from lessons 11.2-11.6.
+- Minimum: the 12 croissants (cooled 30-60 minutes), the under-proofed test croissant, serrated knife, board, scale, ruler, the [quality rubric](../../templates/quality-rubric.md), the [non-conformity report](../../templates/non-conformity-report.md), your [bake log](../../templates/bake-log.md) and temperature logs from lessons [11.2](lesson-02.md)-11.6.
 - Professional equivalent: daily quality check of a sample from each batch, weighed and cut, recorded on the production sheet; non-conformities reported to the head baker.
 
 ### Ingredients
@@ -153,7 +153,7 @@ Checked 2026-10-08.
 
 ### Steps
 
-1. **Count and weigh** 5 croissants; calculate the average and the baking loss from your raw weight (lesson 11.5).
+1. **Count and weigh** 5 croissants; calculate the average and the baking loss from your raw weight (lesson [11.5](lesson-05.md)).
 2. **Measure** the length of all 12 with the ruler; write the shortest and the longest.
 3. **Look and feel**: colour, creases, underside, gloss, butter on the paper, crispness.
 4. **Cut three** lengthwise through the middle: one from the first tray, one from the last, one you think is the best. Cut the under-proofed test croissant too.

@@ -63,7 +63,7 @@ A baker's month is made of night hours, overtime before a bank holiday, a Sunday
 
 ## Why it matters
 
-Checking overtime on a timesheet, counting paid leave, naming premiums a baker is entitled to and the documents given at the end of a contract are classic EP1 applied-management questions (S5.2, S5.3; see [The CAP Boulanger Exam](../../references/cap-exam.md#ep1-written-test-on-technology-applied-science-and-management)). At work, nobody else checks your payslip for you. A missed night premium of 25 % on 65 hours is about €200 a month at the coefficient-160 rate; a wrong coefficient costs every hour for years. And night work has health effects you already met in lesson [17.9](../module-17/lesson-09.md): the rules that limit and compensate it exist for a reason.
+Checking overtime on a timesheet, counting paid leave, naming premiums a baker is entitled to and the documents given at the end of a contract are classic EP1 applied-management questions (S5.2, S5.3; see [The CAP Boulanger Exam](../../references/cap-exam.md#ep1-written-test-on-technology-applied-science-and-management)). At work, nobody else checks your payslip for you. A missed night premium of 25 % on 65 hours is about €200 a month at the coefficient-160 rate; a wrong coefficient costs every hour for years. And night work has health effects you already met in lesson [17.9](../module-17/lesson-09.md): the rules that limit and compensate it exist for a reason. You practise these questions under exam time in lesson [21.5](../module-21/lesson-05.md).
 
 ## Key terms
 
@@ -106,7 +106,7 @@ The bakery convention (IDCC 843, article 23) and the law work together:
 - **Premium**: every employee, night worker or not, gets **+25 % of the base hourly rate for each hour worked between 20:00 and 6:00**.
 - **Limits** for night workers: 8 hours a day (exceptionally 10), 40 hours a week on average over 12 weeks (44 with averaging).
 - **Rest**: one extra rest day from 270 night hours a year, two from 600.
-- **Health**: an information and prevention visit with the occupational health service **before** starting night work; the occupational doctor can prescribe extra tests (F2212). Lesson 17.9 covers sleep and drowsy driving.
+- **Health**: an information and prevention visit with the occupational health service **before** starting night work; the occupational doctor can prescribe extra tests (F2212). Lesson [17.9](../module-17/lesson-09.md) covers sleep and drowsy driving.
 - **Under 18**: night work is banned (22:00–6:00 for 16-17-year-olds). Bakery is one of the sectors where the labour inspector can grant a derogation, but **never between midnight and 4:00** (L3163-2). An apprentice of 17 therefore never starts before 4:00.
 
 ### Sundays and public holidays
@@ -142,7 +142,7 @@ As an order of size, the service-public figures for the SMIC (€12.31 gross, ab
 | **CSE** (comité social et économique) | compulsory from **11 employees**, elected about every 4 years; represents the staff to the employer |
 | **Unions** (syndicats) | defend employees, negotiate the collective agreement |
 | **Inspection du travail** | informs, advises, conciliates and **controls** that labour law and agreements are applied |
-| **Médecine du travail** | occupational health follow-up (lesson 17.9) |
+| **Médecine du travail** | occupational health follow-up (lesson [17.9](../module-17/lesson-09.md)) |
 | **Conseil de prud'hommes** | labour court for **individual** disputes between employer and employee; a **conciliation** phase comes first |
 
 A small craft bakery with fewer than 11 employees has no CSE: the convention, the inspection du travail and the unions are then your references.
@@ -151,12 +151,12 @@ A small craft bakery with fewer than 11 employees has no CSE: the convention, th
 
 | Way | Who decides | Key points |
 |---|---|---|
-| **End of CDD** | the date or event in the contract | 10 % indemnity unless an exception applies (lesson 20.3) |
+| **End of CDD** | the date or event in the contract | 10 % indemnity unless an exception applies (lesson [20.3](lesson-03.md)) |
 | **Démission** (resignation) | the employee, CDI only | clear and unequivocal, no reason needed; notice set by the convention or custom; normally no unemployment benefit |
 | **Rupture conventionnelle** | both, CDI only | agreement signed, **15 calendar days** to withdraw, approval by the administration; indemnity at least the legal one; unemployment benefit possible |
 | **Licenciement pour motif personnel** | the employer | needs a **real and serious cause** (misconduct, inadequate work, unfitness…) and the procedure (L1232-1) |
 | **Licenciement pour motif économique** | the employer | reason not linked to the person: economic difficulties, technological change, reorganisation, closure (L1233-3) |
-| **End of trial period** | either side | simple, with the notice periods of lesson 20.3 |
+| **End of trial period** | either side | simple, with the notice periods of lesson [20.3](lesson-03.md) |
 
 Whatever the way, the employer gives three documents: the **certificat de travail** (proves the job and dates; you are free to work elsewhere), the **reçu pour solde de tout compte** (lists every sum paid at the end: last pay, leave not taken, indemnities) and the **attestation France Travail** (needed to claim unemployment benefit when you are entitled to it). All three are due whatever the reason the contract ends.
 

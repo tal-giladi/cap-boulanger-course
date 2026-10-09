@@ -37,7 +37,7 @@ Three questions come to the counter every day: "is there any … in it?", "how d
 
 ## Why it matters
 
-For unwrapped products, allergen information is a legal duty with no exemption for small shops: it must be given **in writing**, visibly, near the products (Regulation 1169/2011 art. 44; Code de la consommation R412-12 to R412-16, from décret 2015-447). The bakery's allergen table (built in [lesson 17.6](../module-17/lesson-06.md) of Module 17) is that writing; this lesson is the conversation that goes with it, which 17.6 left for here: **show the table, never guess**. Storage and pairing advice are the "conservation" and "association mets et pain" of the product argument (C4.2), and hygiene and food safety at the counter are C2.6; see [The CAP Boulanger Exam](../../references/cap-exam.md).
+For unwrapped products, allergen information is a legal duty with no exemption for small shops: it must be given **in writing**, visibly, near the products (Regulation 1169/2011 art. 44; Code de la consommation R412-12 to R412-16, from décret 2015-447). The bakery's allergen table (built in [lesson 17.6](../module-17/lesson-06.md) of Module 17) is that writing; this lesson is the conversation that goes with it, which [17.6](../module-17/lesson-06.md) left for here: **show the table, never guess**. Storage and pairing advice are the "conservation" and "association mets et pain" of the product argument (C4.2), and hygiene and food safety at the counter are C2.6; see [The CAP Boulanger Exam](../../references/cap-exam.md).
 
 ## Key terms
 
@@ -103,7 +103,7 @@ Advice the seller gives, product by product, from lessons [07.5](../module-07/le
 | Campagne, levain breads | 2-3 days | paper bag or cloth, cut face down on the board | « Il se garde deux à trois jours dans son sac en papier. » |
 | Pain de mie (sliced) | several days | closed bag | « Bien fermé dans son sachet. » |
 | Croissant, pain au chocolat | the same day | paper bag; next day, 3-5 minutes in a hot oven | « Le lendemain, cinq minutes au four chaud. » |
-| Pain au lait, brioche | 2-3 days | closed bag or box once cool (a thin plastic bag must be a home-compostable, biosourced one, lesson 18.3) | « Deux à trois jours dans un sac fermé. » |
+| Pain au lait, brioche | 2-3 days | closed bag or box once cool (a thin plastic bag must be a home-compostable, biosourced one, lesson [18.3](../module-18/lesson-03.md)) | « Deux à trois jours dans un sac fermé. » |
 | Pain aux raisins (crème pâtissière) | the same day | keep cool, eat the same day | « À manger aujourd'hui. » |
 
 Two rules apply to every bread: **never the fridge** (bread stales fastest around 4 °C) and **freeze only once cooled and wrapped**; a wrapped loaf thaws in about 3 hours at room temperature, then a few minutes in a hot oven bring the crust back (King Arthur Baking).
@@ -167,7 +167,7 @@ None to bake. The exercise uses this allergen table of a small bakery ("T" = may
 Checked 2026-10-09.
 
 - **Reading Israeli allergen labels.** Today most Israeli packs show allergens in a separate box after the ingredients (*rekhivim*, רכיבים): **מכיל** (*mekhil*, contains) and **עלול להכיל** (*alul lehakhil*, may contain). A Ministry of Health change announced in October 2025 moves allergens into the ingredient list, emphasised (bold or underlined), from January 2028, for the same 14 groups as the EU; "may contain" stays. Until then you may see both styles.
-- **One extra Israeli warning:** products with fava (broad bean) flour carry a warning for people with G6PD deficiency. Fava is not one of the 14 EU allergens, but French tradition flour may legally contain up to 2 % of it (lesson 09.1): a useful reminder that "not an EU allergen" is not the same as "safe for everyone".
+- **One extra Israeli warning:** products with fava (broad bean) flour carry a warning for people with G6PD deficiency. Fava is not one of the 14 EU allergens, but French tradition flour may legally contain up to 2 % of it (lesson [09.1](../module-09/lesson-01.md)): a useful reminder that "not an EU allergen" is not the same as "safe for everyone".
 - **The subject stays French:** the written table at the till, the 14 Annex II allergens and the "show the table" rule are the French practice you are training.
 
 ### Steps
@@ -211,7 +211,7 @@ Your answers match the key on product, allergen and traces, and every allergen a
 - [ ] I open or show the table before answering any allergen question.
 - [ ] I name each allergen and say "traces" when the table or the supplier sheet does.
 - [ ] I never offer anything as gluten-free in a wheat bakery.
-- [ ] I give storage advice that matches 07.5 and 12.5: paper bag, no fridge, freeze cooled and wrapped, refresh in a hot oven.
+- [ ] I give storage advice that matches [07.5](../module-07/lesson-05.md) and [12.5](../module-12/lesson-05.md): paper bag, no fridge, freeze cooled and wrapped, refresh in a hot oven.
 - [ ] My pairing suggestions pass the customer's allergy first.
 - [ ] I can read מכיל and עלול להכיל on an Israeli label.
 

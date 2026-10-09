@@ -25,7 +25,7 @@ A batch is not finished when it leaves the oven: it is finished when someone has
 
 ## Why it matters
 
-The référentiel asks you to check the weights, quantities and look of finished products (C3.2), to report non-conformities and malfunctions during production (C4.4), and to characterise a quality bread and identify its main defects (S3.1.6). In a bakery this check happens before the bread reaches the shop: a load of pale baguettes is rebaked, a light batch is reported, an oven with a hot corner is fixed before the next load. Done honestly at home, it is the only way to improve from one bake to the next, because the Academy cannot grade photos: you compare your bread with the [quality rubric](../../templates/quality-rubric.md) yourself, and that does not replace the official practical exam.
+The référentiel asks you to check the weights, quantities and look of finished products (C3.2), to report non-conformities and malfunctions during production (C4.4), and to characterise a quality bread and identify its main defects (S3.1.6). In a bakery this check happens before the bread reaches the shop: a load of pale baguettes is rebaked, a light batch is reported, an oven with a hot corner is fixed before the next load. Done honestly at home, it is the only way to improve from one bake to the next, because the Academy cannot grade photos: you compare your bread with the [quality rubric](../../templates/quality-rubric.md) yourself, and that does not replace the official practical exam. For causes beyond this lesson, see the fault tables of lessons [16.2](../module-16/lesson-02.md) (volume and shape), [16.3](../module-16/lesson-03.md) (crust and colour) and [16.4](../module-16/lesson-04.md) (crumb).
 
 ## Key terms
 
@@ -71,7 +71,7 @@ Always in this order: the outside can be judged warm, but the crumb and the tast
 
 ### Weight and salt: the numbers behind the look
 
-Weigh a sample of five cooled baguettes. The **average** tells you whether pâton weight and bake are right; the **spread** tells you whether the dividing was even (lesson 06.3). From the average:
+Weigh a sample of five cooled baguettes. The **average** tells you whether pâton weight and bake are right; the **spread** tells you whether the dividing was even (lesson [06.3](../module-06/lesson-03.md)). From the average:
 
 $$\text{baking loss \%} = \frac{\text{pâton} - \text{cooled weight}}{\text{pâton}} \times 100$$
 
@@ -87,24 +87,24 @@ Every defect has a stage where it started. Look at the evidence before you decid
 
 | Defect | Look at | Usually from |
 |---|---|---|
-| Pain plat, flat cuts, sour smell | apprêt time and poke test; pointage | over-fermentation (08.2, 08.4) |
-| Side tears, tight crumb, small volume | poke test; dough temperature | under-proofing (08.4) or a cold dough (08.1) |
-| Uneven length and thickness, tunnel | shaping notes | shaping (08.3) |
-| Dull crust, poorly opened cuts | steam method | steam (08.4) |
-| Pale crust, gummy crumb | oven thermometer, bake time, core temperature | under-baking (08.4) |
-| Dark corner pieces, pain ferré | position in the oven | oven hot spot or sole too hot (08.4) |
-| Light pieces, wide spread | divided weights | dividing (08.2) |
-| Salty taste or salt over 1.4 g | weighing record; baking loss | weighing (08.1) or long bake (08.4) |
+| Pain plat, flat cuts, sour smell | apprêt time and poke test; pointage | over-fermentation ([08.2](lesson-02.md), [08.4](lesson-04.md)) |
+| Side tears, tight crumb, small volume | poke test; dough temperature | under-proofing ([08.4](lesson-04.md)) or a cold dough ([08.1](lesson-01.md)) |
+| Uneven length and thickness, tunnel | shaping notes | shaping ([08.3](lesson-03.md)) |
+| Dull crust, poorly opened cuts | steam method | steam ([08.4](lesson-04.md)) |
+| Pale crust, gummy crumb | oven thermometer, bake time, core temperature | under-baking ([08.4](lesson-04.md)) |
+| Dark corner pieces, pain ferré | position in the oven | oven hot spot or sole too hot ([08.4](lesson-04.md)) |
+| Light pieces, wide spread | divided weights | dividing ([08.2](lesson-02.md)) |
+| Salty taste or salt over 1.4 g | weighing record; baking loss | weighing ([08.1](lesson-01.md)) or long bake ([08.4](lesson-04.md)) |
 
 When the cause is equipment (an oven corner, a faulty thermostat) or a raw material, it is a **non-conformity or malfunction** to report to the manager, in facts: what, how many, measured how, what you did, what you suggest. Use the [non-conformity report](../../templates/non-conformity-report.md).
 
 ## Worked example
 
-Saturday 14 November, 6:55. Before the 24 baguettes go to the shop, you check the batch (lessons 08.1-08.4).
+Saturday 14 November, 6:55. Before the 24 baguettes go to the shop, you check the batch (lessons [08.1](lesson-01.md)-[08.4](lesson-04.md)).
 
 1. **Count:** 24 baguettes, 20 rolls. Order covered.
 2. **Weights:** five baguettes from different places on the rack: 282, 279, 285, 276, 280 g. Average **280.4 g**; spread 276-285 g. Loss (350 − 280.4) ÷ 350 = **19.9 %**. Salt: 350 × 1.076 % = 3.77 g in 280.4 g = **1.34 g per 100 g**: conforms.
-3. **Exterior:** 22 baguettes golden-brown with open grignes and ears. Two from the front left corner of the upper deck are dark brown with a hard bottom (pain ferré). One is 50 cm long and slightly thin at one end (the piece torn at shaping, lesson 08.3).
+3. **Exterior:** 22 baguettes golden-brown with open grignes and ears. Two from the front left corner of the upper deck are dark brown with a hard bottom (pain ferré). One is 50 cm long and slightly thin at one end (the piece torn at shaping, lesson [08.3](lesson-03.md)).
 4. **Interior and taste** (one baguette from the middle of the load, cut at 7:20): creamy crumb, medium irregular holes, moist and elastic; taste of wheat with a light acidity, correctly salted. Rubric: **17/20** (lost 1 point on crust colour, 1 on shape regularity across the load, 1 on bottom for the dark pair).
 5. **Decision:** the two dark baguettes go to the shop as a lower-price "bien cuite" if the manager agrees, or to staff; the short one goes on sale (it is within weight).
 6. **Report (C4.4):**
@@ -113,7 +113,7 @@ Saturday 14 November, 6:55. Before the 24 baguettes go to the shop, you check th
 
 ## Practice
 
-You check and score your own baguettes from lesson 08.4 (or 08.3) like a batch control, diagnose one defect and write a report.
+You check and score your own baguettes from lesson [08.4](lesson-04.md) (or [08.3](lesson-03.md)) like a batch control, diagnose one defect and write a report.
 
 > [!CAUTION]
 > Cut bread with a serrated bread knife on a stable board, fingers above the blade and away from its path; a hard crust can make the knife slip.

@@ -26,7 +26,7 @@ last_verified: "2026-10-08"
 
 # 10.3 · Pain de Campagne and Levain Bread
 
-Pain de campagne is the bakery's rustic loaf: a little rye, a levain, a long fermentation, a thick, well-coloured crust and a crumb that keeps for days. This lesson takes the CA-01 sheet you calculated in Module 6 into the fournil: building the liquid levain, mixing with the levain as a fourth temperature factor, fermenting by the signs of the dough, and baking a large loaf right through. You bake two campagne loaves on your own levain.
+Pain de campagne is the bakery's rustic loaf: a little rye, a levain, a long fermentation, a thick, well-coloured crust and a crumb that keeps for days. This lesson takes the CA-01 sheet you calculated in [Module 6](../module-06/lesson-01.md) into the fournil: building the liquid levain, mixing with the levain as a fourth temperature factor, fermenting by the signs of the dough, and baking a large loaf right through. You bake two campagne loaves on your own levain.
 
 ## Why it matters
 
@@ -83,7 +83,7 @@ flowchart LR
   F --> G["Score, bake 240 °C<br>then 220-230 °C<br>35-45 min, steam"]
 ```
 
-**Levain ripeness first.** The levain decides the day. Build it with a seed of about 20 % of its new flour, 100 % water (lesson 06.4: F = levain wanted ÷ (1 + h + s)), and use it at or just after its peak: domed, full of bubbles, smelling of yoghurt and fruit with a light vinegar note (lesson [04.5](../module-04/lesson-05.md)). Young levain gives a slow, flat, bland loaf; over-ripe levain brings so much acid and protease activity that the dough slackens and tears.
+**Levain ripeness first.** The levain decides the day. Build it with a seed of about 20 % of its new flour, 100 % water (lesson [06.4](../module-06/lesson-04.md): F = levain wanted ÷ (1 + h + s)), and use it at or just after its peak: domed, full of bubbles, smelling of yoghurt and fruit with a light vinegar note (lesson [04.5](../module-04/lesson-05.md)). Young levain gives a slow, flat, bland loaf; over-ripe levain brings so much acid and protease activity that the dough slackens and tears.
 
 **Mixing.** Water, flours and the ripe levain; salt during the frasage. Slow mixing (or slow plus 2-3 minutes in second speed) is the usual choice: rye does not need, or tolerate, long intensive mixing, and slow mixing keeps the crumb creamy. The dough is soft and a little sticky, not smooth like pain courant. **Temperature:** the levain is a fourth factor (lesson [05.3](../module-05/lesson-03.md)): water = 4 × TPV − flour − room − levain − friction factor, with TPV about 24 °C.
 
@@ -95,7 +95,7 @@ flowchart LR
 
 ## Worked example
 
-Monday, Boulangerie Au Pain de la Halle: the CA-01 line of the Module 6 order, **10 boules de campagne, poids cuit 500 g**, for the afternoon. The calculations are already on the sheet (reference answers of the [workbook](../../projects/m06-calculation-workbook.md)):
+Monday, Boulangerie Au Pain de la Halle: the CA-01 line of the [Module 6](../module-06/lesson-01.md) order, **10 boules de campagne, poids cuit 500 g**, for the afternoon. The calculations are already on the sheet (reference answers of the [workbook](../../projects/m06-calculation-workbook.md)):
 
 | | T65 | Rye T130 | Water | Salt | Levain |
 |---|---|---|---|---|---|
@@ -114,14 +114,14 @@ Monday, Boulangerie Au Pain de la Halle: the CA-01 line of the Module 6 order, *
 
 ## Practice
 
-Over two days you build a levain de tout point from the levain you started in lesson 02.7, mix CA-01 on 500 g of flour, and bake a campagne boule and a bâtard of 420 g each, after an apprêt at room temperature or overnight in the fridge.
+Over two days you build a levain de tout point from the levain you started in lesson [02.7](../module-02/lesson-07.md), mix CA-01 on 500 g of flour, and bake a campagne boule and a bâtard of 420 g each, after an apprêt at room temperature or overnight in the fridge.
 
 > [!WARNING]
 > The oven runs at 240-250 °C for a long bake. Use dry oven gloves and long sleeves; steam only into a metal tray preheated on the lowest shelf (never water into a hot glass or ceramic dish: it can shatter), pour 100-150 mL of hot water, close the door and step back. Turning a loaf out of a banneton onto a board and sliding it onto a hot tray needs both hands and a clear space. Score with the blade moving away from your fingers and cover the lame after use.
 
 ### You need
 
-- Minimum: your levain (lesson 02.7) and a clean jar with an elastic band, scale (1 g) and a 0.1 g pocket scale, probe thermometer, large bowl, scraper, lidded container for pointage, two bannetons or two bowls of about 18-20 cm lined with tea towels well dusted with flour (rye or rice flour sticks least), baking paper, a board as a peel, baking tray or stone, metal steam tray, oven gloves, lame, wire rack, [bake log](../../templates/bake-log.md) and [temperature log](../../templates/temperature-log.md).
+- Minimum: your levain (lesson [02.7](../module-02/lesson-07.md)) and a clean jar with an elastic band, scale (1 g) and a 0.1 g pocket scale, probe thermometer, large bowl, scraper, lidded container for pointage, two bannetons or two bowls of about 18-20 cm lined with tea towels well dusted with flour (rye or rice flour sticks least), baking paper, a board as a peel, baking tray or stone, metal steam tray, oven gloves, lame, wire rack, [bake log](../../templates/bake-log.md) and [temperature log](../../templates/temperature-log.md).
 - Professional equivalent: levain cabinet or levain machine, spiral mixer (slow speed), bannetons on racks, proofing cabinet or retarder, deck oven with steam.
 
 ### Ingredients
@@ -158,13 +158,13 @@ Two pâtons of 420 g = 840 g; about 19 g covers what sticks.
 
 ### Steps
 
-1. **Refresh your levain** once or twice in the days before (lesson 02.7) so it doubles within 4-8 hours.
+1. **Refresh your levain** once or twice in the days before (lesson [02.7](../module-02/lesson-07.md)) so it doubles within 4-8 hours.
 2. **Build the levain de tout point** (100 g T65, 100 g water at 28 °C, 20 g levain chef) in a clean jar; mark the level; keep at 24-28 °C for 3-6 hours. Use it when domed and just starting to flatten.
 3. **Measure** flour, room and levain; calculate the water: 96 − flour − room − levain − 8. Blend to ± 0.5 °C; weigh 250 g.
 4. **Mix:** water and levain in the bowl, stir to loosen; add both flours; mix with a scraper until no dry flour is left. Rest 10 minutes. Add the salt and knead gently by hand for 5-6 minutes, slap and fold, until the dough holds together and stretches; it stays a little sticky. Wet your hands rather than flouring the bench. **Measure the temperature** (target 24 °C ± 1 °C).
 5. **Pointage** in the lidded container, about 1 h 30-2 h 30 at 24 °C, with two folds (at 30 and 60 minutes). End when about 1.5 times the volume, domed, airy at the sides.
 6. **Divide** 2 × 420 g ± 2 g; pre-shape round; détente 20-30 minutes, covered.
-7. **Shape** one boule and one bâtard with tension (lesson 10.1). Dust the lined bannetons with flour, set the loaves in seam up, cover.
+7. **Shape** one boule and one bâtard with tension (lesson [10.1](lesson-01.md)). Dust the lined bannetons with flour, set the loaves in seam up, cover.
 8. **Apprêt:** either 1 h 30-2 h at room temperature (poke test), or into the fridge for 10-14 hours. Preheat the oven to 250 °C with the tray or stone on the middle shelf and the steam tray on the lowest, at least 45-60 minutes.
 9. **Turn out** each loaf onto baking paper on the board, seam down. Score: a cross on the boule, one long cut on the bâtard, about 1 cm deep (deeper if the loaf is cold from the fridge).
 10. **Bake:** slide onto the tray, 100-150 mL of hot water into the steam tray, close, step back; fan off for 10 minutes if possible. After 10 minutes vent and lower to 220-230 °C. About **30-35 minutes** in total for 420 g pieces, until deep brown; core at least 93 °C.
@@ -195,7 +195,7 @@ The loaves rose in the oven and opened along the cuts, the crust is thick, deep 
 |---|---|---|---|
 | Dough barely rises in 3 hours | Levain young or weak; dough too cold | Move somewhere warmer; wait, judge by the dough | Refresh the levain until it doubles reliably; use it at its peak; check the dough temperature |
 | Dough slack, sticky, tears; loaf spreads | Over-ripe levain (acid and proteases); too much water with whole rye; over-fermented | Shape gently with wet hands; banneton for support; bake at once | Use the levain at its peak; hold back 2-3 points of water; shorter or cooler pointage |
-| Very sour, sharp taste | Levain over-ripe; very long warm fermentation | — | Use the levain earlier; ferment cooler; a liquid, warmer levain is milder (02.7) |
+| Very sour, sharp taste | Levain over-ripe; very long warm fermentation | — | Use the levain earlier; ferment cooler; a liquid, warmer levain is milder ([02.7](../module-02/lesson-07.md)) |
 | Loaf sticks in the banneton | Too little flour in the cloth; wheat flour soaked in | Ease it out with a scraper | Dust with rye or rice flour; dry the cloth between uses |
 | Gummy crumb near the base | Under-baked; cut warm (rye crumb sets slowly) | Return to the oven 5-10 minutes | 93 °C or more at the core; cool 1-2 hours before cutting |
 | Pale, thin crust | Oven too cool; under-baked; over-fermented (sugars used up) | Bake longer | Preheat 45-60 minutes; bake to deep brown; judge apprêt by the poke test |

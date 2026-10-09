@@ -27,7 +27,7 @@ A loaf that is flat, small, burst along the side or misshapen tells you how much
 
 ## Why it matters
 
-Volume and shape are the first things a customer, a manager and a jury see. The référentiel names the dough defects every candidate must recognise, with their characteristics, causes and corrective actions: excès de force, manque de force, pâte trop ferme, pâte trop douce and pâte croûtée (S3.1.4); among bread defects it names the pain plat and the pain cintré (S3.1.6). A flat loaf can come from five different stages; if you blame the wrong one, your correction makes the next batch worse. For how products are judged in the exam, see [The CAP Boulanger Exam](../../references/cap-exam.md).
+Volume and shape are the first things a customer, a manager and a jury see. The référentiel names the dough defects every candidate must recognise, with their characteristics, causes and corrective actions: excès de force, manque de force, pâte trop ferme, pâte trop douce and pâte croûtée (S3.1.4); among bread defects it names the pain plat and the pain cintré (S3.1.6). A flat loaf can come from five different stages; if you blame the wrong one, your correction makes the next batch worse. How volume and shape are judged is in lesson [15.1](../module-15/lesson-01.md). For how products are judged in the exam, see [The CAP Boulanger Exam](../../references/cap-exam.md).
 
 ## Key terms
 
@@ -187,16 +187,16 @@ Causes to choose from: A over-proofed second group; B under-proofed; C dough too
 
 <details><summary>Answers</summary>
 
-1 → E (over-fermented by a warm dough: lesson 04.7). 2 → C (flat but tight crumb, not sour: too much water, lesson 03.5). 3 → D (2,000 × 0.35 = 700 g needed, lesson 10.5). 4 → B (loaded early, burst side: lesson 04.4). 5 → F (blade upright gives no ear: lesson 07.4). 6 → A (load 2 waited longer at the same temperature: lesson 14.1).
+1 → E (over-fermented by a warm dough: lesson [04.7](../module-04/lesson-07.md)). 2 → C (flat but tight crumb, not sour: too much water, lesson [03.5](../module-03/lesson-05.md)). 3 → D (2,000 × 0.35 = 700 g needed, lesson [10.5](../module-10/lesson-05.md)). 4 → B (loaded early, burst side: lesson [04.4](../module-04/lesson-04.md)). 5 → F (blade upright gives no ear: lesson [07.4](../module-07/lesson-04.md)). 6 → A (load 2 waited longer at the same temperature: lesson [14.1](../module-14/lesson-01.md)).
 
 </details>
 
 **Part 2 — the four-bâtard series.**
 
-1. Mix and knead PD-01 to a dough at 23-25 °C (water from lesson 05.2). Pointage about 1 h 15 covered, with a fold at 40 minutes, judged by the signs.
+1. Mix and knead PD-01 to a dough at 23-25 °C (water from lesson [05.2](../module-05/lesson-02.md)). Pointage about 1 h 15 covered, with a fold at 40 minutes, judged by the signs.
 2. Divide into four pieces of 205 g ± 3 g, pre-shape loosely, détente 20 minutes covered. Preheat the oven to 240-250 °C for 45-60 minutes with the tray on the middle shelf and the steam tray on the lowest shelf; check it with the oven thermometer.
 3. **Shape** on baking-paper squares labelled A-D, each about 18 cm long:
-   - **A control:** a tight bâtard, seam sealed with the heel of the hand (lesson 07.3).
+   - **A control:** a tight bâtard, seam sealed with the heel of the hand (lesson [07.3](../module-07/lesson-03.md)).
    - **B loose:** fold once, roll to length without tightening, seam not sealed.
    - **C under-proofed:** as A.
    - **D wrong scoring:** as A.

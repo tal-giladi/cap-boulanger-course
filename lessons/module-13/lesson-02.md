@@ -173,7 +173,7 @@ Your fiche de poste could be pinned beside a real machine: someone who has never
 | Divided pieces vary by 10-20 g | Load spread unevenly; dough gassed; slow dividing | Re-scale the outliers; spread the next load flat | Weigh the load; divide promptly; check pieces every load |
 | All pieces light | Load weighed for the wrong piece number or weight | Adjust the next load; use light pieces for another product | Load = piece weight × number, written on the sheet |
 | Baguettes torn by the moulder | Dough too strong; détente too short; gap too tight | Longer détente; open the gap one notch | Match settings to the dough; check the first piece |
-| Croissant sheet with crushed, smeared layers | Gap reduced in big jumps; butter too cold or too warm | Rest the block in the cold; continue in small steps | Small gap steps; butter at about 13 °C (lesson 11.3) |
+| Croissant sheet with crushed, smeared layers | Gap reduced in big jumps; butter too cold or too warm | Rest the block in the cold; continue in small steps | Small gap steps; butter at about 13 °C (lesson [11.3](../module-11/lesson-03.md)) |
 | Guard lifted and the rollers keep turning | Interlock faulty or bypassed | STOP, unplug, machine out of service | Guard test before each session; report in writing; never bypass |
 
 ## Review

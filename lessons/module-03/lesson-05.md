@@ -48,7 +48,7 @@ The référentiel asks you to explain the role of bassinage, the effect of consi
 
 Bakers judge two things that are easy to confuse:
 
-- **Consistency** (*ferme*, *bâtarde*, *douce*) is mostly about **water**: how firm the dough feels under the hand (lesson 03.2).
+- **Consistency** (*ferme*, *bâtarde*, *douce*) is mostly about **water**: how firm the dough feels under the hand (lesson [03.2](lesson-02.md)).
 - **Strength** (*forte* or *faible*) is about the **gluten network**: how much the dough resists stretching and springs back (**elasticity, tenacity**) compared with how far it stretches without tearing (**extensibility**).
 
 A dough can be firm and weak (low-protein flour, little water), or soft and strong (strong flour, high hydration, well mixed). The fix depends on which axis is wrong.
@@ -75,7 +75,7 @@ A dough can be firm and weak (low-protein flour, little water), or soft and stro
 | cold dough (handles firmer) | warm dough |
 | | rest (détente): relaxes elasticity for shaping |
 
-You correct strength mostly **before and after** mixing (flour choice, autolyse, folds, pointage, détente; Module 4 covers the fermentation side). You correct **consistency during mixing**, with bassinage or contre-frasage.
+You correct strength mostly **before and after** mixing (flour choice, autolyse, folds, pointage, détente; [Module 4](../module-04/lesson-01.md) covers the fermentation side). You correct **consistency during mixing**, with bassinage or contre-frasage.
 
 ### Bassinage: softening a dough that is too firm
 

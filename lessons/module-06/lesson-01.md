@@ -44,7 +44,7 @@ The written phase of the production test asks you to complete technical sheets f
 
 ### Two ways to scale, one answer
 
-**From the flour (the method of lesson 01.5).** Fix the flour for the new batch, then multiply it by each percentage. Every weight comes straight from the sheet's percentages, so nothing drifts.
+**From the flour (the method of lesson [01.5](../module-01/lesson-05.md)).** Fix the flour for the new batch, then multiply it by each percentage. Every weight comes straight from the sheet's percentages, so nothing drifts.
 
 **With a scaling factor.** Divide the new quantity by the base quantity and multiply every base weight by that factor:
 
@@ -177,7 +177,7 @@ Given any sheet and any batch size, you produce a weighed list in under five min
 - **Bag sizes.** Supermarket flour usually comes in 1 kg bags (check yours). A 1 kg PD-01 batch is exactly one bag: flour 1,000 g, water 650 g, salt 18 g, yeast 15 g fresh or 5 g instant dry. Buy one bag more than the calculation says: a bag is rarely the full weight left after a previous bake.
 - **Yeast.** Instant dry yeast (שמרים יבשים, *shmarim yeveshim*) is sold in every supermarket in sachets or jars; fresh yeast (שמרים טריים, *shmarim triyim*) is found in the chilled section of some shops and bakery-supply stores. Scale the fresh weight from the sheet, then convert (one third for instant dry). Check the label says instant (אינסטנט) or not, and the use-by date (checked 2026-10-08).
 - **Flour blends.** To approximate a French T65 with Israeli flours, the [flour-in-Israel reference](../../references/flour-in-israel.md) suggests half white flour (קמח לבן, *kemakh lavan*) and half 80 % flour. Scale the blend like any multi-flour formula: for 1 kg, 500 g white + 500 g 80 %, together 100 %. The 80 % flour needs about +3 to +6 points of water over white flour; taking +4 for that half gives about 0.5 × 65 + 0.5 × 69 = 67 % for the blend. Following the reference, hold back 2-3 points (start at 640-650 g of water) and finish by bassinage.
-- **Warm kitchen.** In a 26-32 °C summer kitchen the formula scales the same, but the water must be colder ([Module 5](../module-05/lesson-02.md)) and the times shorter: judge by the dough (lesson 04.2).
+- **Warm kitchen.** In a 26-32 °C summer kitchen the formula scales the same, but the water must be colder ([Module 5](../module-05/lesson-02.md)) and the times shorter: judge by the dough (lesson [04.2](../module-04/lesson-02.md)).
 
 ### Self-check
 

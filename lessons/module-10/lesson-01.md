@@ -83,7 +83,7 @@ After a détente of 20-30 minutes (longer if the pre-shape was tight), the piece
 | Tabatière | flap down | turned flap up | none | about 30 min |
 | Couronne | seam down on couche or paper | slid onto the loader as it is | short cuts around | about 30-35 min |
 
-A 400 g piece is thicker than a baguette, so it bakes longer at the same temperature (the core must reach at least 93 °C, lesson 08.4) and loses a smaller share of its weight: about 18 % in this lesson's planning, against about 20-21 % for baguettes. In a bakery the shaped pieces usually go on their own deck, so a 30-minute bake does not hold up baguettes that need 22 minutes. Steam at loading is the same as for baguettes, and so is the poke test for the end of apprêt (lesson [04.4](../module-04/lesson-04.md)); larger pieces take slightly longer to proof than baguettes shaped at the same time.
+A 400 g piece is thicker than a baguette, so it bakes longer at the same temperature (the core must reach at least 93 °C, lesson [08.4](../module-08/lesson-04.md)) and loses a smaller share of its weight: about 18 % in this lesson's planning, against about 20-21 % for baguettes. In a bakery the shaped pieces usually go on their own deck, so a 30-minute bake does not hold up baguettes that need 22 minutes. Steam at loading is the same as for baguettes, and so is the poke test for the end of apprêt (lesson [04.4](../module-04/lesson-04.md)); larger pieces take slightly longer to proof than baguettes shaped at the same time.
 
 ### Regular means alike
 
@@ -99,7 +99,7 @@ Friday, Boulangerie Au Pain de la Halle. Besides the baguettes, the shop wants f
 4. **Shaping order.** In division order, one shape at a time so the hands settle into one movement: fendus, then tabatières, then couronnes. Fendus and tabatières go groove or flap **down** on a floured couche; couronnes seam down.
 5. **Check.** Every third fendu next to the first: same length (about 25 cm), groove pressed to the same depth. One tabatière's flap is visibly thicker: rolled again before it goes in the couche, not after.
 6. **Loading.** At the end of apprêt (poke test), each fendu and tabatière is turned over onto the loader so the groove and flap face up; the couronnes are cut with five short cuts each. Steam, deck at 240 °C, about 30 minutes; couronnes about 33 minutes.
-7. **Control after cooling.** One fendu weighs 326 g: a loss of (400 − 326) ÷ 400 = 18.5 %, as planned. Salt: the pâte fermentée carries its own salt, so salt is 1.8 ÷ 167.3 = 1.076 % of the dough (lesson 08.5). 400 × 1.076 % = 4.30 g in 326 g → **1.32 g per 100 g**, under the 1.4 g limit for pain courant (lesson [02.5](../module-02/lesson-05.md)).
+7. **Control after cooling.** One fendu weighs 326 g: a loss of (400 − 326) ÷ 400 = 18.5 %, as planned. Salt: the pâte fermentée carries its own salt, so salt is 1.8 ÷ 167.3 = 1.076 % of the dough (lesson [08.5](../module-08/lesson-05.md)). 400 × 1.076 % = 4.30 g in 326 g → **1.32 g per 100 g**, under the 1.4 g limit for pain courant (lesson [02.5](../module-02/lesson-05.md)).
 
 ## Practice
 
@@ -131,13 +131,13 @@ Two pâtons of 400 g = 800 g; keep 75 g as your next pâte fermentée; about 36 
 ### In Israel
 
 - **Flour:** white flour (קמח לבן, *kemakh lavan*) as the T55, as in [Flour in Israel](../../references/flour-in-israel.md). Strong Israeli white flour makes a tight boule that tears when you drag it: give 10 more minutes of détente rather than more force.
-- **Water in a warm kitchen:** four factors with a hand friction factor of 8 (lesson [05.2](../module-05/lesson-02.md) and 08.1). Summer example: flour 29 °C, kitchen 30 °C, pâte fermentée 8 °C: 96 − 29 − 30 − 8 − 8 = **21 °C**; blend tap and fridge water.
+- **Water in a warm kitchen:** four factors with a hand friction factor of 8 (lesson [05.2](../module-05/lesson-02.md) and [08.1](../module-08/lesson-01.md)). Summer example: flour 29 °C, kitchen 30 °C, pâte fermentée 8 °C: 96 − 29 − 30 − 8 − 8 = **21 °C**; blend tap and fridge water.
 - **Apprêt:** at 28-30 °C the pieces can be ready in 40-50 minutes, sooner than the 60-75 minutes of a 24-25 °C kitchen; start the poke test early and preheat the oven before you shape.
 - **Bannetons and rolling pins:** bannetons are sold by baking-supply shops and online; a bowl lined with a floured tea towel does the same job. Any smooth rolling pin works; for the fendu a thin rod presses a cleaner groove (checked 2026-10-08).
 
 ### Steps
 
-1. **Mix** PC-02 by hand to 24 °C ± 1 °C (lesson 08.1). Pointage about 45-60 minutes with one fold at 30 minutes, judged by the signs (08.2). Keep 75 g of pâte fermentée in the fridge.
+1. **Mix** PC-02 by hand to 24 °C ± 1 °C (lesson [08.1](../module-08/lesson-01.md)). Pointage about 45-60 minutes with one fold at 30 minutes, judged by the signs ([08.2](../module-08/lesson-02.md)). Keep 75 g of pâte fermentée in the fridge.
 2. **Divide** 2 × 400 g ± 2 g. Pre-shape one as a loose cylinder (fendu) and one as a loose ball (tabatière). Cover; détente 20-30 minutes.
 3. **Fendu:** shape a bâtard of about 22-25 cm with moderate tension. Dust the top with flour. Press the rod along the middle almost to the bench and roll it a little to widen the groove to about a third of the width. Close the two halves, turn the piece groove down onto the floured towel.
 4. **Tabatière:** shape a tight boule (drag on an unfloured patch of bench). Flour one side; roll a third of it into a flap about 3-4 mm thick and as wide as the ball. Dab the edge of the flap with a drop of oil, fold it over the top, set it flap down on the floured towel.

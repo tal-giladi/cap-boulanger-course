@@ -40,7 +40,7 @@ Giving sales staff a product argument is a competency of its own (C4.2), and the
 | composition | *kohm-poh-zee-SYOHN* | what the product is made of and how |
 | association mets et pain | *ah-soh-syah-SYOHN MAY ay PAN* | which foods a bread goes with |
 | conservation | *kohn-sair-vah-SYOHN* | how long and how the product keeps |
-| fiche d'analyse sensorielle | *FEESH dah-nah-LEEZ sahn-sor-YEL* | tasting sheet with descriptors and intensities (lesson 15.3) |
+| fiche d'analyse sensorielle | *FEESH dah-nah-LEEZ sahn-sor-YEL* | tasting sheet with descriptors and intensities (lesson [15.3](../module-15/lesson-03.md)) |
 | allégation | *ah-lay-gah-SYOHN* | a claim ("riche en fibres", "sans gluten"), many controlled by law |
 | mie crème / croûte croustillante | *mee KREM / kroot kroos-tee-YAHNT* | cream-coloured crumb / crisp crust |
 | acidulé | *ah-see-dü-LAY* | lightly sour (a levain bread's taste) |
@@ -67,7 +67,7 @@ Pairings are suggestions, not facts: base them on your own tasting and the house
 
 ### Honest names
 
-The seller says the name on the label, and the name is a legal statement (lesson 09.1):
+The seller says the name on the label, and the name is a legal statement (lesson [09.1](../module-09/lesson-01.md)):
 
 | Name | When the seller may say it | What to say instead otherwise |
 |---|---|---|
@@ -87,7 +87,7 @@ Customers ask "is it healthier?". The seller gives facts, not promises (lesson [
 
 ### The two-minute brief
 
-At the hand-over (lesson 15.5) the baker gives the new product's card and says it aloud; the seller repeats it back. Repeating back catches what got lost.
+At the hand-over (lesson [15.5](../module-15/lesson-05.md)) the baker gives the new product's card and says it aloud; the seller repeats it back. Repeating back catches what got lost.
 
 | French | Say it | English meaning |
 |---|---|---|
@@ -108,7 +108,7 @@ Thursday, Boulangerie Au Pain de la Halle launches the campagne CA-01 on liquid 
 2. **Composition** from the sheet: T65 wheat 85 %, rye T130 15 %, water 70 %, salt 1.8 %, liquid levain; slow mix, long fermentation, baked about 40 minutes until dark.
 3. **Taste** from yesterday's tasting of three loaves (0-10 scale): toasted 7, acid 4, cereal 6, crumb firmness 4, crust crispness 7. Descriptors kept: "croûte épaisse, grillée", "mie crème", "légèrement acidulé", "goût de céréales".
 4. **Pairings** chosen after tasting with the house's cheese and a soup: cheese board, charcuterie, vegetable soup.
-5. **Keeping:** a levain crumb stales and moulds more slowly; 07.5 gives 2-3 days in a paper bag, refresh a few minutes in a hot oven; not in the fridge; freeze sliced once cool, up to about three months (King Arthur Baking).
+5. **Keeping:** a levain crumb stales and moulds more slowly; [07.5](../module-07/lesson-05.md) gives 2-3 days in a paper bag, refresh a few minutes in a hot oven; not in the fridge; freeze sliced once cool, up to about three months (King Arthur Baking).
 6. **Allergens** from the table: gluten (wheat, rye); no other allergen in the ingredients. The rye flour's supplier sheet carries no "may contain".
 7. **Seller's sentence (24 words):** « Notre pain de campagne au levain, avec du seigle : croûte grillée, mie crème légèrement acidulée. Parfait avec le fromage. Il se garde trois jours. »
 8. **Brief and check.** You say it to Léa; she repeats: « C'est un pain au seigle, sans levure, il se garde une semaine. » Two errors: "pain au seigle" suggests mostly rye, and "a week" doubles the keeping time. You correct both and leave the card at the till.
@@ -119,7 +119,7 @@ You write a pitch card for one bread you have baked, taste it to fill the taste 
 
 ### You need
 
-- Minimum: one loaf from a recent bake (campagne CA-01 from 10.3, tradition TR-01 from Module 9, or pain courant PC-02 from Module 8) or one you bake today from its lesson; its technical sheet; the tasting sheet of lesson [15.3](../module-15/lesson-03.md); a bread knife and board; paper and pen; a phone to record; a family member or friend to play the seller.
+- Minimum: one loaf from a recent bake (campagne CA-01 from [10.3](../module-10/lesson-03.md), tradition TR-01 from [Module 9](../module-09/lesson-01.md), or pain courant PC-02 from [Module 8](../module-08/lesson-01.md)) or one you bake today from its lesson; its technical sheet; the tasting sheet of lesson [15.3](../module-15/lesson-03.md); a bread knife and board; paper and pen; a phone to record; a family member or friend to play the seller.
 - Professional equivalent: the house technical sheets, the sensory analysis sheet from a tasting panel, the written allergen table and supplier sheets, a laminated pitch card per product at the till.
 
 > [!WARNING]
@@ -140,10 +140,10 @@ Checked 2026-10-09.
 ### Steps
 
 1. **Read the technical sheet** and copy block 2: flours, ferment, method, baking.
-2. **Check the name** against lesson 09.1: write the legal condition and whether your loaf meets it. At home you cannot prove "au levain" (no lab): write "pain de campagne", "levain" only as a method word in block 2.
-3. **Taste** with one or two people using the 15.3 sheet: crust crispness, crumb firmness, toasted, cereal, acid, salty, on 0-10. Keep the 3-4 strongest descriptors.
+2. **Check the name** against lesson [09.1](../module-09/lesson-01.md): write the legal condition and whether your loaf meets it. At home you cannot prove "au levain" (no lab): write "pain de campagne", "levain" only as a method word in block 2.
+3. **Taste** with one or two people using the [15.3](../module-15/lesson-03.md) sheet: crust crispness, crumb firmness, toasted, cereal, acid, salty, on 0-10. Keep the 3-4 strongest descriptors.
 4. **Pairing test:** taste the bread with two or three foods; keep the two best for block 4.
-5. **Keeping block:** from 07.5, write how long and how; add the freezing advice.
+5. **Keeping block:** from [07.5](../module-07/lesson-05.md), write how long and how; add the freezing advice.
 6. **Allergens:** list every allergen in the ingredients and in the labels of what you bought.
 7. **Write the seller's sentence** in French, under 30 words. Say it aloud and time it: under 10 seconds.
 8. **Brief your "seller"** in two minutes using the phrase table (French, then English if they do not speak French). Ask them to repeat it as to a customer. Record it.

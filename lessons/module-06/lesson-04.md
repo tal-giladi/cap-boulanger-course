@@ -24,7 +24,7 @@ last_verified: "2026-10-08"
 
 # 06.4 · Pre-ferment and Levain Calculations
 
-A pre-ferment is flour and water you weighed yesterday, or earlier this morning, and it still counts. This lesson delivers the calculations promised in lessons 01.5 and 04.5: the flour and water hidden inside a pâte fermentée, poolish or levain, the true hydration of a dough, how to split an overall formula into a poolish and a final dough, how to build a levain to the gram, and the legal yeast limit for levain bread. You finish by building your own poolish formula.
+A pre-ferment is flour and water you weighed yesterday, or earlier this morning, and it still counts. This lesson delivers the calculations promised in lessons [01.5](../module-01/lesson-05.md) and [04.5](../module-04/lesson-05.md): the flour and water hidden inside a pâte fermentée, poolish or levain, the true hydration of a dough, how to split an overall formula into a poolish and a final dough, how to build a levain to the gram, and the legal yeast limit for levain bread. You finish by building your own poolish formula.
 
 ## Why it matters
 
@@ -70,14 +70,14 @@ flowchart TB
   F --> C["Check: pre-ferment + final dough<br/>= overall total"]
 ```
 
-- **Sheet style (French technical sheets, PC-02, lesson 01.5 recipe C):** the flour in the mixer is 100 % and the pre-ferment is one more ingredient with its own %. Easy to weigh.
+- **Sheet style (French technical sheets, PC-02, lesson [01.5](../module-01/lesson-05.md) recipe C):** the flour in the mixer is 100 % and the pre-ferment is one more ingredient with its own %. Easy to weigh.
 - **Overall style (baker's overall formula):** all the flour, including the pre-ferment's, is 100 %. It tells you the real hydration, salt and yeast of the bread, and it is the one you design a poolish from.
 
 ### From overall formula to poolish and final dough
 
 1. Total flour from the order (lesson [06.2](lesson-02.md)), using the overall total %.
-2. Poolish flour = total flour × share prefermented (often 20-40 %; lesson 04.5).
-3. Poolish water = poolish flour (100 %). Poolish yeast = poolish flour × 0.1-1 % fresh, less for a longer or warmer ripening (lesson 04.5).
+2. Poolish flour = total flour × share prefermented (often 20-40 %; lesson [04.5](../module-04/lesson-05.md)).
+3. Poolish water = poolish flour (100 %). Poolish yeast = poolish flour × 0.1-1 % fresh, less for a longer or warmer ripening (lesson [04.5](../module-04/lesson-05.md)).
 4. Final dough: flour = total − poolish flour; water = total water − poolish water; salt = all of it (a poolish has none); yeast = total yeast − poolish yeast; plus the whole ripe poolish.
 5. Check that poolish + final dough = overall total.
 
@@ -116,11 +116,11 @@ Tomorrow you make baguettes on poolish on **10 kg of total flour**. The chef's o
 
 **Step 5 — the slip to avoid.** A trainee weighs the final-dough water at 66 % of the 7,000 g in the mixer (4,620 g) and adds the poolish on top: the dough gets 1,020 g too much water and ends at about 76 % true hydration, a soup. Or weighs 6,600 g of water as if there were no poolish.
 
-**Step 6 — PC-02 on pâte fermentée, for comparison.** The 14 November batch (lesson [01.6](../module-01/lesson-06.md)) has 5,400 g of flour in the mixer and 810 g of pâte fermentée. Inside the pâte fermentée: flour 810 × 100 ÷ 167.3 = 484 g, water 810 × 64 ÷ 167.3 = 310 g. True totals: flour 5,884 g, water 3,766 g, hydration 3,766 ÷ 5,884 = **64.0 %**, salt still 1.8 %. As expected, a pâte fermentée from the same dough leaves the ratios unchanged, but the batch really contains about 5.9 kg of flour, which matters when you cost it (lesson 06.5).
+**Step 6 — PC-02 on pâte fermentée, for comparison.** The 14 November batch (lesson [01.6](../module-01/lesson-06.md)) has 5,400 g of flour in the mixer and 810 g of pâte fermentée. Inside the pâte fermentée: flour 810 × 100 ÷ 167.3 = 484 g, water 810 × 64 ÷ 167.3 = 310 g. True totals: flour 5,884 g, water 3,766 g, hydration 3,766 ÷ 5,884 = **64.0 %**, salt still 1.8 %. As expected, a pâte fermentée from the same dough leaves the ratios unchanged, but the batch really contains about 5.9 kg of flour, which matters when you cost it (lesson [06.5](lesson-05.md)).
 
 ## Practice
 
-You build a home poolish formula from an overall formula, check it against lesson 04.5's dough, then solve six pre-ferment and levain calculations. Baking the formula is optional; if you do, follow the steps and safety notes of lesson 04.5.
+You build a home poolish formula from an overall formula, check it against lesson [04.5](../module-04/lesson-05.md)'s dough, then solve six pre-ferment and levain calculations. Baking the formula is optional; if you do, follow the steps and safety notes of lesson 04.5.
 
 > [!WARNING]
 > If you bake: 240 °C oven and steam. Dry oven gloves, steam only in a preheated metal tray (never glass), pour and step back; score with the blade moving away from your fingers.
@@ -150,13 +150,13 @@ You cannot weigh 0.6 g on a 1 g scale: dissolve 1 g of fresh yeast in 99 g of wa
 
 1. Calculate the table above yourself from the overall formula, without looking, then compare.
 2. Check that poolish + final dough equals the overall total.
-3. Compare with dough P of lesson 04.5 (poolish 150/150/0.3 g, then flour 350 g, water 175 g, salt 9 g, yeast 5 g): work out its overall hydration, salt % and yeast %.
+3. Compare with dough P of lesson [04.5](../module-04/lesson-05.md) (poolish 150/150/0.3 g, then flour 350 g, water 175 g, salt 9 g, yeast 5 g): work out its overall hydration, salt % and yeast %.
 4. Solve exercises 1-6.
-5. Optional: make the poolish in the evening and the dough in the morning as in lesson 04.5, at your new quantities, and record the poolish's ripeness signs in the [bake log](../../templates/bake-log.md).
+5. Optional: make the poolish in the evening and the dough in the morning as in lesson [04.5](../module-04/lesson-05.md), at your new quantities, and record the poolish's ripeness signs in the [bake log](../../templates/bake-log.md).
 
 **1.** PC-02 batch of 14 November: 5,400 g of flour in the mixer, 810 g of pâte fermentée. How much flour is inside the pâte fermentée, what is the true total flour, and the true hydration?
 
-**2.** Lesson 01.5's recipe C: T65 1,275 g, rye 225 g, water 1,050 g, salt 27 g, levain 375 g. What are the true hydration and salt % if the levain is liquid (100 %)? And if it is firm (60 %)?
+**2.** Lesson [01.5](../module-01/lesson-05.md)'s recipe C: T65 1,275 g, rye 225 g, water 1,050 g, salt 27 g, levain 375 g. What are the true hydration and salt % if the levain is liquid (100 %)? And if it is firm (60 %)?
 
 **3.** A final-dough sheet reads: poolish 1,800 g (900 g flour, 900 g water, 1.8 g yeast), flour 2,100 g, water 1,080 g, salt 54 g, fresh yeast 30 g. Write the overall formula: hydration, salt %, yeast %, share of flour prefermented.
 
@@ -168,7 +168,7 @@ You cannot weigh 0.6 g on a 1 g scale: dissolve 1 g of fresh yeast in 99 g of wa
 
 <details><summary>Answers</summary>
 
-**Step 3 (dough P of lesson 04.5).** Flour 150 + 350 = 500 g; water 150 + 175 = 325 g → 65 %; salt 9 g → 1.8 %; yeast 0.3 + 5 = 5.3 g → 1.06 %. Same totals as the direct dough D, as lesson 04.5 intended.
+**Step 3 (dough P of lesson [04.5](../module-04/lesson-05.md)).** Flour 150 + 350 = 500 g; water 150 + 175 = 325 g → 65 %; salt 9 g → 1.8 %; yeast 0.3 + 5 = 5.3 g → 1.06 %. Same totals as the direct dough D, as lesson [04.5](../module-04/lesson-05.md) intended.
 
 **1.** Flour in the pâte fermentée 810 × 100 ÷ 167.3 = 484 g; water 310 g. True flour 5,884 g, water 3,766 g, hydration 64.0 % (unchanged).
 
@@ -197,7 +197,7 @@ You can take any sheet with a pre-ferment and say its true hydration in a minute
 ### In Israel
 
 - **Flour.** Make the poolish and the final dough with the same flour, usually white flour (קמח לבן, *kemakh lavan*). If you use the T65-like blend of the [flour-in-Israel reference](../../references/flour-in-israel.md) (half white, half 80 %), blend the whole 1,000 g first and take the poolish flour from the blend, so the overall ratios stay right.
-- **Warm kitchen.** Lesson 04.5's times assume 18-21 °C. In a 26-32 °C summer kitchen an overnight poolish at 0.2 % yeast will be over-ripe by morning. Options: use 0.1 % yeast on the poolish flour (0.3 g here; 30 g of the 1 % solution), make it late in the evening, or let it start for 1-2 hours and finish it in the fridge; then judge it by its ripeness signs. The overall formula does not change: only the split of the yeast does.
+- **Warm kitchen.** Lesson [04.5](../module-04/lesson-05.md)'s times assume 18-21 °C. In a 26-32 °C summer kitchen an overnight poolish at 0.2 % yeast will be over-ripe by morning. Options: use 0.1 % yeast on the poolish flour (0.3 g here; 30 g of the 1 % solution), make it late in the evening, or let it start for 1-2 hours and finish it in the fridge; then judge it by its ripeness signs. The overall formula does not change: only the split of the yeast does.
 - **Dry yeast.** If you only have instant dry yeast (שמרים יבשים, *shmarim yeveshim*), use one third of the fresh weights: 0.2 g in the poolish (20 g of a solution of 1 g in 99 g of water) and 3.1 g in the final dough (checked 2026-10-08).
 
 ### Self-check
@@ -215,7 +215,7 @@ You can take any sheet with a pre-ferment and say its true hydration in a minute
 | Final dough far too wet | Final-dough water calculated as if there were no poolish, or as a % of the mixer flour on top of the poolish | Hold back water if not yet added; otherwise extra flour, note the change | Final water = total water − pre-ferment water |
 | Dough slacker than the sheet's hydration suggests | Liquid levain or poolish not counted in the hydration | Bassinage less, folds during pointage | Calculate the true hydration before you choose the water |
 | Bread over-fermented, yeasty | Full yeast dose added in the final dough on top of the poolish yeast and its activity | Shorten pointage, divide earlier | Final yeast = total − poolish yeast; often lower when the poolish is long |
-| Levain short at mixing time | Build calculated without a margin, or seed not counted in the total | Use what there is and recalculate the dough with the levain fixed (lesson 06.2) | F = levain wanted ÷ (1 + h + s), plus a margin |
+| Levain short at mixing time | Build calculated without a margin, or seed not counted in the total | Use what there is and recalculate the dough with the levain fixed (lesson [06.2](lesson-02.md)) | F = levain wanted ÷ (1 + h + s), plus a margin |
 | Levain bread over the legal yeast limit | 0.2 % applied to the wrong flour, or yeast added "to be safe" | Do not sell it under a levain name | Max yeast = 0.2 % of the flour in the mixer at final mixing |
 
 ## Review

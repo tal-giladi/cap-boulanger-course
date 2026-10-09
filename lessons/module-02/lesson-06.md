@@ -58,7 +58,7 @@ flowchart LR
 ```
 
 - In the first minutes, while there is oxygen from mixing, yeast breathes (respiration) and multiplies a little. Oxygen is used up quickly; after that, yeast ferments: each sugar molecule gives **carbon dioxide** and **ethanol**, plus small amounts of aroma compounds.
-- Yeast eats simple sugars. Flour contains only 1–2 %, so through a long fermentation the yeast depends on **maltose** made from damaged starch by the flour's amylases (lesson 02.3). Added sugar (sucrose) is split by the yeast's own enzyme (invertase).
+- Yeast eats simple sugars. Flour contains only 1–2 %, so through a long fermentation the yeast depends on **maltose** made from damaged starch by the flour's amylases (lesson [02.3](lesson-03.md)). Added sugar (sucrose) is split by the yeast's own enzyme (invertase).
 - CO₂ dissolves in the dough water, then gathers in the tiny air bubbles trapped during mixing; the gluten films stretch and the dough rises. Ethanol evaporates in the oven.
 
 ### What changes yeast activity
@@ -66,7 +66,7 @@ flowchart LR
 | Factor | Effect |
 |---|---|
 | Temperature | Almost inactive at 0–4 °C (storage). Slow at 10–20 °C (retarding). Steady at 23–27 °C (normal dough). Fastest gas around 35 °C, but with poorer flavour and dough control. Damaged above about 45 °C; dies around 46–50 °C in the dough (early in baking). |
-| Salt | Slows yeast by osmosis (lesson 02.5). Direct contact with salt before mixing damages it. |
+| Salt | Slows yeast by osmosis (lesson [02.5](lesson-05.md)). Direct contact with salt before mixing damages it. |
 | Sugar | A little sugar speeds it up; above about 10 % of the flour, osmotic pressure slows it, hence more yeast and sugar-tolerant (osmotolerant) yeast for brioche-type doughs. |
 | Fat | Coats the dough and slows gas production slightly in rich doughs. |
 | Acidity | Yeast tolerates acid well (levain breads), unlike many bacteria. |

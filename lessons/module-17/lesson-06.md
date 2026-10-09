@@ -33,7 +33,7 @@ For an allergic customer, a few sesame seeds or a smear of hazelnut paste can me
 
 ## Why it matters
 
-Allergens are a food-safety hazard of their own (lesson 17.5): cooking does not remove them and no fridge controls them. They are also a legal duty with no exemption for small businesses: even unwrapped bread over the counter must have its allergen information available in writing. Lessons [02.10](../module-02/lesson-10.md), [02.11](../module-02/lesson-11.md) and [10.7](../module-10/lesson-07.md) introduced the list and the seeded-bread case; this lesson develops the method and the cleaning plan those lessons promised. The référentiel asks you to read the mandatory particulars on a label (S4.3.1) and to pass correct product information to sales staff (C4.2); see [The CAP Boulanger Exam](../../references/cap-exam.md).
+Allergens are a food-safety hazard of their own (lesson [17.5](lesson-05.md)): cooking does not remove them and no fridge controls them. They are also a legal duty with no exemption for small businesses: even unwrapped bread over the counter must have its allergen information available in writing. Lessons [02.10](../module-02/lesson-10.md), [02.11](../module-02/lesson-11.md) and [10.7](../module-10/lesson-07.md) introduced the list and the seeded-bread case; this lesson develops the method and the cleaning plan those lessons promised. The référentiel asks you to read the mandatory particulars on a label (S4.3.1) and to pass correct product information to sales staff (C4.2); see [The CAP Boulanger Exam](../../references/cap-exam.md).
 
 ## Key terms
 
@@ -62,13 +62,13 @@ Regulation (EU) No 1169/2011, Annex II:
 | 3 | Eggs | brioche, egg wash, crème pâtissière, quiche |
 | 4 | Fish | tuna, salmon fillings |
 | 5 | Peanuts | some praline-style fillings and toppings |
-| 6 | Soybeans | soy flour in improvers (lesson 02.9), soy lecithin in most chocolate (lesson [12.1](../module-12/lesson-01.md)) |
+| 6 | Soybeans | soy flour in improvers (lesson [02.9](../module-02/lesson-09.md)), soy lecithin in most chocolate (lesson [12.1](../module-12/lesson-01.md)) |
 | 7 | Milk (including lactose) | butter, milk, milk powder, cream, cheese; croissant, pain au lait, pain de mie |
 | 8 | Nuts: almond, hazelnut, walnut, cashew, pecan, Brazil, pistachio, macadamia | almond cream, flaked almonds, walnut bread, hazelnut spreads |
 | 9 | Celery | sandwich fillings, some sauces and soups |
 | 10 | Mustard | sandwiches, sauces |
 | 11 | Sesame seeds | seeded breads, buns, crusts (SE-01) |
-| 12 | Sulphur dioxide and sulphites above 10 mg/kg (or 10 mg/L) | some dried fruit, raisins (lesson 12.2), wine |
+| 12 | Sulphur dioxide and sulphites above 10 mg/kg (or 10 mg/L) | some dried fruit, raisins (lesson [12.2](../module-12/lesson-02.md)), wine |
 | 13 | Lupin | some special flours and mixes: read the sheet |
 | 14 | Molluscs | rarely in a bakery; some fillings |
 
@@ -76,11 +76,11 @@ A few derived products are exempt (for example glucose syrups made from wheat, f
 
 ### Allergens on labels
 
-**Prepacked products** (a sealed bag of six pains au lait, a packed sandwich) carry the EU mandatory particulars (article 9): name, list of ingredients, allergens, quantity of certain ingredients, net quantity, DLC or DDM, storage conditions, operator's name and address, origin where required, instructions where needed, and the nutrition declaration (lesson 02.11 explains the exemptions for small craft producers). **Allergens are emphasised in the list of ingredients**, for example in bold: "farine de **blé**, **beurre**, **œufs**, sucre…". If there is no list, the label says "**contient** : …" followed by the allergen (article 21).
+**Prepacked products** (a sealed bag of six pains au lait, a packed sandwich) carry the EU mandatory particulars (article 9): name, list of ingredients, allergens, quantity of certain ingredients, net quantity, DLC or DDM, storage conditions, operator's name and address, origin where required, instructions where needed, and the nutrition declaration (lesson [02.11](../module-02/lesson-11.md) explains the exemptions for small craft producers). **Allergens are emphasised in the list of ingredients**, for example in bold: "farine de **blé**, **beurre**, **œufs**, sucre…". If there is no list, the label says "**contient** : …" followed by the allergen (article 21).
 
 **Unwrapped products** (bread and viennoiserie sold over the counter): allergen information is **mandatory** (article 44), and France requires it **in writing**, available to the customer in the shop (décret n° 2015-447). The usual tool is a written **allergen table**, a grid of products × 14 allergens, posted or kept at the till with a sign telling customers it can be consulted (CNBPF tool sheets 24-25). Staff do not answer from memory: they show the table.
 
-**Other shop statements** you will meet: the legal names (tradition, maison, au levain: lesson [09.1](../module-09/lesson-01.md)); the name and price of each product on display (lesson [15.5](../module-15/lesson-05.md)); and, when a product that was frozen is sold thawed, the mention **"décongelé"** on or right next to it (CNBPF). Use-by and best-before dates (DLC, DDM) are explained in lesson 02.10; storage after opening in lesson 17.8.
+**Other shop statements** you will meet: the legal names (tradition, maison, au levain: lesson [09.1](../module-09/lesson-01.md)); the name and price of each product on display (lesson [15.5](../module-15/lesson-05.md)); and, when a product that was frozen is sold thawed, the mention **"décongelé"** on or right next to it (CNBPF). Use-by and best-before dates (DLC, DDM) are explained in lesson [02.10](../module-02/lesson-10.md); storage after opening in lesson 17.8.
 
 ### Cross-contact: keeping allergens where they belong
 
@@ -116,7 +116,7 @@ You build the written allergen table for six products and check a prepacked labe
 
 ### Ingredients
 
-No baking needed. Use six of these course products, or your own versions: TR-01 tradition baguette (lesson [09.2](../module-09/lesson-02.md)), SE-01 seeded loaf (10.7), CR-01 croissant (lesson [11.2](../module-11/lesson-02.md)), pain au chocolat (12.1), pain aux raisins (12.2), brioche (lesson [12.3](../module-12/lesson-03.md)), and a jambon-beurre sandwich (02.10).
+No baking needed. Use six of these course products, or your own versions: TR-01 tradition baguette (lesson [09.2](../module-09/lesson-02.md)), SE-01 seeded loaf ([10.7](../module-10/lesson-07.md)), CR-01 croissant (lesson [11.2](../module-11/lesson-02.md)), pain au chocolat ([12.1](../module-12/lesson-01.md)), pain aux raisins ([12.2](../module-12/lesson-02.md)), brioche (lesson [12.3](../module-12/lesson-03.md)), and a jambon-beurre sandwich ([02.10](../module-02/lesson-10.md)).
 
 ### In Israel
 

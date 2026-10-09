@@ -138,7 +138,7 @@ gantt
 5. If it has risen less than about 1.5 times, leave it at room temperature until it has (often 30-60 min). Then divide into two pieces of about 415 g and pre-shape loosely.
 6. Détente 30-45 minutes, covered: cold dough needs longer. Preheat the oven to 240 °C with a tray and the steam tray.
 7. Shape two bâtards of about 25 cm. Apprêt at 24-26 °C until the poke test says ready; expect 1 h-1 h 45 because the pieces must warm. Measure the dough temperature of one piece when you load.
-8. Score, steam, bake about 25 minutes. Cool at least 1 hour, then compare with your same-day bread from lesson 04.2 or 04.5 (notes or a fresh bake): crust colour and blisters, crumb, flavour.
+8. Score, steam, bake about 25 minutes. Cool at least 1 hour, then compare with your same-day bread from lesson [04.2](lesson-02.md) or [04.5](lesson-05.md) (notes or a fresh bake): crust colour and blisters, crumb, flavour.
 
 ### Targets
 

@@ -30,7 +30,7 @@ The base-temperature method is only as good as its friction factor, and it needs
 
 ## Why it matters
 
-A friction factor copied from a book belongs to someone else's mixer. The same dough heats by 2 °C by hand and by 10 °C or more in an intensive spiral mix, and the difference lands directly on the dough temperature, then on the whole schedule. Pâte fermentée and levain arrive at their own temperature, often straight from the cold room. In summer the water must often be colder than the supply, and bakeries use water coolers and ice for that. The référentiel asks you to explain mixing methods, the effect of dough temperature and its corrections, and the role of the water cooler (S3.1); the calculations themselves are production calculations (C1.3).
+A friction factor copied from a book belongs to someone else's mixer. The same dough heats by 2 °C by hand and by 10 °C or more in an intensive spiral mix, and the difference lands directly on the dough temperature, then on the whole schedule. Pâte fermentée and levain arrive at their own temperature, often straight from the cold room. In summer the water must often be colder than the supply, and bakeries use water coolers and ice for that. The référentiel asks you to explain mixing methods, the effect of dough temperature and its corrections, and the role of the water cooler (S3.1); the calculations themselves are production calculations (C1.3). Lesson [21.3](../module-21/lesson-03.md) practises them as timed EP1 questions.
 
 ## Key terms
 
@@ -145,7 +145,7 @@ You measure your own hand-mixing friction factor from one dough, use it to calcu
 
 ### You need
 
-- Minimum: scale (1 g; 0.1 g for salt and yeast), checked probe thermometer, two bowls, scraper, two lidded containers, ice cubes, a jug, kettle, calculator, the [temperature log](../../templates/temperature-log.md) (one per dough), your lesson 05.1 audit.
+- Minimum: scale (1 g; 0.1 g for salt and yeast), checked probe thermometer, two bowls, scraper, two lidded containers, ice cubes, a jug, kettle, calculator, the [temperature log](../../templates/temperature-log.md) (one per dough), your lesson [05.1](lesson-01.md) audit.
 - Optional: a stand mixer with a dough hook.
 - Professional equivalent: spiral mixer with timer and speeds recorded, water cooler and water meter, flaked-ice machine, a friction factor written on each technical sheet.
 
@@ -174,7 +174,7 @@ Checked 2026-10-08.
 
 **Part A: measure your friction factor (dough 1)**
 
-1. Measure flour, room and tap water. Calculate the water for TPV 24 °C with friction factor 6 (or your own value from lesson 05.2). Weigh 325 g at that temperature.
+1. Measure flour, room and tap water. Calculate the water for TPV 24 °C with friction factor 6 (or your own value from lesson [05.2](lesson-02.md)). Weigh 325 g at that temperature.
 2. Mix and knead by hand for exactly 10 minutes as in lesson [01.7](../module-01/lesson-07.md). Time it.
 3. Measure the dough temperature in the centre. Calculate your friction factor: 3 × dough − (flour + room + water). Write it on the log.
 
@@ -191,7 +191,7 @@ Checked 2026-10-08.
 
 7. Mix a third dough in the stand mixer: 3 minutes on the lowest speed, then the kneading speed until the dough is smooth (note the minutes). Measure and calculate the mixer's friction factor. Write the time and speeds next to it.
 
-8. Use the doughs: bake them as flat rolls or bâtards (lessons 01.7 and 04.3), or ferment one in the fridge overnight (lesson 04.6). Judge pointage by the dough.
+8. Use the doughs: bake them as flat rolls or bâtards (lessons [01.7](../module-01/lesson-07.md) and [04.3](../module-04/lesson-03.md)), or ferment one in the fridge overnight (lesson [04.6](../module-04/lesson-06.md)). Judge pointage by the dough.
 
 ### Exercises
 
@@ -239,7 +239,7 @@ Your hand friction factor usually comes out between about 3 and 9; the second do
 | Lumps of ice in the dough at the end of frasage | Large cubes added late | Keep mixing in first speed until melted; check temperature | Crushed ice, added with the water at the start |
 | Dough too cold after ice | Ice weighed on top of the full water weight | Longer, warmer pointage | Ice is part of the water: total stays the same |
 | Warm dough in summer even with iced water | Calculation below 1-2 °C: water alone cannot reach it | Accept and shorten pointage; report | Chill the flour, cool the room, review the mixing time |
-| Over-oxidised, warm dough after "fixing" a cold one | Long second speed used to warm a cold dough | Divide quickly, cool proof | Correct the water next time, not the mixing (lesson 03.4) |
+| Over-oxidised, warm dough after "fixing" a cold one | Long second speed used to warm a cold dough | Divide quickly, cool proof | Correct the water next time, not the mixing (lesson [03.4](../module-03/lesson-04.md)) |
 
 ## Review
 

@@ -65,7 +65,7 @@ flowchart TB
 
 - **Origins and types:** sucrose (saccharose) from sugar beet or sugar cane. Bakeries use caster sugar (semoule, dissolves fast, the dough standard), granulated (cristal, decoration and pearl sugar), icing sugar (glace, finishing), brown sugars (cassonade from cane, vergeoise from beet), plus invert sugar, honey and glucose syrup for moisture.
 - **Roles in a viennoiserie dough:**
-  - feeds the yeast at small doses; slows it above about 10 % of the flour (osmosis, lesson 02.6);
+  - feeds the yeast at small doses; slows it above about 10 % of the flour (osmosis, lesson [02.6](lesson-06.md));
   - sweetness and flavour;
   - crust colour: sugars brown through the Maillard reaction (with proteins) and caramelisation, so sweet doughs bake at a lower temperature (about 170–200 °C) to avoid a dark crust over a raw centre;
   - softness and keeping: sugar holds water (hygroscopic), so the crumb stays moist;
@@ -83,7 +83,7 @@ flowchart TB
 | Product | Composition | Use | Storage |
 |---|---|---|---|
 | Butter (beurre) | at least 82 % milk fat, at most 16 % water; demi-sel 0.5–3 % salt, salé over 3 % | brioche, pain au lait, viennoiserie, "pur beurre" products | +4 to +6 °C in its wrapping, away from air, light and strong smells; respect the DLC |
-| Butter for laminating (beurre de tourage / beurre sec) | firmer, more plastic, higher melting range | croissant, pain au chocolat (lesson 11.3) | cold, flat plaques |
+| Butter for laminating (beurre de tourage / beurre sec) | firmer, more plastic, higher melting range | croissant, pain au chocolat (lesson [11.3](../module-11/lesson-03.md)) | cold, flat plaques |
 | Concentrated butter | about 99.8 % fat, no water | pastry, frying | cool, dry |
 | Margarine | emulsion of vegetable fats and water (about 80 % fat for full-fat margarine) | cheaper viennoiserie; special laminating margarines | cool; follow the label |
 | Cream (crème) | fat from milk, roughly 30–35 % for whipping cream; lighter creams less | fillings, some brioches, crème pâtissière ([Module 12](../module-12/lesson-02.md)) | refrigerated, closed, date after opening |

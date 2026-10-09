@@ -72,7 +72,7 @@ In English: one Saturday morning in six scenes: a dairy delivery with broken egg
 | J'ai mis le plateau de côté. Le livreur attend. | I've set the tray aside. The driver is waiting. |
 | Je propose de refuser le plateau abîmé et de faire une réserve. Vous êtes d'accord ? | I suggest refusing the damaged tray and writing a reservation. Do you agree? |
 
-Reservation: « Œufs : 1 plateau de 30 refusé, 4 œufs cassés ; 5 h 52. » The tray with broken eggs is refused as damaged goods (the reception rule of lesson 19.1: damaged packaging is refused); the second tray is checked egg by egg before it is accepted.
+Reservation: « Œufs : 1 plateau de 30 refusé, 4 œufs cassés ; 5 h 52. » The tray with broken eggs is refused as damaged goods (the reception rule of lesson [19.1](../lessons/module-19/lesson-01.md): damaged packaging is refused); the second tray is checked egg by egg before it is accepted.
 
 **Key decisions for the other scenes**
 

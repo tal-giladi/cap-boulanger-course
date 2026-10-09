@@ -121,7 +121,7 @@ Staling is partly reversible: reheating above about 60 °C re-gelatinises the st
 | Fridge (about 4 °C) | soft | stales fastest | avoid for bread |
 | Freezer (−18 °C), cooled, wrapped airtight | refresh in a hot oven | close to fresh after thawing; up to about three months | anything not eaten within a day or two |
 
-In the bakery, finished products go to the shop on clean racks or in baskets, protected from customers' hands. Semi-finished products (pâte fermentée, frozen dough, par-baked bread) are **dated, wrapped in film and stored in their place** (cold room, freezer), and products packed for sale carry the label information covered in lesson [02.11](../module-02/lesson-11.md).
+In the bakery, finished products go to the shop on clean racks or in baskets, protected from customers' hands. Semi-finished products (pâte fermentée, frozen dough, par-baked bread) are **dated, wrapped in film and stored in their place** (cold room, freezer), and products packed for sale carry the label information covered in lesson [02.11](../module-02/lesson-11.md). Whether a business that calls itself a boulangerie may freeze dough or bread at all is a legal question, answered in lesson [09.1](../module-09/lesson-01.md); what to do with unsold bread is in lesson [18.2](../module-18/lesson-02.md).
 
 ### The ovens
 
@@ -134,7 +134,7 @@ In the bakery, finished products go to the shop on clean racks or in baskets, pr
 
 ## Worked example
 
-Saturday at Boulangerie Au Pain de la Halle: the two-deck oven must bake 24 baguettes PC-02, 10 campagne boules CA-01 (pâton 590 g, ordered at 500 g baked, measured loss 15 %, from the module 6 [workbook](../../projects/m06-calculation-workbook.md)) and 4 pains de mie in tins. The campagne goes to a restaurant tomorrow at 11:00.
+Saturday at Boulangerie Au Pain de la Halle: the two-deck oven must bake 24 baguettes PC-02, 10 campagne boules CA-01 (pâton 590 g, ordered at 500 g baked, measured loss 15 %, from the [module 6](../module-06/lesson-01.md) [workbook](../../projects/m06-calculation-workbook.md)) and 4 pains de mie in tins. The campagne goes to a restaurant tomorrow at 11:00.
 
 **1. Programme the oven.** The deck oven changes temperature slowly. Top deck at 250 °C for the baguettes, then rolls; bottom deck at 230 °C for the campagne (40 minutes, steam), then left to fall to about 200 °C for the pains de mie (no steam, 35 minutes). Each product bakes on the deck nearest its temperature without waiting for an oven to cool.
 
@@ -175,7 +175,7 @@ Checked 2026-10-08.
 
 ### Steps
 
-1. **Bake.** Make, shape and proof six bâtards of 270 g as in lesson 07.3; bake them in two loads at 240 °C with your best steam setup, about 25 minutes. Bake the test roll with the second load.
+1. **Bake.** Make, shape and proof six bâtards of 270 g as in lesson [07.3](lesson-03.md); bake them in two loads at 240 °C with your best steam setup, about 25 minutes. Bake the test roll with the second load.
 2. **Défournement.** Weigh each bâtard straight out of the oven. Probe the core of one: at least about 90 °C. Listen to the crust as it cools.
 3. **Ressuage.** Cool all on a rack for 2 hours. Weigh again. Cut nothing before that.
 4. **Store, labelled with date and time:**

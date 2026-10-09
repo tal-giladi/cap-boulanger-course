@@ -67,7 +67,7 @@ A little oxidation is useful (strength, volume). Too much gives the "white, cott
 
 Pain de tradition française may contain no additives at all (décret of 1993, art. 2), so there is no ascorbic acid to activate: tradition gets its strength from time, folds and pre-ferments instead, and is mixed gently to keep its creamy crumb and aroma.
 
-The tools that limit oxidation: autolyse (lesson 03.2), slow or improved rather than intensive mixing (lesson 03.3), salt in during frasage, and pre-ferments that bring strength without extra mixing.
+The tools that limit oxidation: autolyse (lesson [03.2](lesson-02.md)), slow or improved rather than intensive mixing (lesson [03.3](lesson-03.md)), salt in during frasage, and pre-ferments that bring strength without extra mixing.
 
 ### Why the dough warms up
 
@@ -106,7 +106,7 @@ Do not try to "fix" a cold dough by mixing it much longer in second speed: you w
 
 ### Recognising an over-mixed dough
 
-An over-mixed dough was smooth and elastic, then became shiny-wet, sticky and slack again, flows when you stretch it, and is warm (lesson 03.1). It ferments fast, sticks to the divider, spreads after shaping and gives an over-white crumb. It cannot be repaired: use it quickly, with a shorter pointage, firm shaping and a cooler proof, or turn it into flat products, and record what happened.
+An over-mixed dough was smooth and elastic, then became shiny-wet, sticky and slack again, flows when you stretch it, and is warm (lesson [03.1](lesson-01.md)). It ferments fast, sticks to the divider, spreads after shaping and gives an over-white crumb. It cannot be repaired: use it quickly, with a shorter pointage, firm shaping and a cooler proof, or turn it into flat products, and record what happened.
 
 ## Worked example
 

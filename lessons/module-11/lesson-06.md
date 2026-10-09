@@ -51,7 +51,7 @@ Most croissants that leak butter, spread or stay dense were well laminated and b
 
 ### Proof: warm enough for the yeast, cool enough for the butter
 
-The yeast needs warmth to make gas; the butter must stay solid until the oven (lesson 11.1). The two meet in a narrow band:
+The yeast needs warmth to make gas; the butter must stay solid until the oven (lesson [11.1](lesson-01.md)). The two meet in a narrow band:
 
 - **24-26 °C**, humid (about 75-80 % relative humidity, or covered so the surface does not dry), for about **1 h 30 to 2 h 30** from room-temperature pieces. Elle & Vire's professional formula proofs about 2 h 30 at 25 °C.
 - **Never above about 27 °C** (King Arthur Baking: below 80 °F, or the butter melts and leaks). A bread cabinet at 28-30 °C is too warm.
@@ -95,21 +95,21 @@ flowchart LR
 
 ### Baking
 
-- **No steam.** The egg wash gives the shine, and steam on egg wash leaves it streaky and dull (lesson 10.6).
+- **No steam.** The egg wash gives the shine, and steam on egg wash leaves it streaky and dull (lesson [10.6](../module-10/lesson-06.md)).
 - **Temperature.** Deck oven about 190-200 °C, about 15-17 minutes (Elle & Vire); home oven conventional about 190-200 °C, 16-20 minutes (King Arthur Baking: 400 °F, about 205 °C, 15-20 minutes); fan oven about 175-180 °C. A 60 g croissant needs heat fast enough to turn the butter's water to steam before the butter runs out, and moderate enough that the sugar and egg do not burn before the inside is baked.
 - **Done when** evenly **deep golden-brown, including the creases between the turns and the underside.** A croissant golden on top but pale in its creases is under-baked: its layers are not set and it collapses as it cools. Turn the tray halfway if your oven browns unevenly.
 - **Cool on a rack** (ressuage) 20-30 minutes before tasting or cutting; steam is still escaping and the crust crisps as it cools. A croissant loses part of its weight in the oven, mostly water: about 12-15 % is a reasonable planning figure (60 g raw → about 51-53 g), but measure your own (lesson [06.3](../module-06/lesson-03.md)).
 
 ## Worked example
 
-Boulangerie du Marché wants croissants on the shelf at **6:45** on Saturday. The croissants are shaped on Friday at 15:00 (lessons 11.4-11.5 done on Friday afternoon) and the trays go into the proofer-retarder.
+Boulangerie du Marché wants croissants on the shelf at **6:45** on Saturday. The croissants are shaped on Friday at 15:00 (lessons [11.4](lesson-04.md)-[11.5](lesson-05.md) done on Friday afternoon) and the trays go into the proofer-retarder.
 
 1. **Programme.** Hold at 3 °C from 15:30; start warming at 2:30 to 25 °C and 78 % HR; the croissants come from 3 °C, so count about 3 hours: ready at about 5:30.
 2. **5:30, check.** Almost doubled, they wobble, layers visibly open on the sides: ready. First egg wash.
 3. **5:45.** Second egg wash. Deck at 195 °C, no steam. Load.
 4. **6:02.** Even deep gold, creases coloured too: out at 17 minutes. On racks.
 5. **6:45.** On the shelf, cooled and crisp. Control: 3 croissants weighed: 52, 51, 53 g, from 60 g raw: loss about 13 %.
-6. **Incident the next week.** The display of the proofer reads 30 °C at 5:00: someone changed the programme. The croissants are puffy, shiny with butter on the surface, a little butter on the paper. Decision: set the cabinet back to 25 °C; they are already fully proofed, so egg-wash once, gently, and bake at once; expect flatter, greasier croissants. The non-conformity is written up (cause: programme changed; action: programme locked, check of the display at the start of the shift), and the shop is told the morning's croissants are below standard (lesson 11.7, C4.4).
+6. **Incident the next week.** The display of the proofer reads 30 °C at 5:00: someone changed the programme. The croissants are puffy, shiny with butter on the surface, a little butter on the paper. Decision: set the cabinet back to 25 °C; they are already fully proofed, so egg-wash once, gently, and bake at once; expect flatter, greasier croissants. The non-conformity is written up (cause: programme changed; action: programme locked, check of the display at the start of the shift), and the shop is told the morning's croissants are below standard (lesson [11.7](lesson-07.md), C4.4).
 
 ## Practice
 
@@ -151,7 +151,7 @@ Checked 2026-10-08.
 5. **Bake** one tray at a time on the middle shelf, no steam: about 16-20 minutes, turning the tray after 10-12 minutes if your oven browns unevenly. Bake the trims (twists) with the last tray: they take less time.
 6. **Check** the creases and the underside: deep golden-brown everywhere. If the creases are pale, give 2-3 minutes more.
 7. **Cool** on the rack 30 minutes. Weigh 3 croissants and calculate the baking loss. Discard the leftover egg wash.
-8. **Compare** the under-proofed test croissant with a batch croissant: size, shape, butter on the paper. Keep 12 for lesson 11.7 (cut-section analysis today, while they are fresh).
+8. **Compare** the under-proofed test croissant with a batch croissant: size, shape, butter on the paper. Keep 12 for lesson [11.7](lesson-07.md) (cut-section analysis today, while they are fresh).
 
 ### Targets
 

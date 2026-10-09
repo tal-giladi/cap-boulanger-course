@@ -91,7 +91,7 @@ Wednesday, a school fair orders for Saturday 10:00 from sheet **PB-01** (total 2
 
 1. **Dough.** 4 × 300 + 20 × 60 + 20 × 50 = 1,200 + 1,200 + 1,000 = 3,400 g; with 2 %: 3,468 g.
 2. **Flour.** 3,468 ÷ 2.035 = 1,704 g → **1,800 g**. Milk 756 g; egg 324 g; sugar 234 g; salt 36 g; fresh yeast 63 g; butter 450 g. Total 3,663 g.
-3. **Friday 15:00.** Mix (liquids from the TB, lesson 12.3), 30 minutes at the fournil with a fold, flattened in a filmed tray, cold room +4 °C.
+3. **Friday 15:00.** Mix (liquids from the TB, lesson [12.3](lesson-03.md)), 30 minutes at the fournil with a fold, flattened in a filmed tray, cold room +4 °C.
 4. **Saturday 5:00. Divide cold:** 12 strands of 100 g, 20 × 60 g, 20 × 50 g; about 200 g is spare after the process losses. Pre-shape; 30 minutes in the cold room.
 5. **5:40-6:20. Shape:** the braids first (they proof a little longer), then hedgehogs and navettes; first egg wash. Strands checked: 100 g ± 3 g, 35 cm.
 6. **Apprêt** at 25 °C, 80 % humidity. 7:20: small pieces ready; second egg wash, snip the hedgehogs' spines, bake 180 °C, 13 minutes. 7:40: braids ready; second egg wash into the cracks, bake 180 °C, 22 minutes.
@@ -99,7 +99,7 @@ Wednesday, a school fair orders for Saturday 10:00 from sheet **PB-01** (total 2
 
 ## Practice
 
-You shape the **half of PL-01 kept in the fridge in lesson 12.3** (about 490 g), or a fresh **PB-01 on 250 g of flour** (about 509 g) made as in 12.3 and chilled at least 2 hours: one three-strand braid and a set of small pieces.
+You shape the **half of PL-01 kept in the fridge in lesson [12.3](lesson-03.md)** (about 490 g), or a fresh **PB-01 on 250 g of flour** (about 509 g) made as in [12.3](lesson-03.md) and chilled at least 2 hours: one three-strand braid and a set of small pieces.
 
 > [!WARNING]
 > Oven at about 180 °C: dry oven gloves, open the door and step back. Scissors and knife: points away from your other hand.
@@ -128,7 +128,7 @@ You shape the **half of PL-01 kept in the fridge in lesson 12.3** (about 490 g),
 
 Checked 2026-10-08.
 
-- **The dough** is your PL-01 or PB-01 from lesson 12.3, made with Israeli white flour, full-fat milk, eggs and block butter ([Flour in Israel](../../references/flour-in-israel.md)). Keep it in the fridge at 5 °C or below until the moment you divide it.
+- **The dough** is your PL-01 or PB-01 from lesson [12.3](lesson-03.md), made with Israeli white flour, full-fat milk, eggs and block butter ([Flour in Israel](../../references/flour-in-israel.md)). Keep it in the fridge at 5 °C or below until the moment you divide it.
 - **Shaping in a 30 °C kitchen:** rich dough softens on the bench within minutes. Work in the air-conditioned room, take out only the strands you are rolling, and put the rest back in the fridge; if strands go sticky, chill them 10 minutes.
 - **Braiding:** if you have braided challah, the three-strand braid is the same movement; the difference is the dough (butter, softer) and the rule here of braiding from the middle without pulling.
 - **Pearl sugar** (*sukar perlim*, סוכר פנינים) and chocolate chips (*shokolad chips*, שוקולד צ'יפס) are in baking-supply shops; read the chips' label for milk and soy.

@@ -24,7 +24,7 @@ Production rarely starts from the flour: it starts from an order, a tub, a mixer
 
 ## Why it matters
 
-The exam's written phase gives you an order and asks for the quantities, so the calculation you meet first is a reverse one (see [The CAP Boulanger Exam](../../references/cap-exam.md)). In a bakery the reverse problems come every day: only 120 g of yeast is left before the delivery, the pâte fermentée tub holds less than the sheet asks for, a colleague has already weighed the water and you must find the flour that goes with it. If you can only calculate forwards, each of these becomes a guess, and a guess ends in pieces missing at dividing or a dough that is not the bakery's standard.
+The exam's written phase gives you an order and asks for the quantities, so the calculation you meet first is a reverse one (see [The CAP Boulanger Exam](../../references/cap-exam.md)). In a bakery the reverse problems come every day: only 120 g of yeast is left before the delivery, the pâte fermentée tub holds less than the sheet asks for, a colleague has already weighed the water and you must find the flour that goes with it. If you can only calculate forwards, each of these becomes a guess, and a guess ends in pieces missing at dividing or a dough that is not the bakery's standard. Lesson [21.3](../module-21/lesson-03.md) practises these calculations as timed EP1 questions.
 
 ## Key terms
 
@@ -53,7 +53,7 @@ flowchart LR
   C -->|no| F
 ```
 
-This is lesson [01.5](../module-01/lesson-05.md)'s third formula used as a routine. The course adds losses by multiplying (× 1.02 for 2 %), as lesson 01.5 did; some bakeries divide by 0.98 instead, which gives a few grams more. Use one convention and write it on the sheet.
+This is lesson [01.5](../module-01/lesson-05.md)'s third formula used as a routine. The course adds losses by multiplying (× 1.02 for 2 %), as lesson [01.5](../module-01/lesson-05.md) did; some bakeries divide by 0.98 instead, which gives a few grams more. Use one convention and write it on the sheet.
 
 ### Five reverse problems
 
@@ -63,7 +63,7 @@ This is lesson [01.5](../module-01/lesson-05.md)'s third formula used as a routi
 | A dough weight available (tub, leftover, mixer) | Flour, or number of pieces | flour = dough × 100 ÷ total %; pieces = dough ÷ (1 + losses) ÷ piece weight, rounded down |
 | One ingredient in stock | The largest batch | max flour = stock ÷ % × 100 |
 | One ingredient already weighed | The flour that goes with it | flour = weight ÷ % × 100 |
-| Grams of a recipe | Its percentages | % = grams ÷ flour × 100 (lesson 01.5) |
+| Grams of a recipe | Its percentages | % = grams ÷ flour × 100 (lesson [01.5](../module-01/lesson-05.md)) |
 
 ### Rounding: up for orders, down for limits
 
@@ -164,7 +164,7 @@ Faced with "we only have…" or "the tub holds…", you find the largest batch o
 
 ### In Israel
 
-- **Cups and spoons.** Many Israeli home recipes give flour in cups (כוס, *kos*) and salt or yeast in teaspoons (כפית, *kapit*). A cup of flour weighs very different amounts depending on how it is filled. Before converting a cup recipe to percentages, weigh your own cup of flour three times, spooned in and levelled, and use the average; weigh a level teaspoon of salt and of dry yeast on the 0.1 g scale. Then convert the recipe to grams and to baker's percentages (lesson 01.5).
+- **Cups and spoons.** Many Israeli home recipes give flour in cups (כוס, *kos*) and salt or yeast in teaspoons (כפית, *kapit*). A cup of flour weighs very different amounts depending on how it is filled. Before converting a cup recipe to percentages, weigh your own cup of flour three times, spooned in and levelled, and use the average; weigh a level teaspoon of salt and of dry yeast on the 0.1 g scale. Then convert the recipe to grams and to baker's percentages (lesson [01.5](../module-01/lesson-05.md)).
 - **Stock limits at home.** The usual limit is the flour: one or two 1 kg bags. Work out the batch from the flour you have, as in problem E, before you promise a number of rolls (checked 2026-10-08).
 - **Flour.** Use white flour (קמח לבן, *kemakh lavan*) for PD-01 and PC-02; see the [flour-in-Israel reference](../../references/flour-in-israel.md) for what it stands in for and how to adjust the water.
 

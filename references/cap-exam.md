@@ -47,7 +47,7 @@ Coefficients: EP1 and EP2 from the règlement d'examen in the [référentiel](ht
 | Part 3: applied management (S5, at least 3 of 5 areas) | about 30 min, /20 |
 | Competencies | C1.1, C2.1, C2.3, C2.5, C2.6, C2.7, C3.1, C4.1, C4.2, C4.3 |
 
-Real EP1 papers use company documents (technical sheets, protocols, analysis results, articles) and ask for definitions, explanations and justified decisions. Past papers are published by the Base nationale des sujets d'examens ([example: session 2019](https://bnseep.eduscol.education.fr/ressources/examens/sujets/19/500/2213700/EP1/UP1_SUJET.pdf)). Module 21 of this course practises EP1.
+Real EP1 papers use company documents (technical sheets, protocols, analysis results, articles) and ask for definitions, explanations and justified decisions. Past papers are published by the Base nationale des sujets d'examens ([example: session 2019](https://bnseep.eduscol.education.fr/ressources/examens/sujets/19/500/2213700/EP1/UP1_SUJET.pdf)). [Module 21](../lessons/module-21/lesson-01.md) of this course practises EP1.
 
 [Module 21](../lessons/module-21/lesson-01.md) of this course practises EP1 round by round and ends with a [full mock paper](../projects/m21-ep1-mock-paper.md).
 

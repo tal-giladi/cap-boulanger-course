@@ -129,7 +129,7 @@ None new: you judge what you baked. If you bake a batch for this lesson, use the
 Checked 2026-10-09.
 
 - **Light.** Judge colour in daylight away from direct sun, or under a white (cool-white) lamp; warm yellow kitchen lights make every crust look one step darker on the scale. Use the same place every time.
-- **Humidity.** On a humid coastal day a crisp crust softens within an hour or two (lesson 08.5): judge crust texture between 30 minutes and 1 hour after baking and write the weather in your log.
+- **Humidity.** On a humid coastal day a crisp crust softens within an hour or two (lesson [08.5](../module-08/lesson-05.md)): judge crust texture between 30 minutes and 1 hour after baking and write the weather in your log.
 - **A comparison piece.** Buy one baguette (באגט, *baget*) from a bakery that bakes on site and rate its exterior next to yours with the same scale. You are training your eye, not judging the bakery.
 
 ### Steps
@@ -137,7 +137,7 @@ Checked 2026-10-09.
 1. **Lay out** all pieces side by side on a clean surface, in good light, at least 30 minutes after baking.
 2. **Count** and write the number against what you meant to bake.
 3. **Measure** the length of every piece (and width and height for round loaves). Write the spread.
-4. **Weigh** each piece and write it next to its pâton weight (you will use it in lesson 15.4).
+4. **Weigh** each piece and write it next to its pâton weight (you will use it in lesson [15.4](lesson-04.md)).
 5. **Colour:** give each piece a score on the 1-5 scale, and note where it varies (one end, the bottom, the creases).
 6. **Score** the exterior lines of the rubric (shape, volume, grigne or layers, colour, crust texture, bottom), each 0-2.
 7. **Look for a pattern:** one odd piece, or all pieces from one tray, one side or one end of the oven? Check your bake log for the evidence (loading order, oven temperature, steam).
@@ -169,7 +169,7 @@ You can describe your batch in numbers ("three baguettes, 37-39 cm, colour 4, 4 
 |---|---|---|---|
 | Colour scores change from day to day for similar bread | Judged under different lights | Re-score in daylight or under a white lamp | Same place, same light, scale beside the bread |
 | Crust judged "soft" but it was crisp at the oven | Judged too late on a humid day; bread bagged warm | Note the time and the weather; refresh one piece in the oven to check | Judge between 30 min and 1 h; cool on a rack, never in a bag |
-| All pieces pale despite the right oven setting | Over-fermented dough (sugars used up) or oven cooler than the dial | Check the fermentation notes and an oven thermometer | Judge fermentation by the dough (04.7); oven thermometer |
+| All pieces pale despite the right oven setting | Over-fermented dough (sugars used up) or oven cooler than the dial | Check the fermentation notes and an oven thermometer | Judge fermentation by the dough ([04.7](../module-04/lesson-07.md)); oven thermometer |
 | One tray or one corner always darker | Hot spot or sole too hot | Swap tray positions mid-bake | Map your oven; turn trays; second tray under for the bottom |
 | "Nice loaves" in the notes, nothing to compare next time | Described, not measured | Measure the pieces you still have | Ruler, scale and colour scale every time |
 | A single bad piece blamed on the whole process | Batch not compared side by side | Lay all pieces out together | Look for patterns before changing the formula |

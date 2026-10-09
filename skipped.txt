@@ -1,0 +1,41 @@
+lessons/module-01/lesson-01.md:111: RANGE modules 21-22
+lessons/module-01/lesson-01.md:132: SELFMOD module 1
+lessons/module-03/lesson-01.md:30: HASLINK Module 2
+lessons/module-05/lesson-02.md:83: SELF 05.2
+lessons/module-07/lesson-02.md:88: HASLINK Module 5
+lessons/module-08/lesson-01.md:94: HASLINK Module 5
+lessons/module-09/lesson-02.md:88: HASLINK Module 5
+lessons/module-11/lesson-05.md:132: NOCTX 16.5 …the top starting at 5.5 (5.5, 16.5, 27.5, 38.5, 49
+lessons/module-12/lesson-03.md:100: HASLINK module 10
+lessons/module-13/lesson-02.md:33: SELFMOD Module 13
+lessons/module-14/lesson-04.md:206: SELF 14.4
+lessons/module-15/lesson-01.md:113: RANGE modules 8-12
+lessons/module-15/lesson-05.md:127: RANGE modules 8-12
+lessons/module-17/lesson-01.md:33: SELFMOD Module 17
+lessons/module-18/lesson-01.md:132: RANGE Modules 8-10
+lessons/module-18/lesson-01.md:165: NOCTX 10.5 …30 each would have been up to 10.5 kWh. If the ove
+lessons/module-19/lesson-03.md:40: HASLINK Module 17
+lessons/module-19/lesson-03.md:146: HASLINK Module 17
+lessons/module-20/lesson-03.md:143: RANGE Modules 8-12
+lessons/module-20/lesson-04.md:183: NOCTX 15.04 …+20 % → 6 × 12.53 × 0.20 = **€15.04** on top of th
+lessons/module-20/lesson-04.md:223: ARITH 17.5 …**6.** 7 × 2.5 = 17.5, rounded up to 
+lessons/module-21/lesson-01.md:31: RANGE Modules 1–20
+lessons/module-21/lesson-05.md:154: HASLINK Module 20
+lessons/module-21/lesson-05.md:243: HASLINK Module 20
+projects/m01-production-order.md:3: SELFMOD module 1
+projects/m02-flour-comparison.md:3: SELFMOD module 2
+projects/m03-mixing-study.md:3: SELFMOD module 3
+projects/m04-diagnose-the-dough.md:3: SELFMOD module 4
+projects/m05-temperature-log.md:3: SELFMOD module 5
+projects/m06-calculation-workbook.md:3: SELFMOD module 6
+projects/m07-process-sheet.md:3: SELFMOD module 7
+projects/m07-process-sheet.md:41: HASLINK Module 5
+projects/m16-fault-file.md:3: SELFMOD Module 16
+projects/m16-fault-file.md:43: RANGE Modules 4-12
+projects/m17-hygiene-audit.md:3: SELFMOD Module 17
+projects/m21-ep1-mock-paper.md:3: RANGE Modules 1–20
+assessments/module-01-quiz.md:3: SELFMOD module 1
+assessments/module-02-quiz.md:3: SELFMOD module 2
+assessments/module-03-quiz.md:3: SELFMOD module 3
+references/flour-in-israel.md:14: NOCTX 10.5 …heat flour and nothing else | 10.5–12.5 g (Stybel 
+references/troubleshooting.md:3: HASLINK Module 16

@@ -23,7 +23,7 @@ last_verified: "2026-10-08"
 
 # 11.5 · Rolling, Cutting and Shaping Croissants
 
-The laminated block becomes croissants in three movements: roll the final sheet, cut triangles, roll each one up. This lesson shows how to roll a sheet that does not shrink, how to cut regular triangles with little waste, how to hit the piece weight by adjusting the thickness, and how to roll a croissant so its layers stay open. You roll your block from lesson 11.4 and shape 16 croissants: 12 for evaluation and 4 for tests.
+The laminated block becomes croissants in three movements: roll the final sheet, cut triangles, roll each one up. This lesson shows how to roll a sheet that does not shrink, how to cut regular triangles with little waste, how to hit the piece weight by adjusting the thickness, and how to roll a croissant so its layers stay open. You roll your block from lesson [11.4](lesson-04.md) and shape 16 croissants: 12 for evaluation and 4 for tests.
 
 ## Why it matters
 
@@ -46,7 +46,7 @@ Twelve croissants on a tray are judged as a batch: same weight, same size, same 
 
 ### The final sheet
 
-- **Start cold and rested.** The block comes from its final rest (lesson 11.4) at fridge temperature. For a home batch, cut it in two and keep one half in the fridge while you work the other: half the dough, half the time on the bench.
+- **Start cold and rested.** The block comes from its final rest (lesson [11.4](lesson-04.md)) at fridge temperature. For a home batch, cut it in two and keep one half in the fridge while you work the other: half the dough, half the time on the bench.
 - **Roll gradually, in both directions**, to the thickness and size wanted, lifting the sheet now and then and letting it fall back loosely: this lets it shrink back *before* you cut, not after.
 - **Rest the sheet.** If the sheet still shrinks when you lift it, slide it on a tray and put it in the fridge for 10-20 minutes (Elle & Vire rests its sheet 30-40 minutes before the last rolling). Cut a tense sheet and every triangle shortens and thickens on the tray.
 - **Thickness.** CR-01 cuts 11 × 30 cm triangles from a sheet of about **3.5 mm** to make pieces of about **60 g**. Professional formulas vary: Elle & Vire rolls to 2.5 mm and cuts narrower triangles for a lighter croissant. What matters is the piece weight, so you weigh the first triangles and adjust.
@@ -93,12 +93,12 @@ Saturday 6:25, Boulangerie du Marché. Block 1 of CR-01 (about 4,100 g) is ready
 2. **Trim** to 60 × 176 cm (1 cm off each long side, the ragged ends off): two strips of 30 × 176 cm.
 3. **Triangles per strip:** (176 − 5.5) ÷ 5.5 = **31**; two strips = 62. Two blocks = 124: the 120 ordered plus 4 spares.
 4. **Weight check before cutting everything.** The first three triangles weigh 55, 56 and 55 g: about 55 g on average. The sheet came out too thin: 3.5 × 60 ÷ 55 ≈ 3.8 mm would be needed. Block 1 is already cut in strips, so its triangles are cut 12 cm wide instead of 11 (weight × 12 ÷ 11 ≈ 60 g); the operator sets the sheeter gap to give 3.8 mm for block 2.
-5. **Count check.** At 12 cm wide, a 176 cm strip gives (176 − 6) ÷ 6 = 28 triangles: 56 from block 1. Block 2 at 11 cm and 3.8 mm: 4,100 ÷ (62 × 0.38 × 1.05) ≈ 166 cm, trimmed to 162 cm: (162 − 5.5) ÷ 5.5 = 28 per strip, 56. Total **112**: 8 short. Decision: tell the head baker at once, so the shop knows before opening that 112 croissants will come out; the trims are baked as twists under the house rule, not passed off as croissants. Recorded for the end-of-day report (lesson 11.7).
+5. **Count check.** At 12 cm wide, a 176 cm strip gives (176 − 6) ÷ 6 = 28 triangles: 56 from block 1. Block 2 at 11 cm and 3.8 mm: 4,100 ÷ (62 × 0.38 × 1.05) ≈ 166 cm, trimmed to 162 cm: (162 − 5.5) ÷ 5.5 = 28 per strip, 56. Total **112**: 8 short. Decision: tell the head baker at once, so the shop knows before opening that 112 croissants will come out; the trims are baked as twists under the house rule, not passed off as croissants. Recorded for the end-of-day report (lesson [11.7](lesson-07.md)).
 6. **Yield.** Pieces 112 × 60 g ≈ 6,720 g of 8,200 g of laminated dough: 82 % usable instead of the 90 % planned. Next week: check the sheeter gap on a test strip before rolling the whole block.
 
 ## Practice
 
-You roll the block from lesson 11.4, cut 16 triangles of about 60 g and roll 16 croissants: 12 for your evaluation batch and 4 for tests in lesson 11.6. If you proof and bake today, go straight on to lesson 11.6; if not, see the overnight option there.
+You roll the block from lesson [11.4](lesson-04.md), cut 16 triangles of about 60 g and roll 16 croissants: 12 for your evaluation batch and 4 for tests in lesson 11.6. If you proof and bake today, go straight on to lesson [11.6](lesson-06.md); if not, see the overnight option there.
 
 > [!WARNING]
 > You cut with a sharp knife or a wheel: cut on a board, blade moving away from your other hand, fingers flat on the ruler and above the blade's path. Put the knife down flat and away from the bench edge between cuts. The dough contains wheat and milk.
@@ -123,7 +123,7 @@ Checked 2026-10-08.
 
 - **Bench and heat.** Cutting and rolling 8 croissants takes about 10 minutes: in a 30 °C kitchen the sheet softens in that time. Roll and cut on the frozen tray or marble, one half at a time, the other half in the fridge; if the sheet sticks or the cut layers smear, chill it 10 minutes.
 - **Tools.** A pizza wheel (גלגלת לפיצה, *galgelet le-pitza*) and a long ruler are sold in kitchen-supply shops; a croissant roller cutter can be found in baking-supply shops, but it is not needed for 16 pieces.
-- **Trays and paper.** Most Israeli home ovens take a tray of about 40 × 35 cm: 6-8 croissants per tray with 5 cm spaces. If you have one tray, keep the second batch in the fridge while the first proofs and bakes (lesson 11.6).
+- **Trays and paper.** Most Israeli home ovens take a tray of about 40 × 35 cm: 6-8 croissants per tray with 5 cm spaces. If you have one tray, keep the second batch in the fridge while the first proofs and bakes (lesson [11.6](lesson-06.md)).
 
 ### Steps
 
@@ -135,7 +135,7 @@ Checked 2026-10-08.
 6. **Shape each:** notch 1-2 cm, fold the inner corners out a little, stretch gently to about 34 cm, roll loosely from the base without pressing, tip underneath. Straight or crescent: choose one and keep it for the batch.
 7. **Tray:** 5 cm apart, on baking paper. Cover loosely with film that does not touch them. Weigh every fourth croissant: write the weights.
 8. **Repeat** with the second half. Twist the trims into 2-4 small pieces on a separate tray.
-9. **Next:** proof and bake (lesson 11.6), or cover and refrigerate overnight.
+9. **Next:** proof and bake (lesson [11.6](lesson-06.md)), or cover and refrigerate overnight.
 
 ### Targets
 

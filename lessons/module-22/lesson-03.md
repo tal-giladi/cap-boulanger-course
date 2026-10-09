@@ -27,7 +27,7 @@ last_verified: "2026-10-09"
 
 # 22.3 · Rehearsal: Bread Products
 
-This is the first full rehearsal: a half day of bread, run to a written plan, from the readings to the clean bench. You make PC-02 pain courant on 1 kg of flour as baguettes, an épi, two shaped pieces and rolls in three shapes, plus a pain viennois on 500 g of flour, and you bake them through a one-tray oven in a planned queue. The products are the ones of Modules 8 and 10; what is new is doing them together, to the clock, and scoring both the products and your work.
+This is the first full rehearsal: a half day of bread, run to a written plan, from the readings to the clean bench. You make PC-02 pain courant on 1 kg of flour as baguettes, an épi, two shaped pieces and rolls in three shapes, plus a pain viennois on 500 g of flour, and you bake them through a one-tray oven in a planned queue. The products are the ones of [Modules 8](../module-08/lesson-01.md) and [10](../module-10/lesson-01.md); what is new is doing them together, to the clock, and scoring both the products and your work.
 
 ## Why it matters
 
@@ -206,7 +206,7 @@ Checked 2026-10-09.
 
 ### How you know it worked
 
-Each load went in on a poke test that said "ready", not "over" or "under", and your bake log shows planned and real times side by side. The products, cut and tasted, match the targets of lessons 08.5, 10.1, 10.2 and 10.6; where they do not, you can name the cause from your own log.
+Each load went in on a poke test that said "ready", not "over" or "under", and your bake log shows planned and real times side by side. The products, cut and tasted, match the targets of lessons [08.5](../module-08/lesson-05.md), [10.1](../module-10/lesson-01.md), [10.2](../module-10/lesson-02.md) and [10.6](../module-10/lesson-06.md); where they do not, you can name the cause from your own log.
 
 ### Self-check
 

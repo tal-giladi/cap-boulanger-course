@@ -70,7 +70,7 @@ The regulatory maximum temperatures for retail (arrêté of 21 December 2009, an
 | Other frozen foods | −12 °C at retail (bakeries and this course store at −18 °C) |
 | Hot holding | at least +63 °C |
 
-The manufacturer's label applies when it is stricter. The course's working values, used since Module 2: **fillings and creams 0 to +3 °C, fridge at +4 °C or below, freezer at −18 °C**; crème pâtissière used within **24 hours** (lesson [12.2](../module-12/lesson-02.md)).
+The manufacturer's label applies when it is stricter. The course's working values, used since [Module 2](../module-02/lesson-01.md): **fillings and creams 0 to +3 °C, fridge at +4 °C or below, freezer at −18 °C**; crème pâtissière used within **24 hours** (lesson [12.2](../module-12/lesson-02.md)).
 
 ### Rotation: first expired, first out
 
@@ -81,7 +81,7 @@ New stock goes **behind or under** older stock, so the oldest is used first (PEP
 - **Opened product with a DLC:** its life is shortened. The CNBPF guide sets **3 days** after opening unless the supplier states otherwise; write the opening date and the new use-by (DLC secondaire) on the pack.
 - **Semi-finished products** (leftover crème pâtissière, doughs, fillings): label with product and date of making, or use a colour code for the day (CNBPF).
 - **Cooling** cooked preparations: core from +63 °C to +10 °C in 2 hours or less, then 0 to +3 °C (annex IV).
-- **Thawing:** in a cold unit at 0 to +4 °C (or a microwave for immediate use), never on the bench; once thawed, use quickly; **never refreeze** a thawed product unless it has since been cooked (annex VI; CNBPF). A frozen product sold thawed carries the mention "décongelé" (lesson 17.6).
+- **Thawing:** in a cold unit at 0 to +4 °C (or a microwave for immediate use), never on the bench; once thawed, use quickly; **never refreeze** a thawed product unless it has since been cooked (annex VI; CNBPF). A frozen product sold thawed carries the mention "décongelé" (lesson [17.6](lesson-06.md)).
 - **Display cabinets** keep products cold; they do not cool them. Only already-chilled products go in, and the coldest zone holds the most sensitive products (CNBPF).
 
 ### Monitoring the cold chain
@@ -137,7 +137,7 @@ You reorganise your fridge, freezer and dry store like a bakery and keep a 7-day
 
 ### You need
 
-- Minimum: probe thermometer (checked in iced water, lesson 13.6), a glass of water, masking tape and a marker for labels, closed containers for flour and seeds, a notebook for the log; optional: a fridge thermometer and a min/max thermometer.
+- Minimum: probe thermometer (checked in iced water, lesson [13.6](../module-13/lesson-06.md)), a glass of water, masking tape and a marker for labels, closed containers for flour and seeds, a notebook for the log; optional: a fridge thermometer and a min/max thermometer.
 - Professional equivalent: cold rooms with displays and continuous recorders, labelled shelving, pallets, stock software or stock sheets.
 
 ### Ingredients
@@ -159,7 +159,7 @@ Checked 2026-10-09.
 
 1. **Measure:** a glass of water on the middle shelf and another in the door; probe each after 2 hours. Probe the freezer air or a frozen pack. Write the values.
 2. **Empty and sort** the fridge into: raw (eggs, raw meat if any), dairy and butter, prepared and ready-to-eat (creams, leftovers, cheese, ham), doughs, drinks and sauces.
-3. **Clean** the shelves and seals (lesson 17.4).
+3. **Clean** the shelves and seals (lesson [17.4](lesson-04.md)).
 4. **Put back by risk:** ready-to-eat and prepared foods on the top and middle shelves, raw products in closed containers on the bottom shelf, dough covered and labelled on a middle shelf, nothing perishable in the door.
 5. **Label** every opened or home-made item: product, date opened or made, use-by (3 days for opened DLC products unless the label says otherwise; 24 hours for crème pâtissière).
 6. **Dry store:** flour and seeds into closed, labelled containers, off the floor; older packs in front; cleaning products moved to a separate cupboard.

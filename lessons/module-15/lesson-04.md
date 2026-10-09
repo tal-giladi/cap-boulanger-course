@@ -61,7 +61,7 @@ Before any weighing, count every product against the order form and the producti
 | 2. Sample | Weigh at least 5 cooled pieces (10 for a large batch) taken from different places: first and last trays, each deck, front and back | one place hides oven and dividing patterns |
 | 3. Average | Sum ÷ number of pieces; compare with the target | is the pâton weight and the bake right? |
 | 4. Spread | Lightest and heaviest piece; count the pieces outside the tolerance | is the dividing even? (lesson [04.3](../module-04/lesson-03.md)) |
-| 5. Loss | (pâton − average) ÷ pâton × 100 | is the bake right? (lesson 06.3) |
+| 5. Loss | (pâton − average) ÷ pâton × 100 | is the bake right? (lesson [06.3](../module-06/lesson-03.md)) |
 | 6. Salt | Salt per 100 g of the lightest piece = pâton × salt % of dough ÷ cooled weight × 100 | the lightest piece is the saltiest |
 | 7. Decision | Release, set aside, adjust or report (table below) | the sheet exists to decide something |
 
@@ -128,7 +128,7 @@ Saturday, 6:55, Boulangerie Au Pain de la Halle. The shop's placard announces "B
 You fill in a weight-control sheet for your own batch and, for comparison, for a bought pack with a printed weight. Then you do four exercises.
 
 > [!CAUTION]
-> If you bake for this lesson, follow the oven and steam safety of lesson 08.4: dry oven gloves, preheated metal tray for steam, stand back.
+> If you bake for this lesson, follow the oven and steam safety of lesson [08.4](../module-08/lesson-04.md): dry oven gloves, preheated metal tray for steam, stand back.
 
 ### You need
 
@@ -181,7 +181,7 @@ Checked 2026-10-09.
 
 <details><summary>Answers</summary>
 
-**1.** Sum 417 g, average **52.1 g**: on target. ± 3 % of 52 g = 50.4-53.6 g: **two pieces out**, 50 g (light) and 54 g (heavy). The average is right, so the bake and pâton weight are fine; the spread points to uneven cutting (triangle sizes, lesson 11.5). Set the 50 g piece aside if it looks small; check the template and the sheet thickness.
+**1.** Sum 417 g, average **52.1 g**: on target. ± 3 % of 52 g = 50.4-53.6 g: **two pieces out**, 50 g (light) and 54 g (heavy). The average is right, so the bake and pâton weight are fine; the spread points to uneven cutting (triangle sizes, lesson [11.5](../module-11/lesson-05.md)). Set the 50 g piece aside if it looks small; check the template and the sheet thickness.
 
 **2.** Maximum tolerated shortfall for 300 g: 9 g (300 g sits in the 200-300 g band; the 300-500 g band gives 3 % = 9 g too), so under **291 g** is defective: the **290 g** bag. The average is 1,494 ÷ 5 = **298.8 g**, under 300 g: the lot fails the average rule as well. Fill heavier (aim at about 305 g) and re-check.
 

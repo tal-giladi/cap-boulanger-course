@@ -40,10 +40,10 @@ As in every module with practice: watching or reading is not doing; the Academy 
 |---|---|---|
 | micro-organisme | *mee-kroh-or-gah-NEESM* | living thing too small to see without a microscope: bacterium, yeast, mould, virus |
 | bactérie | *bak-tay-REE* | single-celled microorganism that multiplies by dividing in two |
-| levure | *luh-VÜR* | single-celled fungus; baker's yeast is one (lesson 02.6) |
+| levure | *luh-VÜR* | single-celled fungus; baker's yeast is one (lesson [02.6](../module-02/lesson-06.md)) |
 | moisissure | *mwah-zee-SÜR* | mould: a fungus that grows as threads and visible spots on bread |
 | flore d'altération | *flor dal-tay-rah-SYOHN* | spoilage flora: microbes that make food go off (mould, sourness, slime) without always making people ill |
-| flore pathogène | *flor pah-toh-ZHEN* | pathogenic flora: microbes that cause illness (lesson 17.2) |
+| flore pathogène | *flor pah-toh-ZHEN* | pathogenic flora: microbes that cause illness (lesson [17.2](lesson-02.md)) |
 | multiplication | *mül-tee-plee-kah-SYOHN* | growth in number of microbes: the danger is the number, not one cell |
 | zone de danger | *zohn duh dahn-ZHAY* | +10 to +63 °C: the temperature band where bacteria multiply |
 | spore | *SPOR* | resistant resting form of some bacteria and moulds; survives cooking and drying |
@@ -55,7 +55,7 @@ As in every module with practice: watching or reading is not doing; the Academy 
 
 | Family | Size and life | Useful in a bakery | Harmful in a bakery |
 |---|---|---|---|
-| Bacteria | about 0.5-5 µm; one cell divides into two | lactic bacteria in levain: acidity and flavour (lesson [02.7](../module-02/lesson-07.md)) | *Staphylococcus aureus*, *Salmonella*, *Listeria* (lesson 17.2); slime and sourness in creams |
+| Bacteria | about 0.5-5 µm; one cell divides into two | lactic bacteria in levain: acidity and flavour (lesson [02.7](../module-02/lesson-07.md)) | *Staphylococcus aureus*, *Salmonella*, *Listeria* (lesson [17.2](lesson-02.md)); slime and sourness in creams |
 | Yeasts | single-celled fungi, larger than bacteria | *Saccharomyces cerevisiae*, baker's yeast: alcoholic (panary) fermentation (lesson [04.1](../module-04/lesson-01.md)) | wild yeasts that ferment fruit fillings and syrups |
 | Moulds | fungi growing as threads; visible spots, spores in the air | none in bread (some cheeses use them) | green, grey or black spots on bread, damp bannetons (lesson [13.6](../module-13/lesson-06.md)) |
 | Viruses | far smaller; cannot multiply in food, only in a living host | none | carried by sick or unwashed hands to ready-to-eat food |
@@ -135,7 +135,7 @@ You see contamination with your own eyes: four bread slices touched in four diff
 ### You need
 
 - Minimum: 4 slices of the same fresh bread **without preservative** (your own bread is best), 4 zip bags or lidded boxes, a marker, kitchen tongs, a few drops of water, a phone or coins, soap, paper towels, a dark cupboard, a notebook.
-- Professional equivalent: surface swabs or contact plates sent to a laboratory to check the cleaning plan (CNBPF guide; lesson 17.4).
+- Professional equivalent: surface swabs or contact plates sent to a laboratory to check the cleaning plan (CNBPF guide; lesson [17.4](lesson-04.md)).
 
 ### Ingredients
 

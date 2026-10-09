@@ -23,7 +23,7 @@ last_verified: "2026-10-08"
 
 # 11.2 · The Détrempe
 
-The détrempe is the croissant dough before the butter goes in: firm, cool, only briefly mixed, then rested flat in the cold. This lesson introduces the course's croissant sheet CR-01, explains what each ingredient does and why the détrempe is mixed short and cold, and shows the batch and water-temperature calculations. You mix a 500 g-flour détrempe by hand and chill it for the lamination in lessons 11.3 and 11.4.
+The détrempe is the croissant dough before the butter goes in: firm, cool, only briefly mixed, then rested flat in the cold. This lesson introduces the course's croissant sheet CR-01, explains what each ingredient does and why the détrempe is mixed short and cold, and shows the batch and water-temperature calculations. You mix a 500 g-flour détrempe by hand and chill it for the lamination in lessons [11.3](lesson-03.md) and 11.4.
 
 ## Why it matters
 
@@ -39,7 +39,7 @@ Half of all lamination faults start in the détrempe. A détrempe mixed too long
 | sucre semoule | *SOO-kruh suh-MOOL* | caster sugar |
 | levure fraîche | *luh-VÜR FRESH* | fresh compressed yeast |
 | pétrissage court | *pay-tree-SAHZH KOOR* | short mixing: the dough is brought together and smoothed, not fully developed |
-| pointage retardé | *pwan-TAHZH ruh-tar-DAY* | retarded bulk fermentation: the dough rests in the cold (lesson 04.6) |
+| pointage retardé | *pwan-TAHZH ruh-tar-DAY* | retarded bulk fermentation: the dough rests in the cold (lesson [04.6](../module-04/lesson-06.md)) |
 | abaisser | *ah-bess-SAY* | to roll out or flatten dough |
 
 ## How it works
@@ -58,10 +58,10 @@ Every croissant in this course, and the croissant lamination reused for pains au
 | Fresh yeast (instant dry: one third) | 4.0 | enough gas despite a cold dough and long cold rests |
 | Butter in the dough (soft) | 8 | makes the détrempe extensible and the crumb tender |
 | **Détrempe total** | **177.0** | |
-| Beurre de tourage (lesson 11.3) | 50 | the layers |
+| Beurre de tourage (lesson [11.3](lesson-03.md)) | 50 | the layers |
 | **Laminated dough total** | **227.0** | |
 
-Process targets: détrempe **18-22 °C** after mixing (aim for 20 °C); short mixing; flattened to a slab about 2-3 cm thick and chilled at 2-4 °C for at least 2 hours, better overnight (8-16 hours); lock-in with butter at about 13 °C; **3 tours simples** with 20-45 minutes in the fridge between them (lesson 11.4); final sheet about 3.5 mm; triangles 11 × 30 cm, about **60 g** ± 3 g, the thickness adjusted to hit the weight (lesson 11.5); proof at 24-26 °C, never above about 27 °C, until almost doubled; two thin coats of egg wash; bake 190-200 °C (fan 175-180 °C), 16-20 minutes, no steam (lesson 11.6).
+Process targets: détrempe **18-22 °C** after mixing (aim for 20 °C); short mixing; flattened to a slab about 2-3 cm thick and chilled at 2-4 °C for at least 2 hours, better overnight (8-16 hours); lock-in with butter at about 13 °C; **3 tours simples** with 20-45 minutes in the fridge between them (lesson [11.4](lesson-04.md)); final sheet about 3.5 mm; triangles 11 × 30 cm, about **60 g** ± 3 g, the thickness adjusted to hit the weight (lesson [11.5](lesson-05.md)); proof at 24-26 °C, never above about 27 °C, until almost doubled; two thin coats of egg wash; bake 190-200 °C (fan 175-180 °C), 16-20 minutes, no steam (lesson [11.6](lesson-06.md)).
 
 Why these numbers, briefly:
 
@@ -86,7 +86,7 @@ In CR-01 the "water" of the formula is the whole liquid: water and milk in equal
 
 $$\text{water} = 2 \times \text{liquid temperature} - \text{milk temperature}$$
 
-If the result is below what your tap or fridge water can give, use ice counted inside the water weight: ice = water × (tap − wanted) ÷ (tap + 80) (lesson [05.3](../module-05/lesson-03.md)). The friction factor is small because the mixing is short: about 6 for a short hand knead (about 2 °C of heating), about 9-15 for a short mix on a spiral (lesson 05.3).
+If the result is below what your tap or fridge water can give, use ice counted inside the water weight: ice = water × (tap − wanted) ÷ (tap + 80) (lesson [05.3](../module-05/lesson-03.md)). The friction factor is small because the mixing is short: about 6 for a short hand knead (about 2 °C of heating), about 9-15 for a short mix on a spiral (lesson [05.3](../module-05/lesson-03.md)).
 
 ### After mixing: rest, flatten, chill
 
@@ -104,7 +104,7 @@ flowchart LR
 
 ## Worked example
 
-Friday, Boulangerie du Marché. Saturday's order: **120 croissants of 60 g** (raw dough). The sheet is CR-01 (227 %). Trims when cutting triangles from the sheet: plan for 10 % of the laminated dough (lesson 11.5); process losses 2 %; flour rounded up to the next 100 g. Readings: flour 21 °C, fournil 23 °C, milk from the cold room 3 °C, tap water 18 °C. Short mixing on the spiral: friction factor 12 (three factors), TPV 20 °C.
+Friday, Boulangerie du Marché. Saturday's order: **120 croissants of 60 g** (raw dough). The sheet is CR-01 (227 %). Trims when cutting triangles from the sheet: plan for 10 % of the laminated dough (lesson [11.5](lesson-05.md)); process losses 2 %; flour rounded up to the next 100 g. Readings: flour 21 °C, fournil 23 °C, milk from the cold room 3 °C, tap water 18 °C. Short mixing on the spiral: friction factor 12 (three factors), TPV 20 °C.
 
 1. **Dough in the pieces:** 120 × 60 = 7,200 g.
 2. **Laminated dough before cutting:** the pieces are 90 % of the sheet, so 7,200 ÷ 0.90 = 8,000 g. (Multiplying by 1.10 would give 7,920 g, a little short: lesson [06.3](../module-06/lesson-03.md).)
@@ -118,7 +118,7 @@ Friday, Boulangerie du Marché. Saturday's order: **120 croissants of 60 g** (ra
 
 ## Practice
 
-You mix CR-01 on 500 g of flour by hand, reach 18-22 °C, flatten the détrempe and chill it overnight. You will lock in the butter in lesson 11.3 and give the turns in lesson 11.4, so plan the next morning (use your kitchen survey from lesson 11.1).
+You mix CR-01 on 500 g of flour by hand, reach 18-22 °C, flatten the détrempe and chill it overnight. You will lock in the butter in lesson [11.3](lesson-03.md) and give the turns in lesson [11.4](lesson-04.md), so plan the next morning (use your kitchen survey from lesson [11.1](lesson-01.md)).
 
 > [!CAUTION]
 > This dough contains wheat (gluten) and milk, two of the 14 regulated allergens. Keep it and its tools away from anyone allergic, and wash surfaces after. If you use a stand mixer, keep hands and scrapers out of the bowl while the hook turns; stop the machine before scraping down.
@@ -140,10 +140,10 @@ You mix CR-01 on 500 g of flour by hand, reach 18-22 °C, flatten the détrempe 
 | Fresh yeast (or instant dry 7 g / 13 g) | 4.0 | 20 g | 40 g |
 | Butter, soft (about 16-18 °C) | 8 | 40 g | 80 g |
 | **Détrempe** | **177.0** | **885 g** | **1,770 g** |
-| Beurre de tourage (lesson 11.3) | 50 | 250 g | 500 g |
+| Beurre de tourage (lesson [11.3](lesson-03.md)) | 50 | 250 g | 500 g |
 | **Laminated dough** | **227.0** | **1,135 g** | **2,270 g** |
 
-The home batch gives 16 croissants of about 60 g (lesson 11.5): 12 for evaluation and 4 for tests.
+The home batch gives 16 croissants of about 60 g (lesson [11.5](lesson-05.md)): 12 for evaluation and 4 for tests.
 
 ### In Israel
 
@@ -153,7 +153,7 @@ Checked 2026-10-08.
 - **Milk.** Fresh milk (חלב, *khalav*): read the fat percentage on the label and take the highest on the shelf.
 - **Yeast.** Fresh yeast (שמרים טריים, *shmarim triyim*) from the chilled section, or instant dry yeast (שמרים יבשים, *shmarim yeveshim*) at one third of the weight, 7 g, mixed into the flour, never into the cold liquid.
 - **Water in a summer kitchen.** Example with the AC off: flour 29 °C, kitchen 30 °C, friction factor 6: liquid = 60 − 29 − 30 − 6 = −5 °C, impossible. Put the flour in the fridge the evening before (it reaches about 6-8 °C) or mix in the air-conditioned room: flour 8 °C, room 25 °C → liquid = 60 − 8 − 25 − 6 = 21 °C; water = 2 × 21 − 4 = 38 °C. Check that: warm water on cold flour works, but never above about 40 °C on fresh yeast. A middle path: flour from the fridge for 2-3 hours (about 15 °C), room 25 °C: liquid 14 °C, water 24 °C.
-- **Butter in the dough.** Unsalted butter (חמאה, *khem'a*), not a spread (ממרח): see lesson 11.3 for the label.
+- **Butter in the dough.** Unsalted butter (חמאה, *khem'a*), not a spread (ממרח): see lesson [11.3](lesson-03.md) for the label.
 - **Dairy dough.** In a kosher-keeping household this dough is dairy (חלבי, *khalavi*).
 
 ### Steps

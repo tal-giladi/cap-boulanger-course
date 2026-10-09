@@ -118,7 +118,7 @@ If the bread is baked smaller (more crust, more loss, say 22 %), salt per 100 g 
 
 ### Steps
 
-1. Calculate water temperature for a 24 °C dough (Module 5 rule of thumb for hand mixing: water ≈ 70 − flour temp − room temp).
+1. Calculate water temperature for a 24 °C dough ([Module 5](../module-05/lesson-02.md) rule of thumb for hand mixing: water ≈ 70 − flour temp − room temp).
 2. Mix both doughs the same way: yeast dissolved in water, flour added, rest 10 minutes, salt added to dough S only, knead 8 minutes.
 3. Note right away: which is stickier? Which feels firmer and springs back more?
 4. Put each in a marked clear container. Record the time each takes to double in volume.

@@ -48,7 +48,7 @@ A customer who opens a baguette and finds a tunnel, or a pain de mie with a damp
 
 1. **Cool fully first:** at least 1 hour for a baguette, 2-3 hours for a large loaf or pain de mie, 30-60 minutes for viennoiserie. The crumb keeps setting as it cools; cut warm, a well-baked bread looks gummy.
 2. **Use a serrated knife** and saw gently; never press down, or you crush the cells you want to see.
-3. **Cut in the same places:** across the middle (cross-section), and for long breads a lengthwise cut of about 10 cm from the middle. Viennoiserie: lengthwise through the middle, tip to tip (lesson 11.7).
+3. **Cut in the same places:** across the middle (cross-section), and for long breads a lengthwise cut of about 10 cm from the middle. Viennoiserie: lengthwise through the middle, tip to tip (lesson [11.7](../module-11/lesson-07.md)).
 4. **Look straight on, in good light,** then feel and smell.
 
 ### The five things a crumb shows
@@ -89,12 +89,12 @@ Words like "quite open" drift from week to week. Three simple records make crumb
 
 | Crumb fault | Usually from | Evidence to look for |
 |---|---|---|
-| Dense, tight crumb, small volume | under-fermented or under-proofed; dough too cold; weak or under-mixed dough | dough temperature below target; short apprêt; poke test notes (04.7) |
-| Large holes under the top crust, flat loaf, dense bottom | over-proofed; the structure collapsed | long apprêt; warm room; sour smell (04.4) |
-| Tunnel under the crust | air or flour trapped in a fold at shaping | shaping notes; flour on the bench (08.3) |
-| Grey, damp, gummy band at the base | under-baked; cut warm; too much water | core temperature below about 93 °C; time of cutting (07.5) |
-| White, cottony crumb, bland taste | over-oxidised: mixed too long and too fast | mixing time and speed (03.4) |
-| Dry, crumbly crumb | too little water, over-baked, or stale | hydration; bake time; day of baking (07.5) |
+| Dense, tight crumb, small volume | under-fermented or under-proofed; dough too cold; weak or under-mixed dough | dough temperature below target; short apprêt; poke test notes ([04.7](../module-04/lesson-07.md)) |
+| Large holes under the top crust, flat loaf, dense bottom | over-proofed; the structure collapsed | long apprêt; warm room; sour smell ([04.4](../module-04/lesson-04.md)) |
+| Tunnel under the crust | air or flour trapped in a fold at shaping | shaping notes; flour on the bench ([08.3](../module-08/lesson-03.md)) |
+| Grey, damp, gummy band at the base | under-baked; cut warm; too much water | core temperature below about 93 °C; time of cutting ([07.5](../module-07/lesson-05.md)) |
+| White, cottony crumb, bland taste | over-oxidised: mixed too long and too fast | mixing time and speed ([03.4](../module-03/lesson-04.md)) |
+| Dry, crumbly crumb | too little water, over-baked, or stale | hydration; bake time; day of baking ([07.5](../module-07/lesson-05.md)) |
 | Uneven: dense on one side | uneven shaping, or uneven heat in the oven | position in the oven; shaping |
 
 Correct the earliest stage first, change one thing at a time, and if the cause is equipment or a raw material, report it ([non-conformity report](../../templates/non-conformity-report.md)). The general table is in [Troubleshooting](../../references/troubleshooting.md).
@@ -112,14 +112,14 @@ Tuesday, 10:30. The head baker asks you to cut-test one piece of each product fr
 | Regularity | even | tunnel 1 cm under the top along the whole loaf | grey, damp band of about 1 cm at the base |
 
 1. **Tradition:** matches the expected crumb. Score 2 on both crumb lines of the rubric.
-2. **Pain de mie:** fine and regular, as it should be, but with a tunnel along the top. The four balls in the tin (lesson 10.5) were each tight; the tunnel runs along the whole length at the same height. Evidence: the shaping note says the balls were "rolled in flour to stop sticking". Cause: flour trapped between the balls and the dough skin, which did not weld. Crumb structure 1, texture 2.
+2. **Pain de mie:** fine and regular, as it should be, but with a tunnel along the top. The four balls in the tin (lesson [10.5](../module-10/lesson-05.md)) were each tight; the tunnel runs along the whole length at the same height. Evidence: the shaping note says the balls were "rolled in flour to stop sticking". Cause: flour trapped between the balls and the dough skin, which did not weld. Crumb structure 1, texture 2.
 3. **Campagne:** the grey, damp band at the base and the slow press test point to under-baking. Evidence: the bake log shows the campagne came out of the lower deck after 28 minutes instead of about 40 because the deck was needed for the rolls; core temperature was not taken. Crumb structure 1, texture 0.
 4. **Decisions:** the pain de mie is sold (the tunnel is a look defect, not a safety one). The under-baked campagne is withdrawn: the head baker decides. Report (C4.4): "Campagne du 14/10: mie grise et humide à la base sur la pièce testée, cuisson 28 min au lieu de 40 (sole occupée). Pièces retirées de la vente. Proposition: plan de cuisson revu, température à cœur contrôlée."
 5. **Change for tomorrow:** pain de mie balls shaped on a lightly oiled bench, no flour; campagne baked its full time, core temperature checked at about 96-98 °C.
 
 ## Practice
 
-You cut and rate the crumb of at least two different products: one of your own bakes, and one bought bread of a different type for comparison. If you have two bakes of the same formula (for example from the project of module 8 or 9), cut both and compare them with the same method.
+You cut and rate the crumb of at least two different products: one of your own bakes, and one bought bread of a different type for comparison. If you have two bakes of the same formula (for example from the project of [module 8](../module-08/lesson-01.md) or [9](../module-09/lesson-01.md)), cut both and compare them with the same method.
 
 > [!CAUTION]
 > Cut with a serrated bread knife on a stable board, your fingers on top of the loaf and away from the blade's path. Saw gently; a hard crust can make the knife slip.

@@ -26,7 +26,7 @@ Between the flour you weigh and the bread you sell, weight disappears twice: dou
 
 ## Why it matters
 
-The référentiel asks you to check the weights and quantities of finished products (C3.2) and to make the calculations production needs (C1.3). Losses decide whether an order is covered, what each loaf really costs (lesson 06.5) and even whether a bread respects the salt limit, because salt stays in the bread while water leaves. A bakery that guesses its losses either runs short or divides heavier than it needs to, every day. Your own numbers, measured on your own oven, are worth more than any table.
+The référentiel asks you to check the weights and quantities of finished products (C3.2) and to make the calculations production needs (C1.3). Losses decide whether an order is covered, what each loaf really costs (lesson [06.5](lesson-05.md)) and even whether a bread respects the salt limit, because salt stays in the bread while water leaves. A bakery that guesses its losses either runs short or divides heavier than it needs to, every day. Your own numbers, measured on your own oven, are worth more than any table.
 
 ## Key terms
 
@@ -72,7 +72,7 @@ Weigh a sample, not one piece: at least five from different places in the load. 
 
 ### Losses and salt
 
-Salt does not evaporate. When water leaves, salt per 100 g of bread rises. A pain courant at 1.8 % salt of flour respects the 1.4 g per 100 g limit at about 20 % loss (lesson 02.5); small rolls that lose more can drift up to the limit or over it. Use your measured loss for the check, not the planning figure.
+Salt does not evaporate. When water leaves, salt per 100 g of bread rises. A pain courant at 1.8 % salt of flour respects the 1.4 g per 100 g limit at about 20 % loss (lesson [02.5](../module-02/lesson-05.md)); small rolls that lose more can drift up to the limit or over it. Use your measured loss for the check, not the planning figure.
 
 ## Worked example
 
@@ -80,7 +80,7 @@ You divided the PC-02 batch of lesson [04.3](../module-04/lesson-03.md): 9,844 g
 
 **Step 1 — process loss.** The dough tipped out of the mixer and tub weighs 9,760 g. Loss = 9,844 − 9,760 = 84 g, that is 84 ÷ 9,844 × 100 = **0.85 %**. Well inside the 2 % allowance.
 
-**Step 2 — dividing.** Pieces: 24 × 350 + 20 × 60 = 9,600 g. Leftover: 9,760 − 9,600 = **160 g**. So the 244 g margin of lesson 04.3 splits into 84 g lost and 160 g of clean dough that can go into tomorrow's pâte fermentée (lesson [04.5](../module-04/lesson-05.md)).
+**Step 2 — dividing.** Pieces: 24 × 350 + 20 × 60 = 9,600 g. Leftover: 9,760 − 9,600 = **160 g**. So the 244 g margin of lesson [04.3](../module-04/lesson-03.md) splits into 84 g lost and 160 g of clean dough that can go into tomorrow's pâte fermentée (lesson [04.5](../module-04/lesson-05.md)).
 
 **Step 3 — baking loss, baguettes.** After 1 hour on the racks you weigh five baguettes: 282, 279, 285, 276, 280 g. Average 1,402 ÷ 5 = **280.4 g**. Loss = (350 − 280.4) ÷ 350 × 100 = **19.9 %**, yield 80.1 %.
 
@@ -151,7 +151,7 @@ You make one PD-01 dough, measure the process loss, divide it, bake two bâtards
 
 **3.** 300 ÷ 0.82 = 365.9 g, divide at **370 g**. (Not 300 × 1.18 = 354 g: that loaf would come out at about 290 g.)
 
-**4.** Average 2,500 ÷ 10 = **250.0 g**: on target. **2 pieces** (256 g and 244 g) are outside 245-255 g. Average right, spread too wide: a **dividing** problem (lesson 04.3), not the bake.
+**4.** Average 2,500 ÷ 10 = **250.0 g**: on target. **2 pieces** (256 g and 244 g) are outside 245-255 g. Average right, spread too wide: a **dividing** problem (lesson [04.3](../module-04/lesson-03.md)), not the bake.
 
 **5.** 10,000 × 1.683 × 0.98 × 0.80 = **13,195 g**, about 13.2 kg of bread.
 
@@ -191,7 +191,7 @@ You have three baking-loss figures from your own oven: the roll's is higher than
 |---|---|---|---|
 | Loaves under the weight the customer expects | Pâton worked out by adding the loss % instead of dividing; or bake longer than planned | Report it; re-divide heavier for the next batch | pâton = baked ÷ (1 − loss); use your measured loss |
 | Pieces short at the end of dividing | Process loss higher than the allowance | Small extra batch; tell the manager | Measure process loss; scrape bowls and tubs well; raise the allowance |
-| Average weight right but some pieces outside tolerance | Uneven dividing | Adjust pieces at pre-shaping | Check the divider and flatten dough evenly (lesson 04.3) |
+| Average weight right but some pieces outside tolerance | Uneven dividing | Adjust pieces at pre-shaping | Check the divider and flatten dough evenly (lesson [04.3](../module-04/lesson-03.md)) |
 | All pieces light by the same amount | Longer or hotter bake, or dry, warm cooling area | Note the actual bake time | Keep bake times; weigh at fixed times; record conditions |
 | Small rolls taste salty or exceed the salt limit | Larger baking loss concentrates the salt | Shorten the bake if colour allows | Check salt per 100 g with the rolls' measured loss |
 

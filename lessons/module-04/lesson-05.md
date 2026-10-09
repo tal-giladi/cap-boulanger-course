@@ -73,7 +73,7 @@ flowchart LR
   R --> O[Over-ripe<br/>collapsed, ring marks on the container,<br/>sharp alcohol or vinegar smell]
 ```
 
-A poolish is ripe when its surface is covered with small bubbles and it has just begun to sink in the centre; the container shows a line where it peaked. A pâte fermentée is ripe when it has roughly doubled and smells pleasantly acidic. A levain is ripe at or just after its peak (lesson 02.7). Used young, a pre-ferment brings little; used over-ripe, it brings excess acid and a weak, sticky dough.
+A poolish is ripe when its surface is covered with small bubbles and it has just begun to sink in the centre; the container shows a line where it peaked. A pâte fermentée is ripe when it has roughly doubled and smells pleasantly acidic. A levain is ripe at or just after its peak (lesson [02.7](../module-02/lesson-07.md)). Used young, a pre-ferment brings little; used over-ripe, it brings excess acid and a weak, sticky dough.
 
 ### The levain rules, in one line
 
@@ -93,10 +93,10 @@ Under décret n°93-1074, a bread made on levain may have baker's yeast added on
 Friday afternoon. Tomorrow's order: 30 baguettes de tradition, 12 pains de campagne, 6 pains de mie, plus the PC-02 pain courant on 6,000 g of flour. You must choose the methods and prepare the pre-ferments today.
 
 1. **Tradition.** No additives allowed, so flavour and strength must come from fermentation. The baker's sheet uses a poolish made at 18:00 for a 6:00 mix (12 h): less yeast in the poolish, about 0.1-0.2 % on its flour, at 18-20 °C. Note it on tomorrow's sheet and put a reminder at the poolish station.
-2. **Campagne.** Levain: the chef must be refreshed tonight so the levain de tout point is ripe at mixing (routine in lesson 02.7).
+2. **Campagne.** Levain: the chef must be refreshed tonight so the levain de tout point is ripe at mixing (routine in lesson [02.7](../module-02/lesson-07.md)).
 3. **Pain de mie.** Direct: a soft, regular crumb is wanted, and the enriched dough ferments well on its own.
 4. **PC-02 pâte fermentée.** Tomorrow: 6,000 g of flour × 15 % = **900 g** of pâte fermentée. Keep a margin for what sticks to the tub: plan **950 g**.
-5. **Where does it come from?** Today's batch (lesson 04.3) had only 244 g of surplus. You need about 950 − 244 ≈ 710 g more dough. PC-02 makes 182.3 g of dough per 100 g of flour, so 710 × 100 ÷ 182.3 ≈ 390 g more flour: raise today's batch from 5,400 g to **5,800 g** of flour (all other ingredients from the sheet's percentages).
+5. **Where does it come from?** Today's batch (lesson [04.3](lesson-03.md)) had only 244 g of surplus. You need about 950 − 244 ≈ 710 g more dough. PC-02 makes 182.3 g of dough per 100 g of flour, so 710 × 100 ÷ 182.3 ≈ 390 g more flour: raise today's batch from 5,400 g to **5,800 g** of flour (all other ingredients from the sheet's percentages).
 6. **Store it right.** At the end of pointage, take 950 g, put it in a lidded, oiled tub labelled "pâte fermentée PC-02, date and time", and put it in the cold room at about 4 °C. Tomorrow it goes in at the end of frasage, as the sheet says.
 
 The full calculation of pre-ferment formulas, including the flour and water inside a poolish or levain, is in [lesson 06.4](../module-06/lesson-04.md).
@@ -136,11 +136,11 @@ The full calculation of pre-ferment formulas, including the flour and water insi
 
 1. **Day 1, about 19:00.** Mix the poolish to a smooth batter in the 1 L container. Mark the level. Cover and leave at 18-21 °C (a cool room; in a warm kitchen above 24 °C, make it at 22:00 instead).
 2. **Day 2, about 7:00-9:00.** Check the poolish: domed or just starting to sink, surface covered in bubbles, pleasant tangy smell. Write what you see and how high it rose.
-3. Mix dough D as in lesson 01.7, target 24 °C. Note the time and dough temperature.
+3. Mix dough D as in lesson [01.7](../module-01/lesson-07.md), target 24 °C. Note the time and dough temperature.
 4. 20 minutes later, mix dough P: poolish and water first, then the flour, yeast and salt; knead 8-10 minutes (it develops faster). Target 24 °C.
-5. **Pointage.** D: 1 h 15, one fold at 40 min. P: about 1 h, one fold at 30 min. Decide each end by the signs (lesson 04.2). At the end, stretch a small piece of each between your fingers: which stretches further without tearing?
-6. Divide each dough into two pieces of about 410 g, pre-shape as loose cylinders, détente 20 minutes covered (lesson 04.3). Preheat the oven to 240 °C with a tray and the steam tray.
-7. Shape four bâtards of about 25 cm. Mark the paper D or P. Apprêt covered at 24-26 °C until the poke test says ready (about 45-60 min; lesson 04.4).
+5. **Pointage.** D: 1 h 15, one fold at 40 min. P: about 1 h, one fold at 30 min. Decide each end by the signs (lesson [04.2](lesson-02.md)). At the end, stretch a small piece of each between your fingers: which stretches further without tearing?
+6. Divide each dough into two pieces of about 410 g, pre-shape as loose cylinders, détente 20 minutes covered (lesson [04.3](lesson-03.md)). Preheat the oven to 240 °C with a tray and the steam tray.
+7. Shape four bâtards of about 25 cm. Mark the paper D or P. Apprêt covered at 24-26 °C until the poke test says ready (about 45-60 min; lesson [04.4](lesson-04.md)).
 8. Score each bâtard with one long cut, load with steam and bake about 25 minutes until deep golden. Bake D and P in the same load if they fit, or D first.
 9. Cool at least 1 hour. Compare by eye, by cutting one of each, and by tasting blind if someone can label the slices. Keep one of each in a bag and taste again after 24 hours.
 
@@ -171,7 +171,7 @@ Dough P stretches further and shapes more easily, and often needs less pointage.
 | Poolish collapsed, smells of alcohol or vinegar | Over-ripe: too warm or too long | Use less of it, mix cooler, shorten pointage | Make it later or cooler, with less yeast |
 | Dough on pâte fermentée sticky and weak | Pâte fermentée too old or kept warm | Shorten pointage, give a fold | Keep it at about 4 °C, dated, and use within the sheet's time |
 | Pâte fermentée forgotten in the cold room | No label or no reminder | Make the batch direct with a longer pointage | Label, date and list it on tomorrow's sheet |
-| Levain bread dense and very sour | Over-ripe levain or too much of it | — | Use it at its peak; refresh more often (lesson 02.7) |
+| Levain bread dense and very sour | Over-ripe levain or too much of it | — | Use it at its peak; refresh more often (lesson [02.7](../module-02/lesson-07.md)) |
 | Bread sold "au levain" made with 1 % yeast | Method does not meet décret 93-1074 art. 4 | Relabel without "levain" | Respect 0.2 % yeast at final mixing |
 
 ## Review

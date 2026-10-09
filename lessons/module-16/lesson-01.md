@@ -27,7 +27,7 @@ Every module so far ended with a "What goes wrong" table; this module turns thos
 
 ## Why it matters
 
-A fault is information. A baker who only remakes the batch will make the same fault next week; a baker who finds the cause fixes it once. The référentiel asks for exactly that: to characterise a quality dough and bread, identify the classic defects with their causes and corrective actions (S3.1), and report non-conformities and malfunctions during production in professional language (C4.4). In a production test, the jury watches whether you notice a dough running fast, whether you react, and whether you can explain what happened; how it is assessed is in [The CAP Boulanger Exam](../../references/cap-exam.md).
+A fault is information. A baker who only remakes the batch will make the same fault next week; a baker who finds the cause fixes it once. The référentiel asks for exactly that: to characterise a quality dough and bread, identify the classic defects with their causes and corrective actions (S3.1), and report non-conformities and malfunctions during production in professional language (C4.4). In a production test, the jury watches whether you notice a dough running fast, whether you react, and whether you can explain what happened; how it is assessed is in [The CAP Boulanger Exam](../../references/cap-exam.md). The quality criteria a fault is measured against are those of lessons [15.1](../module-15/lesson-01.md) (exterior) and [15.2](../module-15/lesson-02.md) (crumb).
 
 Most diagnosis mistakes come from the same shortcut: naming a cause from the look alone. A pale crust looks the same whether the dough was over-fermented or the oven was 20 °C below its dial. Only the records tell them apart. The method below forces you to collect that evidence before you name a cause.
 
@@ -47,7 +47,7 @@ Most diagnosis mistakes come from the same shortcut: naming a cause from the loo
 | relevé | *ruh-luh-VAY* | a recorded reading: temperature, time, weight |
 | traçabilité | *tra-sa-bee-lee-TAY* | traceability: being able to find which lot, which batch, which day |
 
-The French names of the classic defects (pain plat, pain cintré, croûte terne and the others) are taught where they belong, in lessons 16.2-16.5.
+The French names of the classic defects (pain plat, pain cintré, croûte terne and the others) are taught where they belong, in lessons [16.2](lesson-02.md)-16.5.
 
 ## How it works
 
@@ -125,7 +125,7 @@ Saturday, Boulangerie du Marché. The shop sends back 6 of the 30 bâtards of pa
 | Oven | 250 °C by thermometer | 250 °C by thermometer |
 
 4. **Cause.** Candidates: oven too cool (rejected: same thermometer reading); dough too soft or weak (rejected: load 1 from the same dough was fine); over-proofed (supported: 25 minutes longer apprêt at the same temperature; flat, pale, flat cuts, holes under the crust and sour smell all point the same way). The top shelf explains why 6 of the 12 were worse: the cabinet's top is its warmest place (lesson [04.4](../module-04/lesson-04.md)). Probable cause: **second load over-proofed**, worst at the top of the cabinet.
-5. **Act, report, prevent.** The six are sold as day-old or used for croutons, as the manager decides. Report: facts above, quantity 6/30, action, cause. Prevention (one change): the second group goes into the cabinet at about 21-22 °C, 3-4 °C cooler than the first, which by the 7 % rule slows it by about a quarter (1.07^3.5 ≈ 1.27, so 55 min becomes about 70 min, close to the 25-minute wait); the poke test is written for every load. This is the rule of lesson 14.1, and it is the only change for next Saturday.
+5. **Act, report, prevent.** The six are sold as day-old or used for croutons, as the manager decides. Report: facts above, quantity 6/30, action, cause. Prevention (one change): the second group goes into the cabinet at about 21-22 °C, 3-4 °C cooler than the first, which by the 7 % rule slows it by about a quarter (1.07^3.5 ≈ 1.27, so 55 min becomes about 70 min, close to the 25-minute wait); the poke test is written for every load. This is the rule of lesson [14.1](../module-14/lesson-01.md), and it is the only change for next Saturday.
 
 ## Practice
 
@@ -133,7 +133,7 @@ You diagnose one of your own past bakes with the five steps, then three short ca
 
 ### You need
 
-- Your [bake logs](../../templates/bake-log.md), temperature logs and photos from Modules 4, 7, 8, 9, 10, 11 or 12, the [quality rubric](../../templates/quality-rubric.md) and a blank [non-conformity report](../../templates/non-conformity-report.md).
+- Your [bake logs](../../templates/bake-log.md), temperature logs and photos from [Modules 4](../module-04/lesson-01.md), [7](../module-07/lesson-01.md), [8](../module-08/lesson-01.md), [9](../module-09/lesson-01.md), [10](../module-10/lesson-01.md), [11](../module-11/lesson-01.md) or [12](../module-12/lesson-01.md), the [quality rubric](../../templates/quality-rubric.md) and a blank [non-conformity report](../../templates/non-conformity-report.md).
 - If you kept a loaf or croissants in the freezer, thaw one at room temperature and cut it: a cut section is better evidence than memory.
 - Professional equivalent: the batch records (fiches de production, temperature records, cabinet and oven logs) and a sample kept back from each batch.
 
@@ -168,9 +168,9 @@ Checked 2026-10-09.
 
 <details><summary>Answers</summary>
 
-- **A. Under-fermented by a cold dough.** 4 °C under target is about 1.07⁴ ≈ 1.3 times slower; the sheet's times left it young: small, reddish (sugars left), burst side, tight crumb, on every piece. Prevention: calculate the water (lesson 05.2), and adapt times by the signs and the poke test.
-- **B. Butter melted out on tray 2.** Only one tray → a place or waiting cause. The top of the oven is far above 27 °C. Prevention: keep the second tray in a cool place (24-26 °C or the fridge) while the first bakes (lessons 11.6, 14.3).
-- **C. Cut warm and probably under-baked.** A rye-containing crumb sets slowly; cut after 15 minutes it is sticky whatever the bake. The missing core reading means under-baking cannot be ruled out. Prevention: probe the core (at least 93 °C) and cool 1-2 hours before cutting (lesson 10.3).
+- **A. Under-fermented by a cold dough.** 4 °C under target is about 1.07⁴ ≈ 1.3 times slower; the sheet's times left it young: small, reddish (sugars left), burst side, tight crumb, on every piece. Prevention: calculate the water (lesson [05.2](../module-05/lesson-02.md)), and adapt times by the signs and the poke test.
+- **B. Butter melted out on tray 2.** Only one tray → a place or waiting cause. The top of the oven is far above 27 °C. Prevention: keep the second tray in a cool place (24-26 °C or the fridge) while the first bakes (lessons [11.6](../module-11/lesson-06.md), [14.3](../module-14/lesson-03.md)).
+- **C. Cut warm and probably under-baked.** A rye-containing crumb sets slowly; cut after 15 minutes it is sticky whatever the bake. The missing core reading means under-baking cannot be ruled out. Prevention: probe the core (at least 93 °C) and cool 1-2 hours before cutting (lesson [10.3](../module-10/lesson-03.md)).
 
 </details>
 

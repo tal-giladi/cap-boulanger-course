@@ -54,7 +54,7 @@ Watching someone make bread does not make you able to make bread: your hands lea
 5. **Apprêt.** The shaped pieces fill with gas again.
 6. **Baking.** In the hot oven the gas expands and the water turns to steam (oven spring); yeast dies at around 50-60 °C; starch sets into crumb; the surface browns. Steam at loading keeps the surface soft for the first minutes so the bread can expand, then gives a thin, shiny crust.
 
-Modules 3, 4 and 7 explain each step in depth. Today you observe them.
+[Modules 3](../module-03/lesson-01.md), [4](../module-04/lesson-01.md) and [7](../module-07/lesson-01.md) explain each step in depth. Today you observe them.
 
 ### Getting the dough temperature right
 
@@ -62,7 +62,7 @@ The dough temperature after mixing depends on the flour, the room, the water and
 
 $$\text{water temperature} \approx 3 \times 24 - \text{flour temp} - \text{room temp} - 2$$
 
-The 3 × 24 is the target dough temperature (24 °C) times the three temperatures you add up (flour, room, water). The 2 °C is a small allowance for the warmth of your hands and of kneading. Example: flour 20 °C, room 21 °C → water ≈ 72 − 20 − 21 − 2 = 29 °C. [Module 5](../module-05/lesson-02.md) makes this method precise; today, use the estimate, measure the result and write both in your log.
+The 3 × 24 is the target dough temperature (24 °C) times the three temperatures you add up (flour, room, water). The 2 °C is a small allowance for the warmth of your hands and of kneading. Lesson [05.3](../module-05/lesson-03.md) shows how to measure it as a friction factor. Example: flour 20 °C, room 21 °C → water ≈ 72 − 20 − 21 − 2 = 29 °C. [Module 5](../module-05/lesson-02.md) makes this method precise; today, use the estimate, measure the result and write both in your log.
 
 ### Your timeline
 
@@ -127,7 +127,7 @@ Professional batch for comparison: the same formula on 5 kg of flour is 3,250 g 
 
 **Mise en place (20 min)**
 
-1. Clear and clean the worktop; dress (apron, hair covered, no rings or watch); wash your hands (lesson 01.3).
+1. Clear and clean the worktop; dress (apron, hair covered, no rings or watch); wash your hands (lesson [01.3](lesson-03.md)).
 2. Check the scale is at zero. Measure the flour and room temperatures. Calculate the water temperature with the estimate above and write it down.
 3. Weigh each ingredient in its own container: flour, water (at the calculated temperature), salt, yeast. Tick each one on your sheet.
 4. Set out the scraper, the container, the cover, the timer, the bake log. Copy the timeline onto paper.

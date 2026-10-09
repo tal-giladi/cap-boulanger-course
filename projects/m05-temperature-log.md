@@ -40,7 +40,7 @@ Water = 4 × 24 − flour − fournil − pâte fermentée − 27.
 
 - Scale (1 g, ideally 0.1 g), checked probe thermometer, oven thermometer, bowls, scraper, lidded containers, kettle, ice and a bottle of water in the fridge, baking paper, trays, a metal steam tray, oven gloves, lame, wire rack, calculator.
 - Templates: [temperature log](../templates/temperature-log.md) (one per bake), [bake log](../templates/bake-log.md), [production sheet](../templates/production-sheet.md), [quality rubric](../templates/quality-rubric.md), [non-conformity report](../templates/non-conformity-report.md).
-- Your lesson 05.1 audit and your friction factor from lesson 05.3.
+- Your lesson [05.1](../lessons/module-05/lesson-01.md) audit and your friction factor from lesson 05.3.
 - Time: about 45 minutes for Part A; three bakes of about 4 hours each (mostly waiting) on three different days, one with an overnight retard; about 45 minutes for Part C.
 - In Israel: flour as in [Flour in Israel](../references/flour-in-israel.md); in summer plan at least one bake in the warmest part of the day with fridge water or ice, and keep the fridge at 5 °C or below for the retarded dough.
 

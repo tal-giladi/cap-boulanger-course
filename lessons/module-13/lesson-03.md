@@ -121,7 +121,7 @@ You build a proofing box from what you have, test it empty with a glass of water
 
 ### Ingredients
 
-For the real apprêt in steps 6-8, PD-01 rolls (or use the 13.1 doughs):
+For the real apprêt in steps 6-8, PD-01 rolls (or use the [13.1](lesson-01.md) doughs):
 
 | Ingredient | Baker's % | Home (500 g flour) | Professional (10 kg flour) |
 |---|---|---|---|
@@ -156,7 +156,7 @@ Checked 2026-10-09.
 
 ### How you know it worked
 
-Your log shows a flat line, not a saw-tooth, and you know exactly what keeps it flat. The box rolls reached the poke test at a predictable time; the counter rolls were faster in summer or slower in winter by roughly what the 7 %-per-°C rule predicts. You now own a proofer you can trust for croissants in Modules 11, 12 and 14.
+Your log shows a flat line, not a saw-tooth, and you know exactly what keeps it flat. The box rolls reached the poke test at a predictable time; the counter rolls were faster in summer or slower in winter by roughly what the 7 %-per-°C rule predicts. You now own a proofer you can trust for croissants in [Modules 11](../module-11/lesson-01.md), [12](../module-12/lesson-01.md) and [14](../module-14/lesson-01.md).
 
 ### Self-check
 

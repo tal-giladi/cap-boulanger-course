@@ -116,7 +116,7 @@ In **pain de tradition française**, the answer is **no**. Article 2 of décret 
 Two rules apply to every reuse:
 
 - **Allergens follow the bread.** Crumbs from a seeded loaf bring sesame; crumbs from pain viennois or brioche bring milk and egg. Reuse a bread only in a product whose written allergen information covers what it brings (lesson [02.11](../module-02/lesson-11.md)), or keep the reuse streams separate.
-- **Only safe bread is reused.** Mould, bread that has been on the floor or returned by a customer, or bread kept in bad conditions goes to biowaste, never into food or a donation. The hygiene rules for reuse and donation (storage, dating, transport) are Module 17's subject.
+- **Only safe bread is reused.** Mould, bread that has been on the floor or returned by a customer, or bread kept in bad conditions goes to biowaste, never into food or a donation. The hygiene rules for reuse and donation (storage, dating, transport) are [Module 17](../module-17/lesson-08.md)'s subject.
 
 Freezing unsold traditions to sell them the next day remains forbidden in a boulangerie (lesson [09.1](../module-09/lesson-01.md)).
 
@@ -134,7 +134,7 @@ Boulangerie du Marché keeps a waste log for one week (6 opening days). Producti
 
 1. **Cost of the unsold baguettes.** 180 × €0.60 = **€108 a week**; over 50 working weeks about **€5,400 a year**, before counting the traditions.
 2. **Diagnosis.** 180 ÷ 6 = 30 a day, 7.5 % of the baguettes made, and the log shows 24 of the 30 come from the 16:00 load.
-3. **Prevent first.** The 16:00 load goes from 60 to 40 baguettes, with a small 17:30 load of 12 if the shelf empties (15.5's rule). Expected unsold: about 10 a day.
+3. **Prevent first.** The 16:00 load goes from 60 to 40 baguettes, with a small 17:30 load of 12 if the shelf empties ([15.5](../module-15/lesson-05.md)'s rule). Expected unsold: about 10 a day.
 4. **Use for people.** The remaining plain baguettes become chapelure and croûtons for the snack counter (dried and toasted on the falling heat, lesson [18.1](lesson-01.md)) and 5 % dry crumb in the next day's pain courant. The traditions: sold in the evening anti-waste basket or donated; **not** put into tradition dough.
 5. **Donation.** An association collects 10 items each evening. Cost value about 10 × €0.60 = €6 a day; over 300 days about €1,800, giving about €1,080 of tax reduction (60 %), well under the ceiling.
 6. **The rest.** Dough scraps, eggshells and spoiled bread go to the biowaste bin (sorting compulsory since 1 January 2024); flour sacks (shaken out) and flattened cardboard to the paper stream; film to the stream the commune sets, since the shop produces well under 1,100 L of waste a week.
@@ -214,6 +214,6 @@ Your log shows where your waste comes from (often the same item, such as the sec
 
 - Hierarchy (loi Garot 2016): prevent, use for people (donation, processing), animal feed, compost or methanisation; disposal only for the rest.
 - A craft bakery has no donation-agreement duty (that is for stores over 400 m² and large operators), but every professional must sort biowaste since 1 January 2024 and sort paper, metal, plastic, glass, wood and textiles, following the commune's rules under 1,100 L a week.
-- Prevent with the unsold counts; reuse as chapelure, croûtons, pain perdu, or crumb in pain courant; never old bread in tradition dough; allergens follow the bread; spoiled bread is never reused (hygiene: Module 17).
+- Prevent with the unsold counts; reuse as chapelure, croûtons, pain perdu, or crumb in pain courant; never old bread in tradition dough; allergens follow the bread; spoiled bread is never reused (hygiene: [Module 17](../module-17/lesson-01.md)).
 - Donation at cost gives a 60 % tax reduction within a ceiling; keep a record.
 - Exam-relevant (C2.7 sorting, S1.1 sustainable development, S4.3 waste): see [the CAP exam reference](../../references/cap-exam.md).

@@ -26,7 +26,7 @@ last_verified: "2026-10-09"
 
 # 20.5 · Costs, Prices, VAT and Results
 
-Lesson 06.5 costed one baguette; this lesson costs the whole bakery. You will turn a month of sales into turnover, subtract the charges to find the result, see how the wealth the bakery creates is shared, and set prices for a product line with the right VAT. You finish by pricing a five-product line and building the simplified monthly results of a small bakery.
+Lesson [06.5](../module-06/lesson-05.md) costed one baguette; this lesson costs the whole bakery. You will turn a month of sales into turnover, subtract the charges to find the result, see how the wealth the bakery creates is shared, and set prices for a product line with the right VAT. You finish by pricing a five-product line and building the simplified monthly results of a small bakery.
 
 ## Why it matters
 
@@ -81,7 +81,7 @@ The **simplified income statement** (compte de résultat) of a month lists:
 | bank interest | |
 | **Result = products − charges**: a profit if positive, a loss if negative | |
 
-Raw materials, wages and energy are the three big lines of a bakery. The energy line is kWh × price: at the 0.20 € per kWh of lesson 18.1, 12,000 kWh in a month is €2,400.
+Raw materials, wages and energy are the three big lines of a bakery. The energy line is kWh × price: at the 0.20 € per kWh of lesson [18.1](../module-18/lesson-01.md), 12,000 kWh in a month is €2,400.
 
 ### Value added and who gets it
 
@@ -110,7 +110,7 @@ So an SARL bakery with a yearly profit of €60,000 pays 42,500 × 15 % + 17,500
 
 ### What sets a selling price
 
-1. **The full cost** (06.5): the price HT must cover it, or each sale loses money.
+1. **The full cost** ([06.5](../module-06/lesson-05.md)): the price HT must cover it, or each sale loses money.
 2. **The margin** the owner needs to pay tax, repay loans, invest.
 3. **Competitors' prices**: the bakery two streets away, the supermarket.
 4. **What customers will pay**: quality, the name (tradition, au levain), location, service.
@@ -123,7 +123,7 @@ A common house method: price HT = full cost ÷ (1 − margin rate on HT), then �
 | Mode | What it is | Bakery example | Strength / limit |
 |---|---|---|---|
 | **À l'unité** (one-off) | one product to a customer's order | a pièce montée or a 2 kg decorated loaf for a wedding | fits the customer exactly / slow, costly |
-| **En série** (batch) | the same product in batches | fournées of 60 baguettes, 120 croissants | efficient, consistent / needs planning (Module 14) |
+| **En série** (batch) | the same product in batches | fournées of 60 baguettes, 120 croissants | efficient, consistent / needs planning ([Module 14](../module-14/lesson-01.md)) |
 | **En continu** (continuous) | a line that never stops | industrial bread plants (10.71A) | very low cost per piece / heavy investment, little flexibility |
 
 A craft bakery works mostly in batches with some one-off orders; its staff are polyvalent (one baker, several products), while industry divides the work into specialised posts.
@@ -151,7 +151,7 @@ Boulangerie Au Pain de la Halle (SARL), October. The gérante asks the apprentic
 
 **4. Value added.** Intermediate consumption = 12,000 + 2,400 + 2,200 + 1,800 = €18,400. VA = 40,208 − 18,400 = **€21,808**. Staff and social bodies receive 16,500 (76 %), the State 200, the bank 300, the business 1,500 + 3,308 = 4,808 (22 %).
 
-**5. Waste in perspective.** Unsold baguettes cost at least their €0.60 production cost (06.5). 30 a day for 26 days: 780 × 0.60 = **€468**, 14 % of the month's result. Cutting the late batch (lesson 18.2) is worth more than any price rise on bread.
+**5. Waste in perspective.** Unsold baguettes cost at least their €0.60 production cost ([06.5](../module-06/lesson-05.md)). 30 a day for 26 days: 780 × 0.60 = **€468**, 14 % of the month's result. Cutting the late batch (lesson [18.2](../module-18/lesson-02.md)) is worth more than any price rise on bread.
 
 **6. Invoice check.** The mill's invoice: "Farine T55 — 42 sacs × 22,50 € HT". The order said 40 sacks at €21.50; the signed delivery note says 40 received. Two errors: **quantity** (2 sacks not delivered) and **price** (€1.00 more than agreed). Correct total HT: 40 × 21.50 = €860, not 42 × 22.50 = €945: €85 HT overcharged. The apprentice flags it to the gérante before payment (C4.1).
 
@@ -163,7 +163,7 @@ You price a five-product line, then build a monthly result and solve five exerci
 
 ### You need
 
-- Calculator or spreadsheet, this lesson and lesson 06.5, 90 minutes.
+- Calculator or spreadsheet, this lesson and lesson [06.5](../module-06/lesson-05.md), 90 minutes.
 - Professional equivalent: the bakery's cost sheets, competitors' price boards, the accountant's monthly figures.
 
 ### Steps
@@ -240,7 +240,7 @@ The exam is in euros and French VAT. At home you can practise the same reasoning
 | Croissant 60 g (butter 82 %) | 2.40 | 0.20 | 2.50 | 5.10 | 6.80 |
 | Pain au lait 50 g | 0.80 | 0.10 | 1.00 | 1.90 | 2.53 |
 
-The home baguette's materials and energy come from 06.5's Israel table. Compare your prices with a local bakery's board: a home croissant priced for a 25 % margin often comes out near or above a bakery's price, because a home oven and one baker's time cost more per piece than a full deck oven and a team (the batch effect of lesson 06.5).
+The home baguette's materials and energy come from [06.5](../module-06/lesson-05.md)'s Israel table. Compare your prices with a local bakery's board: a home croissant priced for a 25 % margin often comes out near or above a bakery's price, because a home oven and one baker's time cost more per piece than a full deck oven and a team (the batch effect of lesson [06.5](../module-06/lesson-05.md)).
 
 ### Self-check
 

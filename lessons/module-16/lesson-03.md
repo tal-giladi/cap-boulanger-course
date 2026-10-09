@@ -27,7 +27,7 @@ The crust records the last hour of the bread's life: how much sugar fermentation
 
 ## Why it matters
 
-Colour is the first quality signal in the shop and a criterion in every product evaluation. The référentiel lists three bread defects that are crust defects: the **pain cloqué** (blistered), the **pain ferré** (burnt, hard base) and the **croûte terne** (dull crust), plus the dough defect **pâte croûtée** (skinned dough) that causes the last one (S3.1.4, S3.1.6). Crust faults are also the faults most often blamed on the wrong cause: "pale" is called "under-baked" when the dough was over-fermented, and "dull" is called "no steam" when the pieces had dried in the proof. For how products are judged in the exam, see [The CAP Boulanger Exam](../../references/cap-exam.md).
+Colour is the first quality signal in the shop and a criterion in every product evaluation. The référentiel lists three bread defects that are crust defects: the **pain cloqué** (blistered), the **pain ferré** (burnt, hard base) and the **croûte terne** (dull crust), plus the dough defect **pâte croûtée** (skinned dough) that causes the last one (S3.1.4, S3.1.6). Crust faults are also the faults most often blamed on the wrong cause: "pale" is called "under-baked" when the dough was over-fermented, and "dull" is called "no steam" when the pieces had dried in the proof. How colour and crust are judged is in lesson [15.1](../module-15/lesson-01.md). For how products are judged in the exam, see [The CAP Boulanger Exam](../../references/cap-exam.md).
 
 ## Key terms
 
@@ -157,7 +157,7 @@ Causes: A condensation on cold pieces; B over-fermented; C sole too hot or tray 
 
 <details><summary>Answers</summary>
 
-1 → C, pain ferré (lessons 07.5, 13.4). 2 → B: the oven was right, so the pale colour is sugars used up (lesson 04.7). 3 → E: the "ready" signal is not the thermometer (lessons 05.1, 13.4). 4 → D, croûte terne from a skin (lesson 04.4). 5 → A, pain cloqué (lessons 04.6, 07.5). 6 → F (lesson 10.6).
+1 → C, pain ferré (lessons [07.5](../module-07/lesson-05.md), [13.4](../module-13/lesson-04.md)). 2 → B: the oven was right, so the pale colour is sugars used up (lesson [04.7](../module-04/lesson-07.md)). 3 → E: the "ready" signal is not the thermometer (lessons [05.1](../module-05/lesson-01.md), [13.4](../module-13/lesson-04.md)). 4 → D, croûte terne from a skin (lesson [04.4](../module-04/lesson-04.md)). 5 → A, pain cloqué (lessons [04.6](../module-04/lesson-06.md), [07.5](../module-07/lesson-05.md)). 6 → F (lesson [10.6](../module-10/lesson-06.md)).
 
 </details>
 

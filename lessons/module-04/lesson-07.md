@@ -26,7 +26,7 @@ Times on a production sheet assume a dough at its target temperature, with fresh
 
 ## Why it matters
 
-"Judge by the dough, not by the clock" is the rule behind every lesson of this module. In the practical exam and at work, you will be expected to notice a dough that is running fast or slow, act before it is too late, and explain afterwards what happened. That is two competencies at once: controlling your products (C3.2) and reporting non-conformities and malfunctions during production (C4.4). The référentiel also lists dough defects and bread defects among the stages of bread-making (S3.1). The full troubleshooting reference is [references/troubleshooting.md](../../references/troubleshooting.md); this lesson focuses on fermentation.
+"Judge by the dough, not by the clock" is the rule behind every lesson of this module. In the practical exam and at work, you will be expected to notice a dough that is running fast or slow, act before it is too late, and explain afterwards what happened. That is two competencies at once: controlling your products (C3.2) and reporting non-conformities and malfunctions during production (C4.4). The référentiel also lists dough defects and bread defects among the stages of bread-making (S3.1). The full troubleshooting reference is [references/troubleshooting.md](../../references/troubleshooting.md); this lesson focuses on fermentation. The general diagnosis method for any fault is in lesson [16.1](../module-16/lesson-01.md).
 
 ## Key terms
 
@@ -72,7 +72,7 @@ The usual causes of fermentation faults, and what to check:
 
 | Cause | What it does | Evidence to look for |
 |---|---|---|
-| Dough too warm or too cold | about 7 % faster or slower per °C (lesson 04.2) | dough temperature after mixing vs the TPV |
+| Dough too warm or too cold | about 7 % faster or slower per °C (lesson [04.2](lesson-02.md)) | dough temperature after mixing vs the TPV |
 | Room, cabinet or cold room off target | speeds or slows the stage it affects | thermometer readings, cabinet display |
 | Yeast dose wrong or yeast old | too much: rushes; too little or old: slow | weighing record, conversion (fresh vs dry), use-by date |
 | Pre-ferment young or over-ripe | brings too little or too much acid and activity | its state and age at mixing |

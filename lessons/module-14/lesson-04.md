@@ -197,7 +197,7 @@ gantt
 
 **5. If your window is shorter.** The plan cannot shrink below the laminated dough's chain without breaking a minimum of the course sheet (2 h chill, 1 h final rest, a full proof). When you rehearse with the real timing from the [exam reference](../../references/cap-exam.md) ([Module 22](../module-22/lesson-02.md) does this), start from that chain, see where the time must come from, and practise exactly that; never by proofing laminated dough above 27 °C.
 
-The simulation opens on a similar four-dough day, practice order 22-A of lesson 22.2 (shortened croissant chain, 7:00 to 14:00). Move a mixing or a shaping block and watch which lane turns red; choose "Your own order" to plan this lesson's day from the course sheets.
+The simulation opens on a similar four-dough day, practice order 22-A of lesson [22.2](../module-22/lesson-02.md) (shortened croissant chain, 7:00 to 14:00). Move a mixing or a shaping block and watch which lane turns red; choose "Your own order" to plan this lesson's day from the course sheets.
 
 [Simulation: A four-dough practice day, one baker](../../simulations/production-schedule/index.html?preset=ep2-22a)
 

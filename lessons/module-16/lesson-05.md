@@ -27,7 +27,7 @@ Viennoiserie faults are made early and seen late: the butter that broke at the s
 
 ## Why it matters
 
-Croissants, pains au chocolat, pains aux raisins and brioche doughs are products of the référentiel's viennoiserie savoir (S3.4), and they are the products a beginner most often gets wrong without knowing why: the raw dough looks fine, and the fault appears only in the oven. Reporting it so it can be corrected is the same production competency as for bread (C4.4). A bakery that loses one tray of croissants a day to leaking butter loses a large share of its viennoiserie margin; a baker who can read the cut section and the logs fixes it in one batch. For how viennoiserie is judged in the exam, see [The CAP Boulanger Exam](../../references/cap-exam.md).
+Croissants, pains au chocolat, pains aux raisins and brioche doughs are products of the référentiel's viennoiserie savoir (S3.4), and they are the products a beginner most often gets wrong without knowing why: the raw dough looks fine, and the fault appears only in the oven. Reporting it so it can be corrected is the same production competency as for bread (C4.4). A bakery that loses one tray of croissants a day to leaking butter loses a large share of its viennoiserie margin; a baker who can read the cut section and the logs fixes it in one batch. The general quality criteria are in lesson [15.1](../module-15/lesson-01.md). For how viennoiserie is judged in the exam, see [The CAP Boulanger Exam](../../references/cap-exam.md).
 
 ## Key terms
 
@@ -66,7 +66,7 @@ flowchart LR
   S -.->|"slow freeze,<br>bagged warm"| F7["Flat, leathery"]
 ```
 
-The numbers behind every check come from Modules 11 and 12 and sheet CR-01: détrempe 18-22 °C; butter at about 13 °C at the lock-in (plastic between about 12 and 15 °C, brittle below about 10 °C); butter with about 80-83 g of fat per 100 g; three single turns (in a warm kitchen one double and one single); final sheet about 3.5 mm for croissants, about 4 mm for pains au chocolat; proof at 24-26 °C and 75-80 % humidity, never above about 27 °C, about 1 h 30-2 h 30 until almost doubled; bake about 190-200 °C (fan 175-180 °C), no steam.
+The numbers behind every check come from [Modules 11](../module-11/lesson-01.md) and [12](../module-12/lesson-01.md) and sheet CR-01: détrempe 18-22 °C; butter at about 13 °C at the lock-in (plastic between about 12 and 15 °C, brittle below about 10 °C); butter with about 80-83 g of fat per 100 g; three single turns (in a warm kitchen one double and one single); final sheet about 3.5 mm for croissants, about 4 mm for pains au chocolat; proof at 24-26 °C and 75-80 % humidity, never above about 27 °C, about 1 h 30-2 h 30 until almost doubled; bake about 190-200 °C (fan 175-180 °C), no steam.
 
 The simulation opens on butter on the tray, the fault with two opposite fixes; read the proof temperature and time before you name the cause.
 
@@ -160,7 +160,7 @@ You cut and diagnose three croissants of different origins (bakery, supermarket,
 
 ### You need
 
-- Three croissants from different places, bought the same morning; if you made the CR-01 batch of Module 11, use one of yours as the third.
+- Three croissants from different places, bought the same morning; if you made the CR-01 batch of [Module 11](../module-11/lesson-01.md), use one of yours as the third.
 - Serrated knife, board, scale, ruler, a sheet of white paper, the [quality rubric](../../templates/quality-rubric.md) (viennoiserie table) and the fault tables above.
 - Professional equivalent: the daily batch sample cut at the bench and compared with the shop's standard, faults reported on a [non-conformity report](../../templates/non-conformity-report.md).
 
@@ -196,7 +196,7 @@ Causes: A butter too cold; B too many turns; C proof too warm; D sheet not reste
 
 <details><summary>Answers</summary>
 
-1 → C (above about 27 °C: lesson 11.6). 2 → B (81 butter layers: lesson 11.1). 3 → A (lesson 11.4). 4 → D (lesson 11.5). 5 → E (lesson 11.6). 6 → F (lesson 12.1). 7 → G (lesson 12.5). 8 → H (gluten first, then the butter: lesson 12.3).
+1 → C (above about 27 °C: lesson [11.6](../module-11/lesson-06.md)). 2 → B (81 butter layers: lesson [11.1](../module-11/lesson-01.md)). 3 → A (lesson [11.4](../module-11/lesson-04.md)). 4 → D (lesson [11.5](../module-11/lesson-05.md)). 5 → E (lesson [11.6](../module-11/lesson-06.md)). 6 → F (lesson [12.1](../module-12/lesson-01.md)). 7 → G (lesson [12.5](../module-12/lesson-05.md)). 8 → H (gluten first, then the butter: lesson [12.3](../module-12/lesson-03.md)).
 
 </details>
 

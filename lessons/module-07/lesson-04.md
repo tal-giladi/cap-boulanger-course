@@ -106,7 +106,7 @@ In a deck oven the pieces are placed on the **tapis d'enfournement** (loader) ou
 - **Steam at loading**: the oven's steam is injected just before or as the load goes in; the door is closed at once.
 - **Check before loading**: oven temperature on the thermometer, steam ready, the deck empty and brushed.
 
-A ventilated (convection) oven or a rack oven is loaded with trays or a whole rack; lesson 07.5 compares the oven types.
+A ventilated (convection) oven or a rack oven is loaded with trays or a whole rack; lesson [07.5](lesson-05.md) compares the oven types.
 
 ### Steam at home
 
@@ -167,7 +167,7 @@ Checked 2026-10-08.
 
 ### Steps
 
-1. Pointage, divide 6 × 270 g, pre-shape, détente and shape 6 bâtards of about 22 cm (lesson 07.3). Number the pieces in pairs: A (no steam), B (tray), C (cover).
+1. Pointage, divide 6 × 270 g, pre-shape, détente and shape 6 bâtards of about 22 cm (lesson [07.3](lesson-03.md)). Number the pieces in pairs: A (no steam), B (tray), C (cover).
 2. Pair A proofs at room temperature. Pairs B and C go straight into the fridge, covered, after shaping (the cold slows them, so each pair is ready in turn).
 3. Preheat 45-60 minutes at 240 °C (conventional heat): baking tray or stone in the middle, the metal steam tray on the lowest shelf. Check with the oven thermometer.
 4. **Pair A, no steam.** When ready (poke test), take pair B out of the fridge. Transfer A onto baking paper, score one long cut at about 30° and about 5 mm deep, load, bake about 22 minutes. Do not put water in the tray.

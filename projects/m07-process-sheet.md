@@ -15,7 +15,7 @@ You are the ouvrier boulanger at Boulangerie Au Pain de la Halle. On Friday afte
 > | Pain de campagne (boule) | 10 | pâton 590 g | CA-01 | restaurant, dimanche 11:00 |
 >
 > PC-02: farine T55 100 %, eau 64 %, sel 1,8 %, levure fraîche 1,5 %, pâte fermentée 15 %. TPV 24 °C. Pétrissage amélioré (échauffement environ 5 °C). Pointage 45 min; détente 20 min; apprêt 1 h 15 à 25 °C; four 250 °C, buée; baguettes 22 min, petits pains 15 min.
-> CA-01 (from the module 6 [workbook](m06-calculation-workbook.md)): lot de 3 600 g de farine (T65 3 060 g, seigle 540 g), eau 2 520 g au total, sel 64,8 g, levain liquide 1 440 g (préparé vendredi soir). TPV 24 °C. Pétrissage lent (échauffement environ 3 °C). Pointage 1 h 30 à 2 h; apprêt 1 h 45 à 2 h en bannetons; four 230 °C, buée, 40 min.
+> CA-01 (from the [module 6](../lessons/module-06/lesson-01.md) [workbook](m06-calculation-workbook.md)): lot de 3 600 g de farine (T65 3 060 g, seigle 540 g), eau 2 520 g au total, sel 64,8 g, levain liquide 1 440 g (préparé vendredi soir). TPV 24 °C. Pétrissage lent (échauffement environ 3 °C). Pointage 1 h 30 à 2 h; apprêt 1 h 45 à 2 h en bannetons; four 230 °C, buée, 40 min.
 >
 > Pertes de fabrication 2 %; farine arrondie à la centaine de grammes supérieure.
 > Relevés prévus samedi 1:30: fournil 22 °C, farine 20 °C, pâte fermentée 6 °C, levain 26 °C, eau du réseau 16 °C.
@@ -85,7 +85,7 @@ The Academy cannot grade your bread or your photos. Compare your work honestly w
 5. Requisition: T55 8.1 kg (lot), T65 2.34 kg and rye 540 g for the final dough (lots), salt 210.6 g, fresh yeast 121.5 g (date), pâte fermentée 1,215 g (dated tub, enough?), liquid levain 1,440 g built Friday evening (time written).
 6. Example lines: "7 · Pétrissage PC-02 · 2:15-2:27 · pâte bâtarde, voile, 23-25 °C"; "14 · Grignage baguettes · 5 coups, lame à 30°, 5 mm"; "16 · Défournement · couleur, son creux, 1 baguette pesée"; "17 · Campagne · 2 h sur grilles, sacs papier datés, réserve sèche".
 7. Ressuage on racks: baguettes 30 min minimum before the shop; rolls cooled before bagging; campagne 2 h on racks, then paper bags, dated, in the dry store (not plastic, not the cold room). Semi-finished: the next pâte fermentée kept from the PC-02 batch, dated, filmed, cold room.
-8. (a) Oven 20 minutes late: as soon as it is known, move the PC-02 tub (or the shaped pieces) somewhere cooler and judge by the dough; shape and load by the poke test, not the clock. (b) Tearing in the façonneuse: excès de force (long or warm pointage, short détente); longer détente, softer settings, finish by hand (lesson 07.3).
+8. (a) Oven 20 minutes late: as soon as it is known, move the PC-02 tub (or the shaped pieces) somewhere cooler and judge by the dough; shape and load by the poke test, not the clock. (b) Tearing in the façonneuse: excès de force (long or warm pointage, short détente); longer détente, softer settings, finish by hand (lesson [07.3](../lessons/module-07/lesson-03.md)).
 
 </details>
 

@@ -122,7 +122,7 @@ PD-01 dough (lesson [01.7](../module-01/lesson-07.md)), made and fermented as in
 5. **Détente test.** Immediately, take piece 5 and roll it into a sausage with exactly 6 back-and-forth strokes of both hands, light even pressure. Measure its length at once and again 1 minute later (how much it shrank back).
 6. After 15 minutes, do the same with piece 6; after 30 minutes, piece 7. Note how each feels (tight, tearing, easy, slack).
 7. Switch the oven on at 230 °C with a tray in the middle and the metal steam tray at the bottom.
-8. Shape pieces 1-4 into round rolls and pieces 5-8 (the test pieces too) into small baguettes of about 20 cm. Apprêt about 40 minutes covered, until the poke test says ready (lesson 04.4).
+8. Shape pieces 1-4 into round rolls and pieces 5-8 (the test pieces too) into small baguettes of about 20 cm. Apprêt about 40 minutes covered, until the poke test says ready (lesson [04.4](lesson-04.md)).
 9. Score the small baguettes once along their length, load with steam and bake 15-18 minutes. Cool on a rack.
 
 ### Targets

@@ -23,7 +23,7 @@ A baguette's price on the board is built from the flour, water, salt and yeast i
 
 ## Why it matters
 
-The référentiel's applied-management knowledge asks you to identify the parts of purchase, production and full cost, the margin, the selling price and the VAT rates (S5.5), and the EP1 written paper has an applied-management part (see [The CAP Boulanger Exam](../../references/cap-exam.md)). In the fournil, cost explains rules that otherwise look petty: why losses are weighed, why the pâte fermentée is not thrown away, why a batch is not "rounded up generously". A baguette's raw materials cost a few tens of cents; the margin on it is of the same order, so a few percent of waste every day eats a real share of the profit.
+The référentiel's applied-management knowledge asks you to identify the parts of purchase, production and full cost, the margin, the selling price and the VAT rates (S5.5), and the EP1 written paper has an applied-management part (see [The CAP Boulanger Exam](../../references/cap-exam.md)). In the fournil, cost explains rules that otherwise look petty: why losses are weighed, why the pâte fermentée is not thrown away, why a batch is not "rounded up generously". A baguette's raw materials cost a few tens of cents; the margin on it is of the same order, so a few percent of waste every day eats a real share of the profit. Lesson [18.2](../module-18/lesson-02.md) shows how bakeries cut that waste, and lesson [20.5](../module-20/lesson-05.md) takes costs and prices up to the results of the whole business.
 
 ## Key terms
 
@@ -203,7 +203,7 @@ Per home baguette (3 from the batch): ₪4.59 ÷ 3 ≈ **₪1.53**, of which abo
 | Cost per piece too low | Batch cost divided by all the dough made, losses ignored; pre-ferment left out | Recalculate on the dough that became products | Cost every ingredient; divide by the sold dough |
 | Margin looks higher than the bank account says | VAT counted as income, or HT found by subtracting 5.5 % | Recalculate HT = TTC ÷ 1.055 | VAT belongs to the State; always work in HT |
 | Sandwich priced with 5.5 % VAT | Food for immediate consumption treated like bread | Correct the till setting; tell the manager | 10 % for food prepared for immediate consumption |
-| Real costs above the sheet's cost | Waste, unsold bread, over-weight pâtons not counted | Record waste and weights for a week | Measure losses (lesson 06.3); divide to weight |
+| Real costs above the sheet's cost | Waste, unsold bread, over-weight pâtons not counted | Record waste and weights for a week | Measure losses (lesson [06.3](lesson-03.md)); divide to weight |
 | "Cheaper" flour costs more in the end | More yeast, more waste or lower yield not counted | Cost a full batch with the new flour | Compare cost per sold piece, not price per sack |
 
 ## Review

@@ -31,7 +31,7 @@ The cold chain, the dates and the traceability of everything a bakery sells star
 
 ## Why it matters
 
-Once you sign the delivery note without remark, the goods are yours: a warm tub of cream or a torn sack accepted is a problem you bought. Receiving and storing a delivery (C2.1), checking its quantity and quality (C3.1) and reporting its non-conformities (C4.1) are three competencies of block 1, assessed in the written test with real documents (delivery notes, traceability sheets); see [The CAP Boulanger Exam](../../references/cap-exam.md). The [delivery check](../../templates/delivery-check.md) and [non-conformity report](../../templates/non-conformity-report.md) templates are the two documents you use here.
+Once you sign the delivery note without remark, the goods are yours: a warm tub of cream or a torn sack accepted is a problem you bought. Receiving and storing a delivery (C2.1), checking its quantity and quality (C3.1) and reporting its non-conformities (C4.1) are three competencies of block 1, assessed in the written test with real documents (delivery notes, traceability sheets); see [The CAP Boulanger Exam](../../references/cap-exam.md). The [delivery check](../../templates/delivery-check.md) and [non-conformity report](../../templates/non-conformity-report.md) templates are the two documents you use here. Lesson [21.6](../module-21/lesson-06.md) practises delivery checks as timed EP1 questions.
 
 ## Key terms
 
@@ -97,7 +97,7 @@ flowchart TD
 - **Refuse** what is unsafe (temperature, date, packaging, health mark, appearance). The driver takes it back; you write the reason and the measurement on the note.
 - **Accept with a reservation** what is safe but wrong in quantity or reference, or slightly damaged outer packaging with intact contents; write it precisely before signing.
 - **Report** every refusal or reservation to the manager the same day with a [non-conformity report](../../templates/non-conformity-report.md): facts and measurements, action taken, suggestion (C4.1).
-- **Put away fast:** frozen goods first, then chilled, then dry goods; cartons removed before goods enter storage where possible; new stock behind older stock (lesson 17.8).
+- **Put away fast:** frozen goods first, then chilled, then dry goods; cartons removed before goods enter storage where possible; new stock behind older stock (lesson [17.8](lesson-08.md)).
 
 ### Traceability and recalls
 
@@ -180,7 +180,7 @@ Checked 2026-10-09.
 
 **C.** Croissants at −17 °C: within the −15 °C limit, **accept**. Pains au chocolat at −12 °C core with ice crystals and a soft carton: above the −15 °C critical limit and signs of partial thawing: **refuse** ("PAC surgelés à −12 °C à cœur, cristaux, carton ramolli: refusés"); report. Put the croissants in the freezer at once.
 
-**D.** Raisins: accept; add sulphites to the allergen table (lesson 17.6). Chocolate chips: the torn bag is refused or set aside (contamination, possible foreign bodies); the intact bag accepted; reservation written. Olive oil: accept. Tuna: the **swollen can is refused** (possible *Clostridium botulinum*, never opened or tasted); the others accepted after checking for dents and rust.
+**D.** Raisins: accept; add sulphites to the allergen table (lesson [17.6](lesson-06.md)). Chocolate chips: the torn bag is refused or set aside (contamination, possible foreign bodies); the intact bag accepted; reservation written. Olive oil: accept. Tuna: the **swollen can is refused** (possible *Clostridium botulinum*, never opened or tasted); the others accepted after checking for dents and rust.
 
 The worst problem: note C (frozen chain broken) or note A (possible pests). A good non-conformity report gives the measurement, the action (refused, supplier informed at a given time) and a suggestion (check the supplier's truck; inspect the dry store).
 

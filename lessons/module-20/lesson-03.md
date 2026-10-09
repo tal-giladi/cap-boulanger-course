@@ -138,7 +138,7 @@ Advert on France Travail, 9 October:
 
 **2. What must the contract contain?** A written contract given within 2 working days, with the reason (replacement of a named employee), the end date or the end of the absence, the trial period if any, the coefficient and pay.
 
-**3. Pay and end.** Coefficient 160 is the bakery convention's grade for a CAP holder (lesson 20.4 gives its hourly minimum). At the end of the 5 months, unless the employer offers a CDI and the employee accepts (or refuses a similar one), the employee receives the **10 % end-of-contract indemnity** on the total gross pay.
+**3. Pay and end.** Coefficient 160 is the bakery convention's grade for a CAP holder (lesson [20.4](lesson-04.md) gives its hourly minimum). At the end of the 5 months, unless the employer offers a CDI and the employee accepts (or refuses a similar one), the employee receives the **10 % end-of-contract indemnity** on the total gross pay.
 
 **4. Fit with your profile.** Nights from 4:00 (are you available? transport at 3:30?), products you have practised (Modules 8-12), "CAP en cours" accepted.
 

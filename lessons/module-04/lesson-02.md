@@ -118,15 +118,15 @@ Professional batch: PC-02, 5,400 g flour, 9,844 g of dough in one tub.
 
 ### Steps
 
-1. Measure flour and room temperatures; calculate the water temperature with the estimate from lesson 01.7 (target 24 °C).
-2. Mix and knead by hand as in lesson 01.7 (frasage 4 min, kneading 10 min). Measure and record the dough temperature.
+1. Measure flour and room temperatures; calculate the water temperature with the estimate from lesson [01.7](../module-01/lesson-07.md) (target 24 °C).
+2. Mix and knead by hand as in lesson [01.7](../module-01/lesson-07.md) (frasage 4 min, kneading 10 min). Measure and record the dough temperature.
 3. Divide the dough into two equal halves (about 420 g each). Shape each loosely into a ball and put one in each lightly oiled container, smooth side up, pressed flat to the bottom.
 4. Mark the starting level of each container with tape; write the time. Put container W in the warm place and container C in the cool place.
 5. Every 15 minutes, measure the height of each dough with the ruler (from the bottom of the container to the top of the dome) and note the temperature of each place.
 6. At 40 minutes, fold each dough once (four folds with a wet hand), press it level again and re-measure the height as your new reference.
 7. Decide for each container, using the signs in this lesson, when pointage is complete. Note the time. At the end, measure the temperature in the centre of each dough.
 8. Compare: how much earlier was W ready? Compare the feel: tension, stickiness, bubbles, smell.
-9. Use the dough: divide each half into four rolls of about 105 g and bake them as in lesson 01.7, or bake each half as a small boule.
+9. Use the dough: divide each half into four rolls of about 105 g and bake them as in lesson [01.7](../module-01/lesson-07.md), or bake each half as a small boule.
 
 ### Targets
 

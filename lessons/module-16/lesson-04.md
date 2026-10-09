@@ -27,7 +27,7 @@ The crumb is the inside story of the bread: the bubbles made at mixing, grown in
 
 ## Why it matters
 
-A customer forgives a slightly pale crust more easily than a gummy or dry slice. The référentiel asks candidates to explain what happens to the bread in and after the oven (ressuage, conservation, staling) and to recognise bread defects with their causes and corrections (S3.1.6), and it links them to the science of starch and proteins under heat (S4.1). Crumb faults are also where a jury sees the work you did hours earlier: mixing, fermentation and shaping are all visible in one slice. For how products are judged in the exam, see [The CAP Boulanger Exam](../../references/cap-exam.md).
+A customer forgives a slightly pale crust more easily than a gummy or dry slice. The référentiel asks candidates to explain what happens to the bread in and after the oven (ressuage, conservation, staling) and to recognise bread defects with their causes and corrections (S3.1.6), and it links them to the science of starch and proteins under heat (S4.1). Crumb faults are also where a jury sees the work you did hours earlier: mixing, fermentation and shaping are all visible in one slice. How crumb and taste are judged is in lessons [15.2](../module-15/lesson-02.md) and [15.3](../module-15/lesson-03.md). For how products are judged in the exam, see [The CAP Boulanger Exam](../../references/cap-exam.md).
 
 ## Key terms
 
@@ -168,7 +168,7 @@ Causes: A over-oxidation; B seeds not soaked; C under-baked and cut warm; D air 
 
 <details><summary>Answers</summary>
 
-1 → C (core below 93 °C and cut warm: lessons 07.5, 10.3). 2 → A (lesson 03.4). 3 → D, seam not sealed or air left at flattening (lessons 07.3, 08.3). 4 → F (pain complet needs 74 % or more and a rest: lesson 10.4). 5 → B (soak at least 4 hours: lesson 10.7). 6 → E (lesson 04.7).
+1 → C (core below 93 °C and cut warm: lessons [07.5](../module-07/lesson-05.md), [10.3](../module-10/lesson-03.md)). 2 → A (lesson [03.4](../module-03/lesson-04.md)). 3 → D, seam not sealed or air left at flattening (lessons [07.3](../module-07/lesson-03.md), [08.3](../module-08/lesson-03.md)). 4 → F (pain complet needs 74 % or more and a rest: lesson [10.4](../module-10/lesson-04.md)). 5 → B (soak at least 4 hours: lesson [10.7](../module-10/lesson-07.md)). 6 → E (lesson [04.7](../module-04/lesson-07.md)).
 
 </details>
 

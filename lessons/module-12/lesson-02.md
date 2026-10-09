@@ -81,7 +81,7 @@ flowchart LR
 ```
 
 1. **Cook to a full boil**, whisking constantly, with a clean whisk and pan.
-2. **Cool fast**: core not between +63 °C and +10 °C for more than 2 hours, then 0 to +3 °C (arrêté of 21 December 2009, annex IV, as in lesson 02.10). A deep bowl of cream takes hours; a layer 2-3 cm deep in a cold tray, filmed on the surface, in a blast chiller (or on ice at home) takes well under an hour. Record the time at 63 °C and at 10 °C.
+2. **Cool fast**: core not between +63 °C and +10 °C for more than 2 hours, then 0 to +3 °C (arrêté of 21 December 2009, annex IV, as in lesson [02.10](../module-02/lesson-10.md)). A deep bowl of cream takes hours; a layer 2-3 cm deep in a cold tray, filmed on the surface, in a blast chiller (or on ice at home) takes well under an hour. Record the time at 63 °C and at 10 °C.
 3. **Keep cold and short**: covered, labelled with product, date and time of cooking, at 0 to +3 °C. ANSES advises eating raw-egg preparations at once or keeping them cold and eating them within 24 hours; this cream is cooked, but because it is handled after cooking, the course uses the same **24-hour** limit. A bakery's own hazard analysis (its HACCP plan, [Module 17](../module-17/lesson-05.md)) sets its limit; home recipes that keep pastry cream for several days are not a professional standard.
 
 When you use it, beat it smooth with a clean whisk, take only what you need, and never pour unused cream back into the stock.
@@ -125,7 +125,7 @@ Thursday, 11:00. Friday's shop order: **60 pains aux raisins** of about 85 g raw
 
 ## Practice
 
-You cook a small CP-01, cool it against the clock, and make **8 pains aux raisins** from about 380 g of laminated dough: a third of a 500 g-flour lamination of CR-01 ([Module 11](../module-11/lesson-02.md), about 1,135 g) whose other two thirds make your pains au chocolat and croissants from lesson 12.1, or a 250 g-flour half batch.
+You cook a small CP-01, cool it against the clock, and make **8 pains aux raisins** from about 380 g of laminated dough: a third of a 500 g-flour lamination of CR-01 ([Module 11](../module-11/lesson-02.md), about 1,135 g) whose other two thirds make your pains au chocolat and croissants from lesson [12.1](lesson-01.md), or a 250 g-flour half batch.
 
 > [!WARNING]
 > Boiling milk and boiling cream cause deep burns: deep pan, long whisk, glove on the pan hand, children and pets away from the stove. The oven is at about 190-200 °C. Cut with a sharp knife away from your fingers.

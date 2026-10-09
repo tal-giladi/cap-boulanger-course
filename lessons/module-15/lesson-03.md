@@ -101,7 +101,7 @@ Salt is the taste customers notice first when it changes, and it is regulated as
 
 The manager of Boulangerie Au Pain de la Halle wants to lower the salt of the PC-02 baguette from 1.8 % to 1.6 % of the flour and asks you to test it on the staff before deciding.
 
-**1. The numbers first.** PC-02 at 1.8 %: 1.076 % salt in the dough (lesson 08.5); a 350 g pâton holds 3.77 g; at 280 g cooled, **1.34 g per 100 g**. At 1.6 % (with the pâte fermentée at the same ratio): 1.6 ÷ 167.1 = 0.958 % of the dough, 3.35 g per pâton, **1.20 g per 100 g**. Both are under the 1.4 g limit; the question is only sensory.
+**1. The numbers first.** PC-02 at 1.8 %: 1.076 % salt in the dough (lesson [08.5](../module-08/lesson-05.md)); a 350 g pâton holds 3.77 g; at 280 g cooled, **1.34 g per 100 g**. At 1.6 % (with the pâte fermentée at the same ratio): 1.6 ÷ 167.1 = 0.958 % of the dough, 3.35 g per pâton, **1.20 g per 100 g**. Both are under the 1.4 g limit; the question is only sensory.
 
 **2. The question and the test.** "Can people tell them apart?" is a difference question: a **triangle test**. Both doughs are made the same day, same process, same oven load; one baguette of each is cooled 1 hour.
 
@@ -111,7 +111,7 @@ The manager of Boulangerie Au Pain de la Halle wants to lower the salt of the PC
 
 **5. A short profile.** Three experienced bakers then score both breads, coded, on salty, acid, toasted, cereal and yeasty (0-10). Salty: 5.0 vs 4.3; the others within half a point.
 
-**6. Report to the manager.** "Triangle test on 9 tasters: 4 found the odd sample (chance about 3): no clear difference. Profile: salt slightly lower at 1.6 %, other notes unchanged. Salt per 100 g: 1.34 g now, 1.20 g at 1.6 %. Note: less salt also makes fermentation faster and the dough a little weaker (lesson 02.5); check the pointage and the dough feel on the first days."
+**6. Report to the manager.** "Triangle test on 9 tasters: 4 found the odd sample (chance about 3): no clear difference. Profile: salt slightly lower at 1.6 %, other notes unchanged. Salt per 100 g: 1.34 g now, 1.20 g at 1.6 %. Note: less salt also makes fermentation faster and the dough a little weaker (lesson [02.5](../module-02/lesson-05.md)); check the pointage and the dough feel on the first days."
 
 ## Practice
 

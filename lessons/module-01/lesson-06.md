@@ -102,7 +102,7 @@ In English: 24 baguettes divided at 350 g and 20 round rolls at 60 g, both from 
 > | Cuisson | four à sole 250 °C, buée à l'enfournement; baguettes 22 min, petits pains 15 min | croûte dorée, son creux |
 > | Ressuage | sur grilles, 30 min minimum | — |
 
-The batch weights were calculated exactly as in lesson 01.5: dough needed (24 × 350) + (20 × 60) = 9,600 g; plus 2% for losses = 9,792 g; flour = 9,792 × 100 ÷ 182.3 = 5,371 g, rounded up to 5,400 g; every other ingredient from 5,400 g.
+The batch weights were calculated exactly as in lesson [01.5](lesson-05.md): dough needed (24 × 350) + (20 × 60) = 9,600 g; plus 2% for losses = 9,792 g; flour = 9,792 × 100 ÷ 182.3 = 5,371 g, rounded up to 5,400 g; every other ingredient from 5,400 g.
 
 ### What to pull out before you start
 
@@ -173,7 +173,7 @@ The timing check is the one most beginners skip: start weighing at 2:30, or the 
 
 ## Practice
 
-You read a second order and its technical sheet and produce the six lists yourself. It is a home-sized order, the same kind you will bake in lesson 01.7 and in the module project.
+You read a second order and its technical sheet and produce the six lists yourself. It is a home-sized order, the same kind you will bake in lesson [01.7](lesson-07.md) and in the module project.
 
 ### You need
 

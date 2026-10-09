@@ -66,7 +66,7 @@ Typical values per 100 g (they vary by recipe; always use the real label):
 | Fat | about 1–1.5 g | about 1.5–2.5 g | about 12–18 g | energy, fat-soluble vitamins; excess saturated fat raises cardiovascular risk |
 | Salt | 1.3–1.4 g (agreement max 1.4 g) | about 1.1–1.3 g (max 1.3 g) | about 0.8–1.2 g | sodium regulates body water; excess raises blood pressure |
 
-Higher flour types keep more of the grain's minerals (iron, magnesium), B vitamins and fibre (lesson 02.1), which is why wholemeal bread is nutritionally richer.
+Higher flour types keep more of the grain's minerals (iron, magnesium), B vitamins and fibre (lesson [02.1](lesson-01.md)), which is why wholemeal bread is nutritionally richer.
 
 **Energy from a label:** carbohydrates and proteins give about 4 kcal/g, fats about 9 kcal/g, fibre about 2 kcal/g. Salt = sodium × 2.5.
 

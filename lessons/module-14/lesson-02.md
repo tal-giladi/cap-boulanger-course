@@ -102,7 +102,7 @@ Top deck switched on at 4:35, bottom deck at 4:50 (60 minutes before their first
 
 **6. Hands check, 5:30-6:30 (rule 3).** 5:30-5:35 score and load baguettes 1-12; 5:40-5:45 second egg wash on two croissant trays; 5:50 load them; 5:57 unload baguettes; 6:00-6:03 score and load baguettes 13-24; 6:05 egg wash the third tray (moved out of the cabinet at 5:45 to the fournil so it does not over-proof while it waits); 6:08 unload; 6:10 load; 6:22 and 6:28 unload. Busy, but never two things at once.
 
-**7. Cost of the second product.** The baker starts at 2:20 instead of 2:30 (lesson 01.6 baked the same 24 baguettes on both decks in one load), because one deck now belongs to the croissants. The afternoon gains a 5 h 40 session for the lamination. Everything is on the racks by 6:28 and cooled by 6:52: eight minutes spare before 7:00, a little short of the 15 the template asks, so the baker notes it.
+**7. Cost of the second product.** The baker starts at 2:20 instead of 2:30 (lesson [01.6](../module-01/lesson-06.md) baked the same 24 baguettes on both decks in one load), because one deck now belongs to the croissants. The afternoon gains a 5 h 40 session for the lamination. Everything is on the racks by 6:28 and cooled by 6:52: eight minutes spare before 7:00, a little short of the 15 the template asks, so the baker notes it.
 
 ```mermaid
 gantt
@@ -214,7 +214,7 @@ On paper, every minute from 13:00 to 19:00 has one owner, and each product's dou
 | Two doughs ready to shape at the same minute | Each product planned backwards on its own, never checked together | Shape the one with the shorter tolerance first; slow the other in the cold or a cooler place | Hands check: list every hands task by clock time before you start |
 | Bread waits while the deck cools down to viennoiserie temperature (or the reverse) | Oven plan mixed temperatures on one deck | Hold the waiting pieces cooler; change the deck's temperature at once | Give each temperature its own deck or oven, or group loads hottest first |
 | Croissants leak butter while waiting for the oven | Proofed in the warm with the bread for too long | Bake at once; set the rest aside in the cool | Plan their oven slot before their proof; keep laminated dough below about 27 °C |
-| Afternoon free, night overloaded | Cold not used | — | Pointage différé, retarded pointage and blocking turn night work into afternoon work (lesson 04.6) |
+| Afternoon free, night overloaded | Cold not used | — | Pointage différé, retarded pointage and blocking turn night work into afternoon work (lesson [04.6](../module-04/lesson-06.md)) |
 
 ## Review
 

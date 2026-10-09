@@ -50,11 +50,11 @@ last_verified: "2026-10-09"
 
 # 21.5 · EP1 Round: Applied Management
 
-This round covers applied management (S5) and fills in four subjects Module 20 left for here: the organisation chart and internal communication, the règlement intérieur, training rights through working life, and the labour force and unemployment. You learn those first, with the official rules checked on 2026-10-09, then sit a 24-point round in 36 minutes that also reuses Module 20's timesheet, leave and pricing figures, and mark it with the guide.
+This round covers applied management (S5) and fills in four subjects [Module 20](../module-20/lesson-04.md) left for here: the organisation chart and internal communication, the règlement intérieur, training rights through working life, and the labour force and unemployment. You learn those first, with the official rules checked on 2026-10-09, then sit a 24-point round in 36 minutes that also reuses [Module 20](../module-20/lesson-04.md)'s timesheet, leave and pricing figures, and mark it with the guide.
 
 ## Why it matters
 
-The applied-management part questions at least three of the five S5 domains (see [The CAP Boulanger Exam](../../references/cap-exam.md#ep1-written-test-on-technology-applied-science-and-management)). The 2019 paper asked candidates to name sources of law, to say which shops may sell "pain maison", to match end-of-contract documents to their definitions, to check an overtime count and to state paid-leave days. Those are taught in Module 20; this lesson adds what a paper can also ask about the company as an organisation (who reports to whom, how information circulates, what the internal rules may and may not say) and about your career (diplomas, training rights, the job market). In real life the same knowledge decides whether you can refuse a fine for being late, get your BP paid for, or understand why bakeries keep recruiting.
+The applied-management part questions at least three of the five S5 domains (see [The CAP Boulanger Exam](../../references/cap-exam.md#ep1-written-test-on-technology-applied-science-and-management)). The 2019 paper asked candidates to name sources of law, to say which shops may sell "pain maison", to match end-of-contract documents to their definitions, to check an overtime count and to state paid-leave days. Those are taught in [Module 20](../module-20/lesson-04.md); this lesson adds what a paper can also ask about the company as an organisation (who reports to whom, how information circulates, what the internal rules may and may not say) and about your career (diplomas, training rights, the job market). In real life the same knowledge decides whether you can refuse a fine for being late, get your BP paid for, or understand why bakeries keep recruiting.
 
 ## Key terms
 
@@ -261,7 +261,7 @@ You can take any clause of a règlement intérieur, any training wish and any un
 - [ ] I know when a règlement intérieur is compulsory, what it contains and the three things it may not contain, and that fines are forbidden.
 - [ ] I can place CAP and BP on the levels and explain CPF, PTP and bilan de compétences.
 - [ ] I can define the labour force and ILO unemployment, give the latest rate and name causes of recruitment difficulties.
-- [ ] I re-checked the Module 20 figures I used (SMIC, grid, VAT).
+- [ ] I re-checked the [Module 20](../module-20/lesson-01.md) figures I used (SMIC, grid, VAT).
 
 ## What goes wrong
 

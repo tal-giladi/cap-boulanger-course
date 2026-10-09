@@ -27,7 +27,7 @@ This is the first lesson of Part 2 and of your first complete bread: the pain co
 
 ## Why it matters
 
-Pain courant is the everyday bread of a French bakery and the first bread on the référentiel's list of bread types (S3.2: cite the raw materials, give the stages of manufacture). The production test asks you to complete a technical sheet for pain courant or tradition and to make bread from a dough with pâte fermentée; what exactly is asked and how it is marked is in [The CAP Boulanger Exam](../../references/cap-exam.md). Everything in Part 1 meets here: the flour and salt of Module 2, the mixing of Module 3, the fermentation of Module 4, the water temperature of Module 5 and the calculations of Module 6. A baguette shows every mistake: a dough that leaves the mixer 3 °C too warm is a pale, flat baguette two and a half hours later.
+Pain courant is the everyday bread of a French bakery and the first bread on the référentiel's list of bread types (S3.2: cite the raw materials, give the stages of manufacture). The production test asks you to complete a technical sheet for pain courant or tradition and to make bread from a dough with pâte fermentée; what exactly is asked and how it is marked is in [The CAP Boulanger Exam](../../references/cap-exam.md). Everything in Part 1 meets here: the flour and salt of [Module 2](../module-02/lesson-01.md), the mixing of [Module 3](../module-03/lesson-01.md), the fermentation of [Module 4](../module-04/lesson-01.md), the water temperature of [Module 5](../module-05/lesson-02.md) and the calculations of [Module 6](../module-06/lesson-01.md). A baguette shows every mistake: a dough that leaves the mixer 3 °C too warm is a pale, flat baguette two and a half hours later.
 
 > [!NOTE]
 > This is the first lesson of a practical module, so the usual reminder: watching someone bake does not make you able to bake. Do the practice at home. The Academy cannot grade photos, so you compare your result with the targets and the [quality rubric](../../templates/quality-rubric.md) yourself, and that self-assessment does not replace the official practical exam.
@@ -95,23 +95,23 @@ This lesson covers the first three boxes. [Module 7](../module-07/lesson-01.md) 
 
 $$\text{water} = 4 \times \text{TPV} - \text{flour} - \text{room} - \text{pâte fermentée} - \text{friction factor}$$
 
-with a friction factor measured with four factors too (about 4 × the heating: about 8 by hand, 24-28 for improved mixing on a spiral). A pâte fermentée straight from the cold room at 4-8 °C pulls the dough down, so the water has to be warmer than for a direct dough. Every °C you miss changes fermentation speed by roughly 7 % (lesson [04.2](../module-04/lesson-02.md)): the whole schedule of lessons 08.2-08.4 depends on this one reading.
+with a friction factor measured with four factors too (about 4 × the heating: about 8 by hand, 24-28 for improved mixing on a spiral). A pâte fermentée straight from the cold room at 4-8 °C pulls the dough down, so the water has to be warmer than for a direct dough. Every °C you miss changes fermentation speed by roughly 7 % (lesson [04.2](../module-04/lesson-02.md)): the whole schedule of lessons [08.2](lesson-02.md)-[08.4](lesson-04.md) depends on this one reading.
 
 ## Worked example
 
-Saturday 14 November, Boulangerie Au Pain de la Halle: the order of lesson 01.6 (24 baguettes at 350 g and 20 rolls at 60 g, PC-02). The batch is already on the sheet: T55 5,400 g, water 3,456 g, salt 97 g, fresh yeast 81 g, pâte fermentée 810 g, total 9,844 g.
+Saturday 14 November, Boulangerie Au Pain de la Halle: the order of lesson [01.6](../module-01/lesson-06.md) (24 baguettes at 350 g and 20 rolls at 60 g, PC-02). The batch is already on the sheet: T55 5,400 g, water 3,456 g, salt 97 g, fresh yeast 81 g, pâte fermentée 810 g, total 9,844 g.
 
-1. **Readings at 2:30.** Flour 20 °C, fournil 22 °C, pâte fermentée from the cold room 7 °C. The sheet's friction factor for PC-02, improved mixing, about 10 kg: 26 (four factors, measured last week, lesson 05.3).
+1. **Readings at 2:30.** Flour 20 °C, fournil 22 °C, pâte fermentée from the cold room 7 °C. The sheet's friction factor for PC-02, improved mixing, about 10 kg: 26 (four factors, measured last week, lesson [05.3](../module-05/lesson-03.md)).
 2. **Water temperature.** Base 4 × 24 = 96. Water = 96 − 20 − 22 − 7 − 26 = **21 °C**. The water dosing unit is set to 21 °C; the meter to 3,456 g.
 3. **Requisition check.** Pâte fermentée tub labelled "PC-02, vendredi 15:40", smells pleasantly acidic, has roughly doubled: ripe, not over-ripe. Yeast block within date. Salt weighed separately, never on the yeast.
 4. **Frasage, 4 minutes speed 1.** Water, flour and crumbled yeast; salt after one minute; the pâte fermentée cut into eight pieces at the end. Pinch test: slightly firm. You add 70 g of bassinage water (about 1.3 % of the flour) at the start of second speed and write it on the sheet.
 5. **Kneading, 6 minutes speed 2.** The dough clears the bowl, is smooth and stretches into a thin, slightly cloudy film.
-6. **Temperature.** Probe in the centre of the dough: **24.4 °C**. On target. You write 24.4 °C on the [temperature log](../../templates/temperature-log.md) with the inputs and the bassinage, tip the dough into an oiled tub, cover it and note the time for pointage (08.2).
+6. **Temperature.** Probe in the centre of the dough: **24.4 °C**. On target. You write 24.4 °C on the [temperature log](../../templates/temperature-log.md) with the inputs and the bassinage, tip the dough into an oiled tub, cover it and note the time for pointage ([08.2](lesson-02.md)).
 7. **What if it had read 26.5 °C?** 2.5 °C too warm is about 1.07^2.5 ≈ 1.18, so fermentation runs about 18 % faster: pointage of 45 minutes becomes about 38 minutes, and the apprêt shortens too. You would tell the chef now, not at 6:00 when the baguettes are over-proofed.
 
 ## Practice
 
-You make a small pâte fermentée in the evening, then mix a home batch of PC-02 by hand to 24 °C ± 1 °C the next day and finish it as three short loaves. If you have already read lessons 08.2-08.4, carry the dough on through them instead.
+You make a small pâte fermentée in the evening, then mix a home batch of PC-02 by hand to 24 °C ± 1 °C the next day and finish it as three short loaves. If you have already read lessons [08.2](lesson-02.md)-[08.4](lesson-04.md), carry the dough on through them instead.
 
 > [!WARNING]
 > The oven is at 240 °C with steam. Use dry oven gloves, steam only into a metal tray preheated in the oven (never pour water into a hot glass or ceramic dish: it can shatter), pour and step back. Score with the blade moving away from your fingers and cover the lame after use.
@@ -135,7 +135,7 @@ You make a small pâte fermentée in the evening, then mix a home batch of PC-02
 
 **Next day: PC-02 on 500 g of flour** (same proportions as the bakery's 5.4 kg batch):
 
-| Ingredient | Baker's % | Home batch | Professional batch (01.6) |
+| Ingredient | Baker's % | Home batch | Professional batch ([01.6](../module-01/lesson-06.md)) |
 |---|---|---|---|
 | Flour T55 | 100 | 500 g | 5,400 g |
 | Water at the calculated temperature | 64 | 320 g | 3,456 g |
@@ -160,7 +160,7 @@ You make a small pâte fermentée in the evening, then mix a home batch of PC-02
 
 **Mixing day (30 minutes, then the bake)**
 
-3. Take the pâte fermentée out and measure its temperature, then the flour (in the bag) and the room at your worktop. Use your own four-factor friction factor if you measured one in lesson 05.3; otherwise use 8 (about 2 °C of heating by hand).
+3. Take the pâte fermentée out and measure its temperature, then the flour (in the bag) and the room at your worktop. Use your own four-factor friction factor if you measured one in lesson [05.3](../module-05/lesson-03.md); otherwise use 8 (about 2 °C of heating by hand).
 4. Calculate the water: 96 − flour − room − pâte fermentée − friction factor. Blend kettle, tap or fridge water to that temperature ± 0.5 °C (never above 40 °C), weigh 320 g. Write everything on the temperature log.
 5. Weigh the flour, salt and yeast in separate containers; tick each one.
 6. **Frasage (4 minutes):** water in the bowl, yeast crumbled in and dissolved, flour on top; mix with the scraper and one hand. After one minute add the salt. At the end, add the pâte fermentée torn into 6-8 pieces and squeeze it through the dough until no streaks remain.
@@ -197,7 +197,7 @@ The dough lands on 23-25 °C and you can show the calculation that predicted it.
 | Dough firm, tears, will not stretch | Strong or dry flour; water short; salt and pâte fermentée tighten it | Bassinage 2-3 % during kneading | Note the water this flour needs on the sheet |
 | Dough sticky and slack | Too much water; over-ripe or warm-kept pâte fermentée | Give a fold in pointage; shape with less flour, more tension | Weigh water exactly; keep pâte fermentée at about 4 °C, use within the sheet's time |
 | Streaks or lumps of old dough in the crumb | Pâte fermentée added in one cold lump or too late | Knead 1-2 minutes more | Cut it into pieces, add at the end of frasage |
-| Bread tastes salty | Salt weighed twice or on the 1 g scale by eye | — (cannot be removed) | Weigh salt on the 0.1 g scale and tick it; check salt per 100 g (08.5) |
+| Bread tastes salty | Salt weighed twice or on the 1 g scale by eye | — (cannot be removed) | Weigh salt on the 0.1 g scale and tick it; check salt per 100 g ([08.5](lesson-05.md)) |
 
 ## Review
 

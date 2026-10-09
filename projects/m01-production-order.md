@@ -22,7 +22,7 @@ You are the ouvrier boulanger on the early shift at Boulangerie Au Pain de la Ha
 
 Part A is paperwork for this order. Part B is a home order you bake yourself:
 
-> **Commande maison:** 12 petits pains ronds, pâton 70 g, fiche PD-01 (lesson 01.6: farine T55 100 %, eau 65 %, sel 1,8 %, levure fraîche 1,5 %), prêts à 13:00.
+> **Commande maison:** 12 petits pains ronds, pâton 70 g, fiche PD-01 (lesson [01.6](../lessons/module-01/lesson-06.md): farine T55 100 %, eau 65 %, sel 1,8 %, levure fraîche 1,5 %), prêts à 13:00.
 
 ## You need
 
@@ -31,7 +31,7 @@ Part A is paperwork for this order. Part B is a home order you bake yourself:
 - For Part B: the equipment and ingredients of [lesson 01.7](../lessons/module-01/lesson-07.md).
 
 > [!WARNING]
-> Part B uses a hot oven and steam. Follow the safety steps of lesson 01.7: dry oven gloves, a metal tin for steam (never glass), and step back when you pour the water.
+> Part B uses a hot oven and steam. Follow the safety steps of lesson [01.7](../lessons/module-01/lesson-07.md): dry oven gloves, a metal tin for steam (never glass), and step back when you pour the water.
 
 ## Steps
 
@@ -83,11 +83,11 @@ The Academy cannot grade your bread or your photos. Compare your work honestly w
 2. Baguettes 12,600 g; bâtards 2,400 g; rolls 1,800 g; total 16,800 g. With 2%: 17,136 g. Flour = 17,136 × 100 ÷ 182.3 = 9,399.9 g, rounded up to 9,400 g.
 3. Flour T55 9,400 g; water 6,016 g; salt 169 g; fresh yeast 141 g; pâte fermentée 1,410 g; total 17,136 g, which covers the order and the 2% allowance.
 4. Flour T55 9.4 kg (check type and lot), fresh yeast 141 g (check use-by date and smell), salt 169 g, pâte fermentée 1,410 g (check the date on the tub and that it was kept at +4 °C). Water at the calculated temperature.
-5. 17.1 kg of dough is within the 25 kg mixer capacity. Equipment as in lesson 01.6: scale, bowls, thermometer, spiral mixer, tub, scraper, bench, couches and boards, trays, proofing cabinet, lame, loader or peel, deck oven, racks.
+5. 17.1 kg of dough is within the 25 kg mixer capacity. Equipment as in lesson [01.6](../lessons/module-01/lesson-06.md): scale, bowls, thermometer, spiral mixer, tub, scraper, bench, couches and boards, trays, proofing cabinet, lame, loader or peel, deck oven, racks.
 6. Weigh 15 → mix 10 → pointage 45 → divide and pre-shape 25 → détente 20 → shape 35 → apprêt 75 → bake → cool 30. From end of mixing to the first load: 45 + 25 + 20 + 35 + 75 = 200 min, 3 h 20.
 7. Load 1: 36 baguettes on the 3 decks, 22 min. Load 2: 6 bâtards on one deck (28 min) and 30 rolls on another (15 min).
 8. Baguettes cool from 6:15 to 6:45, so they come out at 6:15 and go in at 5:53. Apprêt ends 5:53, so shaping ends 4:38; shaping starts 4:03; détente from 3:43; dividing from 3:18; pointage from 2:33; mixing from 2:23; **weighing at 2:08 at the latest** (say 2:00). Load 2 goes in at 6:15: rolls out 6:30, cool by 7:00 for the 7:15 delivery; bâtards out 6:43, cool by 7:13 for 7:30. All deadlines met.
-9. If everything is shaped by 4:38, the bâtards and rolls wait until 6:15: 1 h 37 of apprêt instead of 1 h 15, so they over-proof and spread. Fixes: shape the baguettes first and the bâtards and rolls last; proof the second load in a cooler place or a cooler cabinet setting; or ask the chef whether a different deck order is allowed. Modules 4 and 14 teach these tools.
+9. If everything is shaped by 4:38, the bâtards and rolls wait until 6:15: 1 h 37 of apprêt instead of 1 h 15, so they over-proof and spread. Fixes: shape the baguettes first and the bâtards and rolls last; proof the second load in a cooler place or a cooler cabinet setting; or ask the chef whether a different deck order is allowed. [Modules 4](../lessons/module-04/lesson-01.md) and [14](../lessons/module-14/lesson-01.md) teach these tools.
 
 </details>
 

@@ -17,7 +17,7 @@ Your task: sit the paper below in one sitting, with the time and the calculator 
 ## You need
 
 - A printed copy of this page (or a second screen with the guide hidden), paper, pen, a calculator without memory, a timer.
-- Your timing plan from lesson [21.1](../lessons/module-21/lesson-01.md) and your error list from rounds 21.2–21.6.
+- Your timing plan from lesson [21.1](../lessons/module-21/lesson-01.md) and your error list from rounds [21.2](../lessons/module-21/lesson-02.md)–21.6.
 - The [readiness checklist](../templates/readiness-checklist.md) template for the last step.
 - Time: the real test's duration for the paper, then about 60 minutes to mark and 30 minutes to plan.
 

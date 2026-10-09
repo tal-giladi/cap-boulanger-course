@@ -49,10 +49,10 @@ In English: one PC-02 dough for épis, fendus, couronnes and rolls in three shap
 
 ### Part B — your home assortment (two days)
 
-9. **Evening:** make the pâte fermentée for a 1 kg PC-02 batch (lesson [08.1](../lessons/module-08/lesson-01.md): 100 g flour, 64 g water, 1.8 g salt, 1.5 g fresh yeast), and, if needed, the levain build (10.3) or the soaker (10.7) for your other bread.
+9. **Evening:** make the pâte fermentée for a 1 kg PC-02 batch (lesson [08.1](../lessons/module-08/lesson-01.md): 100 g flour, 64 g water, 1.8 g salt, 1.5 g fresh yeast), and, if needed, the levain build ([10.3](../lessons/module-10/lesson-03.md)) or the soaker ([10.7](../lessons/module-10/lesson-07.md)) for your other bread.
 10. **Plan on paper** before you start: PC-02 on 1 kg of flour (1,823 g, keep 150 g as your next pâte fermentée); divide **1 épi of 270 g, 1 fendu of 400 g, 1 couronne or tabatière of 400 g, 9 rolls of 60 g in three shapes** (1,610 g). Choose your other bread (campagne, complet, pain de mie or viennois) on 500 g of flour. Draw a timeline with both doughs and a one-tray oven: what bakes first, at what temperature, with or without steam.
-11. **Mix** PC-02 by hand to 24 °C ± 1 °C (four factors, lesson 08.1) and your other dough to its target, recording every temperature.
-12. **Divide, shape and proof** following lessons 10.1 and 10.2: fendu groove down, tabatière flap down, couronne with its hole open, rolls rounded with tension; the épi cut with scissors at the end of apprêt.
+11. **Mix** PC-02 by hand to 24 °C ± 1 °C (four factors, lesson [08.1](../lessons/module-08/lesson-01.md)) and your other dough to its target, recording every temperature.
+12. **Divide, shape and proof** following lessons [10.1](../lessons/module-10/lesson-01.md) and [10.2](../lessons/module-10/lesson-02.md): fendu groove down, tabatière flap down, couronne with its hole open, rolls rounded with tension; the épi cut with scissors at the end of apprêt.
 13. **Bake** in the order of your timeline; steam for the PC-02 products and the free-form campagne or complet, none for pain de mie or egg-washed viennois.
 14. **Evaluate** after cooling: weigh every piece, calculate the losses and the salt per 100 g of the lightest roll and of your other bread against its own limit, and score the épi, one shaped piece, the roll tray and the other bread with the quality rubric.
 15. **Write three lines:** what matched your plan, what did not, the one change for next time.

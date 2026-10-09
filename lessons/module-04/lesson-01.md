@@ -72,7 +72,7 @@ Flour contains only about 1-2 % simple sugars. Over a fermentation of several ho
 
 1. **Gas and volume.** CO₂ first dissolves in the dough water, then, once the water is saturated, diffuses into the tiny air bubbles trapped at mixing. Those bubbles grow and the gluten films stretch around them ([lesson 03.1](../module-03/lesson-01.md) explains the network). Yeast creates no new bubbles: it only fills the ones mixing made.
 2. **Maturing the dough.** The stretching of the films by the gas, and the acids, change the gluten: the dough gains strength and tenacity during pointage (*la pâte prend de la force*). Too little fermentation leaves a dough slack and sticky; too much leaves it tough, then, if it goes on, weak and torn.
-3. **Flavour.** Ethanol, organic acids and esters make the taste and smell of bread. Most flavour molecules form slowly and better at moderate temperatures: yeast makes gas fastest in the mid-30s °C, but flavour suffers, which is why bakers ferment around 22-27 °C and sometimes much colder (lesson 04.6).
+3. **Flavour.** Ethanol, organic acids and esters make the taste and smell of bread. Most flavour molecules form slowly and better at moderate temperatures: yeast makes gas fastest in the mid-30s °C, but flavour suffers, which is why bakers ferment around 22-27 °C and sometimes much colder (lesson [04.6](lesson-06.md)).
 4. **Crust colour and keeping.** Residual sugars colour the crust; acids slow staling and mould.
 
 ### The stages
@@ -81,9 +81,9 @@ Flour contains only about 1-2 % simple sugars. Over a fermentation of several ho
 
 | Stage | What fermentation does there | Lesson |
 |---|---|---|
-| Pointage (bulk) | builds strength and flavour in the whole mass | 04.2 |
-| Division and détente | fermentation continues while the pieces relax | 04.3 |
-| Apprêt (final proof) | fills the shaped piece with gas to the right volume for the oven | 04.4 |
+| Pointage (bulk) | builds strength and flavour in the whole mass | [04.2](lesson-02.md) |
+| Division and détente | fermentation continues while the pieces relax | [04.3](lesson-03.md) |
+| Apprêt (final proof) | fills the shaped piece with gas to the right volume for the oven | [04.4](lesson-04.md) |
 | First minutes in the oven | gas expands with heat, CO₂ comes out of solution, ethanol evaporates: the loaf rises (oven spring) until the yeast dies at about 46-50 °C in the dough | [Module 7](../module-07/lesson-05.md) |
 
 Fermentation therefore does not stop when you shape the bread: the clock runs from the end of mixing until the oven. The three factors the référentiel asks you to link are **temperature** (warmer = faster), **time** (longer = more gas, more acid, more flavour) and **the fermenting agent** (how much yeast, which pre-ferment, levain or not). Change one and the other two must move: less yeast needs more time or more warmth.
@@ -138,7 +138,7 @@ The salt in B is a deliberately high dose (4 % of the water) so the effect shows
 
 ### How you know it worked
 
-Bottle A inflates clearly within 30-45 minutes and keeps growing. B rises noticeably more slowly: salt holds water away from the yeast. C barely moves while cold: the yeast is alive but almost inactive. D stays flat: yeast is killed at that temperature. If A does not inflate, your yeast is old or the bottle leaks; repeat with fresh yeast (lesson 02.6). Exact sizes depend on your yeast and room; the order A > B > C, D is what matters.
+Bottle A inflates clearly within 30-45 minutes and keeps growing. B rises noticeably more slowly: salt holds water away from the yeast. C barely moves while cold: the yeast is alive but almost inactive. D stays flat: yeast is killed at that temperature. If A does not inflate, your yeast is old or the bottle leaks; repeat with fresh yeast (lesson [02.6](../module-02/lesson-06.md)). Exact sizes depend on your yeast and room; the order A > B > C, D is what matters.
 
 ### Self-check
 
@@ -152,7 +152,7 @@ Bottle A inflates clearly within 30-45 minutes and keeps growing. B rises notice
 | Symptom | Likely cause | Fix now | Prevent next time |
 |---|---|---|---|
 | Dough hardly rises at all | Yeast dead (hot water), forgotten, or very old | If it can still be mixed, add fresh yeast dissolved in a little water and remix; report it | Check the yeast and the water temperature at weighing; tick each ingredient |
-| Bread rises well but tastes flat and "yeasty" | Fast, warm fermentation with much yeast: gas but little flavour | — | Less yeast and more time, or a pre-ferment (lesson 04.5) |
+| Bread rises well but tastes flat and "yeasty" | Fast, warm fermentation with much yeast: gas but little flavour | — | Less yeast and more time, or a pre-ferment (lesson [04.5](lesson-05.md)) |
 | Pale crust even after a full bake | Over-fermented: residual sugars used up | Bake a little longer and hotter for colour | Shorten fermentation or cool the dough |
 | Very dark, reddish crust and dense crumb | Under-fermented: much sugar left, little gas | — | Give pointage and apprêt their full time |
 | Sour, alcoholic smell from the dough tub | Fermentation too long or too warm | Divide at once and shorten the apprêt | Control dough temperature and timing |

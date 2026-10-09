@@ -66,11 +66,11 @@ The water percentage is the **hydration**. 62-65% gives a firm, easy dough (pain
 
 ### Pre-ferments
 
-French technical sheets often list a pâte fermentée as an extra ingredient with its own percentage (for example 15% of the flour). That piece of old dough also contains flour and water, so the "true" overall hydration is a little different from the figure on the sheet. For now, treat it as one more ingredient in the list; module 6 shows how to count the flour and water inside a pre-ferment.
+French technical sheets often list a pâte fermentée as an extra ingredient with its own percentage (for example 15% of the flour). That piece of old dough also contains flour and water, so the "true" overall hydration is a little different from the figure on the sheet. For now, treat it as one more ingredient in the list; [module 6](../module-06/lesson-04.md) shows how to count the flour and water inside a pre-ferment.
 
 ### Rounding
 
-Round flour up to a practical figure (often the nearest 50 or 100 g in a bakery), then calculate the other ingredients from the rounded flour. Weigh flour and water to the gram; salt and yeast to 0.1 g in small batches (lesson 01.4). Never round each ingredient separately before you have fixed the flour: the ratios drift.
+Round flour up to a practical figure (often the nearest 50 or 100 g in a bakery), then calculate the other ingredients from the rounded flour. Weigh flour and water to the gram; salt and yeast to 0.1 g in small batches (lesson [01.4](lesson-04.md)). Never round each ingredient separately before you have fixed the flour: the ratios drift.
 
 ## Worked example
 

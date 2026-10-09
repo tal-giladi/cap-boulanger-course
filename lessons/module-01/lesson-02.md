@@ -48,19 +48,19 @@ The written test asks you to name the zones of a bakery and explain the marche e
 
 ### The wheat-flour-bread chain
 
-Bread starts in a field. The **farmer** (céréalier) grows wheat; a **cooperative or grain merchant** stores and grades it; the **miller** (meunier) cleans, conditions and grinds it into flours of different types; the **baker** turns flour into bread; the **customer** buys it. Each link affects your work. A wet harvest can give flour with more enzyme activity and stickier dough; a mill blends wheats to keep its flour steady from year to year; the baker adjusts water and fermentation to the flour of the day. Module 2 follows the grain in detail.
+Bread starts in a field. The **farmer** (céréalier) grows wheat; a **cooperative or grain merchant** stores and grades it; the **miller** (meunier) cleans, conditions and grinds it into flours of different types; the **baker** turns flour into bread; the **customer** buys it. Each link affects your work. A wet harvest can give flour with more enzyme activity and stickier dough; a mill blends wheats to keep its flour steady from year to year; the baker adjusts water and fermentation to the flour of the day. [Module 2](../module-02/lesson-01.md) follows the grain in detail.
 
 ### Types of bakery business
 
 | Type | What it does | Typical staff | What it means for you |
 |---|---|---|---|
-| Boulangerie artisanale | Makes its own bread on site from raw materials, sells in its shop | Owner-baker, 1-5 bakers, apprentice, sales staff | All stages by hand; legal name protected (lesson 01.1) |
+| Boulangerie artisanale | Makes its own bread on site from raw materials, sells in its shop | Owner-baker, 1-5 bakers, apprentice, sales staff | All stages by hand; legal name protected (lesson [01.1](lesson-01.md)) |
 | Chain or franchise (enseigne) | Several shops under one brand, shared formulas and suppliers | Production manager, bakers, sales staff | Standard technical sheets you must follow exactly |
 | Terminal de cuisson | Bakes frozen or chilled dough delivered from a factory | Sales staff who bake off | Little craft skill needed; may not call itself boulangerie |
 | GMS in-store bakery | Bakery department in a supermarket, sometimes making dough on site | Department manager, bakers | Large volumes, long opening hours, shift work |
 | Industrial bakery (industrie de panification) | Factory production for supermarkets and catering | Line operators, technicians | Machines, process control, cold chain |
 
-The CAP prepares you to work in any of these, under a supervisor.
+The CAP prepares you to work in any of these, under a supervisor. Lesson [20.1](../module-20/lesson-01.md) looks at the sector and these businesses in more detail.
 
 ### People in a craft bakery
 

@@ -28,7 +28,7 @@ last_verified: "2026-10-08"
 
 # 10.7 · Seeded and Special Breads
 
-Seeds, grains, nuts, rye or spelt turn the day's dough into "special breads" (pains spéciaux): seeded loaves, cereal breads, walnut or raisin breads. Each addition brings flavour and sales, and each one changes the water, the gluten, the baking and the allergen list. This lesson delivers the seeded loaf with a soaker promised in lesson 02.9, explains how inclusions and premixes are handled, and you bake a seeded tin loaf and a seed-coated bâtard.
+Seeds, grains, nuts, rye or spelt turn the day's dough into "special breads" (pains spéciaux): seeded loaves, cereal breads, walnut or raisin breads. Each addition brings flavour and sales, and each one changes the water, the gluten, the baking and the allergen list. This lesson delivers the seeded loaf with a soaker promised in lesson [02.9](../module-02/lesson-09.md), explains how inclusions and premixes are handled, and you bake a seeded tin loaf and a seed-coated bâtard.
 
 ## Why it matters
 
@@ -68,7 +68,7 @@ Dry seeds behave like a sponge in the dough: they take water from it during ferm
 | Water | 66 | the dough's own hydration |
 | Salt | 1.8 | checked against 1.3 g per 100 g below |
 | Fresh yeast | 1.5 | direct method |
-| **Soaker:** seeds (sunflower 8, flax 6, sesame 6) | 20 | 10-20 % is usual (lesson 02.9); 20 % is a generous seeded loaf |
+| **Soaker:** seeds (sunflower 8, flax 6, sesame 6) | 20 | 10-20 % is usual (lesson [02.9](../module-02/lesson-09.md)); 20 % is a generous seeded loaf |
 | **Soaker:** water | 25 | 125 % of the seeds because of the flax |
 | **Total** | **214.3** | TPV 24 °C |
 
@@ -97,14 +97,14 @@ flowchart LR
 | Bread | What changes | Process point |
 |---|---|---|
 | Cereal bread from a **premix** | the premix brings flours, seeds and often improvers | follow the supplier's sheet for water and mixing; read the label (below) |
-| **Spelt** (épeautre) bread | spelt is a wheat with weaker, more extensible gluten (lesson 02.9) | mix less, ferment gently, support in a tin; spelt contains gluten |
+| **Spelt** (épeautre) bread | spelt is a wheat with weaker, more extensible gluten (lesson [02.9](../module-02/lesson-09.md)) | mix less, ferment gently, support in a tin; spelt contains gluten |
 | **Rye** breads | rye forms no gluten network and is sticky (lesson [10.3](lesson-03.md)) | more acidity (levain), wet hands, tins or bannetons; names by rye share are in [lesson 09.1](../module-09/lesson-01.md) |
 | **Walnut or raisin** bread | nuts and fruit are heavy and take or release water | walnuts lightly toasted, raisins briefly soaked and drained; fold in at the end at slow speed; walnut skins colour the crumb grey-violet, which is normal |
 | **Bran** bread (pain au son) | bran absorbs water and weakens gluten (lesson [10.4](lesson-04.md)) | more water, a rest, gentle mixing |
 
 ### Reading a premix label (S2.4)
 
-A typical "mix multicéréales" label lists: wheat flour, seeds, rye flour, **wheat gluten**, malted wheat flour, emulsifier E472e, flour treatment agent **E300 (ascorbic acid)**, enzymes. From lesson 02.9: gluten is an adjuvant that strengthens the dough so it can carry the seeds; malt flour brings amylase for fermentation and colour; E300 is an additive that strengthens the gluten; enzymes are processing aids. All of these are fine in a pain courant-type cereal bread and must be declared; none of the additives is allowed in pain de tradition française.
+A typical "mix multicéréales" label lists: wheat flour, seeds, rye flour, **wheat gluten**, malted wheat flour, emulsifier E472e, flour treatment agent **E300 (ascorbic acid)**, enzymes. From lesson [02.9](../module-02/lesson-09.md): gluten is an adjuvant that strengthens the dough so it can carry the seeds; malt flour brings amylase for fermentation and colour; E300 is an additive that strengthens the gluten; enzymes are processing aids. All of these are fine in a pain courant-type cereal bread and must be declared; none of the additives is allowed in pain de tradition française.
 
 ### Allergens and order of work
 
@@ -125,7 +125,7 @@ Tuesday: an organic shop orders **20 pains aux graines moulés of 500 g**. Sheet
 
 ## Practice
 
-The evening before, you make a soaker; the next day you mix SE-01 on 500 g of flour and bake one seeded tin loaf and one seed-coated bâtard of 520 g each, comparing with your pain complet of lesson 10.4 if you made it.
+The evening before, you make a soaker; the next day you mix SE-01 on 500 g of flour and bake one seeded tin loaf and one seed-coated bâtard of 520 g each, comparing with your pain complet of lesson [10.4](lesson-04.md) if you made it.
 
 > [!WARNING]
 > The oven is at 220-230 °C. Use dry oven gloves and long sleeves; steam only into a metal tray preheated on the lowest shelf (never water into a hot glass or ceramic dish), pour 100-150 mL of hot water, close the door and step back. If you toast seeds in a dry pan, stay with it and keep children away: sesame and sunflower seeds go from golden to burnt in seconds and the pan is very hot. Score with the blade moving away from your fingers.
@@ -194,7 +194,7 @@ Plus about 40 g of raw mixed seeds for coating. Divide 2 × 520 g = 1,040 g.
 
 ### How you know it worked
 
-The crumb is moist, with seeds spread evenly and no dry pockets, and it is still soft the next day: the soaker kept the water in the bread. The seed coat sticks to the crust and is toasted golden. If you baked the dry-seed rolls of lesson 02.9, compare: the soaker loaf is moister and keeps longer.
+The crumb is moist, with seeds spread evenly and no dry pockets, and it is still soft the next day: the soaker kept the water in the bread. The seed coat sticks to the crust and is toasted golden. If you baked the dry-seed rolls of lesson [02.9](../module-02/lesson-09.md), compare: the soaker loaf is moister and keeps longer.
 
 ### Self-check
 

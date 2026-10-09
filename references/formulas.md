@@ -51,7 +51,7 @@ These are the course's starting formulas, in baker's percentages (flour = 100). 
 
 ## Where the numbers come from
 
-- Salt: under the March 2022 agreement between the bakery sector and the government, pain courant (such as the baguette) must contain at most 1.4 g of salt per 100 g of bread since October 2023 ([Ministry of Agriculture](https://agriculture.gouv.fr/filiere-boulangerie-vers-une-diminution-du-sel-dans-le-pain-0)); about 1.8% of flour weight meets it. Wholemeal and cereal breads: at most 1.3 g per 100 g since October 2023; pain de mie: at most 1.1 g since October 2025. Lesson 02.5 explains the calculation.
+- Salt: under the March 2022 agreement between the bakery sector and the government, pain courant (such as the baguette) must contain at most 1.4 g of salt per 100 g of bread since October 2023 ([Ministry of Agriculture](https://agriculture.gouv.fr/filiere-boulangerie-vers-une-diminution-du-sel-dans-le-pain-0)); about 1.8% of flour weight meets it. Wholemeal and cereal breads: at most 1.3 g per 100 g since October 2023; pain de mie: at most 1.1 g since October 2025. Lesson [02.5](../lessons/module-02/lesson-05.md) explains the calculation.
 - Pain de tradition française: ingredients and permitted additions are fixed by law (décret n°93-1074, [lesson 09.1](../lessons/module-09/lesson-01.md)). Nothing else may be added.
-- Yeast amounts assume fresh compressed yeast. Instant dry yeast: use about one third of the fresh weight; active dry yeast: about 40-50% (lesson 02.6).
-- Target dough temperatures are the usual ranges for each product's fermentation; lesson 05.2 shows how to reach them.
+- Yeast amounts assume fresh compressed yeast. Instant dry yeast: use about one third of the fresh weight; active dry yeast: about 40-50% (lesson [02.6](../lessons/module-02/lesson-06.md)).
+- Target dough temperatures are the usual ranges for each product's fermentation; lesson [05.2](../lessons/module-05/lesson-02.md) shows how to reach them.

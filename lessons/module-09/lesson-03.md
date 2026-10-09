@@ -44,7 +44,7 @@ Shaping is where tradition and pain courant part ways on the bench. The PC-02 ba
 
 ### What is different about the dough
 
-| | PC-02 pain courant (Module 8) | TR-01 tradition |
+| | PC-02 pain courant ([Module 8](../module-08/lesson-01.md)) | TR-01 tradition |
 |---|---|---|
 | Water | 64 %, pâte bâtarde | 70 % or more, pâte douce |
 | Strength at dividing | from the mixer: firm, elastic | from folds and time: soft, extensible, less elastic |
@@ -76,7 +76,7 @@ flowchart LR
 - **Flatten only to an even rectangle**, using fingertips at the edges. Large bubbles in the middle stay.
 - **Seal the seam firmly**, even though the folds are light: the seam is what holds a soft dough together in the oven. An open seam spreads.
 - **Roll out in two short passes**, hands barely pressing, starting at the centre. A soft dough lengthens easily; pressing hard to "help" it squeezes out the gas.
-- **Lengths:** the bakery's 300 g tradition pâton to about 55 cm; your 270 g home piece to about 38 cm, or your tray width minus 4-5 cm (lesson 08.3).
+- **Lengths:** the bakery's 300 g tradition pâton to about 55 cm; your 270 g home piece to about 38 cm, or your tray width minus 4-5 cm (lesson [08.3](../module-08/lesson-03.md)).
 - **Use more fleurage** than for pain courant: the soft dough sticks to the couche. Rice flour or a 50/50 mix of rice and wheat flour sticks least.
 
 A tradition baguette is allowed to look a little irregular: slight bumps along its length show the gas inside. It must not be flat, torn or uneven in thickness.
@@ -95,19 +95,19 @@ The rules of [lesson 08.4](../module-08/lesson-04.md) apply: cuts **along the mi
 
 ## Worked example
 
-Saturday, 6:45: the TR-01 batch of lesson 09.2 has finished pointage. After Sunday's 1,000 g of pâte fermentée has been cut off, about 12.3 kg of dough remain for **40 baguettes at 300 g** (12,000 g). The shop's tradition pattern is 3 long cuts; the courant has 5.
+Saturday, 6:45: the TR-01 batch of lesson [09.2](lesson-02.md) has finished pointage. After Sunday's 1,000 g of pâte fermentée has been cut off, about 12.3 kg of dough remain for **40 baguettes at 300 g** (12,000 g). The shop's tradition pattern is 3 long cuts; the courant has 5.
 
 1. **6:45-7:05, dividing:** dough turned out with a wet scraper, spread to an even slab, cut into rectangles. Every fifth piece is checked on the scale: 301, 298, 300, 304, 297 g. Tolerance on the sheet: 300 g ± 5 g. Four pieces needed one appoint; none needed two.
 2. **Pre-shaping:** each piece folded in thirds, seam down, in division order on a floured board. Covered.
 3. **Détente 30 minutes**, 7:05-7:35. The first pieces spread slightly and stretch without resistance: ready.
 4. **7:35-8:00, shaping:** light flattening, firm seam, two rolling passes, 55 cm. Five pieces measured: 54, 56, 55, 53, 56 cm. Into a couche dusted with rice flour, seam up.
 5. **Apprêt** at 24 °C from 8:00. Poke test at 8:40 on the first-shaped piece: springs back quickly. At 8:55: fills back slowly, not completely. The baguettes have been uncovered since 8:45.
-6. **8:55, scoring and loading:** 3 cuts each, lame at about 30°, one stroke per cut; two decks of 20 (lesson 09.4).
+6. **8:55, scoring and loading:** 3 cuts each, lame at about 30°, one stroke per cut; two decks of 20 (lesson [09.4](lesson-04.md)).
 7. **Record:** dividing 20 minutes, 4 appoints, détente 30 minutes, lengths 53-56 cm, apprêt 55 minutes, 3-cut pattern.
 
 ## Practice
 
-You divide, pre-shape, shape and score three baguettes of 270 g from your TR-01 dough (lesson 09.2) and set them up for baking (lesson 09.4). Start the oven preheating when you shape.
+You divide, pre-shape, shape and score three baguettes of 270 g from your TR-01 dough (lesson [09.2](lesson-02.md)) and set them up for baking (lesson [09.4](lesson-04.md)). Start the oven preheating when you shape.
 
 > [!WARNING]
 > Preheat the oven to 240-250 °C with the baking tray or stone in the middle and an empty metal tray on the lowest shelf. Use dry oven gloves for every tray. Steam goes only into the preheated metal tray, never into a hot glass or ceramic dish.
@@ -122,7 +122,7 @@ You divide, pre-shape, shape and score three baguettes of 270 g from your TR-01 
 
 ### Ingredients
 
-Your TR-01 dough from lesson 09.2 after pointage: about 937 g, minus the 75 g of tradition pâte fermentée you kept. You divide 3 × 270 g; the remaining 40-50 g can be shaped into a small roll as a test piece for the poke test.
+Your TR-01 dough from lesson [09.2](lesson-02.md) after pointage: about 937 g, minus the 75 g of tradition pâte fermentée you kept. You divide 3 × 270 g; the remaining 40-50 g can be shaped into a small roll as a test piece for the poke test.
 
 ### In Israel
 
@@ -140,7 +140,7 @@ Your TR-01 dough from lesson 09.2 after pointage: about 937 g, minus the 75 g of
 5. **Shape:** piece top side down; even it out with fingertips; fold the far third and press the edge only; fold over the thumb and seal the seam firmly; two light rolling passes to about 38 cm; taper the ends. Measure each baguette.
 6. **Into the couche:** dust the couche well, lay each baguette seam up with a fold of cloth between them (or seam down on floured baking paper with rolled towels between them). Cover. Note the time.
 7. **Apprêt:** poke-test the test roll from 35 minutes (25 minutes in a hot kitchen). Uncover the baguettes for the last 5-10 minutes.
-8. **Transfer and score:** roll each baguette seam down onto the baking paper on a flat board. Three cuts of about 13 cm along the midline, overlapping by a third, blade at 30-45°, about 5 mm deep, one quick stroke each. Cover the lame. Bake at once (lesson 09.4).
+8. **Transfer and score:** roll each baguette seam down onto the baking paper on a flat board. Three cuts of about 13 cm along the midline, overlapping by a third, blade at 30-45°, about 5 mm deep, one quick stroke each. Cover the lame. Bake at once (lesson [09.4](lesson-04.md)).
 
 ```mermaid
 gantt
@@ -170,7 +170,7 @@ gantt
 
 ### How you know it worked
 
-The pieces stayed puffy and light through dividing and shaping; you saw and felt bubbles under the skin when you sealed the seam. The baguettes kept their shape in the couche without spreading flat, and the cuts opened cleanly without dragging. After baking (lesson 09.4) the crumb shows large irregular holes rather than a tight, even crumb.
+The pieces stayed puffy and light through dividing and shaping; you saw and felt bubbles under the skin when you sealed the seam. The baguettes kept their shape in the couche without spreading flat, and the cuts opened cleanly without dragging. After baking (lesson [09.4](lesson-04.md)) the crumb shows large irregular holes rather than a tight, even crumb.
 
 ### Self-check
 
@@ -185,7 +185,7 @@ The pieces stayed puffy and light through dividing and shaping; you saw and felt
 | Symptom | Likely cause | Fix now | Prevent next time |
 |---|---|---|---|
 | Tight, regular crumb in a tradition | Dough punched at turning out; flattened hard; tight pre-shape | — | Let the dough spread by itself; fingertips only; loose pre-shape |
-| Baguettes spread flat in the couche | Seam not sealed; too little tension; dough too slack or over-fermented | Bake slightly early; firmer support with the couche folds | Seal firmly; check hydration and pointage (09.2) |
+| Baguettes spread flat in the couche | Seam not sealed; too little tension; dough too slack or over-fermented | Bake slightly early; firmer support with the couche folds | Seal firmly; check hydration and pointage ([09.2](lesson-02.md)) |
 | Piece tears when rolled out | Détente too short; strong flour; pressed too hard | Rest 10 minutes more, then finish | Longer détente; lighter hands; two short passes |
 | Baguettes stick to the couche and deflate when moved | Too little or wrong dusting | Ease them off with a floured scraper | More fleurage; rice flour |
 | Lame drags, cuts tear | Wet skin; blunt blade; slow cut | Change the blade | Uncover for the last 5-10 minutes; quick decisive stroke |

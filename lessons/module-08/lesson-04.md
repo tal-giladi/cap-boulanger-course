@@ -97,7 +97,7 @@ At home: preheat at least 45 minutes with the baking tray (or a baking stone) on
 
 ## Worked example
 
-Saturday 14 November, 5:50. The 24 baguettes of PC-02 have been in the proofing cabinet since 4:45 at 25 °C (lesson 08.3). The deck oven is at 250 °C.
+Saturday 14 November, 5:50. The 24 baguettes of PC-02 have been in the proofing cabinet since 4:45 at 25 °C (lesson [08.3](lesson-03.md)). The deck oven is at 250 °C.
 
 1. **5:50, poke test** on the first baguette shaped: the dent fills back slowly and almost completely; volume about 1.6 times. Nearly ready. The planned 1 h 15 would end at 6:00.
 2. **5:55, poke test again:** the dent fills slowly and leaves a mark. Ready. You start loading at once rather than at 6:00: five minutes too late is visible in the grigne.
@@ -110,7 +110,7 @@ Saturday 14 November, 5:50. The 24 baguettes of PC-02 have been in the proofing 
 
 ## Practice
 
-You score and bake three home baguettes of 270 g from a PC-02 batch (made with the pâte fermentée you kept in lesson 08.2), after a scoring drill.
+You score and bake three home baguettes of 270 g from a PC-02 batch (made with the pâte fermentée you kept in lesson [08.2](lesson-02.md)), after a scoring drill.
 
 > [!WARNING]
 > The oven, trays and steam reach 250 °C. Wear dry oven gloves and long sleeves. Pour the water only into a metal tray preheated in the oven, never into a hot glass or ceramic dish, which can shatter; pour quickly, close the door and step back from the steam. Keep children and pets away from the open oven.
@@ -125,7 +125,7 @@ You score and bake three home baguettes of 270 g from a PC-02 batch (made with t
 
 ### Ingredients
 
-PC-02 on 500 g of flour (lesson 08.1): flour 500 g, water 320 g, salt 9 g, fresh yeast 7.5 g (or 2.5 g instant), pâte fermentée 75 g; total 911.5 g. Divide 3 × 270 g and keep 75 g as the next pâte fermentée. If you have no pâte fermentée, PD-01 on 500 g (lesson [06.5](../module-06/lesson-05.md)) gives the same three pâtons.
+PC-02 on 500 g of flour (lesson [08.1](lesson-01.md)): flour 500 g, water 320 g, salt 9 g, fresh yeast 7.5 g (or 2.5 g instant), pâte fermentée 75 g; total 911.5 g. Divide 3 × 270 g and keep 75 g as the next pâte fermentée. If you have no pâte fermentée, PD-01 on 500 g (lesson [06.5](../module-06/lesson-05.md)) gives the same three pâtons.
 
 ### In Israel
 
@@ -138,7 +138,7 @@ PC-02 on 500 g of flour (lesson 08.1): flour 500 g, water 320 g, salt 9 g, fresh
 ### Steps
 
 1. **Scoring drill (10 minutes):** on a sheet of baking paper draw a 38 cm line; practise three overlapping strokes along it with a capped pen, then on one shaped piece of leftover dough with the lame. Feel the low angle.
-2. Make the PC-02 dough, ferment, divide and shape three baguettes of about 38 cm (lessons 08.1-08.3). Place them seam down on baking paper with rolled towels between them. Cover.
+2. Make the PC-02 dough, ferment, divide and shape three baguettes of about 38 cm (lessons [08.1](lesson-01.md)-[08.3](lesson-03.md)). Place them seam down on baking paper with rolled towels between them. Cover.
 3. **Preheat** at least 45 minutes at 250 °C (or your maximum) with the baking tray or stone on the middle shelf and the metal steam tray on the lowest shelf. Put the kettle on 5 minutes before loading.
 4. **Poke test** from 45 minutes of apprêt (earlier in a warm kitchen). Write the time and what the dent did. Bake when it fills back slowly and not completely.
 5. **Score**: remove the towels, slide the paper with the baguettes onto a flat board. Three cuts per baguette, about 13 cm long, overlapping by a third, along the centre, blade at 30-45°, about 5 mm deep.
@@ -157,7 +157,7 @@ PC-02 on 500 g of flour (lesson 08.1): flour 500 g, water 320 g, salt 9 g, fresh
 
 ### How you know it worked
 
-The baguettes rose in the first minutes, the cuts opened into regular grignes with a raised, crisp edge, there are no tears along the sides, and the crust crackles as it cools. Cut across after cooling, the crumb is set and creamy, not gummy. Lesson 08.5 scores the result.
+The baguettes rose in the first minutes, the cuts opened into regular grignes with a raised, crisp edge, there are no tears along the sides, and the crust crackles as it cools. Cut across after cooling, the crumb is set and creamy, not gummy. Lesson [08.5](lesson-05.md) scores the result.
 
 ### Self-check
 

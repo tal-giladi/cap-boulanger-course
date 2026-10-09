@@ -59,7 +59,7 @@ The same formula gives a different bread in January and in July if nobody measur
 
 ### Two kinds of temperature
 
-Some temperatures you **set**: the water, the proofing cabinet, the cold room, the oven. Others you **only read**: the flour, the fournil air, a piece of pâte fermentée taken from the cold room. A good baker reads the second kind every batch, because they decide what the first kind must be. A sack of flour that sat in a 30 °C store over the weekend makes a different dough from one kept at 18 °C, unless the water is changed to compensate (lesson 05.2).
+Some temperatures you **set**: the water, the proofing cabinet, the cold room, the oven. Others you **only read**: the flour, the fournil air, a piece of pâte fermentée taken from the cold room. A good baker reads the second kind every batch, because they decide what the first kind must be. A sack of flour that sat in a 30 °C store over the weekend makes a different dough from one kept at 18 °C, unless the water is changed to compensate (lesson [05.2](lesson-02.md)).
 
 ### The ladder from freezer to oven
 
@@ -110,14 +110,14 @@ Monday, 4:30, Boulangerie du Marché, early July. The head baker asks you to do 
 | Deck oven: display / oven thermometer | 250 °C / 238 °C | 250 °C |
 
 1. **Cold room at 7 °C: report first.** It holds the fresh yeast and the pâte fermentée. Tell the head baker at once, write the reading on the cold-room record and on a non-conformity note (C4.4). The yeast and the pâte fermentée are checked before use: the pâte fermentée has probably fermented further overnight and the yeast may be weaker; the head baker decides whether to use them. Dairy and eggs follow the shop's hygiene plan ([Module 17](../module-17/lesson-08.md)).
-2. **Flour 26 °C and fournil 27 °C: expect very cold water.** Even before friction, the 3-factor sum already holds 26 + 27 = 53 °C of the 72 °C budget for a 24 °C dough (lesson 05.2), so the water must be far below the 22 °C tap: use the water cooler, and plan ice if the cooler cannot go low enough (lesson 05.3).
+2. **Flour 26 °C and fournil 27 °C: expect very cold water.** Even before friction, the 3-factor sum already holds 26 + 27 = 53 °C of the 72 °C budget for a 24 °C dough (lesson [05.2](lesson-02.md)), so the water must be far below the 22 °C tap: use the water cooler, and plan ice if the cooler cannot go low enough (lesson [05.3](lesson-03.md)).
 3. **Cabinet 3 °C hotter than displayed.** With the 7 % rule, 1.07³ ≈ 1.23: an apprêt planned at 1 h 15 would be ready in about 61 minutes. Correct the setting, report the faulty display, and poke-test from 55 minutes.
 4. **Oven 12 °C below its display.** Wait until the oven thermometer reads the target before loading, or expect a longer, paler bake. Report it for the technician.
 5. **Record everything.** The round took ten minutes and saved a batch of over-proofed baguettes and a cold-chain problem nobody would have seen until the bread was bad.
 
 ## Practice
 
-You audit the temperatures of your own kitchen at three moments of a day, test your oven, and calculate whether your tap water can give a 24 °C dough at each moment. Keep the audit: lessons 05.2-05.4 and the module project use it.
+You audit the temperatures of your own kitchen at three moments of a day, test your oven, and calculate whether your tap water can give a 24 °C dough at each moment. Keep the audit: lessons [05.2](lesson-02.md)-[05.4](lesson-04.md) and the module project use it.
 
 > [!WARNING]
 > Step 6 heats the oven to 230 °C. Use dry oven gloves to place and read the oven thermometer, open the door slowly and keep your face back from the hot air.
@@ -167,7 +167,7 @@ Checked 2026-10-08.
 
 ### How you know it worked
 
-You have a filled audit table and an oven note, and you can say, without guessing, at which time of day your tap water is warm enough or too warm for a 24 °C dough, how cold your fridge really is and how long your oven truly needs. Most learners find their oven needs 10-20 minutes more than its signal, and that in summer the calculated water is colder than the tap: lesson 05.3 deals with that.
+You have a filled audit table and an oven note, and you can say, without guessing, at which time of day your tap water is warm enough or too warm for a 24 °C dough, how cold your fridge really is and how long your oven truly needs. Most learners find their oven needs 10-20 minutes more than its signal, and that in summer the calculated water is colder than the tap: lesson [05.3](lesson-03.md) deals with that.
 
 ### Self-check
 

@@ -1,6 +1,6 @@
 # Project: Green Audit
 
-An environmental audit is how a bakery turns "we should waste less" into numbers, decisions and a plan someone can follow. In Part A you audit one week of a small bakery from its oven log, meter readings, waste log, packaging list and cleaning-product sheet, calculate what each problem costs and write the action plan. In Part B you run the same audit on your own kitchen for a week, using the work you did in lessons 18.1 to 18.3, and measure the difference in a second week. The Academy cannot grade your audit: compare your work honestly with the rubric and the reference answers; this self-assessment does not replace the official exam.
+An environmental audit is how a bakery turns "we should waste less" into numbers, decisions and a plan someone can follow. In Part A you audit one week of a small bakery from its oven log, meter readings, waste log, packaging list and cleaning-product sheet, calculate what each problem costs and write the action plan. In Part B you run the same audit on your own kitchen for a week, using the work you did in lessons [18.1](../lessons/module-18/lesson-01.md) to [18.3](../lessons/module-18/lesson-03.md), and measure the difference in a second week. The Academy cannot grade your audit: compare your work honestly with the rubric and the reference answers; this self-assessment does not replace the official exam.
 
 ## Brief
 
@@ -27,7 +27,7 @@ In English: one week of the bakery's oven habits, cold room, water meter, waste,
 ## You need
 
 - Part A: calculator; lessons [18.1](../lessons/module-18/lesson-01.md), [18.2](../lessons/module-18/lesson-02.md) and [18.3](../lessons/module-18/lesson-03.md); the [non-conformity report](../templates/non-conformity-report.md) for the two most urgent findings; paper or a spreadsheet for the action plan.
-- Part B: your oven card and bake-day energy plan (18.1), your one-week waste log and reuse plan (18.2), your packaging sheet and dose card (18.3); kitchen scale, 1 L jug, measuring cup, your electricity and water bills; the [bake log](../templates/bake-log.md) for the bake day of week two.
+- Part B: your oven card and bake-day energy plan ([18.1](../lessons/module-18/lesson-01.md)), your one-week waste log and reuse plan ([18.2](../lessons/module-18/lesson-02.md)), your packaging sheet and dose card ([18.3](../lessons/module-18/lesson-03.md)); kitchen scale, 1 L jug, measuring cup, your electricity and water bills; the [bake log](../templates/bake-log.md) for the bake day of week two.
 - Time: Part A about 2 hours; Part B two weeks of logging (5-10 minutes a day) plus one bake day and a 1-hour write-up.
 
 > [!WARNING]
@@ -48,9 +48,9 @@ In English: one week of the bakery's oven habits, cold room, water meter, waste,
 
 ### Part B — your kitchen's audit
 
-9. **Week one, baseline.** For seven days log: bread and baking waste by weight, reason and destination (18.2's log); packaging from baking ingredients by stream; the oven-on time of every bake; your tap flow and overnight meter test (18.1); your usual cleaning dose (18.3).
+9. **Week one, baseline.** For seven days log: bread and baking waste by weight, reason and destination ([18.2](../lessons/module-18/lesson-02.md)'s log); packaging from baking ingredients by stream; the oven-on time of every bake; your tap flow and overnight meter test ([18.1](../lessons/module-18/lesson-01.md)); your usual cleaning dose ([18.3](../lessons/module-18/lesson-03.md)).
 10. **Your plan.** Write three to five actions, each with a figure: for example one preheat a week instead of three, half-size loaves on weekdays, chapelure every Friday, dose card on the bucket, cloth bag for bought bread.
-11. **Week two.** Apply the plan. Include one bake day run on a single preheat with a product on the falling heat (18.1) and one reuse bake of stale bread (18.2). Log the same items.
+11. **Week two.** Apply the plan. Include one bake day run on a single preheat with a product on the falling heat ([18.1](../lessons/module-18/lesson-01.md)) and one reuse bake of stale bread ([18.2](../lessons/module-18/lesson-02.md)). Log the same items.
 12. **Compare** week one and week two: kg of bread wasted, oven-on hours and estimated kWh and cost, packaging items, mL of cleaning product.
 13. **Write one page:** results table, what worked, what did not and why, what you keep.
 

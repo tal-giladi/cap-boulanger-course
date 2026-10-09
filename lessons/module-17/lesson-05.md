@@ -56,7 +56,7 @@ The référentiel asks you to know the hygiene package, the GBPH and HACCP, and 
 - **The operator is responsible.** EU law (the hygiene package, applied since 1 January 2006) puts food safety first on the food business operator: the baker who runs the business must identify hazards and put control measures in place (Ministry of Agriculture).
 - **Regulation (EC) 852/2004** requires every food business to apply procedures based on the **HACCP principles** (article 5), with records "commensurate with the nature and size" of the business: a small bakery's paperwork can be simple, but it must exist.
 - **The PMS** is the bakery's file that shows it. The Ministry of Agriculture describes it as compulsory for every establishment that holds, prepares or distributes food, covering hygiene, cleaning, pest control, temperature control and traceability.
-- **Who checks:** the **DDPP** (under the Ministry of Agriculture's DGAL) inspects hygiene and can order corrections or closure; the **DGCCRF** checks labels and product names (Ministry of Agriculture). Before opening, a bakery that makes its own pastries or snacking with eggs and dairy declares its activity to the DDPP; one making essentially bread and viennoiserie may not be concerned, case by case (CNBPF; lesson 17.7).
+- **Who checks:** the **DDPP** (under the Ministry of Agriculture's DGAL) inspects hygiene and can order corrections or closure; the **DGCCRF** checks labels and product names (Ministry of Agriculture). Before opening, a bakery that makes its own pastries or snacking with eggs and dairy declares its activity to the DDPP; one making essentially bread and viennoiserie may not be concerned, case by case (CNBPF; lesson [17.7](lesson-07.md)).
 
 ### What is in a bakery PMS
 
@@ -124,7 +124,7 @@ You carry out the hazard analysis of the croissant (sheet CR-01, lessons [11.2](
 
 ### You need
 
-- Minimum: the CR-01 sheet and your notes from Module 11, paper or a spreadsheet, the decision path above.
+- Minimum: the CR-01 sheet and your notes from [Module 11](../module-11/lesson-01.md), paper or a spreadsheet, the decision path above.
 - Professional equivalent: the HACCP section of the bakery's PMS, written by the head of the business with the team.
 
 ### Ingredients
@@ -151,7 +151,7 @@ Checked 2026-10-09.
 
 | Step | Significant hazards | Control measures | CCP? |
 |---|---|---|---|
-| Reception | B: milk, butter, eggs warm or out of date; P: torn sacks, pests; A: wrong product delivered | delivery check: temperature, date, packaging (lesson 17.7) | no: prerequisite (with records) |
+| Reception | B: milk, butter, eggs warm or out of date; P: torn sacks, pests; A: wrong product delivered | delivery check: temperature, date, packaging (lesson [17.7](lesson-07.md)) | no: prerequisite (with records) |
 | Storage | B: growth in dairy if cold chain breaks; P/B: pests in flour | butter, milk, eggs 0 to +4 °C; flour on pallets, closed; daily temperature log | no: prerequisite |
 | Weighing, mixing | P: foreign bodies (sack string, jewellery); A: seeds or nuts from another batch | sieve or check flour; no jewellery; clean bowl; order of production | no: prerequisite |
 | Cold rest, tourage | B: multiplication if dough left warm (low risk: baked later) | dough covered, labelled, in the cold | no: prerequisite |

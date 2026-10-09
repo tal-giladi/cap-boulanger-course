@@ -1,6 +1,6 @@
 # Project: Tradition Bake
 
-Your first pain de tradition française from the legal check to the tasting. In Part A you prepare a bakery order of tradition: check a new flour against the decree, scale the TR-01 batch including tomorrow's tradition pâte fermentée, calculate the water, check the salt, build the timeline and answer the owner's freezing idea. In Part B you make a 1 kg batch of TR-01 at home with an autolyse, bassinage and folds, shape six baguettes, bake them in two loads, evaluate them as a batch and compare them with your pain courant from Module 8. The Academy cannot grade your bread or your photos: compare your work honestly with the rubric and the reference answers; this self-assessment does not replace the official practical exam.
+Your first pain de tradition française from the legal check to the tasting. In Part A you prepare a bakery order of tradition: check a new flour against the decree, scale the TR-01 batch including tomorrow's tradition pâte fermentée, calculate the water, check the salt, build the timeline and answer the owner's freezing idea. In Part B you make a 1 kg batch of TR-01 at home with an autolyse, bassinage and folds, shape six baguettes, bake them in two loads, evaluate them as a batch and compare them with your pain courant from [Module 8](../lessons/module-08/lesson-01.md). The Academy cannot grade your bread or your photos: compare your work honestly with the rubric and the reference answers; this self-assessment does not replace the official practical exam.
 
 ## Brief
 
@@ -27,7 +27,7 @@ In English: 50 tradition baguettes at 300 g for the shop at 7:30 and 16 traditio
 
 - Part A: calculator, the [production sheet template](../templates/production-sheet.md), the [organigramme template](../templates/organigramme.md) and the [temperature log](../templates/temperature-log.md).
 - Part B: the home equipment of lessons [09.2](../lessons/module-09/lesson-02.md) to [09.4](../lessons/module-09/lesson-04.md) (scales, probe thermometer, large bowl, scraper, lidded containers, couche or linen tea towel, rice flour for dusting, two trays or a stone, metal steam tray, lame, oven gloves, wire rack, bread knife, paper bags), additive-free flour (see [Flour in Israel](../references/flour-in-israel.md)), the [bake log](../templates/bake-log.md), the [quality rubric](../templates/quality-rubric.md) and the [non-conformity report](../templates/non-conformity-report.md).
-- Your Module 8 bake log and rubric score for pain courant, for the comparison.
+- Your [Module 8](../lessons/module-08/lesson-01.md) bake log and rubric score for pain courant, for the comparison.
 - Time for Part B: an evening (15 minutes) and about 6 hours the next day, of which about 1 h 30 hands-on; 15 minutes the morning after for the keeping test.
 
 > [!WARNING]
@@ -50,13 +50,13 @@ In English: 50 tradition baguettes at 300 g for the shop at 7:30 and 16 traditio
 
 9. **The evening before:** make about 173 g of tradition pâte fermentée with your additive-free flour (flour 100 g, water 70 g, salt 1.8 g, fresh yeast 1.5 g or 0.5 g instant); 1 hour at room temperature (20 minutes in a hot summer kitchen), then the fridge.
 10. **Plan:** TR-01 on 1 kg of flour: flour 1,000 g, water 680 g in the autolyse + 20 g eau de réserve, salt 18 g, fresh yeast 6 g (or 2 g instant), pâte fermentée 150 g; total 1,874 g. Six pâtons of 270 g (1,620 g) and 150 g kept as your next tradition pâte fermentée. With Israeli white flour, be ready to go up to 72-74 % water by bassinage and record it.
-11. **Mix** by hand to 23 °C ± 1 °C with the four-factor water calculation and an autolyse of 30 minutes (lesson 09.2). Record every temperature and the final hydration.
+11. **Mix** by hand to 23 °C ± 1 °C with the four-factor water calculation and an autolyse of 30 minutes (lesson [09.2](../lessons/module-09/lesson-02.md)). Record every temperature and the final hydration.
 12. **Pointage** about 2 hours with folds at 30, 60 and 90 minutes, ended on the signs; keep 150 g of pâte fermentée, labelled "TR".
-13. **Divide** 6 × 270 g ± 2 g, pre-shape loosely, détente about 30 minutes (lesson 09.3).
+13. **Divide** 6 × 270 g ± 2 g, pre-shape loosely, détente about 30 minutes (lesson [09.3](../lessons/module-09/lesson-03.md)).
 14. **Shape** set 1 (three baguettes), then set 2 about 25 minutes later, with light hands and sealed seams; measure every baguette; floured couche.
-15. **Score and bake** each set when the poke test says ready: three overlapping cuts, steam, 240-250 °C, 22-27 minutes, deep golden-brown, core at least 93 °C (lesson 09.4).
+15. **Score and bake** each set when the poke test says ready: three overlapping cuts, steam, 240-250 °C, 22-27 minutes, deep golden-brown, core at least 93 °C (lesson [09.4](../lessons/module-09/lesson-04.md)).
 16. **Evaluate** as a batch control after 1 hour of cooling: weights, average, loss, salt per 100 g with 1.044 %, rubric for one baguette of each set, the main defect traced to its stage, a three-line report.
-17. **Compare** with your Module 8 pain courant on the eight lines of the comparison table in lesson 09.4.
+17. **Compare** with your [Module 8](../lessons/module-08/lesson-01.md) pain courant on the eight lines of the comparison table in lesson 09.4.
 18. **Next morning:** taste the tradition you kept in a paper bag (and a pain courant if you have one). Write three lines: what matched the plan, what did not, the one change for your next tradition.
 
 ## Deliverables

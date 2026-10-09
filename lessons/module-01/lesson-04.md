@@ -46,7 +46,7 @@ Bread has very few ingredients, so each one has a large effect. Salt at 1.8% of 
 
 ### Weight, not volume
 
-A cup or a spoon measures volume, and flour is compressible: scooped, it packs down; spooned in, it stays airy. The same cup can hold quite different weights of flour (you will measure this yourself in the practice). Weight does not change with how you fill the container, which is why every bakery formula is written in grams and why baker's percentages (lesson 01.5) only work with weights.
+A cup or a spoon measures volume, and flour is compressible: scooped, it packs down; spooned in, it stays airy. The same cup can hold quite different weights of flour (you will measure this yourself in the practice). Weight does not change with how you fill the container, which is why every bakery formula is written in grams and why baker's percentages (lesson [01.5](lesson-05.md)) only work with weights.
 
 Water is the one ingredient where volume and weight are nearly the same: 1 mL of water weighs about 1 g at kitchen temperature. Bakers still weigh it, directly into the bowl, because a jug is read to 10-25 mL at best and a scale to 1 g. Do not assume 1 mL = 1 g for other liquids: milk is slightly heavier (about 1.03 g per mL) and oil lighter (about 0.92 g per mL).
 

@@ -30,7 +30,7 @@ A batch that passed every check can still be spoiled in the last ten metres: cru
 
 ## Why it matters
 
-Setting out products in the shop together with the sales staff is a competency of its own (C2.8), and the référentiel expects you to respect the elementary rules of presentation and to be able to state them (S3.2.1). The customer judges with their eyes first: in INRAE's baguette study, the look of a bread was the first sensory information consumers had, and it shaped how much they expected to like it before they tasted. A good display sells what the fournil made; a careless one wastes it. How presentation of the finished products counts in the production test is in [The CAP Boulanger Exam](../../references/cap-exam.md).
+Setting out products in the shop together with the sales staff is a competency of its own (C2.8), and the référentiel expects you to respect the elementary rules of presentation and to be able to state them (S3.2.1). The customer judges with their eyes first: in INRAE's baguette study, the look of a bread was the first sensory information consumers had, and it shaped how much they expected to like it before they tasted. A good display sells what the fournil made; a careless one wastes it. What happens to unsold products is the subject of lesson [18.2](../module-18/lesson-02.md). How presentation of the finished products counts in the production test is in [The CAP Boulanger Exam](../../references/cap-exam.md).
 
 ## Key terms
 
@@ -94,7 +94,7 @@ At each hand-over the baker tells the sales staff, in two minutes: what is comin
 
 ## Worked example
 
-Saturday, Boulangerie Au Pain de la Halle. The shop opens at 7:00. From the oven plan: baguettes (PC-02) out at 6:15 (48) and 7:30 (48); traditions out at 6:25 (40); croissants and pains au chocolat out at 6:35 (60 + 40); campagne out at 6:45 (12); pains aux raisins at 9:30 (30). Morning check (lesson 15.4): 47 baguettes for the first shelf, one dropped; two dark pains au chocolat set aside.
+Saturday, Boulangerie Au Pain de la Halle. The shop opens at 7:00. From the oven plan: baguettes (PC-02) out at 6:15 (48) and 7:30 (48); traditions out at 6:25 (40); croissants and pains au chocolat out at 6:35 (60 + 40); campagne out at 6:45 (12); pains aux raisins at 9:30 (30). Morning check (lesson [15.4](lesson-04.md)): 47 baguettes for the first shelf, one dropped; two dark pains au chocolat set aside.
 
 **1. When each product reaches the shelf.**
 

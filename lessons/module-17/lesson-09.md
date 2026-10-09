@@ -50,7 +50,7 @@ The INRS (France's occupational health and safety institute) names flour as the 
 
 ### Who does what
 
-The **employer** must assess the risks, write them in the **document unique**, plan and apply prevention, train and equip the staff. The **employee** applies the safety instructions, uses the equipment and protections provided, and reports dangers and incidents (the same reflex as the non-conformity report, C4.4). The occupational health service advises both and follows the employee's health (lesson 17.3).
+The **employer** must assess the risks, write them in the **document unique**, plan and apply prevention, train and equip the staff. The **employee** applies the safety instructions, uses the equipment and protections provided, and reports dangers and incidents (the same reflex as the non-conformity report, C4.4). The occupational health service advises both and follows the employee's health (lesson [17.3](lesson-03.md)).
 
 ### The order of prevention
 
@@ -73,13 +73,13 @@ PPE comes last because it protects only the person wearing it, only when worn co
 |---|---|---|
 | **Flour dust**: rhinitis, asthma, eye irritation | weighing, pouring flour into the mixer, fleurage, dusting, sweeping, emptying sacks | mixer with a full cover; water in the bowl before the flour; a long sleeve that reaches the bottom of the bowl; do not shake sacks; dust sparingly; vacuum floors and benches daily with a suitable vacuum, no broom, no blower; local extraction. Report a runny nose or wheezing that improves on days off to the occupational doctor |
 | **Burns** | ovens, trays and racks, steam, boiling milk and cream, sugar | heat-resistant gloves; insulated handles; a cooking area away from walkways; induction rather than gas where possible; steam released standing aside (lesson [07.4](../module-07/lesson-04.md)) |
-| **Cuts** | lame, knives, bread slicer, dough cutter, broken glass | blades covered and stored; cut away from the hand; blades never left in washing-up water (lessons 01.3, [13.6](../module-13/lesson-06.md)) |
+| **Cuts** | lame, knives, bread slicer, dough cutter, broken glass | blades covered and stored; cut away from the hand; blades never left in washing-up water (lessons [01.3](../module-01/lesson-03.md), [13.6](../module-13/lesson-06.md)) |
 | **Machines**: crushing, entanglement | mixers, dividers, moulders, sheeters | guards and stops working; never reach into a running machine; clean only when stopped and isolated; trained users only (lessons [13.1](../module-13/lesson-01.md), [13.2](../module-13/lesson-02.md)) |
 | **Electricity and gas** | wet floors, damaged cables, gas ovens | lesson [13.5](../module-13/lesson-05.md): read the rating plate, report damage, know the gas shut-off valve |
 | **Manual handling**: back pain, TMS | 25 kg flour sacks, dough tubs, racks, deliveries | handling aids (pallet trucks, trolleys, sack lifters); flour stored at waist height; height-adjustable tables; two people for heavy loads; INRS suggests aids for loads over 15 kg |
 | **Falls** | flour plus water on the floor, stairs to the cellar or store, cables, clutter | anti-slip floor kept clean, dry and clear; spills cleaned at once; handrails and anti-slip nosings; lighting; anti-slip safety shoes |
-| **Chemicals** | detergents, disinfectants, oven strippers, descalers | never mix (bleach + acid gives a toxic gas); gloves and goggles as labelled; original containers (lesson 17.4) |
-| **Night and early work** | shifts starting at 2-4 a.m. | sleep loss of 1-2 hours a day on average, drowsiness and accidents, especially on the drive to and from work; metabolic and cardiovascular effects; night work is classed as probably carcinogenic (IARC group 2A) (INRS). Protect a regular sleep period, avoid driving drowsy, and use the occupational health follow-up |
+| **Chemicals** | detergents, disinfectants, oven strippers, descalers | never mix (bleach + acid gives a toxic gas); gloves and goggles as labelled; original containers (lesson [17.4](lesson-04.md)) |
+| **Night and early work** | shifts starting at 2-4 a.m. | sleep loss of 1-2 hours a day on average, drowsiness and accidents, especially on the drive to and from work; metabolic and cardiovascular effects; night work is classed as probably carcinogenic (IARC group 2A) (INRS). Protect a regular sleep period, avoid driving drowsy, and use the occupational health follow-up, and see lesson [20.4](../module-20/lesson-04.md) for night-work limits and premiums |
 | **Heat** | ovens, summer, proofing cabinets | ventilation, water to drink, breaks in a cooler place |
 
 ### Manual handling: the legal limits
@@ -167,6 +167,6 @@ Your top risks are usually the oven and steam (burns), flour dust and a floor th
 
 - The employer assesses risks in the document unique and organises prevention; the employee applies it and reports dangers.
 - Prevention order: remove, reduce at the source, collective protection, organisation, PPE, training.
-- Flour dust (first cause of occupational asthma), burns, cuts, machines, manual handling, falls, chemicals, night work and heat are the bakery's main risks; machines and energy are in lessons 13.1, 13.2 and 13.5.
+- Flour dust (first cause of occupational asthma), burns, cuts, machines, manual handling, falls, chemicals, night work and heat are the bakery's main risks; machines and energy are in lessons [13.1](../module-13/lesson-01.md), [13.2](../module-13/lesson-02.md) and 13.5.
 - Manual handling: avoid it with aids; men above 55 kg only with medical fitness and never above 105 kg; women not above 25 kg.
 - Exam-relevant (C2.5, protective equipment in the practical test): [The CAP Boulanger Exam](../../references/cap-exam.md).

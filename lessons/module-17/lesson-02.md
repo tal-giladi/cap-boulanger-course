@@ -87,7 +87,7 @@ Two lessons for the baker from this table:
 
 ### When an outbreak is suspected
 
-If customers report being ill after eating your products, or a supplier or the authorities announce an alert on an ingredient you used, the manager acts at once (CNBPF guide): check the delivery records to see whether the lot was received, withdraw and destroy the products that may be concerned, inform customers clearly if they were sold, and cooperate with the authorities (DDPP, regional health agency). Doctors declare TIAC to the health authorities; a bakery's records (deliveries, temperatures, cooling logs) are what show what happened. Lesson 17.7 covers traceability and recalls.
+If customers report being ill after eating your products, or a supplier or the authorities announce an alert on an ingredient you used, the manager acts at once (CNBPF guide): check the delivery records to see whether the lot was received, withdraw and destroy the products that may be concerned, inform customers clearly if they were sold, and cooperate with the authorities (DDPP, regional health agency). Doctors declare TIAC to the health authorities; a bakery's records (deliveries, temperatures, cooling logs) are what show what happened. Lesson [17.7](lesson-07.md) covers traceability and recalls.
 
 ## Worked example
 
@@ -107,7 +107,7 @@ You write the hazard list for three products. No baking is needed; you use the t
 ### You need
 
 - Minimum: the technical sheets or your notes for a baguette (lesson [08.1](../module-08/lesson-01.md)), a jambon-beurre or croque sandwich (lesson [02.10](../module-02/lesson-10.md)) and a pain aux raisins with crème pâtissière (lesson [12.2](../module-12/lesson-02.md)); paper or a spreadsheet.
-- Professional equivalent: the hazard analysis section of the bakery's plan de maîtrise sanitaire (lesson 17.5).
+- Professional equivalent: the hazard analysis section of the bakery's plan de maîtrise sanitaire (lesson [17.5](lesson-05.md)).
 
 ### Ingredients
 
@@ -166,8 +166,8 @@ Your answers name the same main hazards as the reference (Listeria and S. aureus
 | Several customers vomiting a few hours after cream pastries | *S. aureus* toxin: slow cooling, hands, wound | withdraw and keep the products; inform the manager; cooperate with the authorities | cooling log with times; wounds covered with dressing and glove; blast chiller or ice bath |
 | Sandwich ham used 6 days after opening | opening date not written | discard | write the opening date and new use-by on every opened pack |
 | Raw-egg whisk used in the finished cream | tools not separated | discard the cream if raw egg reached it after cooking | separate tools, or wash and disinfect between raw and cooked |
-| Cold room clean on the shelves, dirty under the racks and at the drain | Listeria can persist in damp spots | clean and disinfect the whole room | include drains, seals and under racks in the cleaning plan (lesson 17.4) |
-| Swollen tin of tomato sauce opened for pizzas | can defect ignored at reception | discard without tasting; report to the supplier | refuse swollen, dented or leaking cans at reception (lesson 17.7) |
+| Cold room clean on the shelves, dirty under the racks and at the drain | Listeria can persist in damp spots | clean and disinfect the whole room | include drains, seals and under racks in the cleaning plan (lesson [17.4](lesson-04.md)) |
+| Swollen tin of tomato sauce opened for pizzas | can defect ignored at reception | discard without tasting; report to the supplier | refuse swollen, dented or leaking cans at reception (lesson [17.7](lesson-07.md)) |
 
 ## Review
 

@@ -111,7 +111,7 @@ PD-01 dough, as in lesson [01.7](../module-01/lesson-07.md): flour T55 500 g (10
 
 ### Steps
 
-1. Mix and knead to 23-25 °C; pointage 1 h 15 with one fold; divide 8 × 105 g; détente 15 min (lessons 04.2 and 04.3).
+1. Mix and knead to 23-25 °C; pointage 1 h 15 with one fold; divide 8 × 105 g; détente 15 min (lessons [04.2](lesson-02.md) and [04.3](lesson-03.md)).
 2. Preheat the oven to 230 °C with a tray in the middle and the steam tray at the bottom.
 3. Shape 8 tight round rolls. Write the shaping time: this is apprêt minute 0. Place them on baking paper in pairs, and write the pair's planned bake time on the paper in pencil: **A = 15 min, B = 35 min, C = 55 min, D = 80 min**.
 4. Measure the diameter and height of one roll right after shaping. Cover and keep at 24-26 °C (record the actual temperature).

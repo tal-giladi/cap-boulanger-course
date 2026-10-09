@@ -42,12 +42,12 @@ In English: 96 croissants of 60 g and 30 mini-croissants of 30 g, all CR-01, mad
 
 ### Part B — your home batch (two days)
 
-8. **Day 1, evening:** read your kitchen survey (lesson 11.1). Calculate the water, mix CR-01 on 500 g of flour by hand to 18-22 °C (lesson 11.2), flatten, wrap, chill overnight. Start the temperature log.
-9. **Day 2, cool window:** butter plaque of 250 g at about 13 °C, bend test, lock-in (lesson 11.3); three tours simples with 20-45-minute rests, turns marked (lesson 11.4); final rest at least 1 hour.
-10. **Cut and shape** 16 croissants of about 60 g, the first triangle weighed and the thickness corrected; trims as twists (lesson 11.5).
-11. **Proof** at 24-26 °C until almost doubled; bake one test croissant early (under-proof); egg-wash twice; bake without steam at 190-200 °C (fan 175-180 °C) until the creases are gold (lesson 11.6).
-12. **Evaluate** after cooling (lesson 11.7): weights and baking loss, lengths, three cut sections, rubric out of 18, one non-conformity report or fault diagnosis.
-13. **Write three lines:** what matched your plan, what did not, the one change for your next croissant batch. If you made the change from lesson 11.7, say whether it worked.
+8. **Day 1, evening:** read your kitchen survey (lesson [11.1](../lessons/module-11/lesson-01.md)). Calculate the water, mix CR-01 on 500 g of flour by hand to 18-22 °C (lesson [11.2](../lessons/module-11/lesson-02.md)), flatten, wrap, chill overnight. Start the temperature log.
+9. **Day 2, cool window:** butter plaque of 250 g at about 13 °C, bend test, lock-in (lesson [11.3](../lessons/module-11/lesson-03.md)); three tours simples with 20-45-minute rests, turns marked (lesson [11.4](../lessons/module-11/lesson-04.md)); final rest at least 1 hour.
+10. **Cut and shape** 16 croissants of about 60 g, the first triangle weighed and the thickness corrected; trims as twists (lesson [11.5](../lessons/module-11/lesson-05.md)).
+11. **Proof** at 24-26 °C until almost doubled; bake one test croissant early (under-proof); egg-wash twice; bake without steam at 190-200 °C (fan 175-180 °C) until the creases are gold (lesson [11.6](../lessons/module-11/lesson-06.md)).
+12. **Evaluate** after cooling (lesson [11.7](../lessons/module-11/lesson-07.md)): weights and baking loss, lengths, three cut sections, rubric out of 18, one non-conformity report or fault diagnosis.
+13. **Write three lines:** what matched your plan, what did not, the one change for your next croissant batch. If you made the change from lesson [11.7](../lessons/module-11/lesson-07.md), say whether it worked.
 
 ## Deliverables
 

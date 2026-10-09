@@ -1,6 +1,6 @@
 # Troubleshooting
 
-One page for diagnosing bread and viennoiserie faults: problem → probable causes → evidence to look for → correction now → prevention next time → the lesson that teaches the cause. Change one thing at a time, and write the change in your [bake log](../templates/bake-log.md). Module 16 teaches the method in detail: [16.1 · A Method for Diagnosis](../lessons/module-16/lesson-01.md).
+One page for diagnosing bread and viennoiserie faults: problem → probable causes → evidence to look for → correction now → prevention next time → the lesson that teaches the cause. Change one thing at a time, and write the change in your [bake log](../templates/bake-log.md). What a good product looks like, outside and in, is in lessons [15.1](../lessons/module-15/lesson-01.md) and [15.2](../lessons/module-15/lesson-02.md). Module 16 teaches the method in detail: [16.1 · A Method for Diagnosis](../lessons/module-16/lesson-01.md).
 
 ## Method
 

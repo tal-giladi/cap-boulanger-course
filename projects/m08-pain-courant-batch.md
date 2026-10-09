@@ -44,12 +44,12 @@ In English: 30 baguettes at 350 g for the shop at 7:00 and 24 rolls at 60 g for 
 
 8. **The evening before:** make 167 g of pâte fermentée (flour 100 g, water 64 g, salt 1.8 g, fresh yeast 1.5 g or 0.5 g instant); 1 hour at room temperature (20 minutes in a hot summer kitchen), then the fridge.
 9. **Plan:** PC-02 on 1 kg of flour: flour 1,000 g, water 640 g, salt 18 g, fresh yeast 15 g (or 5 g instant), pâte fermentée 150 g; total 1,823 g. Six pâtons of 270 g (1,620 g) and 150 g kept as your next pâte fermentée. Measure your tray and set your baguette length (about 38 cm).
-10. **Mix** by hand to 24 °C ± 1 °C with the four-factor water calculation (lesson 08.1; in a warm kitchen the In Israel notes there). Record all temperatures.
-11. **Pointage** about 45-60 minutes with a fold at 30 minutes, judged by the signs; keep 150 g of pâte fermentée, labelled (lesson 08.2).
+10. **Mix** by hand to 24 °C ± 1 °C with the four-factor water calculation (lesson [08.1](../lessons/module-08/lesson-01.md); in a warm kitchen the In Israel notes there). Record all temperatures.
+11. **Pointage** about 45-60 minutes with a fold at 30 minutes, judged by the signs; keep 150 g of pâte fermentée, labelled (lesson [08.2](../lessons/module-08/lesson-02.md)).
 12. **Divide** 6 × 270 g ± 2 g, pre-shape loose cylinders, détente until they stretch easily.
-13. **Shape** set 1 (three baguettes), then set 2 about 20-25 minutes later; measure every baguette (lesson 08.3).
-14. **Score and bake** each set when the poke test says ready: three overlapping cuts, steam, 250 °C, 20-25 minutes, core at least 93 °C (lesson 08.4).
-15. **Evaluate** as a batch control after 1 hour of cooling: weights, loss, salt per 100 g, rubric for one baguette of each set, the main defect traced to its stage, a three-line report (lesson 08.5).
+13. **Shape** set 1 (three baguettes), then set 2 about 20-25 minutes later; measure every baguette (lesson [08.3](../lessons/module-08/lesson-03.md)).
+14. **Score and bake** each set when the poke test says ready: three overlapping cuts, steam, 250 °C, 20-25 minutes, core at least 93 °C (lesson [08.4](../lessons/module-08/lesson-04.md)).
+15. **Evaluate** as a batch control after 1 hour of cooling: weights, loss, salt per 100 g, rubric for one baguette of each set, the main defect traced to its stage, a three-line report (lesson [08.5](../lessons/module-08/lesson-05.md)).
 16. **Write three lines:** what matched the plan, what did not, the one change for the next bake.
 
 ## Deliverables

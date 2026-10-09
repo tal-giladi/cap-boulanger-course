@@ -68,7 +68,7 @@ In English: the inspectors can come at any time. (1) Read the documents and obse
 ## You need
 
 - The documents and observations above.
-- Templates: [delivery check](../templates/delivery-check.md), [non-conformity report](../templates/non-conformity-report.md), [temperature log](../templates/temperature-log.md) (use its "Measured" table idea for a cold-unit log, or the log layout of lesson 17.8).
+- Templates: [delivery check](../templates/delivery-check.md), [non-conformity report](../templates/non-conformity-report.md), [temperature log](../templates/temperature-log.md) (use its "Measured" table idea for a cold-unit log, or the log layout of lesson [17.8](../lessons/module-17/lesson-08.md)).
 - Your kitchen, fridge, freezer and dry store; probe thermometer; your technical sheets for 6 products; labels of your bought ingredients.
 - Time: about 1 hour 30 for Part A, 45 minutes for Part B, about 4 hours spread over a week for Part C (the temperature log runs 7 days), 30 minutes for Part D.
 
@@ -92,23 +92,23 @@ In English: the inspectors can come at any time. (1) Read the documents and obse
 
 | Finding | Rule | Action now | Prevention | Priority |
 |---|---|---|---|---|
-| Doc 1: delivery signed "OK" without checks; egg products "tiède" not probed; wet soft butter carton; swollen vacuum pack of ham | perishables probed first; very perishable limit +7 °C; damaged or swollen packs refused; reservations before signing (17.7) | probe eggs now; if above +7 °C discard and report; inspect butter (discard if wet inside); swollen ham refused/discarded, supplier informed | reception procedure and delivery-check sheet; apprentice trained; no signature without checks | 1 |
-| Doc 2: Wednesday +8 °C with no action; Friday blank | break of cold chain handled product by product; daily record (17.8) | check what was stored Wednesday; record the gap | action column on the log; named person each day; alarm or min/max thermometer | 1 |
-| Doc 3: 63 → 10 °C in 2 h 44 min, in a bowl on the bench | CCP cooling ≤ 2 h, then 0 to +3 °C (17.5, 12.2) | cream discarded; non-conformity | shallow tray on ice or blast chiller; method validated; times recorded | 1 |
-| Doc 4: bleach sprayed and wiped at once; "javel + détartrant" | clean before disinfecting; contact time; never mix bleach and acid (17.4) | stop the mixture at once; ventilate; correct the plan | full plan: zone, item, product and dose, method, frequency, who does, who checks | 1 |
-| Doc 5: board with 4 allergens; sesame missing on pain aux céréales; soy probably missing on pain au chocolat | written information on the 14 allergens (17.6) | correct the board today from the sheets | allergen table with all 14 and a traces column; updated at each recipe or supplier change | 1 |
-| Obs 1: watch and ring | no jewellery (17.3) | remove | rule at the changing room | 2 |
-| Obs 2: cash then fingers on croissants | hands, tongs (17.3) | tongs or paper; wash hands | separate cash handling or wash between | 2 |
-| Obs 3: eggs cracked by the cooled cream | marche en avant, raw → cooked (17.3) | move the eggs; assess the cream; clean and disinfect | dirty jobs in the production zone or after clean jobs, with cleaning between | 1 |
-| Obs 4: sacks on the floor against the wall; torn sack with dust trails | storage off the floor; pest signs (17.4, 17.8) | remove the torn sack; inspect for pests; call pest control | pallets away from walls; closed containers; pest plan | 2 |
-| Obs 5: opened ham with no date | opened DLC products dated (3 days by default) (17.8) | discard | label at opening | 1 |
-| Obs 6: hand-lifted bin lid; outdoor bin at the fournil door | non-manual bins; street bins never in production (17.4) | move the outdoor bin | pedal bins; waste route out of production | 3 |
-| Obs 7: descaler in a cream bottle | never decant chemicals into food containers (17.4) | remove; relabel in the original container; check nothing was contaminated | chemical cupboard, original labelled containers | 1 |
-| Obs 8: wet floury floor; broom | vacuum flour, no broom; clean dry floors (17.9, 13.6) | dry the floor; sign it | vacuum suited to flour; clean as you go | 2 |
-| Obs 9: bandaged burn, no glove, piping cream | wound covered by a dressing and a glove (17.3) | glove now; if infected, stop cream work | rule in the hygiene instructions | 1 |
-| Obs 10: frozen pains au chocolat thawed at 24 °C overnight | thaw at 0 to +4 °C (17.8) | assess with the head baker; the course discards products thawed warm overnight | programmable cabinet or cold room overnight | 2 |
-| Obs 11: thawed croissants sold without information | "décongelé" mention (17.6) | add the mention | shop checklist | 3 |
-| Obs 12: 25 kg sacks from the floor into an open mixer, alone | prevention at the source; manual handling and flour dust (17.9) | stop; two people or a trolley | pallets at waist height; covered mixer; water first; pour gently | 2 |
+| Doc 1: delivery signed "OK" without checks; egg products "tiède" not probed; wet soft butter carton; swollen vacuum pack of ham | perishables probed first; very perishable limit +7 °C; damaged or swollen packs refused; reservations before signing ([17.7](../lessons/module-17/lesson-07.md)) | probe eggs now; if above +7 °C discard and report; inspect butter (discard if wet inside); swollen ham refused/discarded, supplier informed | reception procedure and delivery-check sheet; apprentice trained; no signature without checks | 1 |
+| Doc 2: Wednesday +8 °C with no action; Friday blank | break of cold chain handled product by product; daily record ([17.8](../lessons/module-17/lesson-08.md)) | check what was stored Wednesday; record the gap | action column on the log; named person each day; alarm or min/max thermometer | 1 |
+| Doc 3: 63 → 10 °C in 2 h 44 min, in a bowl on the bench | CCP cooling ≤ 2 h, then 0 to +3 °C ([17.5](../lessons/module-17/lesson-05.md), [12.2](../lessons/module-12/lesson-02.md)) | cream discarded; non-conformity | shallow tray on ice or blast chiller; method validated; times recorded | 1 |
+| Doc 4: bleach sprayed and wiped at once; "javel + détartrant" | clean before disinfecting; contact time; never mix bleach and acid ([17.4](../lessons/module-17/lesson-04.md)) | stop the mixture at once; ventilate; correct the plan | full plan: zone, item, product and dose, method, frequency, who does, who checks | 1 |
+| Doc 5: board with 4 allergens; sesame missing on pain aux céréales; soy probably missing on pain au chocolat | written information on the 14 allergens ([17.6](../lessons/module-17/lesson-06.md)) | correct the board today from the sheets | allergen table with all 14 and a traces column; updated at each recipe or supplier change | 1 |
+| Obs 1: watch and ring | no jewellery ([17.3](../lessons/module-17/lesson-03.md)) | remove | rule at the changing room | 2 |
+| Obs 2: cash then fingers on croissants | hands, tongs ([17.3](../lessons/module-17/lesson-03.md)) | tongs or paper; wash hands | separate cash handling or wash between | 2 |
+| Obs 3: eggs cracked by the cooled cream | marche en avant, raw → cooked ([17.3](../lessons/module-17/lesson-03.md)) | move the eggs; assess the cream; clean and disinfect | dirty jobs in the production zone or after clean jobs, with cleaning between | 1 |
+| Obs 4: sacks on the floor against the wall; torn sack with dust trails | storage off the floor; pest signs ([17.4](../lessons/module-17/lesson-04.md), [17.8](../lessons/module-17/lesson-08.md)) | remove the torn sack; inspect for pests; call pest control | pallets away from walls; closed containers; pest plan | 2 |
+| Obs 5: opened ham with no date | opened DLC products dated (3 days by default) ([17.8](../lessons/module-17/lesson-08.md)) | discard | label at opening | 1 |
+| Obs 6: hand-lifted bin lid; outdoor bin at the fournil door | non-manual bins; street bins never in production ([17.4](../lessons/module-17/lesson-04.md)) | move the outdoor bin | pedal bins; waste route out of production | 3 |
+| Obs 7: descaler in a cream bottle | never decant chemicals into food containers ([17.4](../lessons/module-17/lesson-04.md)) | remove; relabel in the original container; check nothing was contaminated | chemical cupboard, original labelled containers | 1 |
+| Obs 8: wet floury floor; broom | vacuum flour, no broom; clean dry floors ([17.9](../lessons/module-17/lesson-09.md), [13.6](../lessons/module-13/lesson-06.md)) | dry the floor; sign it | vacuum suited to flour; clean as you go | 2 |
+| Obs 9: bandaged burn, no glove, piping cream | wound covered by a dressing and a glove ([17.3](../lessons/module-17/lesson-03.md)) | glove now; if infected, stop cream work | rule in the hygiene instructions | 1 |
+| Obs 10: frozen pains au chocolat thawed at 24 °C overnight | thaw at 0 to +4 °C ([17.8](../lessons/module-17/lesson-08.md)) | assess with the head baker; the course discards products thawed warm overnight | programmable cabinet or cold room overnight | 2 |
+| Obs 11: thawed croissants sold without information | "décongelé" mention ([17.6](../lessons/module-17/lesson-06.md)) | add the mention | shop checklist | 3 |
+| Obs 12: 25 kg sacks from the floor into an open mixer, alone | prevention at the source; manual handling and flour dust ([17.9](../lessons/module-17/lesson-09.md)) | stop; two people or a trolley | pallets at waist height; covered mixer; water first; pour gently | 2 |
 
 Seventeen findings. The most serious: the cooling failure and the unchecked delivery (direct risk to consumers), the bleach + descaler mixture (risk to staff), the allergen board (risk to allergic customers).
 

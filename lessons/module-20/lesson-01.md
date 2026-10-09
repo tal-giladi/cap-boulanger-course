@@ -98,7 +98,7 @@ Lesson [01.2](../module-01/lesson-02.md) placed the roles in the building. As jo
 
 | Job | Main tasks | Usual entry |
 |---|---|---|
-| Apprenti(e) boulanger | learns every task under a maître d'apprentissage; alternates CFA and bakery | apprenticeship contract (lesson 20.3) |
+| Apprenti(e) boulanger | learns every task under a maître d'apprentissage; alternates CFA and bakery | apprenticeship contract (lesson [20.3](lesson-03.md)) |
 | Ouvrier boulanger | makes the products from orders and technical sheets; the CAP job | CAP Boulanger |
 | Tourier | laminated doughs; in small bakeries the boulanger does it | CAP, CQP Tourier |
 | Pâtissier | pastries, entremets, tarts | CAP Pâtissier |
@@ -145,17 +145,17 @@ You start your PFMP at Boulangerie Au Pain de la Halle. On the office wall:
 > SIRET 812 345 678 00015 — Code APE 10.71C
 > Convention collective: boulangerie-pâtisserie (entreprises artisanales)
 > Effectif: 2 ouvriers boulangers, 1 tourier-pâtissier, 1 apprentie, 2 vendeuses
-> Ventes: pains, viennoiseries, pâtisseries; sandwiches le midi; petits pains livrés au restaurant Le Relais (lesson 06.5)
+> Ventes: pains, viennoiseries, pâtisseries; sandwiches le midi; petits pains livrés au restaurant Le Relais (lesson [06.5](../module-06/lesson-05.md))
 
 **1. Main activity and sector.** APE 10.71C: craft bread and pastry making with retail sale. The business transforms (secondary sector) and sells (tertiary); its main activity is making and selling bakery products.
 
-**2. Secondary activities.** Sandwiches at lunch (food for immediate consumption, VAT 10 %, not 5.5 %: lesson 06.5) and the delivery of rolls to a restaurant (a business customer, invoiced).
+**2. Secondary activities.** Sandwiches at lunch (food for immediate consumption, VAT 10 %, not 5.5 %: lesson [06.5](../module-06/lesson-05.md)) and the delivery of rolls to a restaurant (a business customer, invoiced).
 
 **3. Legal form.** SARL: at least two partners, liability limited to their contributions (€30,000 in total), run by a gérante, profit taxed at corporate tax by default. If the business fails, the partners lose their contribution, not their homes, apart from personal guarantees they may have signed.
 
 **4. Numbers.** SIREN 812 345 678 identifies the company; the SIRET adds 00015 for this shop. A second shop would have the same SIREN and another SIRET.
 
-**5. Who to go to.** A question about your pay grade: the collective agreement and the gérante (lesson 20.4). A hygiene inspection: the DDPP. The market-day parking ban outside: an arrêté of the mairie.
+**5. Who to go to.** A question about your pay grade: the collective agreement and the gérante (lesson [20.4](lesson-04.md)). A hygiene inspection: the DDPP. The market-day parking ban outside: an arrêté of the mairie.
 
 **6. Jobs.** Six employees: you will work beside two ouvriers boulangers (the CAP job you are preparing for), learn laminated doughs from the tourier-pâtissier, and pass product information to two vendeuses.
 
@@ -188,7 +188,7 @@ You profile three bakeries near your home with the grid below, then classify eac
 | French equivalent code: 10.71C, 10.71A, 47.24Z or retail (GMS) | | | |
 | Who supplies it (flour, frozen products) if you can tell | | | |
 
-4. Classify each place for France: which code, could it legally sell its bread as pain maison (lesson 09.1), which of the jobs in this lesson it employs.
+4. Classify each place for France: which code, could it legally sell its bread as pain maison (lesson [09.1](../module-09/lesson-01.md)), which of the jobs in this lesson it employs.
 5. Write five lines: which of the three would you rather work in, and why (hours, products, learning, team).
 
 ### Targets

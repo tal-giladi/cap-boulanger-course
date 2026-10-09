@@ -87,7 +87,7 @@ flowchart LR
   F --> G["7 · Dry<br>air or single-use paper"]
 ```
 
-With a detergent-disinfectant, steps 3 to 5 are one pass. Lesson 13.6 covers stopping and isolating machines and why flour is vacuumed, never blown.
+With a detergent-disinfectant, steps 3 to 5 are one pass. Lesson [13.6](../module-13/lesson-06.md) covers stopping and isolating machines and why flour is vacuumed, never blown.
 
 ### Using chemicals safely
 
@@ -201,7 +201,7 @@ Your bench passes the white-paper test, the plan fits on one page you could post
 | Bleach solution "not working" | made with hot water or kept for days | make a fresh solution in cold water | follow the label; date prepared solutions |
 | White streaks or sticky film on benches | overdosed product, not rinsed | rinse with clean water | measure the dose; rinse when the label says |
 | Droppings or gnawed sacks in the dry store | pests getting in; food accessible | remove damaged goods; clean; call the pest-control provider; report | sacks on pallets, closed containers, gaps sealed, bait stations checked |
-| Grey-green mould spots inside a cane banneton (lesson 13.6) | stacked or stored damp; cane is porous | take it out of use; the head baker decides: cane cannot be disinfected like steel, so a banneton whose mould has gone into the cane is replaced | shake out, dry fully on a rack, store dry; check bannetons on the cleaning plan |
+| Grey-green mould spots inside a cane banneton (lesson [13.6](../module-13/lesson-06.md)) | stacked or stored damp; cane is porous | take it out of use; the head baker decides: cane cannot be disinfected like steel, so a banneton whose mould has gone into the cane is replaced | shake out, dry fully on a rack, store dry; check bannetons on the cleaning plan |
 | Cleaning product in a cream bucket on the shelf | decanted into a food container | remove and label correctly; check no food was contaminated | never decant into food containers |
 
 ## Review

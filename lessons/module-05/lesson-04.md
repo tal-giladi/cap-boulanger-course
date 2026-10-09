@@ -69,7 +69,7 @@ flowchart LR
 
 | Stage | Target (pain courant, PC-02) | Check | If off |
 |---|---|---|---|
-| End of mixing | 24 °C (23-25 °C) | probe in the centre of the dough | adapt pointage with the 7 % rule; correct the water next batch (lessons 05.2-05.3) |
+| End of mixing | 24 °C (23-25 °C) | probe in the centre of the dough | adapt pointage with the 7 % rule; correct the water next batch (lessons [05.2](lesson-02.md)-[05.3](lesson-03.md)) |
 | Pointage | tub covered, about 24 °C | dough temperature at the end; volume and feel | move the tub warmer or cooler; divide by the signs (lesson [04.2](../module-04/lesson-02.md)) |
 | Dividing and shaping | fournil temperature | room reading; pieces covered | long détente in a cold fournil; work fast in a hot one |
 | Retarding (if used) | 2-6 °C in the cold room | cold-room reading on the record | over-proofed at the set time = too warm (lesson [04.6](../module-04/lesson-06.md)) |
@@ -107,7 +107,7 @@ Saturday, early July. PC-02 for 24 baguettes and 20 rolls. The ice bag ran out h
 | 6:47 | Core of a test baguette | 97 °C | at least about 90 °C | out; ressuage on racks |
 | 7:20 | Bread to the shop | — | 7:00 | 20 minutes late |
 
-1. **What the log shows.** A water error of 8 °C produced a dough 2 °C warm (consistent with the friction factor of 27 in lesson 05.3: (23 + 26 + 6 + 22 + 27) ÷ 4 = 26). The pointage was cut by the rule and confirmed by the dough; the apprêt started from warm pieces.
+1. **What the log shows.** A water error of 8 °C produced a dough 2 °C warm (consistent with the friction factor of 27 in lesson [05.3](lesson-03.md): (23 + 26 + 6 + 22 + 27) ÷ 4 = 26). The pointage was cut by the rule and confirmed by the dough; the apprêt started from warm pieces.
 2. **Why the bread was late.** The oven had been switched on late and reached only 247 °C at 6:25; the bread itself was fine.
 3. **Corrections for next time** (written under the log): two bags of ice in stock for the summer, checked the evening before; oven switched on 15 minutes earlier on summer Saturdays.
 4. **Report.** "PC-02 du 12/07: eau à 22 °C (glace manquante), pâte à 26 °C, pointage réduit à 37 min; four à 247 °C à 6:25, livraison magasin à 7:20." The head baker sees cause, action and consequence in three lines (C4.4).
@@ -146,7 +146,7 @@ Checked 2026-10-08.
 
 ### Steps
 
-1. **Before mixing.** Read and write flour, room, tap water, fridge (if you will retard) and the place you will use for pointage and apprêt. Calculate the water with your friction factor (lesson 05.3). Switch the oven on later so it is truly at 240 °C by baking time (your real preheat time from lesson 05.1).
+1. **Before mixing.** Read and write flour, room, tap water, fridge (if you will retard) and the place you will use for pointage and apprêt. Calculate the water with your friction factor (lesson [05.3](lesson-03.md)). Switch the oven on later so it is truly at 240 °C by baking time (your real preheat time from lesson [05.1](lesson-01.md)).
 2. **Mixing.** Mix and knead as in lesson 01.7. Measure the dough: write time and temperature. If it is off by more than 1 °C, calculate the new pointage with the 7 % rule.
 3. **Pointage.** Fold at 40 minutes. At the end, measure the dough again and write the volume and the room temperature.
 4. **Dividing and shaping.** Divide into two pieces of about 415 g, pre-shape, détente, shape two bâtards of about 25 cm (lesson [04.3](../module-04/lesson-03.md)). Write the room temperature and one piece's temperature after shaping.

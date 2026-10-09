@@ -114,7 +114,7 @@ Boulangerie du Marché opens a snack corner with 24 seats and a take-away counte
 2. **Snack corner.** 24 seats, so 20 or more people can be served at once: sandwiches eaten in are served on reusable plates with metal cutlery and glasses; a dishwasher run full on the eco cycle (lesson [18.1](lesson-01.md)). Take-away: plastic cutlery is banned, so wooden cutlery is given only on request; a customer's own box is accepted when it is clean and suits the product.
 3. **Till.** The till is set to print receipts only on request.
 4. **The bucket.** The floor detergent label says **20 mL per litre** of water. The bucket holds 8 L, so the dose is 20 × 8 = **160 mL**. The commis has been pouring "a good glug" measured at about 400 mL: 2.5 times the dose, with about 240 mL wasted per bucket. Two buckets a day over 300 days: 240 × 2 × 300 = 144,000 mL, **144 L of product a year** poured away, plus the rinsing to remove the residue. Fix: a dosing cup marked at 160 mL hung on the bucket, or a wall dilution station.
-5. **Labels.** The detergent carries no environmental label. At the next order the owner compares an EU Ecolabel detergent suited to the job; the disinfection products of the hygiene plan are chosen under the house hygiene plan (Module 17).
+5. **Labels.** The detergent carries no environmental label. At the next order the owner compares an EU Ecolabel detergent suited to the job; the disinfection products of the hygiene plan are chosen under the house hygiene plan ([Module 17](../module-17/lesson-04.md)).
 6. **Sorting.** Cardboard from the paper-bag deliveries is flattened for the paper stream; empty detergent cans are handled as their labels say.
 
 ## Practice
@@ -128,7 +128,7 @@ You choose the packaging for a bakery's range, check your own kitchen's packagin
 
 - Your kitchen's cleaning products (washing-up liquid, a floor or surface cleaner), a measuring cup or a 10-20 mL syringe, a bucket or basin and a 1 L jug, gloves.
 - The packaging that comes into your kitchen in one week (flour bags, yeast wrapping, bread bags, boxes), paper and pen.
-- Professional equivalent: the bakery's packaging list and supplier sheets, the safety data sheets folder, the dilution station, the cleaning plan (Module 17).
+- Professional equivalent: the bakery's packaging list and supplier sheets, the safety data sheets folder, the dilution station, the cleaning plan ([Module 17](../module-17/lesson-04.md)).
 
 ### Ingredients
 
@@ -189,6 +189,6 @@ Your choices keep crusty products crisp and soft products soft without a banned 
 
 - Packaging protects quality first (paper for crisp, closed for soft), then uses the least material in a sortable form; reusable bags and customers' containers cut waste.
 - AGEC at the counter: thin single-use plastic bags banned (except home-compostable, 60 % biosourced), single-use plastic cutlery, plates, straws and stirrers banned, reusable tableware where 20 or more can eat in, customers' own clean containers accepted, receipts on request.
-- Cleaning products: read the label and SDS, dose exactly (mL per L × L), never mix, prefer EU Ecolabel or NF Environnement where it does the job; disinfection and the cleaning plan are Module 17's subject.
+- Cleaning products: read the label and SDS, dose exactly (mL per L × L), never mix, prefer EU Ecolabel or NF Environnement where it does the job; disinfection and the cleaning plan are [Module 17](../module-17/lesson-04.md)'s subject.
 - Small equipment care and the order of a clean-down are in lesson [13.6](../module-13/lesson-06.md).
 - Exam-relevant (C2.4 packaging, C2.7 reasoned use of cleaning products and packaging recycling, S4.3 materials): see [the CAP exam reference](../../references/cap-exam.md).

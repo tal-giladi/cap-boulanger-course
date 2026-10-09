@@ -30,7 +30,7 @@ Part A is the paperwork for this order. Part B is a home order you calculate, ba
 ## You need
 
 - Calculator, paper or a spreadsheet; the [production sheet template](../templates/production-sheet.md) (one per dough), the [bake log](../templates/bake-log.md) and the [quality rubric](../templates/quality-rubric.md).
-- For Part B: the equipment of lesson [06.3](../lessons/module-06/lesson-03.md)'s practice and the poolish container of lesson [06.4](../lessons/module-06/lesson-04.md); your measured baking loss from 06.3 (if you have none yet, use 18 % and measure it in this bake); your shopping receipt and electricity price.
+- For Part B: the equipment of lesson [06.3](../lessons/module-06/lesson-03.md)'s practice and the poolish container of lesson [06.4](../lessons/module-06/lesson-04.md); your measured baking loss from [06.3](../lessons/module-06/lesson-03.md) (if you have none yet, use 18 % and measure it in this bake); your shopping receipt and electricity price.
 
 > [!WARNING]
 > Part B uses a 240 °C oven and steam. Dry oven gloves, steam only in a preheated metal tray (never glass), pour and step back. Score with the blade moving away from your fingers and cover the lame after use.
@@ -48,12 +48,12 @@ Part A is the paperwork for this order. Part B is a home order you calculate, ba
 7. **Hidden flour and hydration.** How much flour is inside the 1,500 g of pâte fermentée? What is PC-02's true hydration?
 8. **Salt.** Check salt per 100 g of bread for the PC-02 rolls with a measured baking loss of 22.7 %, and for the PO-01 baguettes with 20 %.
 9. **Requisition.** Total flour by type (overall formulas), total salt, total fresh yeast for the three doughs.
-10. **Cost.** Material cost of the PC-02 batch (pâte fermentée at €0.553/kg, lesson 06.5), cost of one baguette's materials (divide by the dough that becomes products), full cost, price HT, VAT and margin.
+10. **Cost.** Material cost of the PC-02 batch (pâte fermentée at €0.553/kg, lesson [06.5](../lessons/module-06/lesson-05.md)), cost of one baguette's materials (divide by the dough that becomes products), full cost, price HT, VAT and margin.
 
 ### Part B — the home order (about 16 hours, of which 2 hours hands-on)
 
 11. Work back from 300 g baked to the pâton with your measured loss; round up to the next 5 g. Calculate the dough with 2 % losses, the flour (rounded up to the next 10 g), the poolish and the final dough.
-12. Make the poolish in the evening (lesson 04.5's method and yeast solution; in a warm kitchen use the In Israel notes of lesson 06.4).
+12. Make the poolish in the evening (lesson [04.5](../lessons/module-04/lesson-05.md)'s method and yeast solution; in a warm kitchen use the In Israel notes of lesson [06.4](../lessons/module-06/lesson-04.md)).
 13. Next morning mix the final dough (target 24 °C), ferment, divide three pâtons to your calculated weight (± 2 g), shape bâtards, proof and bake as in lesson 06.3.
 14. Weigh each bâtard 2 minutes out of the oven and after 1 hour. Compare with the 300 g ordered; calculate this bake's loss.
 15. Cost the batch from your receipt (and energy) and give the cost per bâtard.

@@ -54,7 +54,7 @@ Hydration is a number on the sheet; consistency is what you feel. As starting po
 | Bâtarde (medium) | about 62–66 % | pain courant, baguettes | balanced; standard mixing times |
 | Douce (soft) | about 68–75 % | tradition, campagne, ciabatta-type breads | develops slowly, sticks longer, heats less; benefits from autolyse and folds |
 
-Why consistency changes mixing: in a firm dough the proteins are close together and the hook or your hand meets strong resistance, so each turn does a lot of work (fast development, more friction heat). In a soft dough the proteins are diluted and slide past each other, so each turn does less work: development is slower and the dough stays cooler. That is why a very soft dough is usually started with part of the water (**eau de réserve**) and finished with bassinage (lesson 03.5).
+Why consistency changes mixing: in a firm dough the proteins are close together and the hook or your hand meets strong resistance, so each turn does a lot of work (fast development, more friction heat). In a soft dough the proteins are diluted and slide past each other, so each turn does less work: development is slower and the dough stays cooler. That is why a very soft dough is usually started with part of the water (**eau de réserve**) and finished with bassinage (lesson [03.5](lesson-05.md)).
 
 The professional checks consistency at the end of frasage, not at the end of mixing: that is the moment to adjust water, while the gluten is not yet developed.
 
@@ -77,7 +77,7 @@ During the rest, with no mechanical work:
 - **Proteases relax the network.** Flour enzymes cut a few protein chains, so the dough becomes more **extensible**: easier to shape and score, with better oven spring.
 - **Amylases start to free sugars** that the yeast will use and the crust will colour with.
 
-Results in the mixer: less kneading is needed to reach the same development, so less air is beaten in, the dough heats less and is **less oxidised** (lesson 03.4): creamier crumb, more aroma.
+Results in the mixer: less kneading is needed to reach the same development, so less air is beaten in, the dough heats less and is **less oxidised** (lesson [03.4](lesson-04.md)): creamier crumb, more aroma.
 
 Why salt and yeast stay out: salt tightens the gluten and slows the enzymes, which defeats the purpose; yeast would start fermenting and acidifying. Fresh yeast is added at the start of the final mix; salt a little later, once the yeast is dispersed. A pâte fermentée contains salt and yeast, so it goes in after the autolyse, near the end of frasage. A liquid levain is sometimes included in the autolyse by bakers who want its water from the start; that is a variant, not the classic method.
 

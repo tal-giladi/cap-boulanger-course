@@ -67,7 +67,7 @@ flowchart TB
 | Source | Author | Bakery example |
 |---|---|---|
 | Constitution | the people (referendum) or Parliament in Congress | the basic rights every other text must respect, such as the right to join a union |
-| Loi | Parliament | the Code du travail's legal working week of 35 hours (lesson 20.4) |
+| Loi | Parliament | the Code du travail's legal working week of 35 hours (lesson [20.4](lesson-04.md)) |
 | Ordonnance | Government, on Parliament's authorisation | ordinance 2016-131 that rewrote contract law in the Code civil |
 | Décret | Prime Minister or President | décret 93-1074 of 13 September 1993: pain maison, pain de tradition française (lesson [09.1](../module-09/lesson-01.md)) |
 | Arrêté | minister, préfet or maire | the arrêté of 21 February 2014 that created the CAP Boulanger; an arrêté municipal banning parking on market day |
@@ -175,7 +175,7 @@ You analyse two contracts with the grids of this lesson, then check your answers
 
 **1.** The SARL Au Pain de la Halle (employer, represented by its gérante) and M. Benali (employee). Employer: provide the work, pay €12.53 an hour gross and the premiums due, ensure safety. Employee: work 35 hours as ouvrier boulanger under the employer's authority, follow the internal rules and hygiene instructions.
 
-**2.** No. The collective agreement gives a night-work premium (lesson 20.4); a contract can give the employee more than the convention, never less, so the clause cannot remove a guaranteed premium. The more favourable text applies.
+**2.** No. The collective agreement gives a night-work premium (lesson [20.4](lesson-04.md)); a contract can give the employee more than the convention, never less, so the clause cannot remove a guaranteed premium. The more favourable text applies.
 
 **3.** No. Born in 2004, he is an adult and can contract alone; consent and a lawful, certain content are also met.
 

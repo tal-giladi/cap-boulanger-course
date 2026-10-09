@@ -32,7 +32,7 @@ last_verified: "2026-10-08"
 
 # 09.4 · Baking and Judging Tradition
 
-The last lesson of the module bakes the tradition baguettes you shaped in lesson 09.3, then judges them the way a bakery checks a batch and compares them with the pain courant of Module 8. You learn why tradition is baked a little further, what a good one looks, feels and tastes like, and how to tell the shop what makes it different. You bake, evaluate and taste your tradition side by side with a pain courant.
+The last lesson of the module bakes the tradition baguettes you shaped in lesson [09.3](lesson-03.md), then judges them the way a bakery checks a batch and compares them with the pain courant of [Module 8](../module-08/lesson-01.md). You learn why tradition is baked a little further, what a good one looks, feels and tastes like, and how to tell the shop what makes it different. You bake, evaluate and taste your tradition side by side with a pain courant.
 
 ## Why it matters
 
@@ -60,7 +60,7 @@ The oven stages are the same as for any lean bread (lesson [08.4](../module-08/l
 - **Baked to a deeper colour (bien cuit).** A thin, crackling crust that is golden-brown to deep brown, with caramel tones on the grigne, carries much of tradition's aroma. Pale tradition tastes flat and softens within hours.
 - **Done by colour, sound and core temperature:** deep colour, hollow sound from the bottom, core at least 93 °C (King Arthur Baking), usually 96-98 °C.
 
-Steam exactly as for pain courant. In the bakery: steam at loading, ouras opened for the last minutes. **At home (the course's standard method, lessons [07.4](../module-07/lesson-04.md) and 08.4):** a metal tray preheated on the lowest shelf, 100-150 mL of hot water poured in at loading, door shut at once; fan off (top and bottom heat) for the first 10 minutes; steam let out at about 10 minutes; finish the bake.
+Steam exactly as for pain courant. In the bakery: steam at loading, ouras opened for the last minutes. **At home (the course's standard method, lessons [07.4](../module-07/lesson-04.md) and [08.4](../module-08/lesson-04.md)):** a metal tray preheated on the lowest shelf, 100-150 mL of hot water poured in at loading, door shut at once; fan off (top and bottom heat) for the first 10 minutes; steam let out at about 10 minutes; finish the bake.
 
 ### What a good tradition looks like
 
@@ -89,11 +89,11 @@ A 270 g home tradition holds 2.82 g of salt; at 22 % loss (211 g) that is **1.34
 
 - **What to say (C4.2):** wheat flour, water, salt and yeast or levain only, no additive, never frozen; long fermentation for flavour; deeper crust and cream, open crumb.
 - **Keeping:** paper bag, room temperature; refresh a few minutes in a hot oven the next day (lesson [07.5](../module-07/lesson-05.md)).
-- **Freezing:** the shop may not freeze tradition while making it (art. 2), and a boulangerie may not freeze dough or bread at any stage of production or sale (L122-17), so yesterday's traditions are never sold thawed. **The customer** may freeze what she will not eat: whole or sliced, fully cooled, airtight, then refreshed in the oven (lesson 07.5).
+- **Freezing:** the shop may not freeze tradition while making it (art. 2), and a boulangerie may not freeze dough or bread at any stage of production or sale (L122-17), so yesterday's traditions are never sold thawed. **The customer** may freeze what she will not eat: whole or sliced, fully cooled, airtight, then refreshed in the oven (lesson [07.5](../module-07/lesson-05.md)).
 
 ## Worked example
 
-Saturday, Boulangerie Au Pain de la Halle. The 40 traditions of lesson 09.3 were loaded at 8:55 on two decks at 250 °C, steam at loading.
+Saturday, Boulangerie Au Pain de la Halle. The 40 traditions of lesson [09.3](lesson-03.md) were loaded at 8:55 on two decks at 250 °C, steam at loading.
 
 1. **9:13, ouras opened** on both decks.
 2. **9:19, check:** golden-brown, but the grignes are still light. Two more minutes for the "bien cuit" the shop wants.
@@ -105,7 +105,7 @@ Saturday, Boulangerie Au Pain de la Halle. The 40 traditions of lesson 09.3 were
 
 ## Practice
 
-You bake the three tradition baguettes you shaped in lesson 09.3, evaluate them after cooling, and compare them with a pain courant baguette: from your Module 8 bake log, or better, from a half batch of PC-02 baked the same day. You keep one piece of each until the next morning to compare keeping.
+You bake the three tradition baguettes you shaped in lesson [09.3](lesson-03.md), evaluate them after cooling, and compare them with a pain courant baguette: from your [Module 8](../module-08/lesson-01.md) bake log, or better, from a half batch of PC-02 baked the same day. You keep one piece of each until the next morning to compare keeping.
 
 > [!WARNING]
 > The oven, trays and steam reach 250 °C. Wear dry oven gloves and long sleeves. Pour the water only into a metal tray preheated in the oven, never into a hot glass or ceramic dish, which can shatter; pour quickly, close the door and step back from the steam. Open the door from the side at 10 minutes to let the steam out.
@@ -120,7 +120,7 @@ You bake the three tradition baguettes you shaped in lesson 09.3, evaluate them 
 
 ### Ingredients
 
-The three tradition baguettes of 270 g from lessons 09.2-09.3. Optional comparison: PC-02 on 250 g of flour (flour 250 g, water 160 g, salt 4.5 g, fresh yeast 3.8 g or 1.3 g instant, pâte fermentée 38 g), with its own PC-02 pâte fermentée made the evening before from ordinary flour (lesson 08.1; keep it apart from the tradition one), and mixed about 2 h 30 after the tradition so both are ready one after the other. It gives one 270 g baguette and the rest as rolls.
+The three tradition baguettes of 270 g from lessons [09.2](lesson-02.md)-09.3. Optional comparison: PC-02 on 250 g of flour (flour 250 g, water 160 g, salt 4.5 g, fresh yeast 3.8 g or 1.3 g instant, pâte fermentée 38 g), with its own PC-02 pâte fermentée made the evening before from ordinary flour (lesson [08.1](../module-08/lesson-01.md); keep it apart from the tradition one), and mixed about 2 h 30 after the tradition so both are ready one after the other. It gives one 270 g baguette and the rest as rolls.
 
 ### In Israel
 
@@ -132,12 +132,12 @@ The three tradition baguettes of 270 g from lessons 09.2-09.3. Optional comparis
 ### Steps
 
 1. **Preheat** at least 45 minutes at 240-250 °C: baking tray or stone in the middle, empty metal tray on the lowest shelf. Kettle on 5 minutes before loading.
-2. **Score and load** when the poke test says ready (lesson 09.3): slide the paper with the baguettes onto the hot tray, pour 100-150 mL of hot water into the steam tray, shut the door, step back. Note the time.
+2. **Score and load** when the poke test says ready (lesson [09.3](lesson-03.md)): slide the paper with the baguettes onto the hot tray, pour 100-150 mL of hot water into the steam tray, shut the door, step back. Note the time.
 3. **At 10 minutes:** open the door from the side, let the steam out (or remove the steam tray with gloves). Fan on if your oven colours unevenly.
 4. **Bake 22-27 minutes in total** to a deep golden-brown with caramel on the cuts. Check one baguette: hollow sound, core at least 93 °C (aim 96-98 °C).
 5. **Cool** on the rack, single layer, at least 1 hour. Bake the PC-02 baguette in the same way if you made one.
-6. **Weigh** each cooled baguette; calculate the average, the baking loss and the salt per 100 g with 1.044 % (PC-02: 1.076 %, lesson 08.5).
-7. **Score** one tradition with the [quality rubric](../../templates/quality-rubric.md): exterior, then cut, then taste. Do the same for the pain courant (or use your Module 8 score).
+6. **Weigh** each cooled baguette; calculate the average, the baking loss and the salt per 100 g with 1.044 % (PC-02: 1.076 %, lesson [08.5](../module-08/lesson-05.md)).
+7. **Score** one tradition with the [quality rubric](../../templates/quality-rubric.md): exterior, then cut, then taste. Do the same for the pain courant (or use your [Module 8](../module-08/lesson-01.md) score).
 8. **Compare** them on the eight lines of the comparison table above: write one observation per line for each bread.
 9. **Next morning:** taste the piece of each you kept in the paper bag. Write which has kept better and how (crust, crumb, flavour).
 10. **Write three lines:** what matched the targets, the main defect traced to its stage, the one change for your next tradition.
@@ -166,12 +166,12 @@ Your tradition has a thin, crackling crust that is darker than your pain courant
 | Symptom | Likely cause | Fix now | Prevent next time |
 |---|---|---|---|
 | Pale crust, soft within hours | Under-baked; oven cooler than the dial; over-proofed | Back into the oven for 3-5 minutes | Bake to deep colour; oven thermometer; poke-test earlier |
-| Flat cuts, flat bread | Over-proofed; weak or slack dough; no steam | — | Shorter apprêt; check hydration and folds (09.2); steam at loading |
+| Flat cuts, flat bread | Over-proofed; weak or slack dough; no steam | — | Shorter apprêt; check hydration and folds ([09.2](lesson-02.md)); steam at loading |
 | Thick, hard crust | Baked too long at too low a temperature; no steam | — | Full preheat; steam; hotter, shorter bake |
 | Gummy crumb in the centre | Under-baked for a wet dough; cut warm | Return 5 minutes; cool fully | Core 96-98 °C; cool at least 1 hour |
-| White, bland crumb, little aroma | Over-mixed or mixed fast (oxidised) | — | Autolyse and first speed; stop before full development (09.2) |
+| White, bland crumb, little aroma | Over-mixed or mixed fast (oxidised) | — | Autolyse and first speed; stop before full development ([09.2](lesson-02.md)) |
 | Salt over 1.4 g per 100 g | High baking loss in a long, slow home bake; salt mis-weighed | Note it | Hotter, shorter bake; weigh salt on the 0.1 g scale |
-| Tradition and courant look the same on the shelf | Same shaping and scoring for both | Label clearly | Distinct cut pattern for tradition (09.3); bake tradition darker |
+| Tradition and courant look the same on the shelf | Same shaping and scoring for both | Label clearly | Distinct cut pattern for tradition ([09.3](lesson-03.md)); bake tradition darker |
 
 ## Review
 

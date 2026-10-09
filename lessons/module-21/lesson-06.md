@@ -26,7 +26,7 @@ last_verified: "2026-10-09"
 
 # 21.6 · EP1 Round: Supplies, Hygiene and Communication
 
-The last round brings together the competencies EP1 assesses directly from the bakery's daily paperwork: receiving a delivery, deciding line by line, storing and rotating stock, reporting the problems, and briefing sales staff and customers. It reuses the Saturday morning of Module 19's project at Au Pain de la Halle as a written round of 24 points in 36 minutes, with the order, the delivery note, a stock sheet and the laboratory report of a new walnut bread.
+The last round brings together the competencies EP1 assesses directly from the bakery's daily paperwork: receiving a delivery, deciding line by line, storing and rotating stock, reporting the problems, and briefing sales staff and customers. It reuses the Saturday morning of [Module 19](../module-19/lesson-01.md)'s project at Au Pain de la Halle as a written round of 24 points in 36 minutes, with the order, the delivery note, a stock sheet and the laboratory report of a new walnut bread.
 
 ## Why it matters
 

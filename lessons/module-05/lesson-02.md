@@ -23,7 +23,7 @@ last_verified: "2026-10-08"
 
 # 05.2 · The Base Temperature Method
 
-In lesson 01.7 you estimated the water temperature with a quick hand-mix rule. This lesson shows the professional method behind it, the température de base, explains why it works, and shows the two ways it is written on French technical sheets and exam papers. You finish by calculating your water and mixing a dough that lands on its target temperature.
+In lesson [01.7](../module-01/lesson-07.md) you estimated the water temperature with a quick hand-mix rule. This lesson shows the professional method behind it, the température de base, explains why it works, and shows the two ways it is written on French technical sheets and exam papers. You finish by calculating your water and mixing a dough that lands on its target temperature.
 
 ## Why it matters
 
@@ -66,8 +66,8 @@ The bars show the logic: the base is fixed by the target, flour and room take wh
 Lesson [01.7](../module-01/lesson-07.md) used *water ≈ 3 × 24 − flour − room − 2*. That is this formula with TPV 24 °C, three factors and a small friction factor of 2 for gentle hand kneading. The full method generalises it in three ways:
 
 - **any target**: 22 °C for a tradition dough, 25 °C for pain complet ([base formulas](../../references/formulas.md)), cooler for a dough going into the fridge (lesson [04.6](../module-04/lesson-06.md));
-- **your own friction factor**, measured for your mixer or your hands (lesson 05.3);
-- **a fourth factor** when a pre-ferment is added (× 4 instead of × 3, lesson 05.3).
+- **your own friction factor**, measured for your mixer or your hands (lesson [05.3](lesson-03.md));
+- **a fourth factor** when a pre-ferment is added (× 4 instead of × 3, lesson [05.3](lesson-03.md)).
 
 ### Two ways the base temperature is written
 
@@ -86,9 +86,9 @@ Try both forms in the simulation: it opens on the EP1 2019 brioche sheet (printe
 
 ### Limits of the water
 
-- Water cannot be colder than about 1-2 °C in practice; if the calculation gives less, the water alone cannot do it (ice, colder flour or a shorter mix, lesson 05.3).
+- Water cannot be colder than about 1-2 °C in practice; if the calculation gives less, the water alone cannot do it (ice, colder flour or a shorter mix, lesson [05.3](lesson-03.md)).
 - Water should not be above about **40 °C** where it meets yeast (lessons [02.4](../module-02/lesson-04.md) and [02.6](../module-02/lesson-06.md)). If winter calculations go above that, warm the room or the flour instead, or accept a cooler dough and a longer pointage.
-- With very cold water, instant yeast should not meet the water directly: mix it into the flour first (lesson 02.6).
+- With very cold water, instant yeast should not meet the water directly: mix it into the flour first (lesson [02.6](../module-02/lesson-06.md)).
 
 ### Mixing two waters
 
@@ -104,7 +104,7 @@ Wednesday, Boulangerie du Marché. The pâte fermentée has run out, so the head
 2. **Water temperature.** 3 × 24 = 72; 72 − 21 − 23 − 15 = **13 °C**. (Same answer from the TB: 72 − 15 = 57; 57 − (21 + 23) = 13.)
 3. **Is the tap enough?** No: the tap is 19 °C. Set the water dosing unit to 13 °C, or blend: cold share = 3,456 × (19 − 13) ÷ (19 − 4) = 3,456 × 0.4 ≈ **1,382 g** of 4 °C water + 2,074 g of tap water.
 4. **Mix and measure.** Dough at the end of mixing: 24.5 °C. Within 23-25 °C: follow the sheet's pointage and write the reading on the [temperature log](../../templates/temperature-log.md) with the inputs.
-5. **What the reading tells you for next time.** The mixer heated slightly more than the card says; lesson 05.3 shows how to turn each reading into your own friction factor.
+5. **What the reading tells you for next time.** The mixer heated slightly more than the card says; lesson [05.3](lesson-03.md) shows how to turn each reading into your own friction factor.
 
 ## Practice
 
@@ -115,7 +115,7 @@ You calculate water temperatures on paper, then mix a PD-01 dough at home that m
 
 ### You need
 
-- Minimum: scale (1 g; 0.1 g for salt and yeast), checked probe thermometer, bowl, scraper, lidded container, kettle, a bottle of water kept in the fridge, calculator, your audit from lesson 05.1, the [temperature log](../../templates/temperature-log.md). For the rolls: as in lesson [01.7](../module-01/lesson-07.md).
+- Minimum: scale (1 g; 0.1 g for salt and yeast), checked probe thermometer, bowl, scraper, lidded container, kettle, a bottle of water kept in the fridge, calculator, your audit from lesson [05.1](lesson-01.md), the [temperature log](../../templates/temperature-log.md). For the rolls: as in lesson [01.7](../module-01/lesson-07.md).
 - Professional equivalent: water dosing unit with temperature setting, water cooler, spiral mixer with a known friction factor, dough thermometer.
 
 ### Ingredients
@@ -144,11 +144,11 @@ Check your own summer or winter readings in the simulation before you mix (it op
 
 1. **Exercises first.** Work through the exercises below; check your answers.
 2. **Measure** flour (in the bag) and room (at the worktop), and your tap water.
-3. **Friction factor.** If you have your lesson 01.7 or 03.4 records, calculate it: 3 × dough temperature − flour − room − water of that bake. If not, use 6 (about 2 °C of heating by hand).
+3. **Friction factor.** If you have your lesson [01.7](../module-01/lesson-07.md) or [03.4](../module-03/lesson-04.md) records, calculate it: 3 × dough temperature − flour − room − water of that bake. If not, use 6 (about 2 °C of heating by hand).
 4. **Calculate** the water for TPV 24 °C. Blend tap, fridge or kettle water to that temperature ±0.5 °C, weigh 325 g, check it again.
-5. **Mix and knead** by hand for 10 minutes as in lesson 01.7 (instant yeast into the flour first if the water is below about 20 °C).
+5. **Mix and knead** by hand for 10 minutes as in lesson [01.7](../module-01/lesson-07.md) (instant yeast into the flour first if the water is below about 20 °C).
 6. **Measure the dough** in the centre straight after kneading. Fill in the temperature log: target, inputs, friction factor, water, result, difference.
-7. **Use the dough:** finish it as the 01.7 flat rolls, judging pointage by the dough.
+7. **Use the dough:** finish it as the [01.7](../module-01/lesson-07.md) flat rolls, judging pointage by the dough.
 
 ### Exercises
 
@@ -186,7 +186,7 @@ Your dough reads 23-25 °C and you can show, on the log, the calculation that pr
 
 - [ ] I can write the water formula for 3 factors and explain what each term is.
 - [ ] I can convert between a TPV with a friction factor and a TB given on a sheet.
-- [ ] I can explain why my 01.7 estimate is a special case of the method.
+- [ ] I can explain why my [01.7](../module-01/lesson-07.md) estimate is a special case of the method.
 - [ ] I know the limits of the water (about 1-2 °C cold, 40 °C hot) and what to do beyond them.
 - [ ] My dough landed within ±1 °C, or I recorded by how much it missed.
 
@@ -196,7 +196,7 @@ Your dough reads 23-25 °C and you can show, on the log, the calculation that pr
 |---|---|---|---|
 | Dough 2-3 °C warmer than the target | Friction underestimated; warm flour or room not measured | Shorten pointage, ferment cooler | Measure all inputs; use your measured friction factor |
 | Dough 2-3 °C colder than the target | Water cooled after weighing; cold bowl; friction overestimated | Longer pointage, warmer place | Measure the water as it goes in; record the result |
-| Water calculated "below zero" | Very warm flour and room, high friction | Use the coldest water you have and adapt fermentation | Ice and other levers (lesson 05.3) |
+| Water calculated "below zero" | Very warm flour and room, high friction | Use the coldest water you have and adapt fermentation | Ice and other levers (lesson [05.3](lesson-03.md)) |
 | Exam answer wrong although the arithmetic is right | Friction subtracted again from a TB that already includes it | — | TB given → water = TB − room − flour only |
 | Yeast sluggish after a very cold mix | Instant yeast put straight into ice-cold water | Allow more time | Instant yeast into the flour first |
 
@@ -204,6 +204,6 @@ Your dough reads 23-25 °C and you can show, on the log, the calculation that pr
 
 - Base = TPV × number of factors (3, or 4 with a pre-ferment); water = base − flour − room (− pre-ferment) − friction factor.
 - A TB written on a sheet or an exam paper already includes friction: water = TB − fournil − flour.
-- Your 01.7 estimate is the same method with a small friction factor; the full method changes the target, the friction and the number of factors.
+- Your [01.7](../module-01/lesson-07.md) estimate is the same method with a small friction factor; the full method changes the target, the friction and the number of factors.
 - Water stays between about 1-2 °C and 40 °C; beyond that, use other levers.
 - Exam-relevant (S3.1 base temperature, C1.3 calculations): see [the CAP exam reference](../../references/cap-exam.md).
