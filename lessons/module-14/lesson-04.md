@@ -195,11 +195,11 @@ gantt
   Fan oven heats               :o3, 10:35, 20m
 ```
 
-**5. If your window is shorter.** The plan cannot shrink below the laminated dough's chain without breaking a minimum of the course sheet (2 h chill, 1 h final rest, a full proof). When you rehearse with the real timing from the [exam reference](../../references/cap-exam.md) (Module 22 does this), start from that chain, see where the time must come from, and practise exactly that; never by proofing laminated dough above 27 °C.
+**5. If your window is shorter.** The plan cannot shrink below the laminated dough's chain without breaking a minimum of the course sheet (2 h chill, 1 h final rest, a full proof). When you rehearse with the real timing from the [exam reference](../../references/cap-exam.md) ([Module 22](../module-22/lesson-02.md) does this), start from that chain, see where the time must come from, and practise exactly that; never by proofing laminated dough above 27 °C.
 
 ## Practice
 
-You plan the home version of the same day on paper: three doughs, one person, a one-tray oven. Lesson 14.4's plan is the model; the home kitchen changes the oven plan completely. Bake it only if you have a whole free day: it is close to the full production-day rehearsal of Module 22.
+You plan the home version of the same day on paper: three doughs, one person, a one-tray oven. Lesson 14.4's plan is the model; the home kitchen changes the oven plan completely. Bake it only if you have a whole free day: it is close to the full production-day rehearsal of [Module 22](../module-22/lesson-05.md).
 
 ### You need
 

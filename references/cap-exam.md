@@ -49,6 +49,8 @@ Coefficients: EP1 and EP2 from the règlement d'examen in the [référentiel](ht
 
 Real EP1 papers use company documents (technical sheets, protocols, analysis results, articles) and ask for definitions, explanations and justified decisions. Past papers are published by the Base nationale des sujets d'examens ([example: session 2019](https://bnseep.eduscol.education.fr/ressources/examens/sujets/19/500/2213700/EP1/UP1_SUJET.pdf)). Module 21 of this course practises EP1.
 
+[Module 21](../lessons/module-21/lesson-01.md) of this course practises EP1 round by round and ends with a [full mock paper](../projects/m21-ep1-mock-paper.md).
+
 ## EP2: production
 
 | Item | Rule |
@@ -73,7 +75,7 @@ Rules during the test: mixing is done by machine; shaping is done by hand; for l
 > [!WARNING]
 > Bring the protective equipment named on your convocation. The Île-de-France exam service ([SIEC](https://siec.education.fr/candidats/examens/CAP/tout-savoir-sur-le-cap/cap-tout-savoir-sur-la-session)) states that a candidate without the required protective equipment gets 0/20 in a practical test.
 
-Module 22 of this course rehearses EP2 at home. A home rehearsal is not the exam: you will still need practice on professional equipment (spiral mixer, deck oven, sheeter).
+[Module 22](../lessons/module-22/lesson-01.md) of this course rehearses EP2 at home. A home rehearsal is not the exam: you will still need practice on professional equipment (spiral mixer, deck oven, sheeter).
 
 ## Passing
 

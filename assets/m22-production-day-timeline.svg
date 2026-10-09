@@ -1,0 +1,107 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 470" width="960" height="470" role="img" aria-labelledby="t d">
+  <title id="t">Home production day: four doughs, a crème pâtissière and a one-tray oven, 5:30 to 15:00</title>
+  <desc id="d">Timeline from 5:30 to 15:00 with one lane per preparation and one for the oven. Dark bars are hands time, light bars are dough time, orange bars are baking, green bars are cooling. CR-01 croissant dough: détrempe 5:30-5:45, chill until 8:00, lock-in and turn 1 8:00-8:15, turn 2 8:45, turn 3 9:35, final rest until 10:45, shaping 10:45-11:20, proof until 12:50, bakes 12:50-13:32, cooled about 13:52. CP-01 cream: cooked 5:45-6:05, cooled on ice to 10 degrees by about 6:50, fridge until used at 10:45. PC-02 bread: mix 6:20-6:40, pointage until 7:40, divide, détente, shape 8:15-8:40, apprêt, three bakes 9:30-10:46, cooled by about 11:16. VI-01 viennois: mix 7:20-7:40, pointage then fridge, divide 8:55, shape 9:45, apprêt until 11:00, bake 11:00-11:16. PL-01 pain au lait: mix 6:40-7:05, pointage then cold, divide 9:10, cold until 12:20, shape 12:20-12:40, proof, bake 13:37-13:59, cooled 14:29. Oven: preheat 8:40, hot loads at 250 degrees 9:30-10:46, viennois at 190 degrees 11:00-11:16, off 11:16-12:35, viennoiserie loads 12:50-13:32, pain au lait 13:37-13:59. Close: presentation and cleaning 14:00-15:00. The croissant lane is marked as the critical path.</desc>
+  <rect x="0" y="0" width="960" height="470" fill="#ffffff"/>
+  <g font-family="Arial, Helvetica, sans-serif" fill="#222222">
+    <text x="480" y="26" text-anchor="middle" font-size="19" font-weight="bold">A home production day: one baker, one tray, about 9 h 30</text>
+    <text x="480" y="46" text-anchor="middle" font-size="12">Plan of lesson 22.5 (kitchen about 24 °C). Read each lane left to right; the croissant lane is the critical path.</text>
+
+    <g stroke="#e3e3e3" stroke-width="1">
+      <line x1="162" y1="60" x2="162" y2="380"/><line x1="246" y1="60" x2="246" y2="380"/><line x1="330" y1="60" x2="330" y2="380"/><line x1="414" y1="60" x2="414" y2="380"/><line x1="498" y1="60" x2="498" y2="380"/><line x1="582" y1="60" x2="582" y2="380"/><line x1="666" y1="60" x2="666" y2="380"/><line x1="750" y1="60" x2="750" y2="380"/><line x1="834" y1="60" x2="834" y2="380"/><line x1="918" y1="60" x2="918" y2="380"/>
+    </g>
+    <g font-size="11" text-anchor="middle">
+      <text x="162" y="396">6:00</text><text x="246" y="396">7:00</text><text x="330" y="396">8:00</text><text x="414" y="396">9:00</text><text x="498" y="396">10:00</text><text x="582" y="396">11:00</text><text x="666" y="396">12:00</text><text x="750" y="396">13:00</text><text x="834" y="396">14:00</text><text x="918" y="396">15:00</text>
+    </g>
+
+    <g font-size="12" font-weight="bold">
+      <text x="12" y="88">CR-01 croissant</text>
+      <text x="12" y="132">CP-01 cream</text>
+      <text x="12" y="176">PC-02 bread</text>
+      <text x="12" y="220">VI-01 viennois</text>
+      <text x="12" y="264">PL-01 pain au lait</text>
+      <text x="12" y="308">Oven (one tray)</text>
+      <text x="12" y="352">Close</text>
+    </g>
+    <text x="12" y="102" font-size="10" fill="#c0392b">critical path</text>
+
+    <!-- CR-01, y 72-96 -->
+    <rect x="120" y="72" width="21" height="24" fill="#2c3e50"/>
+    <rect x="141" y="72" width="189" height="24" fill="#c9d6e3"/>
+    <rect x="330" y="72" width="21" height="24" fill="#2c3e50"/>
+    <rect x="351" y="72" width="42" height="24" fill="#c9d6e3"/>
+    <rect x="393" y="72" width="14" height="24" fill="#2c3e50"/>
+    <rect x="407" y="72" width="56" height="24" fill="#c9d6e3"/>
+    <rect x="463" y="72" width="14" height="24" fill="#2c3e50"/>
+    <rect x="477" y="72" width="84" height="24" fill="#c9d6e3"/>
+    <rect x="561" y="72" width="49" height="24" fill="#2c3e50"/>
+    <rect x="610" y="72" width="126" height="24" fill="#c9d6e3"/>
+    <rect x="736" y="72" width="59" height="24" fill="#e67e22"/>
+    <rect x="795" y="72" width="28" height="24" fill="#8bc48a"/>
+    <g font-size="10" fill="#222222"><text x="200" y="88">chill 2 h 15</text><text x="490" y="88">final rest</text><text x="640" y="88">proof 24-26 °C</text></g>
+    <rect x="118" y="70" width="707" height="28" fill="none" stroke="#c0392b" stroke-width="1.5" stroke-dasharray="5 3"/>
+
+    <!-- CP-01, y 116-140 -->
+    <rect x="141" y="116" width="28" height="24" fill="#2c3e50"/>
+    <rect x="169" y="116" width="63" height="24" fill="#9fd3e6"/>
+    <rect x="232" y="116" width="329" height="24" fill="#c9d6e3"/>
+    <g font-size="10"><text x="172" y="132">ice, 63→10 °C</text><text x="340" y="132">fridge, 5 °C or below; used at 10:45</text></g>
+
+    <!-- PC-02, y 160-184 -->
+    <rect x="190" y="160" width="28" height="24" fill="#2c3e50"/>
+    <rect x="218" y="160" width="84" height="24" fill="#c9d6e3"/>
+    <rect x="302" y="160" width="21" height="24" fill="#2c3e50"/>
+    <rect x="323" y="160" width="28" height="24" fill="#c9d6e3"/>
+    <rect x="351" y="160" width="35" height="24" fill="#2c3e50"/>
+    <rect x="386" y="160" width="70" height="24" fill="#c9d6e3"/>
+    <rect x="456" y="160" width="106" height="24" fill="#e67e22"/>
+    <rect x="562" y="160" width="42" height="24" fill="#8bc48a"/>
+    <g font-size="10"><text x="236" y="176">pointage</text><text x="395" y="176">apprêt</text><text x="466" y="176">3 loads, 250 °C</text></g>
+
+    <!-- VI-01, y 204-228 -->
+    <rect x="274" y="204" width="28" height="24" fill="#2c3e50"/>
+    <rect x="302" y="204" width="105" height="24" fill="#c9d6e3"/>
+    <rect x="407" y="204" width="21" height="24" fill="#2c3e50"/>
+    <rect x="428" y="204" width="49" height="24" fill="#c9d6e3"/>
+    <rect x="477" y="204" width="14" height="24" fill="#2c3e50"/>
+    <rect x="491" y="204" width="91" height="24" fill="#c9d6e3"/>
+    <rect x="582" y="204" width="22" height="24" fill="#e67e22"/>
+    <rect x="604" y="204" width="42" height="24" fill="#8bc48a"/>
+    <g font-size="10"><text x="310" y="220">pointage, fridge</text><text x="505" y="220">apprêt</text></g>
+
+    <!-- PL-01, y 248-272 -->
+    <rect x="218" y="248" width="35" height="24" fill="#2c3e50"/>
+    <rect x="253" y="248" width="175" height="24" fill="#c9d6e3"/>
+    <rect x="428" y="248" width="14" height="24" fill="#2c3e50"/>
+    <rect x="442" y="248" width="252" height="24" fill="#c9d6e3"/>
+    <rect x="694" y="248" width="28" height="24" fill="#2c3e50"/>
+    <rect x="722" y="248" width="80" height="24" fill="#c9d6e3"/>
+    <rect x="802" y="248" width="31" height="24" fill="#e67e22"/>
+    <rect x="833" y="248" width="42" height="24" fill="#8bc48a"/>
+    <g font-size="10"><text x="270" y="264">pointage, then cold</text><text x="520" y="264">divided, held cold</text><text x="730" y="264">proof</text></g>
+
+    <!-- Oven, y 292-316 -->
+    <rect x="386" y="292" width="70" height="24" fill="#f5cba7"/>
+    <rect x="456" y="292" width="106" height="24" fill="#e67e22"/>
+    <rect x="582" y="292" width="22" height="24" fill="#d35400"/>
+    <rect x="604" y="292" width="111" height="24" fill="#eeeeee" stroke="#bbbbbb"/>
+    <rect x="715" y="292" width="21" height="24" fill="#f5cba7"/>
+    <rect x="736" y="292" width="59" height="24" fill="#e67e22"/>
+    <rect x="802" y="292" width="31" height="24" fill="#d35400"/>
+    <g font-size="10"><text x="392" y="308">preheat</text><text x="462" y="308">250 °C, steam</text><text x="630" y="308">off: saves energy</text><text x="740" y="308">195-200</text></g>
+    <g font-size="9"><text x="583" y="330">190 °C</text><text x="803" y="330">185 °C</text></g>
+
+    <!-- Close, y 336-360 -->
+    <rect x="834" y="336" width="84" height="24" fill="#bdc3c7"/>
+    <text x="840" y="352" font-size="10">present, clean</text>
+
+    <!-- legend -->
+    <g font-size="11">
+      <rect x="120" y="414" width="16" height="12" fill="#2c3e50"/><text x="142" y="424">hands time</text>
+      <rect x="230" y="414" width="16" height="12" fill="#c9d6e3"/><text x="252" y="424">dough time (rest, fermentation, cold)</text>
+      <rect x="470" y="414" width="16" height="12" fill="#e67e22"/><text x="492" y="424">baking</text>
+      <rect x="560" y="414" width="16" height="12" fill="#8bc48a"/><text x="582" y="424">cooling</text>
+      <rect x="650" y="414" width="16" height="12" fill="#9fd3e6"/><text x="672" y="424">cream on ice</text>
+    </g>
+    <text x="480" y="452" text-anchor="middle" font-size="11" fill="#555555">A practice plan, not the exam's timing: compare your day with the practical-phase time in references/cap-exam.md.</text>
+  </g>
+</svg>

@@ -1,0 +1,89 @@
+- id: q1
+  question: >-
+    Delivery note, 17 October: "Lait entier pasteurisé 1 L × 10 — DLC 15/10". Your probe reads
+    +4 °C. What do you decide?
+  options:
+    - >-
+      Accept, because +4 °C is within the limit for milk
+    - >-
+      Accept with a reservation and use the milk today
+    - >-
+      Refuse, because the use-by date has already passed
+    - >-
+      Accept, then freeze it at once to stop the clock
+  correct: 2
+  explanation: >-
+    A product past its DLC is refused whatever its temperature. The temperature check is only one
+    of the checks; the date is read against the day of delivery.
+
+- id: q2
+  question: >-
+    Which reservation, written before signing, protects the bakery best?
+  options:
+    - >-
+      « Livraison non conforme, voir avec la gérante dès ce matin. »
+    - >-
+      « Crème fraîche : 3 L refusés, +9 °C ; 1 L manquant. 5 h 55. »
+    - >-
+      « Reçu sous réserve de vérification ultérieure au fournil. »
+    - >-
+      « Problème de température sur la crème, merci de rappeler. »
+  correct: 1
+  explanation: >-
+    A useful reservation names the product, the quantity, the defect with its figure and the time,
+    so the supplier cannot dispute it. General wording proves nothing.
+
+- id: q3
+  question: >-
+    Stock sheet of laminating butter: balance 5 plaques on Monday; exits 2 on Tuesday and 2 on
+    Thursday; entry 4 on Saturday. Which balance is correct after Saturday's delivery?
+  options:
+    - >-
+      9 plaques, adding the entry to Monday's balance
+    - >-
+      1 plaque, forgetting Saturday's entry
+    - >-
+      13 plaques, adding the exits instead of subtracting them
+    - >-
+      5 plaques, from 5 − 2 − 2 + 4
+  correct: 3
+  explanation: >-
+    Balance = previous balance + entries − exits: 5 − 2 − 2 + 4 = 5. The new plaques go behind the
+    old ones; the earliest DLC is used first.
+
+- id: q4
+  question: >-
+    A laboratory report on a walnut bread made on site gives pH 4.2 and 1,000 ppm acetic acid; the
+    allergen table shows gluten (wheat, rye), walnuts and possible sesame traces. Which seller's
+    sentence is correct?
+  options:
+    - >-
+      « Pain aux noix au levain : gluten (blé, seigle), noix, traces possibles de sésame. »
+    - >-
+      « Pain aux noix au levain, sans gluten grâce au levain, avec des noix. »
+    - >-
+      « Pain aux noix : contient des noix ; le levain ne peut pas être annoncé. »
+    - >-
+      « Pain aux noix au levain : contient des noix, rien d'autre à signaler. »
+  correct: 0
+  explanation: >-
+    pH 4.2 ≤ 4.3 and 1,000 ≥ 900 ppm allow "au levain" for a bread made on site; the brief must
+    give every allergen and the traces. Levain does not remove gluten.
+
+- id: q5
+  question: >-
+    At 9:00 a supplier recalls lot N-2309 of walnut kernels. What do you do first?
+  options:
+    - >-
+      Wait for the official RappelConso notice before doing anything
+    - >-
+      Check the lot was received, set it aside, withdraw its products
+    - >-
+      Use the lot in breads that will be baked, as baking removes the risk
+    - >-
+      Throw the lot away quietly without recording it anywhere
+  correct: 1
+  explanation: >-
+    Traceability records show whether the lot was received; the lot and products made from it are
+    set aside and withdrawn, customers informed if sold, and everything recorded. Shell fragments
+    are a physical hazard baking does not remove.

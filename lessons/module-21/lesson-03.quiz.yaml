@@ -1,0 +1,88 @@
+- id: q1
+  question: >-
+    A sheet asks for 25 baguettes of 350 g on a formula totalling 182.3 %, with 2 % dough losses.
+    Which flour weight is correct?
+  options:
+    - >-
+      About 8,925 g, the dough weight with losses
+    - >-
+      About 4,896 g, the dough with losses × 100 ÷ 182.3
+    - >-
+      About 4,800 g, the dough without losses ÷ 1.823
+    - >-
+      About 5,335 g, leaving the pâte fermentée out of the total
+  correct: 1
+  explanation: >-
+    Dough 25 × 350 = 8,750 g; × 1.02 = 8,925 g; flour = 8,925 × 100 ÷ 182.3 ≈ 4,896 g. Using the
+    dough weight as flour, or forgetting the losses, are the slips.
+
+- id: q2
+  question: >-
+    Direct dough, no pre-ferment: TPV 25 °C, flour 22 °C, room 26 °C, friction factor 18. Which
+    water temperature is correct?
+  options:
+    - >-
+      9 °C, from a base of 75 minus flour, room and friction
+    - >-
+      35 °C, from a base of 75 minus flour and room only
+    - >-
+      27 °C, from a base of 100 minus flour, room and friction
+    - >-
+      13 °C, from a base of 75 minus flour and friction only
+  correct: 0
+  explanation: >-
+    Without a pre-ferment the base uses 3 factors: 25 × 3 = 75; 75 − 22 − 26 − 18 = 9 °C. Four
+    factors are only for a dough with a pre-ferment.
+
+- id: q3
+  question: >-
+    On a technical sheet the step "20 min, couvert — pâte détendue" sits between boulage and
+    façonnage. Which term fills the blank?
+  options:
+    - >-
+      Pointage
+    - >-
+      Apprêt
+    - >-
+      Ressuage
+    - >-
+      Détente
+  correct: 3
+  explanation: >-
+    Détente is the rest of the divided, pre-shaped pieces so the gluten relaxes before shaping.
+    Pointage is in bulk before dividing; apprêt follows shaping; ressuage follows baking.
+
+- id: q4
+  question: >-
+    A question asks the role of the chambre de pousse contrôlée. Which answer earns the mark?
+  options:
+    - >-
+      A stainless-steel cabinet with racks, a door and a control panel
+    - >-
+      It bakes the shaped pieces slowly at a low, even temperature
+    - >-
+      It controls temperature and humidity to block, hold and proof pieces
+    - >-
+      It stores flour and dry goods away from humidity and pests
+  correct: 2
+  explanation: >-
+    A role says what the machine does to the product: the controlled proofer cools, blocks, warms
+    and proofs shaped pieces by programme with controlled humidity. A description earns nothing.
+
+- id: q5
+  question: >-
+    Why is a convection (ventilated) oven set about 15–20 °C lower than a deck oven for the same
+    product?
+  options:
+    - >-
+      Its thermostat is less accurate, so it always reads high
+    - >-
+      Its fan moves far more heat to the surface at one setting
+    - >-
+      Its trays conduct heat better than a stone or steel sole
+    - >-
+      It cannot reach deck-oven temperatures without risk
+  correct: 1
+  explanation: >-
+    Forced convection transfers heat to the surface far faster than still air, so at the same
+    setting the product colours and dries faster; setting it lower compensates.

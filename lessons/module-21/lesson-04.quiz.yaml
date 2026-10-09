@@ -1,0 +1,89 @@
+- id: q1
+  question: >-
+    A brioche label gives per 100 g: carbohydrates 48 g (of which sugars 14 g), fibre 2 g, protein
+    8 g, fat 15 g. Which energy value is correct?
+  options:
+    - >-
+      About 419 kcal, counting the sugars a second time
+    - >-
+      About 288 kcal, with fat counted at 4 kcal/g
+    - >-
+      About 228 kcal, leaving the fat out of the sum
+    - >-
+      About 363 kcal, from 48 × 4 + 8 × 4 + 15 × 9 + 2 × 2
+  correct: 3
+  explanation: >-
+    192 + 32 + 135 + 4 = 363 kcal. Sugars are already inside the 48 g of carbohydrates, and fat
+    gives about 9 kcal/g, not 4.
+
+- id: q2
+  question: >-
+    A cold-room log shows +10 °C at 5:00 after the door was left ajar; a tub of crème pâtissière
+    reads +8 °C at the core. What do you do with the cream?
+  options:
+    - >-
+      Discard it and record it, since its core is above +7 °C
+    - >-
+      Keep it, since it will be back below +3 °C within the hour
+    - >-
+      Use it today only, in products that will be baked again
+    - >-
+      Keep it after tasting, since a spoiled cream smells sour
+  correct: 0
+  explanation: >-
+    For chilled products whose core has passed +7 °C the rule is to discard and record. Cooling
+    again does not remove microbes or toxins, and Staphylococcus toxins resist heat and cannot be
+    smelled.
+
+- id: q3
+  question: >-
+    A cleaning label reads: "Diluer à 2 % dans l'eau tiède ; brosser ; laisser agir 5 minutes ;
+    rincer." Which set gives Sinner's four factors from this label?
+  options:
+    - >-
+      Water, soap, brushing, rinsing
+    - >-
+      Lukewarm water, brushing, 2 %, 5 minutes
+    - >-
+      Gloves, dilution, rinsing, drying
+    - >-
+      Detergent, disinfectant, rinse, air drying
+  correct: 1
+  explanation: >-
+    The four factors are temperature, mechanical action, concentration and contact time: lukewarm
+    water, brushing, 2 % and 5 minutes. The others mix the factors with the steps of the protocol.
+
+- id: q4
+  question: >-
+    A proofer's plate reads "230 V ~ 50 Hz — 3 kW". It runs 5 hours a night at full power, at
+    €0.20 per kWh. Which result is correct?
+  options:
+    - >-
+      15,000 kWh and €3,000, with the power taken in watts
+    - >-
+      15 kWh and €0.75, with the price per kWh divided by five hours
+    - >-
+      15 kWh and €3.00, from E = 3 kW × 5 h
+    - >-
+      1,150 kWh and €230, multiplying the voltage by the hours
+  correct: 2
+  explanation: >-
+    E = P × t = 3 kW × 5 h = 15 kWh; × €0.20 = €3.00 (a maximum, as the thermostat cycles). Using
+    watts gives a figure a thousand times too large.
+
+- id: q5
+  question: >-
+    Which explanation of crumb formation earns full marks?
+  options:
+    - >-
+      The heat kills the yeast, so the dough stops rising and hardens.
+    - >-
+      The water evaporates from the centre, which dries the dough into crumb.
+    - >-
+      Sugars and proteins react at about 150 °C and set the inside.
+    - >-
+      From about 55–60 °C the starch gelatinises and the gluten sets.
+  correct: 3
+  explanation: >-
+    The crumb forms when starch gelatinises and gluten proteins coagulate, turning the foam into a
+    sponge. Maillard reactions colour the crust; the core stays under 100 °C.

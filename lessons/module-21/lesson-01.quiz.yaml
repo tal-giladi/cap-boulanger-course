@@ -1,0 +1,88 @@
+- id: q1
+  question: >-
+    A question reads: « Citer trois rôles du sel dans la pâte (1,5 point). » Which answer earns the
+    full marks?
+  options:
+    - >-
+      A paragraph explaining how salt changes the dough, with one example
+    - >-
+      Taste; strengthens the gluten; slows the fermentation
+    - >-
+      Salt is essential for bread and must be weighed with care
+    - >-
+      Taste and a stronger dough, as these are the two main roles
+  correct: 1
+  explanation: >-
+    Citer asks for a list: exactly the number of items asked (three), one per line, no explanation
+    needed. Two items lose a third of the marks; a paragraph wastes time.
+
+- id: q2
+  question: >-
+    « Justifier votre décision » after a delivery note shows crème fraîche received at 9 °C. Which
+    answer is a full justification?
+  options:
+    - >-
+      Refused, because the cream did not seem cold enough to me.
+    - >-
+      Refused, because the driver was late and the cream warmed up.
+    - >-
+      Refused: 9 °C is above the +7 °C reception limit for this product.
+    - >-
+      Accepted, then put in the cold room at once to cool it down.
+  correct: 2
+  explanation: >-
+    To justify is to support the decision with a fact from the document and the rule it breaks:
+    the measured 9 °C against the +7 °C limit for very perishable products.
+
+- id: q3
+  question: >-
+    A practice round is worth 40 points in 60 minutes. You keep about a tenth of the time to read
+    and a tenth as a reserve. How long does a 4-point question deserve?
+  options:
+    - >-
+      About 4.8 minutes (48 min ÷ 40 points × 4)
+    - >-
+      About 6 minutes (60 min ÷ 40 points × 4)
+    - >-
+      About 4 minutes (one minute for each point)
+    - >-
+      About 12 minutes (60 min ÷ 5 questions)
+  correct: 0
+  explanation: >-
+    60 − 6 − 6 = 48 minutes to answer; 48 ÷ 40 = 1.2 minutes per point; × 4 = about 4.8
+    minutes. Sharing the whole 60 minutes leaves no time to read or check.
+
+- id: q4
+  question: >-
+    A candidate writes for a water-temperature question: "3 × 24 = 72; 72 − 21 − 23 − 26 = 2 °C"
+    on a dough made with pâte fermentée at 6 °C. What should the check step have caught?
+  options:
+    - >-
+      Nothing, since the arithmetic of each line is correct
+    - >-
+      The unit, which should be given in kelvin for a base temperature
+    - >-
+      The rounding, which should give 2.0 °C to one decimal
+    - >-
+      Four factors were needed, and 2 °C is an implausible result
+  correct: 3
+  explanation: >-
+    With a pre-ferment the base uses 4 factors and subtracts its temperature: 96 − 21 − 23 − 6 − 26
+    = 20 °C. An order-of-size check flags 2 °C water as unlikely.
+
+- id: q5
+  question: >-
+    You are 4 minutes behind your margin plan halfway through a timed round. What do you do?
+  options:
+    - >-
+      Use the reserve now, since checking matters less than finishing
+    - >-
+      Shorten the next answers to the essentials until you are back on plan
+    - >-
+      Skip the next two questions entirely and come back to them later
+    - >-
+      Keep the same pace, since the times on the paper are only indicative
+  correct: 1
+  explanation: >-
+    More than two minutes late means tightening the following answers (items, figures, no padding)
+    so the reserve stays for checking and blanks; skipping whole questions throws away easy points.

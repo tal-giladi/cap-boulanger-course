@@ -1,0 +1,91 @@
+- id: q1
+  question: >-
+    A supermarket with 180 employees posts its règlement intérieur. One article reads: "Tout oubli
+    de la charlotte en zone de production sera sanctionné d'une retenue de 15 € sur le salaire."
+    What do you conclude?
+  options:
+    - >-
+      Lawful, because the rule protects food hygiene
+    - >-
+      Lawful, because a règlement intérieur may set any sanction
+    - >-
+      Unlawful: the rule is fine, but fines on pay are forbidden
+    - >-
+      Unlawful, because hair covering cannot be required of staff
+  correct: 2
+  explanation: >-
+    Requiring hair covering is a justified hygiene rule, but the Code du travail (L1331-2) forbids
+    fines and other pecuniary sanctions; a warning or a suspension from the scale could apply.
+
+- id: q2
+  question: >-
+    A craft bakery has 8 employees and no règlement intérieur. A new employee says this is
+    illegal. Who is right?
+  options:
+    - >-
+      The bakery: it is compulsory only from 50 employees
+    - >-
+      The employee: every business with staff must have one
+    - >-
+      The employee: it is compulsory from 11 employees, like the CSE
+    - >-
+      The bakery: it is only compulsory in industrial bakeries
+  correct: 0
+  explanation: >-
+    Code du travail L1311-2 makes it compulsory in businesses or establishments with at least 50
+    employees. The 11-employee threshold is for electing a CSE.
+
+- id: q3
+  question: >-
+    An ouvrier boulanger in a CDI wants to use his CPF for an evening course held entirely on his
+    days off. What does he need from his employer?
+  options:
+    - >-
+      Written agreement at least 60 days before the course starts
+    - >-
+      Nothing: outside working time, no agreement is needed
+    - >-
+      Agreement of the CSE or, without one, of the inspection du travail
+    - >-
+      A letter to the employer, who has 30 days to refuse
+  correct: 1
+  explanation: >-
+    The CPF is used on the employee's initiative; the employer's agreement is needed only when
+    the training takes place during working time (request 60 or 120 days ahead, reply within 30
+    days, silence = acceptance).
+
+- id: q4
+  question: >-
+    INSEE reports 2,677,000 unemployed and an unemployment rate of 8.3 %. Which labour force does
+    this give?
+  options:
+    - >-
+      About 222,000 people, 8.3 % of the unemployed
+    - >-
+      About 2.9 million people, the unemployed plus 8.3 %
+    - >-
+      About 3.2 million people, the unemployed × 1.2
+    - >-
+      About 32.3 million people, the unemployed ÷ 0.083
+  correct: 3
+  explanation: >-
+    Rate = unemployed ÷ labour force, so labour force = 2,677,000 ÷ 0.083 ≈ 32.3 million people in
+    work or seeking work.
+
+- id: q5
+  question: >-
+    On an organisation chart, the accounting firm is linked to the gérante by a dotted line, and
+    prepares the payslips. What kind of link is this?
+  options:
+    - >-
+      A line link: the firm gives orders on pay to the staff
+    - >-
+      A functional link: a service and advice without authority
+    - >-
+      A line link: the firm is the employees' direct superior
+    - >-
+      A contractual link with each employee individually
+  correct: 1
+  explanation: >-
+    Functional links carry advice, information or a service; only line (hierarchical) links carry
+    orders. The staff answer to the gérante, not to the accountant.

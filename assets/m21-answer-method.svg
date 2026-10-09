@@ -1,0 +1,70 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 560" width="960" height="560" role="img" aria-labelledby="t d">
+  <title id="t">Answering a written EP1 question in four steps</title>
+  <desc id="d">A four-step flow for every question of a written EP1-style paper. Step 1, read the situation and the documents: who you are, which company, which document the question points to. Step 2, mark the command verb and the number asked: citer means list, définir means give the meaning, expliquer or justifier means give the reason with because, calculer or vérifier means show the working; and note how many items are asked and the points. Step 3, answer in the box: one idea per line, professional words, units, the working for every calculation, a reason taken from the document where the question says justify. Step 4, check: the number of items asked, units and orders of size, the link back to the document, then move on when the time budget for that question is spent. A loop arrow from step 4 back to step 1 shows the next question; a side note says to leave a gap and come back rather than stall.</desc>
+  <rect x="0" y="0" width="960" height="560" fill="#ffffff"/>
+  <defs>
+    <marker id="ar" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="8" markerHeight="8" orient="auto-start-reverse">
+      <path d="M0,0 L10,5 L0,10 z" fill="#444444"/>
+    </marker>
+  </defs>
+  <g font-family="Arial, Helvetica, sans-serif" fill="#222222">
+    <text x="480" y="36" text-anchor="middle" font-size="22" font-weight="bold">One question, four steps</text>
+
+    <rect x="20" y="70" width="210" height="300" rx="10" fill="#e8eef7" stroke="#3b5b8c" stroke-width="2"/>
+    <text x="125" y="100" text-anchor="middle" font-size="18" font-weight="bold">1 · Read</text>
+    <text x="125" y="130" text-anchor="middle" font-size="14">the situation:</text>
+    <text x="125" y="150" text-anchor="middle" font-size="14">who you are,</text>
+    <text x="125" y="170" text-anchor="middle" font-size="14">which company,</text>
+    <text x="125" y="190" text-anchor="middle" font-size="14">what just happened</text>
+    <text x="125" y="225" text-anchor="middle" font-size="14">the document the</text>
+    <text x="125" y="245" text-anchor="middle" font-size="14">question points to:</text>
+    <text x="125" y="265" text-anchor="middle" font-size="14">sheet, note, label,</text>
+    <text x="125" y="285" text-anchor="middle" font-size="14">log, payslip</text>
+    <text x="125" y="330" text-anchor="middle" font-size="13" font-style="italic">underline the figures</text>
+
+    <rect x="255" y="70" width="210" height="300" rx="10" fill="#fff4e0" stroke="#c07a00" stroke-width="2"/>
+    <text x="360" y="100" text-anchor="middle" font-size="18" font-weight="bold">2 · Mark the verb</text>
+    <text x="360" y="132" text-anchor="middle" font-size="14"><tspan font-weight="bold">Citer</tspan> = list</text>
+    <text x="360" y="154" text-anchor="middle" font-size="14"><tspan font-weight="bold">Définir</tspan> = meaning</text>
+    <text x="360" y="176" text-anchor="middle" font-size="14"><tspan font-weight="bold">Expliquer / Justifier</tspan></text>
+    <text x="360" y="196" text-anchor="middle" font-size="14">= reason, "because"</text>
+    <text x="360" y="218" text-anchor="middle" font-size="14"><tspan font-weight="bold">Calculer / Vérifier</tspan></text>
+    <text x="360" y="238" text-anchor="middle" font-size="14">= show the working</text>
+    <text x="360" y="275" text-anchor="middle" font-size="14">circle the number</text>
+    <text x="360" y="295" text-anchor="middle" font-size="14">asked ("citer 3")</text>
+    <text x="360" y="330" text-anchor="middle" font-size="13" font-style="italic">and the points</text>
+
+    <rect x="490" y="70" width="210" height="300" rx="10" fill="#e9f5e9" stroke="#2e7d32" stroke-width="2"/>
+    <text x="595" y="100" text-anchor="middle" font-size="18" font-weight="bold">3 · Answer</text>
+    <text x="595" y="132" text-anchor="middle" font-size="14">one idea per line</text>
+    <text x="595" y="158" text-anchor="middle" font-size="14">the professional word</text>
+    <text x="595" y="178" text-anchor="middle" font-size="14">(pointage, not "rest")</text>
+    <text x="595" y="204" text-anchor="middle" font-size="14">formula, numbers,</text>
+    <text x="595" y="224" text-anchor="middle" font-size="14">result with its unit</text>
+    <text x="595" y="250" text-anchor="middle" font-size="14">"justify": quote the</text>
+    <text x="595" y="270" text-anchor="middle" font-size="14">document's figure</text>
+    <text x="595" y="330" text-anchor="middle" font-size="13" font-style="italic">fill the table you are given</text>
+
+    <rect x="725" y="70" width="215" height="300" rx="10" fill="#f3e8f5" stroke="#7b3f8c" stroke-width="2"/>
+    <text x="832" y="100" text-anchor="middle" font-size="18" font-weight="bold">4 · Check</text>
+    <text x="832" y="132" text-anchor="middle" font-size="14">as many items</text>
+    <text x="832" y="152" text-anchor="middle" font-size="14">as asked, no more</text>
+    <text x="832" y="178" text-anchor="middle" font-size="14">unit and order of size</text>
+    <text x="832" y="198" text-anchor="middle" font-size="14">(3,456 g, not 3.456 g)</text>
+    <text x="832" y="224" text-anchor="middle" font-size="14">answer fits the</text>
+    <text x="832" y="244" text-anchor="middle" font-size="14">situation's company</text>
+    <text x="832" y="280" text-anchor="middle" font-size="14">time budget spent?</text>
+    <text x="832" y="300" text-anchor="middle" font-size="14">move on</text>
+
+    <line x1="230" y1="220" x2="253" y2="220" stroke="#444444" stroke-width="2" marker-end="url(#ar)"/>
+    <line x1="465" y1="220" x2="488" y2="220" stroke="#444444" stroke-width="2" marker-end="url(#ar)"/>
+    <line x1="700" y1="220" x2="723" y2="220" stroke="#444444" stroke-width="2" marker-end="url(#ar)"/>
+
+    <path d="M832,372 L832,420 L125,420 L125,374" fill="none" stroke="#444444" stroke-width="2" marker-end="url(#ar)"/>
+    <text x="480" y="412" text-anchor="middle" font-size="14">next question</text>
+
+    <rect x="140" y="450" width="680" height="80" rx="8" fill="#f5f5f5" stroke="#888888" stroke-width="1.5"/>
+    <text x="480" y="480" text-anchor="middle" font-size="15" font-weight="bold">Stuck for more than the question's budget?</text>
+    <text x="480" y="506" text-anchor="middle" font-size="14">Write what you know (a definition, a formula), leave space, mark it in the margin and come back at the end.</text>
+  </g>
+</svg>

@@ -1,0 +1,91 @@
+- id: q1
+  question: >-
+    Practice order: PC-02 (flour 100, water 64, salt 1.8, fresh yeast 1.5, pâte fermentée 15) for 20
+    baguettes of 250 g and 16 rolls of 50 g. Losses 2 %, flour rounded up to the next 100 g. Which flour
+    weight goes on the technical sheet?
+  options:
+    - >-
+      3,500 g, from 5,800 g divided by 1.673
+    - >-
+      3,200 g, from 5,800 g divided by 1.823
+    - >-
+      3,300 g, from 5,916 g divided by 1.823
+    - >-
+      3,600 g, from 5,916 g divided by 1.673
+  correct: 2
+  explanation: >-
+    5,000 + 800 = 5,800 g; × 1.02 = 5,916 g; ÷ 1.823 (the sum including the pâte fermentée) = 3,245 g,
+    rounded up to 3,300 g. Dividing by 1.673 forgets the pre-ferment; 3,200 g forgets the losses.
+
+- id: q2
+  question: >-
+    Same sheet: target 24 °C, flour 19 °C, fournil 21 °C, pâte fermentée from the cold room at 5 °C,
+    four-factor friction factor 26. Which water temperature is correct?
+  options:
+    - >-
+      25 °C, from 96 − 19 − 21 − 5 − 26
+    - >-
+      6 °C, from 72 − 19 − 21 − 26
+    - >-
+      30 °C, from 96 − 19 − 21 − 26
+    - >-
+      20 °C, from 72 − 19 − 21 − 5 − 7
+  correct: 0
+  explanation: >-
+    With a pre-ferment coming in cold, use four factors: 24 × 4 = 96, minus flour, room, pre-ferment
+    and the four-factor friction factor. Three factors ignore the cold pâte fermentée.
+
+- id: q3
+  question: >-
+    A same-day order includes croissants, pains au chocolat and pains aux raisins with bread and pain
+    au lait, in a window shorter than the 8-hour chain of lesson 14.4. Which way of finding the time is
+    acceptable?
+  options:
+    - >-
+      Proof the laminated pieces at 30 °C so they are ready an hour earlier.
+    - >-
+      Skip the final rest and roll the block straight after the last turn.
+    - >-
+      Mix the détrempe after the breads so it is fresher when you shape it.
+    - >-
+      Chill the détrempe in the blast chiller and give one double turn.
+  correct: 3
+  explanation: >-
+    The chill aims at a firm détrempe below 10 °C, which a blast chiller reaches faster, and one double
+    turn saves a rest. A warm proof melts the butter out of the layers; skipping the rest makes the sheet shrink.
+
+- id: q4
+  question: >-
+    A candidate's organigramme draws the PC-02, VI-01 and PL-01 doughs first, then adds the croissant
+    détrempe at 9:30 and finds the croissants finish after the deadline. Which step of the routine was skipped?
+  options:
+    - >-
+      The hands check, because two doughs needed mixing at the same minute.
+    - >-
+      The critical path, which puts the longest chain first in the first minutes.
+    - >-
+      The final check that cleaning is in the plan with 15 minutes spare.
+    - >-
+      The oven plan, because the fan oven was booked for the viennois.
+  correct: 1
+  explanation: >-
+    Naming the critical path before anything else puts the laminated dough in the first minutes; every
+    other dough is then fitted into its rests.
+
+- id: q5
+  question: >-
+    In the written drill a candidate writes salt for 4,400 g of flour in a PC-02 batch of 8,021 g of
+    dough. Which salt weight is correct, and why?
+  options:
+    - >-
+      144 g, because salt is 1.8 % of the total dough weight.
+    - >-
+      66 g, because the pâte fermentée already carries the rest of the salt.
+    - >-
+      79.2 g, because baker's percentages are of the flour weight.
+    - >-
+      90 g, because the 2 % loss margin is added to the salt as well.
+  correct: 2
+  explanation: >-
+    4,400 × 1.8 % = 79.2 g. Baker's percentages are of the flour; the pâte fermentée's salt is already
+    counted in its own percentage, and losses are added to the dough total, not to each ingredient again.

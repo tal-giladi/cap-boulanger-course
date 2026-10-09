@@ -40,14 +40,14 @@ Goal: build "CAP Boulanger Preparation" per `curriculum/plan.md`, following
 - [x] Module 18 — Environmental Responsibility
 - [x] Module 19 — Communication and Sales
 - [x] Module 20 — The Bakery as a Workplace and a Business
-- [ ] Module 21 — EP1 Practice
-- [ ] Module 22 — EP2 Practice and Production Day
+- [x] Module 21 — EP1 Practice
+- [x] Module 22 — EP2 Practice and Production Day
 - [ ] Simulations: water-temperature, production-schedule, troubleshooting
 - [ ] Final QA (check-course 0 problems, matrix complete, troubleshooting reference updated from module 16, TODO_FOR_TAL)
 
 ## Agents now
 
-- PAUSED after module 20 (2026-10-09). Next: modules 21 and 22.
+- PAUSED after all 22 modules (2026-10-09). Next: simulations, then final QA.
 
 ## Decisions and open questions
 
@@ -83,3 +83,5 @@ Goal: build "CAP Boulanger Preparation" per `curriculum/plan.md`, following
 - Module 17 numbers: CNBPF reception limits very perishable +7 °C, perishable +11 °C, frozen −15 °C; chilled > +7 °C core → discard; frozen warmed to −15…+4 °C → thaw cold, treat as fresh; opened products 3 days unless label says otherwise; temperature records 12 months. Final QA: module 17 sources (see matrix), ANSES sources for E. coli / C. botulinum / B. cereus, optional templates (cold-unit temperature log, cleaning plan, allergen table); 17.6 → module 19 link after merge.
 - Module 19: report order everywhere = facts and figures → what I did → what I propose → manager decides; pitch card has seven blocks. Module 21 can reuse module 19's quiz and project Saturday brief. Final QA: module 19 sources (Code du travail L4131-1, justice.fr allergens, Reg. 1924/2006, 828/2014), optional templates pitch-card / hand-over-brief, re-check Israeli allergen labelling change (Jan 2028).
 - Module 20 figures (checked 2026-10-09; re-check at final QA): SMIC €12.31/h, €1,867.02/month from 1 June 2026 (start date only via search results); IDCC 843 avenant 139 grid from 2026-01-01: coef 155 €12.41, 160 €12.53, 170 €12.78; night +25 % 20:00–6:00; Sunday +20 %; worked public holiday paid double; corporate tax 15 % to €42,500 then 25 %; chocolate products VAT 20 %; overtime monthly factor 4.333. Au Pain de la Halle = SARL, gérante Mme Lebrun, Tours, 6 employees, APE 10.71C. Not covered: S5.3.1–S5.3.3 (organisation chart, règlement intérieur, training rights CPF/bilan) and S5.2.1 unemployment causes only briefly — cover in 21.5 or final QA. Code civil articles cited via ordinance 2016-131 — confirm current text.
+- Module 22: practice orders 22-A and 22-B (batches in curriculum/matrix/module-22.md); 22.2 teaches a shortened same-day croissant chain (détrempe ~40 min in blast chiller/freezer, 1 single + 1 double turn, final rest 40–55 min → ~6 h 15) as a course planning choice (Elle & Vire); modules 11/14 keep the sheet minimums as default. Final QA: readiness-checklist template edits (evidence column; replace "about 6 h 30" with link to cap-exam.md; individual-candidate workplace-certificate line), production-schedule simulation presets from 22-A / 22.5.
+- Module 21: every round 24 points in 36 min; staff names Au Pain de la Halle Thomas, Inès, Sarah (organisation chart in 21.5); mock-paper bakery Les Blés d'Or (Hugo, Nathan, Manon); INSEE unemployment 8.3 % Q2 2026. S5.3/S5.2.1 gaps from module 20 now covered in 21.5. Final QA: module 21 sources; add SIEC residence rule (Créteil/Paris/Versailles residents only) and Cyclades portal to cap-exam.md; optional ep1-error-list template + EP1 section in readiness checklist; back-links cap-exam → 21.1, 20.4 → 21.5, 17.7/19.1 → 21.6, 05.3/06.2 → 21.3.

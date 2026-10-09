@@ -1,0 +1,13 @@
+- **Autoévaluation** (*oh-toh-ay-va-lü-a-SYOHN*) — self-assessment: judging your own work against a written standard such as the course's quality rubric; it never replaces the official exam.
+- **Barème** (*ba-REM*) — the points allotted to each part of a test; the production test's barème is in the exam reference.
+- **Cahier de recettes** (*ka-YAY duh ruh-SET*) — personal recipe notebook: one page per technical sheet with its percentages, temperatures, times and your own notes; check whether the exam allows it.
+- **Convocation** (*kohn-voh-ka-SYOHN*) — the official letter giving the date and place of a test and what the candidate must bring, including protective equipment.
+- **Critère / indicateur de performance** (*kree-TAIR / an-dee-ka-TUHR duh pair-for-MAHNS*) — what is judged / the observable sign that shows it; the référentiel lists them in its « on exige » column.
+- **Dégustation** (*day-güs-ta-SYOHN*) — tasting of the finished products by the examiners, one of the result lines of the production test.
+- **Épreuve ponctuelle** (*ay-PRUHV pohnk-TWEL*) — one-off test on a set date, as opposed to continuous assessment (CCF); the form for individual and distance-learning candidates.
+- **Feuille de route** (*fuhy duh ROOT*) — your one-page plan for a production day: times, doughs, oven loads and checks, kept in view at the bench.
+- **Grille d'évaluation** (*GREE-yuh day-va-lü-a-SYOHN*) — marking grid: the parts of a test, their points and what is checked in each.
+- **Inscription** (*an-skreep-SYOHN*) — registration for the exam with the académie, only within its published dates.
+- **Journée de production** (*zhoor-NAY duh pro-dük-SYOHN*) — production day: a whole order made, presented and cleaned up in one day; the course's capstone rehearsal.
+- **Répétition** (*ray-pay-tee-SYOHN*) — rehearsal: the whole production run to the clock, as close to the real conditions as a home kitchen allows.
+- **Sujet** (*sü-ZHAY*) — the exam paper; for the production test, an order to plan and produce.

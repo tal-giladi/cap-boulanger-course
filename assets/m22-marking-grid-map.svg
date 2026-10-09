@@ -1,0 +1,67 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 600" width="900" height="600" role="img" aria-labelledby="t d">
+  <title id="t">What an examiner can see: four lenses, the référentiel's indicators and the evidence you leave</title>
+  <desc id="d">Three columns. Left: four lenses an examiner uses during a production test: organisation, hygiene and safety, technique and work methods, results. Middle: the matching performance indicators written in the référentiel (for example: technical sheets matching the order and correct calculations; a workstation that is ordered, supplied and set up; exact weighings with tared scales; semi-finished products dated, filmed and stored; protocols for cleaning followed; finished-product quantities matching the order and defects identified; anomalies described in professional vocabulary). Right: the evidence a candidate leaves, which can be practised at home: a completed sheet and organigramme, a clear bench and labelled tubs, a temperature log, a weight check, products presented and cooled on racks, a clean station at the end. Arrows link each lens to its indicators and evidence. A note at the bottom says the points of each part are in the exam reference page and are not repeated here. Process lenses are observed all day; result lenses are judged at the end.</desc>
+  <rect x="0" y="0" width="900" height="600" fill="#ffffff"/>
+  <g font-family="Arial, Helvetica, sans-serif" fill="#222222">
+    <text x="450" y="30" text-anchor="middle" font-size="20" font-weight="bold">Reading a production marking grid: what can be seen</text>
+    <text x="450" y="52" text-anchor="middle" font-size="13">Lens → indicator in the référentiel (« on exige ») → evidence you can rehearse at home</text>
+
+    <g font-size="13" font-weight="bold" text-anchor="middle">
+      <text x="120" y="84">Lens</text>
+      <text x="430" y="84">Référentiel indicators</text>
+      <text x="760" y="84">Evidence on the day</text>
+    </g>
+
+    <!-- Row 1: organisation -->
+    <rect x="20" y="96" width="200" height="96" rx="8" fill="#dbe9f6" stroke="#2c6aa0" stroke-width="2"/>
+    <text x="120" y="134" text-anchor="middle" font-size="16" font-weight="bold">Organisation</text>
+    <text x="120" y="156" text-anchor="middle" font-size="12">written phase + the day's plan</text>
+    <text x="120" y="174" text-anchor="middle" font-size="12">C1.2, C1.3</text>
+    <rect x="270" y="96" width="320" height="96" rx="6" fill="#f4f4f4" stroke="#999999"/>
+    <g font-size="12"><text x="282" y="118">• fiches techniques conformes à la commande</text><text x="282" y="138">• exactitude des calculs professionnels</text><text x="282" y="158">• enchaînement cohérent des tâches</text><text x="282" y="178">• poste ordonné, approvisionné, mis en place</text></g>
+    <rect x="640" y="96" width="240" height="96" rx="6" fill="#ffffff" stroke="#2c6aa0"/>
+    <g font-size="12"><text x="652" y="118">sheet and organigramme done</text><text x="652" y="138">in the time, no slips</text><text x="652" y="158">mise en place before mixing</text><text x="652" y="178">oven on at the planned time</text></g>
+    <line x1="220" y1="144" x2="268" y2="144" stroke="#2c6aa0" stroke-width="2"/><polygon points="262,139 270,144 262,149" fill="#2c6aa0"/>
+    <line x1="590" y1="144" x2="636" y2="144" stroke="#2c6aa0" stroke-width="2"/><polygon points="632,139 640,144 632,149" fill="#2c6aa0"/>
+
+    <!-- Row 2: hygiene and safety -->
+    <rect x="20" y="210" width="200" height="96" rx="8" fill="#fde2d6" stroke="#c0392b" stroke-width="2"/>
+    <text x="120" y="248" text-anchor="middle" font-size="16" font-weight="bold">Hygiene and safety</text>
+    <text x="120" y="270" text-anchor="middle" font-size="12">observed all day</text>
+    <text x="120" y="288" text-anchor="middle" font-size="12">C2.5, C2.6, C2.7</text>
+    <rect x="270" y="210" width="320" height="96" rx="6" fill="#f4f4f4" stroke="#999999"/>
+    <g font-size="12"><text x="282" y="232">• conformité à la réglementation en vigueur</text><text x="282" y="252">• protocoles de nettoyage et désinfection</text><text x="282" y="272">• énergies et fluides utilisés de façon raisonnée</text><text x="282" y="292">• tri des déchets et des emballages</text></g>
+    <rect x="640" y="210" width="240" height="96" rx="6" fill="#ffffff" stroke="#c0392b"/>
+    <g font-size="12"><text x="652" y="232">whites, hair covered, no jewellery</text><text x="652" y="252">hands washed at each change</text><text x="652" y="272">clean as you go, dry floor</text><text x="652" y="292">gloves at the oven, lame covered</text></g>
+    <line x1="220" y1="258" x2="268" y2="258" stroke="#c0392b" stroke-width="2"/>
+    <line x1="590" y1="258" x2="636" y2="258" stroke="#c0392b" stroke-width="2"/><polygon points="632,253 640,258 632,263" fill="#c0392b"/>
+
+    <!-- Row 3: technique -->
+    <rect x="20" y="324" width="200" height="96" rx="8" fill="#fff1c9" stroke="#b07d00" stroke-width="2"/>
+    <text x="120" y="362" text-anchor="middle" font-size="16" font-weight="bold">Technique</text>
+    <text x="120" y="384" text-anchor="middle" font-size="12">work during the test</text>
+    <text x="120" y="402" text-anchor="middle" font-size="12">C2.2, C2.3, C2.4</text>
+    <rect x="270" y="324" width="320" height="96" rx="6" fill="#f4f4f4" stroke="#999999"/>
+    <g font-size="12"><text x="282" y="346">• exactitude des pesées (réglage, tare)</text><text x="282" y="366">• pétrissages, fermentations, mise en forme</text><text x="282" y="386">• semi-finis datés, filmés, rangés</text><text x="282" y="406">• anomalies décrites avec le vocabulaire pro (C4.4)</text></g>
+    <rect x="640" y="324" width="240" height="96" rx="6" fill="#ffffff" stroke="#b07d00"/>
+    <g font-size="12"><text x="652" y="346">dough at target ± 1 °C, logged</text><text x="652" y="366">pieces within ± 3 %</text><text x="652" y="386">regular, fast shaping by hand</text><text x="652" y="406">a problem reported, not hidden</text></g>
+    <line x1="220" y1="372" x2="268" y2="372" stroke="#b07d00" stroke-width="2"/>
+    <line x1="590" y1="372" x2="636" y2="372" stroke="#b07d00" stroke-width="2"/><polygon points="632,367 640,372 632,377" fill="#b07d00"/>
+
+    <!-- Row 4: results -->
+    <rect x="20" y="438" width="200" height="96" rx="8" fill="#dff0d8" stroke="#3c763d" stroke-width="2"/>
+    <text x="120" y="476" text-anchor="middle" font-size="16" font-weight="bold">Results</text>
+    <text x="120" y="498" text-anchor="middle" font-size="12">look and taste, at the end</text>
+    <text x="120" y="516" text-anchor="middle" font-size="12">C3.2, C2.8</text>
+    <rect x="270" y="438" width="320" height="96" rx="6" fill="#f4f4f4" stroke="#999999"/>
+    <g font-size="12"><text x="282" y="460">• quantités produites conformes à la commande</text><text x="282" y="480">• défauts éventuels identifiés</text><text x="282" y="500">• ressuage correct des produits finis</text><text x="282" y="520">• règles élémentaires de présentation</text></g>
+    <rect x="640" y="438" width="240" height="96" rx="6" fill="#ffffff" stroke="#3c763d"/>
+    <g font-size="12"><text x="652" y="460">every product, right count</text><text x="652" y="480">scored with the quality rubric</text><text x="652" y="500">cooled on racks, set out neatly</text><text x="652" y="520">station clean at the end</text></g>
+    <line x1="220" y1="486" x2="268" y2="486" stroke="#3c763d" stroke-width="2"/>
+    <line x1="590" y1="486" x2="636" y2="486" stroke="#3c763d" stroke-width="2"/><polygon points="632,481 640,486 632,491" fill="#3c763d"/>
+
+    <!-- bracket: process vs result -->
+    <text x="450" y="560" text-anchor="middle" font-size="13">Top three lenses are watched while you work; the last is judged on the finished products.</text>
+    <text x="450" y="582" text-anchor="middle" font-size="12" fill="#555555">The points of each part of the real grid are in references/cap-exam.md: read them there.</text>
+  </g>
+</svg>

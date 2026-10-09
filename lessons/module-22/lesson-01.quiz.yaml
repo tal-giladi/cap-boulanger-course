@@ -1,0 +1,90 @@
+- id: q1
+  question: >-
+    A candidate preparing for the production test asks where to find the points given to each part of
+    the marking grid and the list of products. According to this course, where should they look?
+  options:
+    - >-
+      In each product lesson, which repeats the exam's points next to the recipe.
+    - >-
+      In the exam reference page, checked against their own convocation and académie.
+    - >-
+      In the quality rubric template, whose scores are the official exam points.
+    - >-
+      In the mock grid of lesson 22.1, which copies the national grid line by line.
+  correct: 1
+  explanation: >-
+    Exam facts are stated in one place, the exam reference, so they can be updated when rules change;
+    the convocation and the académie have the final word. The rubric and the mock grid are teaching tools.
+
+- id: q2
+  question: >-
+    In a mock day on an invented grid out of 100, a candidate loses 4 points on product appearance, 2 on
+    tasting, 6 on organisation, 9 on hygiene and safety and 8 on work methods. She has three weeks left.
+    What should she work on first?
+  options:
+    - >-
+      The look of her products, since appearance is the part examiners judge most directly.
+    - >-
+      Tasting, because flavour comes from fermentation, which takes the longest to master.
+    - >-
+      Work methods only, because they carry the most points in this mock grid.
+    - >-
+      Hygiene and organisation habits, which lost 15 points and need little practice to fix.
+  correct: 3
+  explanation: >-
+    Habits such as hand washing, labelling, clearing the bench and planning cleaning and oven times are
+    cheap to learn and are watched all day; she keeps practising the skills alongside.
+
+- id: q3
+  question: >-
+    Which of these is an observable indicator of "C2.4, packaging finished products" as the référentiel
+    words it, that an examiner could see during the test?
+  options:
+    - >-
+      Semi-finished products dated, filmed and stored in the right place.
+    - >-
+      The candidate's explanation of why butter must stay at about 13 °C.
+    - >-
+      A croissant cross-section showing an open, regular honeycomb.
+    - >-
+      The organigramme handed in at the end of the written phase.
+  correct: 0
+  explanation: >-
+    The référentiel's indicators for C2.4 are semi-finished products dated, filmed and stored, and
+    finished products stored so they cool properly; the others belong to other lines or are not observable.
+
+- id: q4
+  question: >-
+    You rehearse at home with a friend ticking your observation checklist. Your baguettes score 17/20
+    on the quality rubric. What can you honestly conclude?
+  options:
+    - >-
+      That your bread would score about the same share of the product points in the exam.
+    - >-
+      That your production is at exam standard, since the rubric matches the national grid.
+    - >-
+      That your product meets the course standard; this self-assessment does not replace the exam.
+    - >-
+      That the Academy can confirm your level if you upload photos of the cross-section.
+  correct: 2
+  explanation: >-
+    The rubric is a course tool for self-assessment; it is not the exam's grid, the Academy cannot grade
+    photos, and only the official practical test assesses you.
+
+- id: q5
+  question: >-
+    During your rehearsal the pâte fermentée turns out over-ripe and the dough ferments fast. Which
+    action leaves the kind of evidence the référentiel asks for under C4.4?
+  options:
+    - >-
+      Say nothing and shorten the pointage, so the examiner does not notice the problem.
+    - >-
+      Shorten the pointage and state the anomaly and the action in professional vocabulary.
+    - >-
+      Restart the whole dough, whatever the effect on the organigramme and the deadline.
+    - >-
+      Continue the planned times and explain the result at the tasting at the end of the day.
+  correct: 1
+  explanation: >-
+    C4.4 asks you to report non-conformities and malfunctions during production using professional
+    vocabulary; adapting the process and saying what you did is both good practice and visible.

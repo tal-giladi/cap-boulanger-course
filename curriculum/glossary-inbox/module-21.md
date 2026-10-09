@@ -1,0 +1,19 @@
+- **Améliorant** (*a-may-lyo-RAHN*) — bread improver: a commercial blend of an additive (E300), adjuvants (gluten, bean flour, malt, deactivated yeast) and processing aids (fungal amylases); never allowed in pain de tradition française.
+- **Analyse de laboratoire** (*a-na-LEEZ duh la-bo-ra-TWAR*) — laboratory report, e.g. crumb pH and acetic acid, which decides whether a bread may be called "au levain".
+- **Barème** (*ba-REM*) — marking scale of an exam paper: the points given to each question.
+- **Bilan de compétences** (*bee-LAHN duh kohn-pay-TAHNS*) — skills assessment of at most 24 hours in three phases to build a professional project; the results belong to the employee.
+- **Chômeur au sens du BIT** (*sho-MUHR o sahns dü bay-ee-TAY*) — unemployed person by the International Labour Office definition: aged 15 or over, without work, available within two weeks, actively seeking in the last four weeks.
+- **Citer / définir / expliquer / justifier** (*see-TAY / day-fee-NEER / eks-plee-KAY / zhüs-tee-FYAY*) — command verbs of a written paper: list / give the precise meaning / say how or why / support an answer with a reason, usually a figure from the document.
+- **CPF (compte personnel de formation)** (*say-pay-EF*) — personal training account credited in euros each year (€500, ceiling €5,000, in 2026), used on Mon Compte Formation; the employer's agreement is needed only for training during working time.
+- **Fiche de stock** (*feesh duh STOK*) — stock sheet of one product: entries, exits and balance (balance = previous balance + entries − exits).
+- **Fiche produit (fiche technique fournisseur)** (*feesh pro-DÜEE*) — supplier's product data sheet: composition, analyses (ash, moisture, protein, W), storage and dates.
+- **Lien hiérarchique / lien fonctionnel** (*lyan yay-rar-SHEEK / lyan fohnk-syo-NEL*) — on an organisation chart, a line link that carries orders / a functional link that carries advice or a service without authority.
+- **Niveau de qualification (cadre national des certifications)** (*nee-VOH duh ka-lee-fee-ka-SYOHN*) — level of a diploma on the French 8-level scale: CAP level 3, BP and baccalauréat level 4, BTS level 5.
+- **Note de service** (*not duh sair-VEES*) — written instruction from management to all or some of the staff.
+- **Organigramme (de l'entreprise)** (*or-ga-nee-GRAM*) — organisation chart: departments, people and their links; not the same as the work organigramme (production schedule).
+- **Population active** (*po-pü-la-SYOHN ak-TEEV*) — labour force: people in work plus the unemployed; the unemployment rate is unemployed ÷ labour force × 100.
+- **Projet de transition professionnelle (PTP)** (*pro-ZHAY duh trahn-zee-SYOHN pro-fe-syo-NEL*) — paid training leave to change job, funded through Transitions Pro; replaced the congé individuel de formation (CIF).
+- **Règlement intérieur** (*reg-luh-MAHN an-tay-RYUHR*) — internal rules written by the employer on health and safety and discipline (nature and scale of sanctions); compulsory from 50 employees; may not contain unjustified restrictions, discrimination or fines.
+- **Sanction disciplinaire** (*sahnk-SYOHN dee-see-plee-NAIR*) — disciplinary penalty such as a warning, a disciplinary suspension or dismissal; fines and other pecuniary sanctions are forbidden.
+- **Situation professionnelle** (*see-tü-a-SYOHN pro-fe-syo-NEL*) — the company scenario that opens an EP1 paper and runs through all its questions.
+- **Valeur énergétique** (*va-LUHR ay-nair-zhay-TEEK*) — energy value of a food in kJ and kcal; carbohydrates and proteins about 4 kcal/g, fat about 9, fibre about 2.

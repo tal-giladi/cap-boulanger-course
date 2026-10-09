@@ -1,0 +1,89 @@
+- id: q1
+  question: >-
+    Full home day: the détrempe is mixed at 5:30, the bread doughs from 6:20. Your viennois leaves the
+    oven at 11:16 and the croissants will be ready about 12:50. What does the course's plan do with the oven?
+  options:
+    - >-
+      Keeps it at 200 °C so it is ready the moment the croissants are.
+    - >-
+      Turns it off at 11:16 and on again at about 12:35 to reach 200 °C.
+    - >-
+      Bakes the pain au lait in the gap, even though it is not shaped yet.
+    - >-
+      Keeps it at 250 °C in case a bread load needs re-baking at the end.
+  correct: 1
+  explanation: >-
+    An empty oven running for 90 minutes wastes energy (C2.7) and is visible to an observer; a home oven
+    reaches 200 °C in about 15 minutes, so it is switched off and back on in time.
+
+- id: q2
+  question: >-
+    After her first full day, a learner ticks every line of the readiness checklist, including "I have
+    worked on a spiral mixer, a deck oven and a sheeter", which she has not. What is the right correction?
+  options:
+    - >-
+      Keep the tick, since the home stand mixer and oven practise the same skills.
+    - >-
+      Remove the whole section, because physical practice is not part of the exam.
+    - >-
+      Untick it and plan real hours on those machines, with a date and a place.
+    - >-
+      Ask the Academy to validate the line from photos of her home products.
+  correct: 2
+  explanation: >-
+    Tick only with evidence. Professional machines change times, results and safety habits; the honest
+    response is a dated plan to get hours on them, since the Academy cannot grade photos.
+
+- id: q3
+  question: >-
+    At 13:05 on your production day the pains aux raisins come out with pale, wet bases. Which
+    non-conformity note follows the course's reporting order?
+  options:
+    - >-
+      "Pains aux raisins failed again, the oven is not good enough for viennoiserie."
+    - >-
+      "I think the cream was wrong; next time I will buy a ready-made one instead."
+    - >-
+      "Bases pale, I re-baked; the croissants were fine, so the batch is acceptable."
+    - >-
+      "4 of 4 pale bases after 18 min middle shelf; re-baked 3 min low; propose 20 min, low shelf."
+  correct: 3
+  explanation: >-
+    Facts and figures, then what I did, then what I propose (lesson 19.1, C4.4): the note is precise,
+    shows the corrective action, and proposes a change a manager can approve.
+
+- id: q4
+  question: >-
+    A learner finishes the course, all quizzes passed and a strong production day at home. A friend
+    asks if she now holds the CAP Boulanger. What is accurate?
+  options:
+    - >-
+      No: the course prepares her; the CAP is awarded by the Ministry after the exam.
+    - >-
+      Yes: the Academy's completion certificate is recognised as the CAP for bakers.
+    - >-
+      Partly: the home day validates the practical block, and only EP1 remains.
+    - >-
+      Yes, if her rubric scores average 10/20 or more, as the diploma requires.
+  correct: 0
+  explanation: >-
+    This is a CAP Boulanger preparation. The diploma is a French national diploma awarded by the
+    Ministry of Education after the official examination; course certificates and self-assessment do not replace it.
+
+- id: q5
+  question: >-
+    Your full home day ran from 5:30 to 16:10, 70 minutes over plan. The log shows dividing and shaping
+    the PC-02 took 62 minutes instead of 40. What is the most useful action before the next full day?
+  options:
+    - >-
+      Shorten every proof by 20 minutes so the day catches up the lost time.
+    - >-
+      Drill dividing and shaping with a timer on short evening bakes first.
+    - >-
+      Drop the pain au lait from the next rehearsal so the oven queue is shorter.
+    - >-
+      Start the day at 4:00 so the same plan finishes on time without changes.
+  correct: 1
+  explanation: >-
+    The gap is a slow hands block; short timed drills fix it cheaply. Cutting proofs spoils products,
+    dropping a product removes the practice, and an earlier start hides the problem.

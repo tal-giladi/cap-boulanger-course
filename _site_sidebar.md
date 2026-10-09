@@ -168,3 +168,20 @@
   - [112 · Working Time, Pay and Rights](/lessons/module-20/lesson-04.md)
   - [113 · Costs, Prices, VAT and Results](/lessons/module-20/lesson-05.md)
   - [Module 20 quiz](/assessments/module-20-quiz.md)
+
+- Part 6 — Exam Practice
+- **Module 21 — EP1 Practice**
+  - [114 · How EP1 Works and How to Answer](/lessons/module-21/lesson-01.md)
+  - [115 · EP1 Round: Professional Culture and Raw Materials](/lessons/module-21/lesson-02.md)
+  - [116 · EP1 Round: Techniques and Equipment](/lessons/module-21/lesson-03.md)
+  - [117 · EP1 Round: Applied Sciences](/lessons/module-21/lesson-04.md)
+  - [118 · EP1 Round: Applied Management](/lessons/module-21/lesson-05.md)
+  - [119 · EP1 Round: Supplies, Hygiene and Communication](/lessons/module-21/lesson-06.md)
+  - [Module 21 quiz](/assessments/module-21-quiz.md)
+- **Module 22 — EP2 Practice and Production Day**
+  - [120 · How EP2 Works](/lessons/module-22/lesson-01.md)
+  - [121 · The Written Phase: Technical Sheet and Organigramme](/lessons/module-22/lesson-02.md)
+  - [122 · Rehearsal: Bread Products](/lessons/module-22/lesson-03.md)
+  - [123 · Rehearsal: Viennoiserie and Pâte Levée](/lessons/module-22/lesson-04.md)
+  - [124 · Production Day and What You Still Need](/lessons/module-22/lesson-05.md)
+  - [Module 22 quiz](/assessments/module-22-quiz.md)

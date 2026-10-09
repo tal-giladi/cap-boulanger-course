@@ -1,0 +1,184 @@
+- id: q1
+  question: >-
+    A mock production day uses an invented grid: organisation 15, work methods 30, hygiene and safety
+    20, appearance 25, tasting 10 (out of 100). Tom's products earn 32 of the 35 points on the last two
+    lines, but he scores 52 overall. What does the grid tell him to work on first?
+  options:
+    - >-
+      Appearance, since visible results are what examiners remember from the day.
+    - >-
+      Tasting, because the flavour line is the easiest one to improve at home.
+    - >-
+      The process lines, where he lost 45 of 65 points while he was working.
+    - >-
+      Nothing in particular, since 52 is already above half of the points.
+  correct: 2
+  explanation: >-
+    52 − 32 = 20 of the 65 process points: 45 were lost on organisation, work methods and hygiene, which
+    are observed all day. Most of them are habits that a rehearsal with a checklist fixes.
+
+- id: q2
+  question: >-
+    Practice order, technical sheet for PC-02 (flour 100, water 64, salt 1.8, fresh yeast 1.5, pâte
+    fermentée 15): 14 baguettes of 300 g and 30 rolls of 60 g. Losses 2 %; flour rounded up to the next
+    100 g. Which flour weight is correct?
+  options:
+    - >-
+      3,300 g, from 6,000 g ÷ 1.823
+    - >-
+      3,400 g, from 6,120 g ÷ 1.823
+    - >-
+      3,700 g, from 6,120 g ÷ 1.673
+    - >-
+      3,200 g, from 6,000 g × 0.55
+  correct: 1
+  explanation: >-
+    4,200 + 1,800 = 6,000 g; with losses 6,120 g; ÷ 1.823 = 3,357 g, rounded up to 3,400 g. Dividing
+    6,000 g forgets the losses; 1.673 leaves the pâte fermentée out of the sum; 0.55 is a rough guess.
+
+- id: q3
+  question: >-
+    Temperature log before a home rehearsal in August: target dough 24 °C, flour 28 °C, kitchen 29 °C,
+    pâte fermentée from the fridge 7 °C, hand friction factor (four factors) 8. Which water temperature
+    should you blend?
+  options:
+    - >-
+      7 °C, from 72 − 28 − 29 − 8
+    - >-
+      32 °C, from 96 − 28 − 29 − 7
+    - >-
+      0 °C, from 72 − 28 − 29 − 7 − 8
+    - >-
+      24 °C, from 96 − 28 − 29 − 7 − 8
+  correct: 3
+  explanation: >-
+    With a cold pre-ferment, use four factors: 24 × 4 = 96, minus flour, room, pâte fermentée and the
+    four-factor friction factor. Leaving out friction or using three factors gives a dough far off target.
+
+- id: q4
+  question: >-
+    Your production-day plan lists four doughs with their chains from mixing to cooled products:
+    tradition about 4 h 50, pain au lait about 3 h, pain viennois about 3 h, croissant lamination about
+    8 h with the sheet's minimum rests. Everything is made the same day. What goes on the organigramme first?
+  options:
+    - >-
+      The croissant détrempe in the first minutes, with the other doughs fitted into its rests.
+    - >-
+      The tradition's autolyse, because the bread must be in the shop before the viennoiserie.
+    - >-
+      The pain au lait, because enriched doughs ferment slowly and need a head start.
+    - >-
+      The pain viennois, because it bakes first and frees the oven early.
+  correct: 0
+  explanation: >-
+    The longest chain is the critical path and sets the earliest finish: start it first and fit mixing,
+    dividing and shaping of the other doughs into its chills and rests.
+
+- id: q5
+  question: >-
+    Home oven plan, one tray: baguettes (250 °C, steam, ready 9:15), boule and fendu (250 °C, steam,
+    ready 9:45), rolls (250 °C, steam), pain viennois (190 °C, no steam, egg-washed). The rolls were
+    shaped at 8:40. Which plan is feasible?
+  options:
+    - >-
+      Viennois first at 190 °C, then raise the oven for the bread loads one after another.
+    - >-
+      Baguettes, boule and fendu, rolls kept in the fridge until 9:45, then viennois last.
+    - >-
+      Rolls first at 8:45 while the oven heats, then baguettes, boule and viennois.
+    - >-
+      All the bread on one tray at 9:45, then the viennois straight away with the steam still in.
+  correct: 1
+  explanation: >-
+    Hottest loads first with the slow places planned: rolls held cold so they are ready for their turn,
+    viennois last in a dry oven brought down in a few minutes.
+
+- id: q6
+  question: >-
+    A practice order gives you a shorter window than the 8-hour croissant chain of lesson 14.4. A
+    friend suggests four ways to save time. Which one does the course accept?
+  options:
+    - >-
+      Proof the laminated pieces at 30 °C so they are ready an hour sooner.
+    - >-
+      Laminate straight after mixing the détrempe, without any chill at all.
+    - >-
+      Roll the final sheet at once after the last turn to save the final rest.
+    - >-
+      Chill the détrempe about 40 minutes in a blast chiller and give one double turn.
+  correct: 3
+  explanation: >-
+    The chill aims at a firm détrempe below 10 °C, which a blast chiller reaches faster, and a double
+    turn saves one rest. A warm proof melts butter out; no chill or no rest gives smearing and shrinking.
+
+- id: q7
+  question: >-
+    Cream log: "CP-01 cooked 6:10, 63 °C at 6:20 on ice; 8:05 core 11 °C." What do you do now?
+  options:
+    - >-
+      Keep it on fresh ice and log again; discard it if it is not at 10 °C by 8:20.
+    - >-
+      Use it now: it was boiled, so cooling time no longer matters for safety.
+    - >-
+      Discard it at once, because 11 °C after almost 2 hours is already a failure.
+    - >-
+      Move it to the bench to stop condensation, then refrigerate it at 9:00.
+  correct: 0
+  explanation: >-
+    The control point is 10 °C within 2 hours of 63 °C, so 8:20 here. There are 15 minutes left: keep
+    cooling on ice and check; if it misses the point, discard it and record the deviation.
+
+- id: q8
+  question: >-
+    During a mock, the examiner notes "pâte fermentée tub: no label; detrempe on the shelf: not filmed".
+    Which indicator from the référentiel is the candidate missing?
+  options:
+    - >-
+      Exact weighings with the scale correctly set and tared (C2.2).
+    - >-
+      Finished products stored so that they cool properly after baking (C2.4).
+    - >-
+      Semi-finished products dated, filmed and stored in the right place (C2.4).
+    - >-
+      Quantities produced in line with the order at the end of the day (C3.2).
+  correct: 2
+  explanation: >-
+    The référentiel's indicator for packaging is that semi-finished products are dated, filmed and
+    stored in the right place; it is visible all day and costs only a habit.
+
+- id: q9
+  question: >-
+    In a training-centre rehearsal the sheeter stops halfway through your final sheet. Which report
+    follows the course's order and the C4.4 standard?
+  options:
+    - >-
+      "The sheeter is broken again; I could not finish my croissants because of it."
+    - >-
+      "Sheeter stopped 10:32; dough chilled, rolled by hand to 3.5 mm; I propose a check."
+    - >-
+      "Croissants late. I will explain at the tasting why the batch looks uneven."
+    - >-
+      "I think the motor overheated; somebody should have serviced it before today."
+  correct: 1
+  explanation: >-
+    Facts and figures (what, when), what I did (the safe workaround), what I propose: precise,
+    professional vocabulary, no blame, and a decision left to the chef.
+
+- id: q10
+  question: >-
+    After two full home production days, a learner who will sit the exam as an individual candidate
+    writes her plan for what she still needs. Which plan is accurate?
+  options:
+    - >-
+      Nothing more: the course certificate and two good home days stand in for the practical test.
+    - >-
+      Only the EP1 written test, because the home days validate the production block.
+    - >-
+      A PFMP of 14 weeks in France, which every individual candidate must complete before registering.
+    - >-
+      Machine hours in a bakery, registration with her académie, general subjects or exemptions.
+  correct: 3
+  explanation: >-
+    The course prepares; it does not award the CAP or validate blocks. She needs professional machines
+    and volume, registration within her académie's dates, and the general subjects unless exempt; PFMP
+    rules depend on the pathway and the académie (see the exam reference).

@@ -1,0 +1,89 @@
+- id: q1
+  question: >-
+    Viennoiserie rehearsal at 6:00, détrempe made the evening before. You must cook a crème
+    pâtissière, make a butter plaque, mix a pain au lait and laminate the croissant dough. Which comes first?
+  options:
+    - >-
+      The crème pâtissière, so it is cold well before the pains aux raisins are shaped.
+    - >-
+      The pain au lait, because enriched doughs need the longest pointage of the day.
+    - >-
+      The lock-in, because the laminated dough is the critical path of the morning.
+    - >-
+      The butter plaque, because butter takes longest to reach 13 °C from the fridge.
+  correct: 0
+  explanation: >-
+    The cream must cool from 63 °C to 10 °C within 2 hours and be cold for shaping; cooking it first
+    costs 20 minutes and leaves it safely in the fridge. The plaque and lock-in follow at once.
+
+- id: q2
+  question: >-
+    Temperature log: cream at 63 °C at 6:25. It is now 8:30 and the core reads 14 °C; it was cooled in
+    a deep bowl on the bench. What do you do?
+  options:
+    - >-
+      Put it on ice now and use it once it reaches 10 °C, since it was boiled.
+    - >-
+      Use it at once, because the pains aux raisins will be baked anyway.
+    - >-
+      Put it in the freezer for 20 minutes to recover the lost cooling time.
+    - >-
+      Discard it, record the deviation, and cook a new batch cooled on ice.
+  correct: 3
+  explanation: >-
+    The control point (10 °C within 2 hours) was missed, so the cream is not safe to use; the fix is a
+    new batch in a shallow tray on ice water with both times logged.
+
+- id: q3
+  question: >-
+    June, kitchen at 28 °C. During turn 1 the butter edges start to shine. Two single turns remain.
+    Which decision follows the course's method?
+  options:
+    - >-
+      Finish all three single turns quickly before the butter warms any further.
+    - >-
+      Chill 10-15 minutes, then give one double turn in the coolest room instead.
+    - >-
+      Add flour on the bench so the butter stops sticking, and keep rolling.
+    - >-
+      Put the block in the freezer overnight and finish the turns tomorrow.
+  correct: 1
+  explanation: >-
+    Shining butter is warming; chill, move to a cooler room, and replace the two single turns with one
+    double turn, accepting a slightly thicker honeycomb rather than smeared layers.
+
+- id: q4
+  question: >-
+    Your braided pain au lait is ready at 10:25 and bakes at 180-190 °C; the croissants will be ready
+    about 11:45 and bake at 190-200 °C. One home oven. What is the sensible order?
+  options:
+    - >-
+      Croissants first at 200 °C, because the hottest load always goes first.
+    - >-
+      Both together at 195 °C, as a compromise that saves preheating time.
+    - >-
+      Pain au lait first, then turn the oven up about 10-15 °C for the croissants.
+    - >-
+      Hold the pain au lait in the fridge until the croissants have been baked.
+  correct: 2
+  explanation: >-
+    With only 10-15 °C between the two settings, readiness decides the order; turning a home oven up a
+    little takes minutes, while holding a proofed braid would spoil it.
+
+- id: q5
+  question: >-
+    Cut section of your croissant: open honeycomb but thicker walls than last time; no butter on the
+    tray. You used one double and one single turn because of the heat. What is the best reading?
+  options:
+    - >-
+      Expected with fewer butter layers; the lamination held and the choice was sound.
+    - >-
+      Under-proofed croissants: proof them at 30 °C next time to open the walls.
+    - >-
+      Butter too warm at lock-in: the layers melted into the dough during the turns.
+    - >-
+      Too much flour in the détrempe: reduce the flour by 10 % next time.
+  correct: 0
+  explanation: >-
+    A double plus a single turn gives 12 butter layers instead of 27, so walls are thicker; an open
+    honeycomb and no butter pool show the layers survived. Proofing at 30 °C would melt them.

@@ -1,0 +1,186 @@
+- id: q1
+  question: >-
+    Mill product sheet: "Farine pour pain de tradition — farine de blé, farine de fèves 1 %, acide
+    ascorbique (E300)." The gérante wants to use it for her baguettes de tradition. What do you
+    answer?
+  options:
+    - >-
+      Yes, as bean flour at 1 % is within the 2 % limit of the decree
+    - >-
+      Yes, as the mill calls it a tradition flour on the sheet
+    - >-
+      No: E300 is an additive, and tradition allows no additive
+    - >-
+      No: bean flour is forbidden in pain de tradition française
+  correct: 2
+  explanation: >-
+    Décret 93-1074, article 2, allows no additive in pain de tradition française; E300 rules the
+    flour out even though the bean flour is within its 2 % limit. The name on the sack is not the
+    test.
+
+- id: q2
+  question: >-
+    A delivery of flour comes with an analysis: "cendres 0,72 % de la matière sèche ; humidité
+    14,9 % ; protéines 11 %". The order said T55. What do you report?
+  options:
+    - >-
+      The flour is a T65 (0.62–0.75 % ash), not the T55 ordered
+    - >-
+      The flour conforms: 0.72 % ash is a T55 with a little bran
+    - >-
+      The flour is a T80, because the ash is above 0.70 %
+    - >-
+      The flour is wet: 14.9 % moisture should be refused
+  correct: 0
+  explanation: >-
+    The type is read from the ash: 0.72 % is within the T65 range. A wrong reference on safe goods
+    is accepted with a reservation and reported. Moisture under 15–16 % keeps well.
+
+- id: q3
+  question: >-
+    Technical sheet: pain courant on pâte fermentée, TPV 23 °C. Readings: flour 18 °C, fournil
+    20 °C, pâte fermentée 5 °C; the mixer's friction factor (4 factors) is 24. Which water
+    temperature is correct?
+  options:
+    - >-
+      2 °C, from a base of 69 with three factors
+    - >-
+      30 °C, ignoring the friction factor
+    - >-
+      20 °C, forgetting to subtract the pâte fermentée
+    - >-
+      25 °C, from a base of 92 minus 18, 20, 5 and 24
+  correct: 3
+  explanation: >-
+    With a pre-ferment the base uses 4 factors: 23 × 4 = 92; 92 − 18 − 20 − 5 − 24 = 25 °C. Three
+    factors would give an implausible 2 °C.
+
+- id: q4
+  question: >-
+    Order: 60 petits pains of 60 g and 20 baguettes of 250 g from one dough totalling 182.3 %, with
+    2 % dough losses. Which flour weight is correct?
+  options:
+    - >-
+      About 8,772 g, the dough weight with losses
+    - >-
+      About 4,812 g, the dough with losses × 100 ÷ 182.3
+    - >-
+      About 4,718 g, the dough without losses × 100 ÷ 182.3
+    - >-
+      About 5,243 g, with the pâte fermentée left out of the total
+  correct: 1
+  explanation: >-
+    Dough 3,600 + 5,000 = 8,600 g; × 1.02 = 8,772 g; flour = 8,772 × 100 ÷ 182.3 ≈ 4,812 g. The
+    other options are the classic slips: dough taken as flour, losses forgotten, wrong total.
+
+- id: q5
+  question: >-
+    Léa, the seller, keeps the unsold baguettes in the shop fridge overnight "so they stay fresh".
+    In the morning they are firm and crumbly. Which explanation do you give her?
+  options:
+    - >-
+      Starch retrogrades fastest at fridge temperature, so the crumb firms
+    - >-
+      The cold kills the yeast, which keeps working after baking
+    - >-
+      The fridge dries the gluten, which hardens like the crust
+    - >-
+      Moulds grow faster in the cold and break down the crumb
+  correct: 0
+  explanation: >-
+    Staling is the retrogradation of gelatinised starch, fastest at about 4 °C. Bread is kept at
+    room temperature in paper, or frozen; never in the fridge.
+
+- id: q6
+  question: >-
+    Cooling record of a crème pâtissière: "63 °C à 10 h 00 — 10 °C à 12 h 45 — chambre froide à
+    13 h 00". What do you conclude?
+  options:
+    - >-
+      Conforms, because the cream reached 10 °C before going into the cold room
+    - >-
+      Conforms, as the rule only applies to creams sold as they are
+    - >-
+      Not conforming: 2 h 45 instead of 2 h; record it and report it
+    - >-
+      Not conforming, but reheating the cream to 63 °C cancels the problem
+  correct: 2
+  explanation: >-
+    Cooked preparations must go from 63 °C to 10 °C in 2 hours or less. 2 h 45 exceeds it: record,
+    report, and the manager decides what happens to the cream under the house's HACCP plan.
+    Reheating does not destroy heat-stable toxins.
+
+- id: q7
+  question: >-
+    A deck oven's rating plate reads "400 V 3~ 50 Hz — 12 kW". It runs 4 hours at full power; the
+    bakery pays €0.20 per kWh. Which result is correct?
+  options:
+    - >-
+      48,000 kWh and €9,600, with the power taken in watts
+    - >-
+      1,600 kWh and €320, multiplying the voltage by the hours
+    - >-
+      3 kWh and €0.60, dividing the power by the hours
+    - >-
+      48 kWh and €9.60, from 12 kW × 4 h × €0.20
+  correct: 3
+  explanation: >-
+    E = P × t = 12 kW × 4 h = 48 kWh; × €0.20 = €9.60, a maximum since the thermostat cycles. The
+    order-of-size check catches the kW/W slip.
+
+- id: q8
+  question: >-
+    Karim, CAP holder in a CDI at a 6-employee bakery, wants to prepare the BP Boulanger in a
+    course held on his days off, paid with his CPF. His employer says: "You need my written
+    authorisation, and our règlement intérieur forbids it." What is right?
+  options:
+    - >-
+      The employer, because any use of the CPF needs his written agreement
+    - >-
+      Karim: off working time needs no consent, and no rules are required here
+    - >-
+      The employer, because a règlement intérieur may restrict any freedom
+    - >-
+      Karim, but only once he has five years of seniority in the bakery
+  correct: 1
+  explanation: >-
+    The CPF needs the employer's agreement only for training during working time; a règlement
+    intérieur is compulsory from 50 employees and may only cover safety and discipline, never
+    unjustified restrictions.
+
+- id: q9
+  question: >-
+    A baker's week: 46 hours of work; the employer's sheet shows "11 h supplémentaires à 25 %". No
+    agreement sets other rates. What do you point out?
+  options:
+    - >-
+      Nothing: 11 hours at +25 % is the correct count
+    - >-
+      All 11 hours should be at +50 %, as the week passed 44 hours
+    - >-
+      Only 8 hours count as overtime; the others are lost
+    - >-
+      8 hours at +25 % and 3 hours at +50 %
+  correct: 3
+  explanation: >-
+    Overtime is counted per week: the 36th to 43rd hours (8 h) are at +25 %, the 44th to 46th
+    (3 h) at +50 % (service-public F2391).
+
+- id: q10
+  question: >-
+    Delivery of frozen raw croissants: your probe between two cartons reads −12 °C; the dates are
+    fine and the cartons are intact. What do you decide?
+  options:
+    - >-
+      Refuse: −12 °C is above the −15 °C reception limit for frozen goods
+    - >-
+      Accept: −12 °C is cold enough for products that will be baked
+    - >-
+      Accept with a reservation and freeze them again at −18 °C
+    - >-
+      Accept, as −12 °C is the legal limit for frozen food at retail
+  correct: 0
+  explanation: >-
+    Frozen goods are checked against a reception limit of −15 °C; at −12 °C they are refused and
+    the refusal written on the delivery note and reported. Partly thawed products are never
+    refrozen.

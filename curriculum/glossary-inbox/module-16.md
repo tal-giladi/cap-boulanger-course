@@ -10,7 +10,7 @@
 - **Croûte épaisse** (*KROOT ay-PESS*) — thick, hard crust: long bake at too low a temperature, no steam or a drying fan.
 - **Défaut** (*day-FOH*) — fault or defect in a dough or a finished product; the référentiel lists dough defects (S3.1.4) and bread defects (S3.1.6).
 - **Dysfonctionnement** (*dees-fohnk-syon-MAHN*) — malfunction of equipment or of the organisation, reported during production with the non-conformities (C4.4).
-- **Empois d'amidon** (*ahn-PWAH da-mee-DOHN*) — starch paste: starch gelatinised from about 76 °C in the oven, which sets the crumb as it cools.
+- **Empois d'amidon** (*ahn-PWAH da-mee-DOHN*) — starch paste: starch gelatinised in the oven (from about 55–60 °C, complete by about 70–80 °C), which sets the crumb as it cools.
 - **Feuilletage irrégulier** (*fuh-yuh-TAHZH ee-ray-gü-LYAY*) — uneven layering in laminated dough: thick and thin layers, gaps, butter missing in the corners.
 - **Manque de volume** (*MAHNK duh vo-LÜM*) — lack of volume: small, heavy bread, usually under-fermented, too firm or under-developed dough.
 - **Mie collante / pâteuse** (*mee ko-LAHNT / pah-TUHZ*) — sticky, gummy crumb: core below about 93 °C, cut warm, or too much water.

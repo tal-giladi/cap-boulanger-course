@@ -22,7 +22,7 @@
 - **Marche en avant** (*marsh ahn ah-VAHN*) — forward flow: organising rooms or operations so that dirty and clean products and operations never cross, in space or in time.
 - **Meunier / minoterie** (*muh-NYAY / mee-noh-TREE*) — miller / flour mill.
 - **Mise en place** (*meez ahn PLASS*) — everything cleaned, weighed and set out before production starts.
-- **Organigramme** (*or-gah-nee-GRAHM*) — work schedule placing every stage of every product on one timeline.
+- **Organigramme** (*or-gah-nee-GRAHM*) — work schedule placing every stage of every product on one timeline (not the organisation chart, organigramme de l'entreprise).
 - **Ouvrier boulanger** (*oo-vree-AY boo-lahn-ZHAY*) — bakery worker: the job the CAP Boulanger prepares for, working under a supervisor.
 - **Pâte fermentée** (*paht fair-mahn-TAY*) — fermented dough kept from an earlier batch and added to a new one.
 - **Pâton** (*pah-TOHN*) — a divided piece of dough before shaping.

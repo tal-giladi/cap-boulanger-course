@@ -1,0 +1,90 @@
+- id: q1
+  question: >-
+    Home rehearsal, one-tray oven at 250 °C: PC-02 shaped at 8:15-8:40 as baguettes with an épi, a
+    boule and fendu, and six 60 g rolls; the loads are planned at 9:15, 9:45 and 10:15. Where should the
+    six rolls wait after shaping?
+  options:
+    - >-
+      On the counter beside the oven, so they are warm and ready for 10:15.
+    - >-
+      In the fridge until 30 minutes before their load, as small pieces proof fast.
+    - >-
+      In the banneton with the boule, so the two finish proofing together.
+    - >-
+      In the oven with the light on, because rolls need more heat than baguettes.
+  correct: 1
+  explanation: >-
+    Rolls are small and proof fastest, yet they bake last; the fridge slows them so they are ready at
+    their slot instead of over-proofed after 90 minutes at room temperature.
+
+- id: q2
+  question: >-
+    Your plan has four loads: baguettes and épi (250 °C, steam), boule and fendu (250 °C, steam), rolls
+    (250 °C, steam) and pain viennois (190 °C, no steam, egg-washed). Why does the viennois go last?
+  options:
+    - >-
+      Because enriched doughs must always cool for an hour before they are baked.
+    - >-
+      Because its egg wash needs the steam left in the oven from the bread loads.
+    - >-
+      Because the oven comes down in minutes with the door open, but heats up slowly.
+    - >-
+      Because the viennois was mixed last and so must be baked last in every plan.
+  correct: 2
+  explanation: >-
+    Hottest loads first: bringing a home oven down takes a few minutes, bringing it back up much
+    longer. The viennois needs a dry oven; leftover steam would make its egg-washed crust dull and streaky.
+
+- id: q3
+  question: >-
+    Rehearsal log: PC-02 planned at 24 °C, measured 25.5 °C. The plan gave 60 minutes of pointage. With
+    the course rule (about 7 % faster per °C above target), about how long should the pointage now last?
+  options:
+    - >-
+      About 55 minutes, judged on the dough
+    - >-
+      About 66 minutes, to let the dough relax
+    - >-
+      Exactly 60 minutes, as planned on the sheet
+    - >-
+      About 50 minutes, 10 % shorter per °C
+  correct: 0
+  explanation: >-
+    60 ÷ 1.07^1.5 ≈ 54 minutes. The rule gives the planning figure; the end of pointage is still judged
+    on the dough's volume and feel.
+
+- id: q4
+  question: >-
+    At 9:45 the boule from your rehearsal is over-proofed while the fendu next to it is fine. The boule
+    proofed in the warm corner beside the oven. What is the best entry for "prevent next time"?
+  options:
+    - >-
+      Shape the boule last of all, after the rolls, to shorten its proof.
+    - >-
+      Add 1 % more yeast to the boule's dough so it proofs more evenly.
+    - >-
+      Bake the boule at 230 °C instead of 250 °C to make up for the proof.
+    - >-
+      Name the coolest place for slow pieces on the plan, away from the oven.
+  correct: 3
+  explanation: >-
+    The cause is where it proofed, not the formula or the bake: write a named, cool proofing place for
+    pieces that must wait for a later load.
+
+- id: q5
+  question: >-
+    You finish your bread rehearsal with scores of 14/20 and 15/20 on the course rubric. What is the
+    honest next step?
+  options:
+    - >-
+      Record the scores as your expected exam marks for the product lines.
+    - >-
+      Compare planned and real times, find the cause upstream, set two actions.
+    - >-
+      Move on to viennoiserie, since a pass on the rubric means bread is done.
+    - >-
+      Send photos to the Academy so the scores can be confirmed by a grader.
+  correct: 1
+  explanation: >-
+    The rubric is a self-assessment tool, not the exam's grid, and the Academy cannot grade photos;
+    the rehearsal's value is the gap between plan and reality and what you change next time.

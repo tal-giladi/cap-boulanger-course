@@ -220,7 +220,7 @@ You check a four-week timesheet, a payslip and an end-of-contract file, as in th
 
 **5.** Night: +25 % for each hour between 20:00 and 6:00; Sunday: +20 %; overtime: +25 % / +50 %; a complementary public holiday worked: pay doubled.
 
-**6.** 7 × 2.5 = **17.5 working days**.
+**6.** 7 × 2.5 = 17.5, rounded up to **18 working days** (a fraction of a day is rounded up).
 
 </details>
 
