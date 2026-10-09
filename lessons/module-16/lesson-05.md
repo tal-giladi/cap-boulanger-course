@@ -68,6 +68,10 @@ flowchart LR
 
 The numbers behind every check come from Modules 11 and 12 and sheet CR-01: détrempe 18-22 °C; butter at about 13 °C at the lock-in (plastic between about 12 and 15 °C, brittle below about 10 °C); butter with about 80-83 g of fat per 100 g; three single turns (in a warm kitchen one double and one single); final sheet about 3.5 mm for croissants, about 4 mm for pains au chocolat; proof at 24-26 °C and 75-80 % humidity, never above about 27 °C, about 1 h 30-2 h 30 until almost doubled; bake about 190-200 °C (fan 175-180 °C), no steam.
 
+The simulation opens on butter on the tray, the fault with two opposite fixes; read the proof temperature and time before you name the cause.
+
+[Simulation: Diagnose butter on the croissant tray](../../simulations/troubleshooting/index.html?preset=viennoiserie)
+
 ### Fault table: lamination (détrempe, butter, tourage)
 
 | Fault | Probable causes | Evidence that decides | Learn the cause in |

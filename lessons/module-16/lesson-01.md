@@ -174,6 +174,10 @@ Checked 2026-10-09.
 
 </details>
 
+More cases with full production records, including these three, are in the simulation: choose the cause, then read the evidence that decides and why the other causes are ruled out.
+
+[Simulation: Diagnose production records, case by case](../../simulations/troubleshooting/index.html?preset=drill)
+
 ### Targets
 
 - One past bake described in four measured lines, with a "sheet / record" table.

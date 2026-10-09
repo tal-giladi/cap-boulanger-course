@@ -158,3 +158,5 @@ The numbers used below are the course's: fermentation about 7 % faster or slower
 | Cold room above 4 °C at the morning check | Door left open; hot product loaded; ice on the evaporator | Temperature record | Close; move sensitive products; report | Blast chiller for hot preparations; defrost as the maker says | [13.3](../lessons/module-13/lesson-03.md) |
 
 If you practise at home in Israel, the faults caused by Israeli flours (strong or improved white flour, 80 % and 100 % whole wheat, self-raising flour) are in [Flour in Israel](flour-in-israel.md#if-your-dough-feels-different).
+
+[Simulation: Diagnose a fault step by step](../simulations/troubleshooting/index.html)

@@ -66,6 +66,10 @@ flowchart TB
   C2 -->|"no, heavy all over"| B3["Under-fermented: cold dough,<br>yeast short or dead (04.1, 05.2)"]
 ```
 
+Walk the same questions with your own records in the simulation. It opens on a flat loaf; switch to "Small, heavy loaf" or "Torn or burst along the side" for the other branch.
+
+[Simulation: Diagnose a bread volume fault](../../simulations/troubleshooting/index.html?preset=bread)
+
 ### The référentiel's dough defects
 
 These are faults you can feel in the dough before the oven. Catch them there, and the bread is saved.

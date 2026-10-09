@@ -1,0 +1,104 @@
+/* Troubleshooting simulation: five steps of lesson 16.1 and the case drill. */
+[hidden] { display: none !important; }
+.small { font-size: 0.85rem; }
+
+.preset-bar, .drill-bar { display: flex; flex-wrap: wrap; gap: 6px 10px; align-items: center; margin: 8px 0 4px; }
+.preset-bar label, .drill-bar label { font-weight: 600; }
+.preset-bar select, .drill-bar select { width: auto; flex: 1 1 220px; min-width: 0; }
+.preset-bar button, .drill-bar button { flex: 0 0 auto; }
+.score { flex: 1 0 100%; font-size: 0.9rem; color: var(--muted); }
+.score:empty { display: none; }
+
+.mode-row { margin: 4px 0 12px; font-weight: 600; }
+
+.col, .results { display: grid; gap: 12px; min-width: 0; align-content: start; }
+
+.step {
+  display: inline-grid;
+  place-items: center;
+  width: 1.6em;
+  height: 1.6em;
+  margin-right: 6px;
+  border-radius: 50%;
+  background: var(--accent);
+  color: var(--accent-ink);
+  font-size: 0.85rem;
+}
+h2[tabindex="-1"]:focus { outline: none; }
+h2[tabindex="-1"]:focus-visible { outline: 3px solid var(--focus); outline-offset: 2px; }
+
+/* Evidence questions */
+.trail { list-style: none; margin: 0 0 8px; padding: 0; display: grid; gap: 6px; }
+.trail li { border-left: 3px solid var(--line); padding: 2px 0 2px 10px; }
+.trail .q { display: block; font-size: 0.85rem; color: var(--muted); }
+.trail .a { display: block; font-weight: 600; }
+.trail button { min-height: 32px; padding: 2px 10px; font-size: 0.85rem; margin-top: 2px; }
+.question { border: 2px solid var(--accent); border-radius: var(--radius); padding: 10px 12px; margin: 0 0 10px; }
+.question h3 { margin: 0 0 4px; font-size: 1rem; }
+.question h3:focus { outline: none; }
+.question h3:focus-visible { outline: 3px solid var(--focus); outline-offset: 2px; }
+.question .check-hint { font-size: 0.88rem; color: var(--muted); margin: 0 0 8px; }
+.answers { display: grid; gap: 6px; }
+.answers button {
+  text-align: left;
+  background: var(--bg);
+  color: var(--ink);
+  border: 1px solid var(--line);
+  line-height: 1.35;
+  padding: 8px 12px;
+}
+.answers button:hover { border-color: var(--accent); }
+
+/* Chain of stages */
+.chain { list-style: none; margin: 0; padding: 0; display: flex; flex-wrap: wrap; gap: 6px; }
+.chain li {
+  position: relative;
+  border: 1px solid var(--line);
+  border-radius: 6px;
+  padding: 3px 8px;
+  font-size: 0.85rem;
+  color: var(--muted);
+  background: var(--bg);
+}
+.chain li.possible { color: var(--ink); border-color: var(--warn); background: var(--warn-bg); font-weight: 600; }
+.chain li.found { color: var(--accent-ink); border-color: var(--accent); background: var(--accent); font-weight: 700; }
+.chain .tag { font-weight: 400; }
+
+/* Cause and action */
+.cause-title { font-size: 1.15rem; font-weight: 700; margin: 2px 0 4px; line-height: 1.3; }
+.cause-row { font-size: 0.88rem; color: var(--muted); }
+.candidates summary { cursor: pointer; font-weight: 600; margin-top: 8px; }
+.candidates ul { margin: 6px 0 0; padding-left: 1.2em; }
+.candidates li { margin: 3px 0; }
+.candidates li.out { color: var(--muted); text-decoration: line-through; }
+.candidates li.kept { font-weight: 700; }
+.act dt { font-weight: 700; margin-top: 8px; }
+.act dd { margin: 2px 0 0; }
+.report {
+  font-size: 0.9rem;
+  background: var(--bg);
+  border: 1px solid var(--line);
+  border-radius: 6px;
+  padding: 6px 10px;
+  margin: 4px 0 0;
+  overflow-wrap: anywhere;
+}
+.links { margin: 4px 0 0; padding-left: 1.2em; }
+.links li { margin: 2px 0; }
+a { color: var(--accent); }
+a:focus-visible { outline: 3px solid var(--focus); outline-offset: 2px; }
+
+/* Drill */
+.table-wrap { overflow-x: auto; margin-top: 8px; }
+#case-records { border-collapse: collapse; width: 100%; font-size: 0.9rem; }
+#case-records th, #case-records td { border-bottom: 1px solid var(--line); padding: 5px 6px; text-align: left; vertical-align: top; }
+#case-records thead th { color: var(--muted); font-weight: 600; }
+#case-records tbody th { font-weight: 600; }
+.options { display: grid; gap: 6px; }
+.options label { display: flex; gap: 8px; align-items: flex-start; padding: 6px 4px; border-radius: 6px; }
+.options label input { flex: 0 0 auto; margin-top: 2px; }
+.options label.right { background: var(--good-bg); color: var(--good); font-weight: 600; }
+.options label.wrong { background: var(--bad-bg); color: var(--bad); }
+.case-form-row { display: flex; gap: 8px; flex-wrap: wrap; }
+.why-not { margin: 6px 0 0; padding-left: 1.2em; }
+.why-not li { margin: 3px 0; }

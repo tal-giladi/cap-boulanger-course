@@ -1,0 +1,119 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Troubleshooting: diagnose a bread or viennoiserie fault</title>
+<link rel="stylesheet" href="../common/sim.css">
+<link rel="stylesheet" href="troubleshooting.css">
+</head>
+<body>
+<main>
+  <p class="sim-label" role="note">Educational model: the five-step method of lesson 16.1 and the Troubleshooting page. Your records and your bread have the final say.</p>
+  <h1>Troubleshooting: find the cause from the records</h1>
+
+  <div class="preset-bar">
+    <label for="preset">Example</label>
+    <select id="preset"></select>
+    <button type="button" id="reset" class="secondary">Reset example</button>
+  </div>
+  <div id="preset-note" class="preset-note"></div>
+
+  <div class="radio-row mode-row" role="radiogroup" aria-label="Mode">
+    <label><input type="radio" name="mode" value="diagnose" checked> Diagnose a fault</label>
+    <label><input type="radio" name="mode" value="drill"> Case drill</label>
+  </div>
+
+  <!-- Mode 1: Diagnose -->
+  <section id="diagnose" aria-label="Diagnose a fault">
+    <div class="grid side">
+      <div class="col">
+        <form id="describe" class="panel" novalidate aria-labelledby="h-describe">
+          <h2 id="h-describe"><span class="step">1</span> Describe the fault</h2>
+          <fieldset>
+            <legend>Product family</legend>
+            <div class="radio-row" id="families"></div>
+          </fieldset>
+          <div class="field">
+            <label for="symptom">What you see</label>
+            <select id="symptom" aria-describedby="symptom-hint"></select>
+            <span class="hint" id="symptom-hint"></span>
+          </div>
+        </form>
+
+        <section class="panel" aria-labelledby="h-evidence">
+          <h2 id="h-evidence"><span class="step">3</span> Collect the evidence</h2>
+          <ol id="trail" class="trail" aria-label="Your answers"></ol>
+          <div id="question"></div>
+          <button type="button" id="restart" class="secondary">Start the questions again</button>
+        </section>
+      </div>
+
+      <div class="results">
+        <section class="panel" aria-labelledby="h-locate">
+          <h2 id="h-locate"><span class="step">2</span> Locate the stage</h2>
+          <p class="muted small" id="locate-help">Walk the chain backwards from the oven. Highlighted: stages that can still explain the fault.</p>
+          <ol id="chain" class="chain" aria-describedby="locate-help"></ol>
+        </section>
+
+        <section class="panel" aria-labelledby="h-cause">
+          <h2 id="h-cause" tabindex="-1"><span class="step">4</span> Name the probable cause</h2>
+          <div id="cause" aria-live="polite"></div>
+          <details class="candidates" id="cand-wrap">
+            <summary id="cand-summary">Candidate causes</summary>
+            <ul id="candidates"></ul>
+          </details>
+        </section>
+
+        <section class="panel" aria-labelledby="h-act">
+          <h2 id="h-act"><span class="step">5</span> Act, report, prevent</h2>
+          <div id="act"><p class="muted">Answer the evidence questions to reach a probable cause.</p></div>
+        </section>
+      </div>
+    </div>
+  </section>
+
+  <!-- Mode 2: Case drill -->
+  <section id="drill" aria-label="Case drill" hidden>
+    <div class="drill-bar">
+      <label for="case">Case</label>
+      <select id="case"></select>
+      <button type="button" id="prev-case" class="secondary" aria-label="Previous case">Previous</button>
+      <button type="button" id="next-case" class="secondary" aria-label="Next case">Next</button>
+      <span id="score" class="score" aria-live="polite"></span>
+    </div>
+
+    <div class="grid side">
+      <section class="panel" aria-labelledby="case-title">
+        <h2 id="case-title"></h2>
+        <p id="case-family" class="muted small"></p>
+        <p id="case-story"></p>
+        <div class="table-wrap">
+          <table id="case-records">
+            <caption class="visually-hidden">Production records</caption>
+            <thead></thead>
+            <tbody></tbody>
+          </table>
+        </div>
+      </section>
+
+      <div class="results">
+        <form id="case-form" class="panel" novalidate>
+          <fieldset>
+            <legend>Probable cause</legend>
+            <div id="case-options" class="options"></div>
+          </fieldset>
+          <button type="submit" id="check">Check my diagnosis</button>
+          <p id="case-error" class="flag warn" role="alert" hidden>Choose one cause first.</p>
+        </form>
+        <section class="panel" aria-labelledby="h-feedback">
+          <h2 id="h-feedback" tabindex="-1">Feedback</h2>
+          <div id="feedback" aria-live="polite"><p class="muted">Choose a cause and check it.</p></div>
+        </section>
+      </div>
+    </div>
+  </section>
+</main>
+<script type="module" src="troubleshooting.js"></script>
+</body>
+</html>

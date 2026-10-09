@@ -42,12 +42,12 @@ Goal: build "CAP Boulanger Preparation" per `curriculum/plan.md`, following
 - [x] Module 20 — The Bakery as a Workplace and a Business
 - [x] Module 21 — EP1 Practice
 - [x] Module 22 — EP2 Practice and Production Day
-- [ ] Simulations: water-temperature, production-schedule, troubleshooting
+- [x] Simulations: water-temperature, production-schedule, troubleshooting
 - [ ] Final QA (check-course 0 problems, matrix complete, troubleshooting reference updated from module 16, TODO_FOR_TAL)
 
 ## Agents now
 
-- Simulations in order, one agent each, commit after each: water-temperature (done) → production-schedule (done) → troubleshooting (running). Then final QA in small chunks.
+- Final QA chunks, one agent each, commit after each: (1) templates (running) → (2) sources.md → (3) remaining plain-text links and back-links → (4) re-check volatile facts → (5) In Israel notes for modules 1–4 → (6) final check-course, README, TODO_FOR_TAL.
 
 ## Decisions and open questions
 
